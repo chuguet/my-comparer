@@ -1,0 +1,110 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.AbstractEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/AbstractEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="180" width="281" x="287" y="-17"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.AbstractSureBetEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/AbstractSureBetEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="676" y="340"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.ValueBetEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/ValueBetEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="208" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.FirstSureBetEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/FirstSureBetEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="423" y="645"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.SecondSureBetEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/SecondSureBetEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="825" y="648"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.ThirdSureBetEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/ThirdSureBetEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1205" y="343"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.email.consumer.IEmailConsumerQueue" 
+    project="comparer.communication.email" 
+    file="/comparer.communication.email/src/main/java/com/comparadorad/bet/comparer/communication/email/consumer/IEmailConsumerQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="799" y="78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="12">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

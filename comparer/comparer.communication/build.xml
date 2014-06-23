@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<project basedir=".">
+
+	<echo message="pulling in property files" />
+	<property file="build.properties" />
+	<property name="maven.commoncmd" value="" />
+	<condition property="maven.line" value="--offline ${maven.commoncmd}">
+		<istrue value="${offline}" />
+	</condition>
+	<condition property="maven.executable" value="mvn.bat">
+		<os family="windows" />
+	</condition>
+	<property name="maven.executable" value="maven" />
+	<property name="maven.line" value="${maven.commoncmd}" />
+
+	<presetdef name="maven">
+		<exec failonerror="true" executable="${maven.executable}">
+			<arg line="${maven.line}" />
+		</exec>
+	</presetdef>
+	<!-- ################################## -->
+
+	<target name="eclipse:clean" description="clean everything">
+		<maven>
+			<arg value="eclipse:clean" />
+		</maven>
+	</target>
+	<target name="eclipse:eclipse" depends="eclipse:clean" description="">
+		<maven>
+			<arg value="eclipse:eclipse" />
+			<arg value="-DdownloadSources=false" />
+		</maven>
+	</target>
+	<target name="clean" description="">
+		<maven>
+			<arg value="clean" />
+		</maven>
+	</target>
+	<target name="install" depends="clean" description="">
+		<maven>
+			<arg value="install" />
+		</maven>
+	</target>
+	<target name="install-notest" depends="clean" description="">
+		<maven>
+			<arg value="install" />
+			<arg value="-Dmaven.test.skip=true" />
+		</maven>
+	</target>
+
+</project>

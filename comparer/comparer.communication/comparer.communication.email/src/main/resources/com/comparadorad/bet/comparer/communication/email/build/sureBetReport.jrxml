@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="ValueBetEmail" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<property name="ireport.background.image.properties" value="true,true,0.25,-8,-8,0,0,887,223"/>
+	<style name="Text Body" lineSpacing="Single"/>
+	<style name="Style_1" lineSpacing="Single"/>
+	<style name="fondo_gris" lineSpacing="Single"/>
+	<style name="Heading 1" lineSpacing="Single" fontSize="16" isBold="true"/>
+	<style name="Heading 3" lineSpacing="Single" fontSize="14" isBold="true"/>
+	<style name="Default" lineSpacing="Single"/>
+	<style name="Heading 2" lineSpacing="Single" fontSize="14" isBold="true" isItalic="true"/>
+	<style name="Heading 4" lineSpacing="Single" fontSize="12" isBold="true" isItalic="true"/>
+	<parameter name="subtitle" class="java.lang.String"/>
+	<parameter name="title" class="java.lang.String"/>
+	<parameter name="contact" class="java.lang.String"/>
+	<parameter name="benefit" class="java.lang.String"/>
+	<parameter name="baseUrl" class="java.lang.String"/>
+	<field name="sport" class="java.lang.String"/>
+	<field name="region" class="java.lang.String"/>
+	<field name="competition" class="java.lang.String"/>
+	<field name="name" class="java.lang.String"/>
+	<field name="date" class="java.util.Date"/>
+	<field name="betUrl" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="96" splitType="Stretch">
+			<textField>
+				<reportElement style="Heading 2" x="0" y="0" width="266" height="20"/>
+				<textElement lineSpacing="Single"/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$P{subtitle}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement style="Heading 2" x="4" y="20" width="33" height="20"/>
+				<textElement lineSpacing="Single"/>
+				<text><![CDATA[Mr]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="4" y="40" width="551" height="21"/>
+				<textElement lineSpacing="Single"/>
+				<text><![CDATA[betcompara.com ha encontrado para usted las siguientes Apuestas seguras,]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="4" y="61" width="156" height="21"/>
+				<textElement lineSpacing="Single"/>
+				<text><![CDATA[con un beneficio de :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="160" y="62" width="11" height="20"/>
+				<textElement lineSpacing="Single">
+					<font size="14" isBold="true" isItalic="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$P{benefit}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement style="Heading 2" x="171" y="62" width="16" height="21"/>
+				<textElement lineSpacing="Single"/>
+				<text><![CDATA[%]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="37" y="20" width="229" height="20"/>
+				<textElement lineSpacing="Single">
+					<font size="14" isBold="true" isItalic="true"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$P{contact}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="14" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="48" splitType="Stretch">
+			<staticText>
+				<reportElement style="Heading 2" x="68" y="0" width="77" height="48"/>
+				<box>
+					<pen lineWidth="1.0"/>
+					<topPen lineWidth="1.0"/>
+					<leftPen lineWidth="1.0"/>
+					<bottomPen lineWidth="1.0"/>
+					<rightPen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<text><![CDATA[Tipo de Resultado]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="145" y="0" width="121" height="48"/>
+				<box>
+					<pen lineWidth="1.0"/>
+					<topPen lineWidth="1.0"/>
+					<leftPen lineWidth="1.0"/>
+					<bottomPen lineWidth="1.0"/>
+					<rightPen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<text><![CDATA[Competicion]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="266" y="0" width="130" height="48"/>
+				<box>
+					<pen lineWidth="1.0"/>
+					<topPen lineWidth="1.0"/>
+					<leftPen lineWidth="1.0"/>
+					<bottomPen lineWidth="1.0"/>
+					<rightPen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<text><![CDATA[Competidores ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="396" y="0" width="94" height="48"/>
+				<box>
+					<pen lineWidth="1.0"/>
+					<topPen lineWidth="1.0"/>
+					<leftPen lineWidth="1.0"/>
+					<bottomPen lineWidth="1.0"/>
+					<rightPen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<text><![CDATA[Fecha]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="0" y="0" width="68" height="48"/>
+				<box>
+					<pen lineWidth="1.0"/>
+					<topPen lineWidth="1.0"/>
+					<leftPen lineWidth="1.0"/>
+					<bottomPen lineWidth="1.0"/>
+					<rightPen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<text><![CDATA[Deporte]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="490" y="0" width="65" height="48"/>
+				<box>
+					<pen lineWidth="1.0"/>
+					<topPen lineWidth="1.0"/>
+					<leftPen lineWidth="1.0"/>
+					<bottomPen lineWidth="1.0"/>
+					<rightPen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<text><![CDATA[Enlace]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="193" splitType="Stretch">
+			<textField>
+				<reportElement style="Heading 4" x="68" y="0" width="77" height="35"/>
+				<box>
+					<topPen lineWidth="0.5"/>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single">
+					<font fontName="Verdana" size="14"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{region}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Heading 4" x="145" y="0" width="121" height="35"/>
+				<box>
+					<topPen lineWidth="0.5"/>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single">
+					<font fontName="Verdana" size="14"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{competition}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Heading 4" x="396" y="0" width="94" height="35"/>
+				<box>
+					<topPen lineWidth="0.5"/>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single">
+					<font fontName="Verdana" size="14"/>
+				</textElement>
+				<textFieldExpression class="java.util.Date"><![CDATA[$F{date}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Heading 4" x="266" y="0" width="130" height="35"/>
+				<box>
+					<topPen lineWidth="0.5"/>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single">
+					<font fontName="Verdana" size="14"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Heading 4" x="0" y="0" width="68" height="35"/>
+				<box>
+					<topPen lineWidth="0.5"/>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single"/>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{sport}]]></textFieldExpression>
+			</textField>
+			<textField hyperlinkType="Reference" hyperlinkTarget="Blank">
+				<reportElement style="Heading 4" x="490" y="0" width="65" height="35"/>
+				<box>
+					<topPen lineWidth="0.5"/>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle" lineSpacing="Single">
+					<font fontName="Verdana" size="14"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA["Pulse Aqui"]]></textFieldExpression>
+				<anchorNameExpression><![CDATA[$P{baseUrl}+$F{betUrl}]]></anchorNameExpression>
+				<hyperlinkReferenceExpression><![CDATA[$P{baseUrl}+$F{betUrl}]]></hyperlinkReferenceExpression>
+				<hyperlinkTooltipExpression><![CDATA[$P{baseUrl}+$F{betUrl}]]></hyperlinkTooltipExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="38" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="14" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="296" splitType="Stretch">
+			<staticText>
+				<reportElement style="Heading 2" x="4" y="36" width="431" height="20"/>
+				<textElement lineSpacing="Single"/>
+				<text><![CDATA[Puede desactivar esta alerta en su zona de administración.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" x="0" y="0" width="329" height="20"/>
+				<textElement lineSpacing="Single"/>
+				<text><![CDATA[Dese prisa y aproveche esta oportunidad. ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Heading 2" mode="Opaque" x="0" y="161" width="555" height="135" backcolor="#CCCCCC"/>
+				<textElement lineSpacing="1_1_2" markup="none">
+					<font fontName="Andalus" size="12"/>
+				</textElement>
+				<text><![CDATA[Este correo electrónico y, en su caso, cualquier fichero anexo al mismo, contiene información de carácter confidencial exclusivamente dirigida a su destinatario/s. Queda prohibida su divulgación, copia o distribución a terceros sin la previa autorización escrita de arebdia.com. En el caso de haber recibido este correo electrónico por error, se ruega notifíquese inmediatamente esta circunstancia mediante el reenvío a la dirección electrónica del remitente. ]]></text>
+			</staticText>
+		</band>
+	</summary>
+</jasperReport>

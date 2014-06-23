@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.communication</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>comparer.communication.email</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+
+	<properties>
+		<service.name>ComparerApps.ComunicationEmail</service.name>
+		<service.description>Comunication email</service.description>
+		<service.mainClass>com.comparadorad.bet.comparer.communication.email.app.BatchCommunicationEmailApp</service.mainClass>
+		<default.service.environments>production,DATA_APP_CORRECT_DATABASE</default.service.environments>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>appassembler-maven-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>create-repository</id>
+						<phase>integration-test</phase>
+						<goals>
+							<goal>create-repository</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>generate-jsw-scripts</id>
+						<phase>package</phase>
+						<goals>
+							<goal>generate-daemons</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<!--declare the JSW config -->
+					<defaultJvmSettings>
+						<initialMemorySize>128M</initialMemorySize>
+						<maxMemorySize>1024M</maxMemorySize>
+					</defaultJvmSettings>
+					<repositoryLayout>flat</repositoryLayout>
+					<programs>
+						<program>
+							<name>${service.name}</name>
+							<!-- class Main -->
+							<mainClass>${service.mainClass}</mainClass>
+						</program>
+					</programs>
+					<platforms>
+						<platform>windows</platform>
+					</platforms>
+					<daemons>
+						<daemon>
+							<!-- Name Service -->
+							<id>${service.name}</id>
+							<mainClass>${service.mainClass}</mainClass>
+							<platforms>
+								<platform>jsw</platform>
+							</platforms>
+							<jvmSettings>
+								<extraArguments>
+									<extraArgument>-Dspring.profiles.active=${default.service.environments}</extraArgument>
+								</extraArguments>
+							</jvmSettings>
+							<generatorConfigurations>
+								<generatorConfiguration>
+									<generator>jsw</generator>
+									<includes>
+										<include>linux-x86-32</include>
+										<include>linux-x86-64</include>
+										<include>windows-x86-32</include>
+									</includes>
+									<configuration>
+										<property>
+											<name>wrapper.java.initmemory</name>
+											<value>16M</value>
+										</property>
+										<property>
+											<name>wrapper.java.maxmemory</name>
+											<value>32M</value>
+										</property>
+										<property>
+											<name>set.default.REPO_DIR</name>
+											<value>lib</value>
+										</property>
+										<property>
+											<name>wrapper.logfile</name>
+											<value>logs/wrapper.log</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxsize</name>
+											<value>10m</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.displayname</name>
+											<value>${service.name}</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.description</name>
+											<value>${service.description}</value>
+										</property>
+										<property>
+											<name>wrapper.logfile</name>
+											<value>logs/wrapper.log</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxsize</name>
+											<value>10m</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxfiles</name>
+											<value>25</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.loglevel</name>
+											<value>DEBUG</value>
+										</property>
+										<property>
+											<name>wrapper.ping.interval</name>
+											<value>10</value>
+										</property>
+										<property>
+											<name>wrapper.ping.timeout</name>
+											<value>60</value>
+										</property>
+										<property>
+											<name>wrapper.ping.timeout.action</name>
+											<value>RESTART</value>
+										</property>
+									</configuration>
+								</generatorConfiguration>
+							</generatorConfigurations>
+						</daemon>
+					</daemons>
+					<target>${project.build.directory}/appassembler</target>
+					<repoPath>jsw/${service.name}/lib/</repoPath>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<!-- Inicio librerias propias -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.communication.queue.consumer</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.autosender.service</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.autosender.getresponse</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.restclient</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.securebet.service</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.commons</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- Fin librerias propias -->
+		<!-- Inicio librerias externas -->
+		<dependency>
+			<groupId>net.sf.dozer</groupId>
+			<artifactId>dozer</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>jasperreports</groupId>
+			<artifactId>jasperreports</artifactId>
+		</dependency>
+		<!-- Fin librerias externas -->
+		<!-- Inicio librerias de test -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<!-- Fin librerias de test -->
+	</dependencies>
+
+</project>
