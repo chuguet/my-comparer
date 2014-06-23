@@ -1,0 +1,2951 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>11</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Real Madrid</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>1</objectId>
+			<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+				<historicList>
+					<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						<creationAction>true</creationAction>
+						<date>2012-06-29 15:28:35.547 UTC</date>
+						<user>testUser</user>
+					</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				</historicList>
+			</historic>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Liga Española</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+			<sport>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields>
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Futbol</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+			</sport>
+		</cfgCompetition>
+		<cfgSport reference="../cfgCompetition/sport" />
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>12</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Barcelona</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>656935033</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<!-- Inicio informacion ventana -->
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1013</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Real Betis Balompie</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>9999</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1014</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Sevilla F.C.</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>9999</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1015</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Valencia F.C.</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>9999</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1016</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Atletico de Madrid</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>9999</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<!-- Fin informacion ventana -->
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>13</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Caja Laboral</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>200000</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>2</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>14</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Hawthorn Hawks</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>21</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>30</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>15</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Geelong Cats</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>21</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>30</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>16</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>España</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>2</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>17</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Portugal</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>2</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>18</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Sportivo Luqueno</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>22</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>19</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Sol De America</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>22</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>20</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Real Madrid</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>656935033</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>2</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>21</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Estados Unidos</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>200000</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>2</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>22</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Francia</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>1100</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>2</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>666</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>World Championship Time Trial Men 2012</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>666</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>31</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>667</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Race to Dubai 2012</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>667</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>32</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1062535141</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 10:33:18.295 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Race to Dubai 2012</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>667</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>12</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>915291281</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.449 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Italian Serie A 2012-2013</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>753558889</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.450 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Lazio</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>543633059</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.452 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Inter Milan</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1045170187</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.453 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Catania</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>820946657</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.454 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Cagliari</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1069063169</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.455 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Bologna</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>988826341</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.456 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Atalanta</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>604459091</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.457 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Udinese</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>702706889</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.459 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Sampdoria</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>739655681</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.460 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Juventus</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1022440607</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.461 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Parma</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>742716313</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.462 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>German Bundesliga 2012-2013</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>667496377</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.463 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Hoffenheim</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>935850401</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.464 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Werder Bremen</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>805364657</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.465 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Bayer Leverkusen</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>542557679</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.466 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Mainz</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>669148819</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.467 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Dusseldorf</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1039228709</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.468 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Hamburg</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>693494267</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.469 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Wolfsburg</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>696775643</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.470 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Schalke 04</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>799248631</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.471 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Nuremburg</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1028097823</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.472 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>French Ligue 1 2012-2013</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>844381829</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.473 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Lille</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>901735349</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.474 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Marseille</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>624291659</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.475 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Bordeaux</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>595153609</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.476 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Sochaux</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>848760113</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.477 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Lorient</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>645218699</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.478 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Toulouse</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1012597687</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.479 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Reims</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>924310237</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.480 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Brest</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>940285139</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.481 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Bastia</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>842740621</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.482 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Montpellier</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>621915859</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.484 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Eng. Premier League 2012-2013</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>681031693</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.485 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Tottenham</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>619865413</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.486 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Manchester City</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>5</objectId>
+			<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+				<historicList>
+					<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						<creationAction>true</creationAction>
+						<date>2012-06-29 15:28:35.547 UTC</date>
+						<user>APP_VERIFIED</user>
+					</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				</historicList>
+			</historic>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Premier League</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+			<sport>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields>
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Futbol</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+			</sport>
+		</cfgCompetition>
+		<cfgSport reference="../cfgCompetition/sport" />
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>963309577</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.487 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Newcastle</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>749397811</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.488 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Liverpool</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>918130943</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.489 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Wigan</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>695379673</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.490 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>West Ham</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>5</objectId>
+			<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+				<historicList>
+					<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						<creationAction>true</creationAction>
+						<date>2012-06-29 15:28:35.547 UTC</date>
+						<user>APP_VERIFIED</user>
+					</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				</historicList>
+			</historic>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Premier League</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+			<sport>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields>
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Futbol</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+			</sport>
+		</cfgCompetition>
+		<cfgSport reference="../cfgCompetition/sport" />
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>772177541</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.491 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>West Bromwich Albion</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>944508281</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.492 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Southampton</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>784181647</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.493 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Chelsea</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>700366297</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.494 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Swansea</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>549524923</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:36:15.497 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>World Cup 2014</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1070624743</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.240 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Spanish Liga Primera 2012-2013</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>862259107</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.243 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Deportivo La Corunya</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>705358183</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.245 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Rayo Vallecano</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>876143503</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.247 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Athletic Bilbao</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>833628527</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.251 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Atletico Madrid</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>912760463</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.253 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Levante</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>881808643</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.255 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Mallorca</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>575642533</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.257 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Granada</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>568101181</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.258 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Betis</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>759621397</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.260 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Celta Vigo</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>581517361</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.262 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Zaragoza</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1071670363</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.263 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Genoa</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>742129301</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.265 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Siena</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>908482759</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.266 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Napoli</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>579891113</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.267 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Roma</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>735796063</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.269 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Pescara</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>704690257</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.271 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Palermo</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>868024613</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.273 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Milan</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>920140889</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.275 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Torino</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>578031169</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.276 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Chievo</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>711098419</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.278 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Fiorentina</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>720598573</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.279 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Hannover 96</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>994288951</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.280 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Stuttgart</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>770092093</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.281 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Borussia M&apos;gladbach</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1014038581</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.282 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Augsburg</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1024875157</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.284 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Freiburg</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>991297249</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.285 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Borussia Dortmund</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>858132773</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.286 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Greuther Furth</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>937633883</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.287 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Bayern Munich</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>852903869</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.289 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Eintracht Frankfurt</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>822801851</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.290 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Lyon</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>593957593</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.291 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Evian Thonon Gaillard</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>626617067</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.292 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Ajaccio</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>683418013</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.294 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Troyes</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>908541341</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.295 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Nice</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>595379069</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.296 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Rennes</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>712420957</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.297 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Nancy</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>776619413</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.299 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Valenciennes</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1041455561</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.300 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Paris Saint-Germain</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>819566723</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.301 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Saint-Etienne</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>1052430193</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.303 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>QPR</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>759455209</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.304 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Arsenal</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>928956937</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.305 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Norwich</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>760567193</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.310 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Manchester United</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>5</objectId>
+			<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+				<historicList>
+					<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						<creationAction>true</creationAction>
+						<date>2012-06-29 15:28:35.547 UTC</date>
+						<user>APP_VERIFIED</user>
+					</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				</historicList>
+			</historic>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Premier League</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+			<sport>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields>
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Futbol</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+			</sport>
+		</cfgCompetition>
+		<cfgSport reference="../cfgCompetition/sport" />
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>547738781</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.312 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Fulham</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>653048317</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.313 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Sunderland</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>709081279</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.314 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Reading</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>813067481</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.315 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Aston Villa</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>5</objectId>
+			<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+				<historicList>
+					<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						<creationAction>true</creationAction>
+						<date>2012-06-29 15:28:35.547 UTC</date>
+						<user>APP_VERIFIED</user>
+					</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				</historicList>
+			</historic>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Premier League</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+			<sport>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields>
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Futbol</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+			</sport>
+		</cfgCompetition>
+		<cfgSport reference="../cfgCompetition/sport" />
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>964960301</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.316 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Stoke</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>769947067</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.318 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Everton</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>946794389</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.575 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Seville</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>608664061</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.611 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Malaga</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>686222279</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.612 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Valladolid</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>947143543</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.617 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Real Sociedad</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>861802043</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.618 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Valencia</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>750356941</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.642 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Espanyol</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>846913663</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.643 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Getafe</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>923593471</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.644 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Osasuna</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>581517361</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:38:43.262 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-25 15:04:51.337 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields class="linked-hash-set">
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Zaragoza</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgSport>
+			<objectId>1</objectId>
+			<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+				<historicList>
+					<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						<creationAction>true</creationAction>
+						<date>2012-09-25 10:09:47.309 UTC</date>
+						<user>DATA_APP</user>
+					</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+				</historicList>
+			</historic>
+			<i18n>
+				<i18nFields class="linked-hash-set">
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>F�tbol</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<locale>es_ES</locale>
+						<string>F�tbol</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<locale>en</locale>
+						<string>Football</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>666333</objectId>
+		<nameId>F. Alonso</nameId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.644 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>F. Alonso</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>666334</objectId>
+		<nameId>Vettel</nameId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.644 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Vettel</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>666335</objectId>
+		<nameId>Webber</nameId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.644 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Webber</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>666336</objectId>
+		<nameId>F. Massa</nameId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.644 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>F. Massa</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+		<objectId>666337</objectId>
+		<nameId>Cristiano Ronaldo</nameId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 11:50:27.644 UTC</date>
+					<user>DATA_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Cristiano Ronaldo</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<cfgCompetition>
+			<objectId>982598609</objectId>
+		</cfgCompetition>
+		<cfgSport>
+			<objectId>1</objectId>
+		</cfgSport>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+	
+</list>

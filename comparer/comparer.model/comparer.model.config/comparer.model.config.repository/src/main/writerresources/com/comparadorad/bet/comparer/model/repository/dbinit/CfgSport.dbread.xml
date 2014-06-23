@@ -1,0 +1,1442 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>1</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>es</locale>
+          <string>Fútbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Fútbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>sw</locale>
+          <string>fotboll</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>ca</locale>
+          <string>Futbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>fr</locale>
+          <string>Football</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>en</locale>
+          <string>Football</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>football</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>2</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Basketball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Bàsquet</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Baloncesto</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Baloncesto</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Basket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Basket-ball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>basketball</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>3</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Tenis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Tenis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Tennis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Tennis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Tennis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Tenis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>tennis</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>4</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Paddle</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Paddle</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Paddle</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Pádel</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Pádel</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Pàdel</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>paddle</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>5</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Table tennis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Table tennis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Tenis taula</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Tenis de mesa</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Tenis de mesa</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Table tennis</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>table_tennis</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>6</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>F1</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>F1</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>F1</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>F1</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>F1</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>F1</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>f1</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>7</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Motociclismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Motorcycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Motociclisme</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Motorcycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Motorcycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Motociclismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>motorcycling</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>8</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Rally</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Rally</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Ral·li</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Rally</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Rally</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Rally</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>rally</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>9</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Nascar</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Náscar</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Náscar</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Nàscar</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Nascar</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Nascar</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>nascar</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>10</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Darts</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Darts</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Dardos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Dardos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Dards</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Darts</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>darts</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>11</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Snooker</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Snooker</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Snooker</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Snooker</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Snooker</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Snooker</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>snooker</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>12</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Golf</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Golf</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Golf</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Golf</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Golf</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Golf</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>golf</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>13</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Atletismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Athletics</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Athletics</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Atletismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Atletisme</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Athletics</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>athletics</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>14</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Cycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Ciclismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Ciclismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Cycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Ciclisme</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Cycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>cycling</code>
+    <configured>true</configured>
+    <hashKeyParticipants>true</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>15</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Triatló</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Triatlón</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Triatlón</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Triathlon</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Triathlon</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Triathlon</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>triathlon</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>16</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Carreras de galgos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Curses de galgos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Carreras de galgos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Greyhounds</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Greyhounds</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Greyhounds</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>greyhounds</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>17</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Carreras de caballos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Carreras de caballos</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Curses de cavalls</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Horse Racing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Horse Racing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Horse Racing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>horse_racing</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>18</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Handbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Handball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Balonmano</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Handball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Handball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Balonmano</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>handball</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>19</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Voleibol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Voleibol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Voleibol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Voleibol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Volleyball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Voleibol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>volleyball</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>20</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Boxa</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Boxing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Boxeo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Boxeo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Boxing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Boxing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>boxing</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>21</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Combat sports</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Deportes de combate</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Combat sports</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Combat sports</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Deportes de combate</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Esports de lluita</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>combatSports</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>22</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Cross-country skiing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Cross-country skiing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Cross-country skiing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Esquí de fons</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Esquí de fondo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Esquí de fondo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>cross_country_skiing</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>23</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Esquí</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Esquí</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Ski</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Ski</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Ski</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Esquí</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>ski</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>24</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Hoquei sobre gel</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Hockey sobre hielo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Ice hockey</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Hockey sobre hielo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Ice hockey</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Ice hockey</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>ice_hockey</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>25</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Cricket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Cricket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Cricket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Cricket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Cricket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Cricket</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>cricket</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>26</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Futbol americà</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>American football</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>American football</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>American football</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Fútbol americano</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Fútbol americano</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>american_fotball</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>27</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Beisbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Béisbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Béisbol</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Baseball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Baseball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Baseball</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>baseball</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>28</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Rowing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Rem</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Rowing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Remo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Rowing</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Remo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>rowing</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>29</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Lacrosse</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Lacrosse</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Lacrosse</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Lacrosse</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Lacrosse</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Lacrosse</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>lacrosse</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>30</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Aussie Rules</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Aussie Rules</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Aussie Rules</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Aussie Rules</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Aussie Rules</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Aussie Rules</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>aussie_rules</code>
+    <configured>false</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>31</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Cycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Ciclismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Cycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Ciclismo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Ciclisme</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Cycling</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>cycling</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+    <objectId>32</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[3]/locale"/>
+          <string>Rugby League</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[5]/locale"/>
+          <string>Rugby League</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField/locale"/>
+          <string>Rugby League</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[4]/locale"/>
+          <string>Rugby League</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Rugby League</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale reference="../../../../../com.comparadorad.bet.comparer.model.config.bean.CfgSport/i18n/i18nFields/com.comparadorad.bet.comparer.model.core.bean.I18nField[6]/locale"/>
+          <string>Rugby League</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <code>rugby_league</code>
+    <configured>true</configured>
+    <hashKeyParticipants>false</hashKeyParticipants>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+</list>

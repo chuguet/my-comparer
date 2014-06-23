@@ -1,0 +1,78 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+    <objectId>912641941</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-09-27 07:58:11.362 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Odd</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <cfgCompetition>
+      <objectId>1</objectId>
+    </cfgCompetition>
+    <cfgSport>
+      <objectId>1</objectId>
+    </cfgSport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+    <objectId>575642533</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-09-21 11:38:43.257 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-09-27 07:58:11.376 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields class="linked-hash-set">
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Granada</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <cfgSport>
+      <objectId>1</objectId>
+      <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+        <historicList>
+          <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+            <creationAction>true</creationAction>
+            <date>2012-09-25 10:09:47.309 UTC</date>
+            <user>DATA_APP</user>
+          </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+        </historicList>
+      </historic>
+      <i18n>
+        <i18nFields class="linked-hash-set">
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <string>Fútbol</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <locale>es_ES</locale>
+            <string>Fútbol</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <locale>en</locale>
+            <string>Football</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        </i18nFields>
+      </i18n>
+    </cfgSport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+</list>

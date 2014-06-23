@@ -1,0 +1,15 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgResource>
+    <objectId>1</objectId>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Bandera de España</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <height>120</height>
+    <location>/image/flag.jpg</location>
+    <width>250</width>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgResource>
+</list>

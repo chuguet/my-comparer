@@ -1,0 +1,56 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+    <objectId>824027119</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-10-29 11:59:04.879 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+        <word>Washington Wizards</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+    </synonimWords>
+    <participant>
+      <objectId>824027119</objectId>
+      <objectState>
+        <objectState>NEW</objectState>
+      </objectState>
+      <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+        <historicList>
+          <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+            <creationAction>true</creationAction>
+            <dataRef class="com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker">
+              <objectId>19</objectId>
+            </dataRef>
+            <date>2012-10-29 11:59:04.878 UTC</date>
+            <user>DATA_APP</user>
+          </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+        </historicList>
+      </historic>
+      <i18n>
+        <i18nFields>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <string>Washington Wizards</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        </i18nFields>
+      </i18n>
+      <coreActiveElement>
+        <active>true</active>
+      </coreActiveElement>
+      <cfgCompetition>
+        <objectId>7</objectId>
+      </cfgCompetition>
+      <cfgSport>
+        <objectId>2</objectId>
+      </cfgSport>
+    </participant>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+</list>

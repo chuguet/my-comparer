@@ -1,0 +1,27 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+    <objectId>781312853</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-09-27 07:56:51.151 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Draw</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <cfgCompetition>
+      <objectId>1</objectId>
+    </cfgCompetition>
+    <cfgSport>
+      <objectId>1</objectId>
+    </cfgSport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+</list>

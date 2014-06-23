@@ -1,0 +1,664 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>1</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Liga Española</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Spain League</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>La Liga 2012/13</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Liga Espannola</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>La Liga</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Primera Liga</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Spanish Liga Primera</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Spain - La Liga</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>1</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>2</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Eurocopa 2012</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Euro 2012</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>2</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>3</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Copa de SM El Rey</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Spanish Copa del Rey</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>3</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>4</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Bundesliga</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>German Bundesliga</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>4</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>5</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2012-09-21 09:22:39.344 UTC</date>
+					<user>APP_VERIFIED</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Premier League</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Eng. Premier League</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Eng. Premier League 2012-2013</word>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2012-09-21 09:22:39.344 UTC</date>
+							<user>APP_VERIFIED</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>5</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>6</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Liga ACB</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Spain ACB</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>6</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>7</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>NBA</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>7</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>8</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Olympic Road Race M. 2012</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>8</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>9</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Olympic Road Race W. 2012</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>9</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>10</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Ryder Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>10</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>15</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>NHL</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>15</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>17</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Major League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>17</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>18</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>NFL</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>18</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>19</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>NCL</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>19</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>22</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Aussie Rules</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Australian A-League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>22</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>23</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Paraguay - Primera Division</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>23</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>26</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>World Championship Time Trial M.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Campeonato del mundo contrareloj</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>26</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>27</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>The Race to Dubai</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Carrera a Dubai</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>27</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>28</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>W.Ch. Road Race M.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>28</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>29</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>English FA Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>29</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>30</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>English League Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>30</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>31</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>French League Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>31</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>32</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>French League 1</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>French Ligue 1</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>32</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>33</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>French League 2</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>French Ligue 2</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>33</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>34</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>German DFB Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>34</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>35</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Polish Ekstraklasa</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>35</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>36</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Portuguese Lge Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>36</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>37</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Italy Serie A</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Italian Serie A</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>37</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>38</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>ITF Tour - Ankara</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>38</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>39</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Champions League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>39</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>40</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>English Championship</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>40</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>41</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Spanish Liga Segunda</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>41</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>42</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>English League 1</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>42</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>43</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Europa League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>43</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>44</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Davis Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>44</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>45</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Wimbledon M.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>45</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>46</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Wimbledon W.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>46</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>47</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>US Open M.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>47</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>48</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>US Open W.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>48</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>49</objectId>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<word>Football-Spanish-Primera</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>49</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+</list>

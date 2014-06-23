@@ -1,0 +1,1741 @@
+<list>
+
+	<!-- ################# DEPORTES ################# -->
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>2</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>2</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>2</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>3</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>3</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>3</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>4</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>4</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>4</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>5</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>5</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>5</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>6</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>6</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>6</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>7</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>7</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>7</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>8</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>8</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>8</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>9</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>10</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>10</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>10</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>11</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>12</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>12</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>12</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>13</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>13</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>13</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>14</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>14</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>14</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>15</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>15</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>15</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>16</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>16</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>16</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>17</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>17</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>17</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>18</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>18</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>18</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>19</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>19</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>19</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>20</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>20</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>20</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>21</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>21</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>21</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>22</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>22</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>22</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>23</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>23</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>23</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>24</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>24</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>24</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>25</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>25</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>25</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>26</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>26</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>26</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>27</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>27</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>27</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>28</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>28</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>28</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>29</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>29</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>29</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>30</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>30</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>30</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>31</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>31</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>31</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<!-- ################# ASIGNACION DE PAISES A LOS DEPORTES ################# -->
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1001</order>
+		<parentElement>
+			<objectId>1</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>724</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>14006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>14006</order>
+		<parentElement>
+			<objectId>1</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1004</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1004</order>
+		<parentElement>
+			<objectId>1</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>276</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1007</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1007</order>
+		<parentElement>
+			<objectId>1</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>826</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1008</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1008</order>
+		<parentElement>
+			<objectId>2</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>724</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999554</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999554</order>
+		<parentElement>
+			<objectId>2</objectId>
+		</parentElement>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>14005</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>14005</order>
+		<parentElement>
+			<objectId>14</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<!-- <com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement> 
+		<objectId>14007</objectId> <order>14007</order> <parentElement> <objectId>14</objectId> 
+		</parentElement> <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion"> 
+		<objectId>1</objectId> </toolbarConfigurable> <toolbarAgrupation> <objectId>10000</objectId> 
+		<defaultAgrupation>true</defaultAgrupation> </toolbarAgrupation> </com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement> -->
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>16005</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>16005</order>
+		<parentElement>
+			<objectId>12</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>16006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>16006</order>
+		<parentElement>
+			<objectId>19</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>18005</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>18005</order>
+		<parentElement>
+			<objectId>19</objectId>
+		</parentElement>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>18006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>18006</order>
+		<parentElement>
+			<objectId>18</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>18007</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>18007</order>
+		<parentElement>
+			<objectId>18</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999006</order>
+		<parentElement>
+			<objectId>24</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>840</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>18008</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>18008</order>
+		<parentElement>
+			<objectId>24</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999007</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999007</order>
+		<parentElement>
+			<objectId>27</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>840</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999008</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999008</order>
+		<parentElement>
+			<objectId>26</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>840</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1009</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1009</order>
+		<parentElement>
+			<objectId>25</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>826</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>5005</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>5005</order>
+		<parentElement>
+			<objectId>5</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>5006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>5006</order>
+		<parentElement>
+			<objectId>5</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999009</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999009</order>
+		<parentElement>
+			<objectId>30</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>36</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999010</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999010</order>
+		<parentElement>
+			<objectId>1</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>600</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999011</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999011</order>
+		<parentElement>
+			<objectId>29</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>840</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<!-- <com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement> 
+		<objectId>28006</objectId> <order>28006</order> <parentElement> <objectId>2</objectId> 
+		</parentElement> <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion"> 
+		<objectId>1</objectId> </toolbarConfigurable> <toolbarAgrupation> <objectId>10000</objectId> 
+		<defaultAgrupation>true</defaultAgrupation> </toolbarAgrupation> </com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement> 
+		<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement> <objectId>28007</objectId> 
+		<order>28007</order> <parentElement> <objectId>14</objectId> </parentElement> 
+		<toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion"> 
+		<objectId>1</objectId> </toolbarConfigurable> <toolbarAgrupation> <objectId>10000</objectId> 
+		<defaultAgrupation>true</defaultAgrupation> </toolbarAgrupation> </com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement> -->
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>28008</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>28008</order>
+		<parentElement>
+			<objectId>12</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>1</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>28009</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>28009</order>
+		<parentElement>
+			<objectId>14</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>724</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<!-- ################ COMPETICIONES #################### -->
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1000001</order>
+		<parentElement>
+			<objectId>1001</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>9999</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>1000002</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>1000002</order>
+		<parentElement>
+			<objectId>14006</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>2</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>2000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>2000001</order>
+		<parentElement>
+			<objectId>1001</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>3</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>3000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>3000001</order>
+		<parentElement>
+			<objectId>1004</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>4</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>3000002</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>3000002</order>
+		<parentElement>
+			<objectId>1007</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>5</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>3000003</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>3000003</order>
+		<parentElement>
+			<objectId>1008</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>200000</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>3000004</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>3000004</order>
+		<parentElement>
+			<objectId>999554</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>7</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>4000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>4000001</order>
+		<parentElement>
+			<objectId>14005</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>8</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>5000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>5000001</order>
+		<parentElement>
+			<objectId>14005</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>9</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>6000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>6000001</order>
+		<parentElement>
+			<objectId>16005</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>10</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>7000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>7000001</order>
+		<parentElement>
+			<objectId>16006</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>11</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>8000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>8000001</order>
+		<parentElement>
+			<objectId>18005</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>12</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9000001</order>
+		<parentElement>
+			<objectId>18006</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>13</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9000002</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9000002</order>
+		<parentElement>
+			<objectId>18007</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>14</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9000003</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9000003</order>
+		<parentElement>
+			<objectId>999006</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>15</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9000004</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9000004</order>
+		<parentElement>
+			<objectId>18008</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>16</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9000005</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9000005</order>
+		<parentElement>
+			<objectId>999007</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>17</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>9000006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>9000006</order>
+		<parentElement>
+			<objectId>999008</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>18</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>10000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>10000001</order>
+		<parentElement>
+			<objectId>1009</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>19</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000001</order>
+		<parentElement>
+			<objectId>5005</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>20</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000002</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000002</order>
+		<parentElement>
+			<objectId>5006</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>21</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000003</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000003</order>
+		<parentElement>
+			<objectId>999009</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>22</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000004</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000004</order>
+		<parentElement>
+			<objectId>999010</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>23</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000005</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000005</order>
+		<parentElement>
+			<objectId>999011</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>24</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000006</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000006</order>
+		<parentElement>
+			<objectId>28006</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>25</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000007</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000007</order>
+		<parentElement>
+			<objectId>28007</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>26</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000008</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000008</order>
+		<parentElement>
+			<objectId>28008</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>27</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>11000009</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>11000009</order>
+		<parentElement>
+			<objectId>28009</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>28</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<!-- ####### ORDER TEST################# -->
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>999</order>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+			<objectId>999</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999001</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>204</order>
+		<parentElement>
+			<objectId>999</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>20</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999002</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>200</order>
+		<parentElement>
+			<objectId>999</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>784</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999003</objectId>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2015-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<order>202</order>
+		<parentElement>
+			<objectId>999</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>4</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999004</objectId>
+		<order>203</order>
+		<coreActiveElement>
+			<active>false</active>
+		</coreActiveElement>
+		<parentElement>
+			<objectId>999</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>710</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999005</objectId>
+		<order>201</order>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2012-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2012-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<parentElement>
+			<objectId>999</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>175</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<!-- ######### ALIMENTADOR DE LA TOOLBAR ############### -->
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999554</objectId>
+		<order>999554</order>
+		<parentElement>
+			<objectId>2</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+			<objectId>840</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>999555</objectId>
+		<order>999555</order>
+		<coreActiveElement>
+			<activationPeriods>
+				<com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+					<endDate>2011-05-30 18:46:00.0 UTC</endDate>
+					<initDate>2011-05-29 18:45:00.0 UTC</initDate>
+				</com.comparadorad.bet.comparer.model.core.bean.CoreActiveElement_-ActivationPeriod>
+			</activationPeriods>
+		</coreActiveElement>
+		<parentElement>
+			<objectId>999554</objectId>
+		</parentElement>
+		<toolbarConfigurable
+			class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+			<objectId>7</objectId>
+		</toolbarConfigurable>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+	<!-- BIGINTEGER -->
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>24800881587388444324204875467</objectId>
+		<order>999555</order>
+		<parentElement>
+			<objectId>24800881587388444324204875466</objectId>
+		</parentElement>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+		<objectId>24800701084925691136523193872</objectId>
+		<order>999555</order>
+		<parentElement>
+			<objectId>24800881587388444324204875467</objectId>
+		</parentElement>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgToolbarElement>
+
+</list>

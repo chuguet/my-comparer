@@ -1,0 +1,41 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+    <objectId>222333</objectId>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>R. Federer</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <cfgCompetition>
+      <objectId>30000</objectId>
+    </cfgCompetition>
+    <cfgSport>
+      <objectId>3</objectId>
+    </cfgSport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+    <objectId>123456789</objectId>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Participante Desactivado</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <coreActiveElement>
+      <active>false</active>
+    </coreActiveElement>
+    <cfgCompetition>
+      <objectId>30000</objectId>
+    </cfgCompetition>
+    <cfgSport>
+      <objectId>3</objectId>
+    </cfgSport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipant>
+  
+</list>

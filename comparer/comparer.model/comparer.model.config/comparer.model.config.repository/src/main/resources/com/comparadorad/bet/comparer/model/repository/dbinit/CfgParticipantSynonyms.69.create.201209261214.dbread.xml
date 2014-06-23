@@ -1,0 +1,44 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+    <objectId>573442091</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-09-26 10:14:08.204 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+        <word>Real Betis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+    </synonimWords>
+    <participant>
+      <objectId>573442091</objectId>
+      <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+        <historicList>
+          <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+            <creationAction>true</creationAction>
+            <date>2012-09-26 10:14:08.204 UTC</date>
+            <user>DATA_APP</user>
+          </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+        </historicList>
+      </historic>
+      <i18n>
+        <i18nFields>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <string>Real Betis</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        </i18nFields>
+      </i18n>
+      <cfgCompetition>
+        <objectId>656935033</objectId>
+      </cfgCompetition>
+      <cfgSport>
+        <objectId>1</objectId>
+      </cfgSport>
+    </participant>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+</list>

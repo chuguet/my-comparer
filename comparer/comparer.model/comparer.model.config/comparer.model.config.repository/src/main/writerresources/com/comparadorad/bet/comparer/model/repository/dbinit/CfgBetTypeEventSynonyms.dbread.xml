@@ -1,0 +1,26 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonyms>
+    <objectId>1</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonymWord>
+        <word>Handicap</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonymWord>
+        <word>Handicap Result</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonymWord>
+    </synonimWords>
+    <betTypeEvent>
+      <objectId>1</objectId>
+      <i18n>
+        <i18nFields>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <string>Handicap</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        </i18nFields>
+      </i18n>
+    </betTypeEvent>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonyms>
+</list>

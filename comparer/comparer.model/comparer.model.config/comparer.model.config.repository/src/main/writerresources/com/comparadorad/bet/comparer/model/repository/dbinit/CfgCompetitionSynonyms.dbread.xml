@@ -1,0 +1,25 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+    <objectId>30000</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+        <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+          <historicList>
+            <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+              <creationAction>true</creationAction>
+              <date>2013-02-13 16:58:58.171 UTC</date>
+              <user>WRITER_APP</user>
+            </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          </historicList>
+        </historic>
+        <word>Roland Garros</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+    </synonimWords>
+    <competition>
+      <objectId>30000</objectId>
+    </competition>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+</list>

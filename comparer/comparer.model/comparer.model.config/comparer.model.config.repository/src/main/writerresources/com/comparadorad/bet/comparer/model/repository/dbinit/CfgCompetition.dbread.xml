@@ -1,0 +1,54 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetition>
+		<objectId>30000</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Roland Garros</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<sport>
+			<objectId>3</objectId>
+		</sport>
+		<region>
+			<objectId>3</objectId>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Europa</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+		</region>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetition>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetition>
+		<objectId>666</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Roland Garros</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<sport>
+			<objectId>6</objectId>
+		</sport>
+		<region>
+			<objectId>3</objectId>
+			<i18n>
+				<i18nFields>
+					<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						<string>Europa</string>
+					</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+				</i18nFields>
+			</i18n>
+		</region>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetition>
+</list>

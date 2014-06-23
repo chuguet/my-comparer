@@ -1,0 +1,268 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+    <nameId>CfgBetType</nameId>
+    <objectId>1</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-10-10 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <listaAlgoritmos>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+        <algorithm class="uk.ac.shef.wit.simmetrics.similaritymetrics.TagLink">
+          <characterBasedStringMetric class="uk.ac.shef.wit.simmetrics.similaritymetrics.TagLinkToken">
+            <matched>0.0</matched>
+            <tr>0.3</tr>
+            <tSize>0.0</tSize>
+            <uSize>0.0</uSize>
+            <largestIndex>0</largestIndex>
+            <ESTIMATEDTIMINGCONST>1.9796386E-4</ESTIMATEDTIMINGCONST>
+          </characterBasedStringMetric>
+          <tokeniser class="uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace">
+            <stopWordHandler class="uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"/>
+            <delimiters>&#xd;
+	  </delimiters>
+          </tokeniser>
+          <ESTIMATEDTIMINGCONST>6.186371E-4</ESTIMATEDTIMINGCONST>
+        </algorithm>
+        <limit>0.91</limit>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+        <algorithm class="uk.ac.shef.wit.simmetrics.similaritymetrics.BlockDistance">
+          <ESTIMATEDTIMINGCONST>6.445714E-5</ESTIMATEDTIMINGCONST>
+          <tokeniser class="uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace">
+            <stopWordHandler class="uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"/>
+            <delimiters>&#xd;
+	  </delimiters>
+          </tokeniser>
+        </algorithm>
+        <limit>0.8</limit>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+        <algorithm class="uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan">
+          <ESTIMATEDTIMINGCONST>0.0344</ESTIMATEDTIMINGCONST>
+          <tokeniser class="uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace">
+            <stopWordHandler class="uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"/>
+            <delimiters>&#xd;
+	  </delimiters>
+          </tokeniser>
+          <internalStringMetric class="uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh">
+            <ESTIMATEDTIMINGCONST defined-in="uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotohWindowedAffine">4.5E-5</ESTIMATEDTIMINGCONST>
+            <windowSize>2147483647</windowSize>
+            <dCostFunc class="uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.SubCost5_3_Minus3"/>
+            <gGapFunc class="uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.AffineGap5_1"/>
+            <ESTIMATEDTIMINGCONST>2.2E-5</ESTIMATEDTIMINGCONST>
+          </internalStringMetric>
+        </algorithm>
+        <limit>0.995</limit>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+        <algorithm class="uk.ac.shef.wit.simmetrics.similaritymetrics.OverlapCoefficient">
+          <ESTIMATEDTIMINGCONST>1.4E-4</ESTIMATEDTIMINGCONST>
+          <tokeniser class="uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace">
+            <stopWordHandler class="uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"/>
+            <delimiters>&#xd;
+	  </delimiters>
+          </tokeniser>
+        </algorithm>
+        <limit>0.995</limit>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+        <algorithm class="uk.ac.shef.wit.simmetrics.similaritymetrics.ChapmanMatchingSoundex">
+          <ESTIMATEDTIMINGCONST defined-in="uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan">0.0344</ESTIMATEDTIMINGCONST>
+          <tokeniser class="uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace">
+            <stopWordHandler class="uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"/>
+            <delimiters>&#xd;
+	  </delimiters>
+          </tokeniser>
+          <internalStringMetric class="uk.ac.shef.wit.simmetrics.similaritymetrics.Soundex">
+            <ESTIMATEDTIMINGCONST>5.2E-4</ESTIMATEDTIMINGCONST>
+            <internalStringMetric class="uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler">
+              <ESTIMATEDTIMINGCONST>4.342E-5</ESTIMATEDTIMINGCONST>
+              <internalStringMetric class="uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro">
+                <ESTIMATEDTIMINGCONST>4.12E-5</ESTIMATEDTIMINGCONST>
+              </internalStringMetric>
+            </internalStringMetric>
+          </internalStringMetric>
+          <ESTIMATEDTIMINGCONST>0.026571428</ESTIMATEDTIMINGCONST>
+        </algorithm>
+        <limit>0.97</limit>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgResolverAlgorithm>
+    </listaAlgoritmos>
+    <timeToProcess>1200000</timeToProcess>
+    <algorithmPrecission>2.5</algorithmPrecission>
+    <competitionPrecissionPercent></competitionPrecissionPercent>
+    <strikeConfigList>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.8</minimumStrike>
+        <minimumStrikeNormalized>0.9</minimumStrikeNormalized>
+        <numberOfChar>15</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.7</minimumStrike>
+        <minimumStrikeNormalized>0.8</minimumStrikeNormalized>
+        <numberOfChar>25</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.65</minimumStrike>
+        <minimumStrikeNormalized>0.75</minimumStrikeNormalized>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig/>
+    </strikeConfigList>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+    <nameId>CfgCompetition</nameId>
+    <objectId>2</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-10-10 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <listaAlgoritmos reference="../../com.comparadorad.bet.comparer.model.config.bean.CfgMaster/listaAlgoritmos"/>
+    <timeToProcess>1200000</timeToProcess>
+    <algorithmPrecission>2.5</algorithmPrecission>
+    <competitionPrecissionPercent>70</competitionPrecissionPercent>
+    <strikeConfigList>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.8</minimumStrike>
+        <minimumStrikeNormalized>0.9</minimumStrikeNormalized>
+        <numberOfChar>15</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.7</minimumStrike>
+        <minimumStrikeNormalized>0.8</minimumStrikeNormalized>
+        <numberOfChar>25</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.65</minimumStrike>
+        <minimumStrikeNormalized>0.75</minimumStrikeNormalized>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig/>
+    </strikeConfigList>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+    <nameId>CfgParticipant</nameId>
+    <objectId>3</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-10-10 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <listaAlgoritmos reference="../../com.comparadorad.bet.comparer.model.config.bean.CfgMaster/listaAlgoritmos"/>
+    <timeToProcess>1200000</timeToProcess>
+    <algorithmPrecission>2.5</algorithmPrecission>
+    <competitionPrecissionPercent></competitionPrecissionPercent>
+    <strikeConfigList>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.8</minimumStrike>
+        <minimumStrikeNormalized>0.9</minimumStrikeNormalized>
+        <numberOfChar>15</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.7</minimumStrike>
+        <minimumStrikeNormalized>0.8</minimumStrikeNormalized>
+        <numberOfChar>25</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.65</minimumStrike>
+        <minimumStrikeNormalized>0.75</minimumStrikeNormalized>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig/>
+    </strikeConfigList>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+    <nameId>REGION</nameId>
+    <objectId>4</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-10-10 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <listaAlgoritmos reference="../../com.comparadorad.bet.comparer.model.config.bean.CfgMaster/listaAlgoritmos"/>
+    <timeToProcess>1200000</timeToProcess>
+    <algorithmPrecission>2.5</algorithmPrecission>
+    <competitionPrecissionPercent></competitionPrecissionPercent>
+    <strikeConfigList>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.8</minimumStrike>
+        <minimumStrikeNormalized>0.9</minimumStrikeNormalized>
+        <numberOfChar>15</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.7</minimumStrike>
+        <minimumStrikeNormalized>0.8</minimumStrikeNormalized>
+        <numberOfChar>25</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.65</minimumStrike>
+        <minimumStrikeNormalized>0.75</minimumStrikeNormalized>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig/>
+    </strikeConfigList>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+    <nameId>CfgSport</nameId>
+    <objectId>5</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-10-10 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <listaAlgoritmos reference="../../com.comparadorad.bet.comparer.model.config.bean.CfgMaster/listaAlgoritmos"/>
+    <timeToProcess>1200000</timeToProcess>
+    <algorithmPrecission>2.5</algorithmPrecission>
+    <competitionPrecissionPercent></competitionPrecissionPercent>
+    <strikeConfigList>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.8</minimumStrike>
+        <minimumStrikeNormalized>0.9</minimumStrikeNormalized>
+        <numberOfChar>15</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.7</minimumStrike>
+        <minimumStrikeNormalized>0.8</minimumStrikeNormalized>
+        <numberOfChar>25</numberOfChar>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+        <customizedMinimumStrike>0.2</customizedMinimumStrike>
+        <minimumStrike>0.65</minimumStrike>
+        <minimumStrikeNormalized>0.75</minimumStrikeNormalized>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgMaster_-StrikeConfig/>
+    </strikeConfigList>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgMaster>
+</list>

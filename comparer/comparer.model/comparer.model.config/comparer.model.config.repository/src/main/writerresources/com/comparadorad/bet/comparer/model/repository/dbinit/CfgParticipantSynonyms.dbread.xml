@@ -1,0 +1,48 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+    <objectId>222333</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+        <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+          <historicList>
+            <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+              <creationAction>true</creationAction>
+              <date>2013-02-13 16:59:02.761 UTC</date>
+              <user>WRITER_APP</user>
+            </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          </historicList>
+        </historic>
+        <word>R. Federer</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+    </synonimWords>
+    <participant>
+      <objectId>222333</objectId>
+    </participant>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+    <objectId>123456789</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+        <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+          <historicList>
+            <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+              <creationAction>true</creationAction>
+              <date>2013-02-13 16:59:02.761 UTC</date>
+              <user>WRITER_APP</user>
+            </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          </historicList>
+        </historic>
+        <word>Participante Desactivado</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+    </synonimWords>
+    <participant>
+      <objectId>123456789</objectId>
+    </participant>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+</list>

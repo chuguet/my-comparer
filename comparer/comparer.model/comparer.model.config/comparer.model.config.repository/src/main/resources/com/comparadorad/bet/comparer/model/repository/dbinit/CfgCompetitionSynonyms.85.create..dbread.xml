@@ -1,0 +1,50 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+    <objectId>870865763</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2012-09-27 07:08:42.508 UTC</date>
+          <user>DATA_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+        <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+          <historicList>
+            <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+              <creationAction>true</creationAction>
+              <date>2012-09-27 07:08:42.508 UTC</date>
+              <user>DATA_APP</user>
+            </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          </historicList>
+        </historic>
+        <word>La Liga</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+    </synonimWords>
+    <competition>
+      <objectId>870865763</objectId>
+      <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+        <historicList>
+          <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+            <creationAction>true</creationAction>
+            <date>2012-09-27 07:08:42.507 UTC</date>
+            <user>DATA_APP</user>
+          </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+        </historicList>
+      </historic>
+      <i18n>
+        <i18nFields>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <string>La Liga</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        </i18nFields>
+      </i18n>
+      <sport>
+        <objectId>1</objectId>
+      </sport>
+    </competition>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+</list>

@@ -1,0 +1,23 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord>
+        <word>Real Madrid - Barcelona : Cuartos de final</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord>
+    </synonimWords>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord>
+        <word>Valencia - Osasuna : Semifinal</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord>
+    </synonimWords>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord>
+        <word>At. Madrid - Sevilla : Final</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord>
+    </synonimWords>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms>
+</list>

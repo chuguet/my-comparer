@@ -1,0 +1,15 @@
+<list>
+  <com.comparadorad.bet.comparer.model.securebet.bean.CfgSureBet>
+  	<minBenefit>
+      <value>0</value>
+    </minBenefit>
+    <maxBenefit>
+      <value>20.0</value>
+    </maxBenefit>
+    <porcentajeMinimo>1.0</porcentajeMinimo>
+    <retardoTipo0>0</retardoTipo0>
+    <retardoTipo1>1</retardoTipo1>
+    <retardoTipo2>3</retardoTipo2>
+    <retardoTipo3>16</retardoTipo3>
+  </com.comparadorad.bet.comparer.model.securebet.bean.CfgSureBet>
+</list>

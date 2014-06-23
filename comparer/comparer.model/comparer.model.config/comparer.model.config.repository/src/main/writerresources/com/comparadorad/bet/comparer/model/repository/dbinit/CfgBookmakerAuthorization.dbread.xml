@@ -1,0 +1,46 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerAuthorization>
+    <objectId>20000</objectId>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>en</locale>
+          <string>Bookmaker agrupation (Spain)</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Agrupación de casas de apuestas (España)</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <locale>es</locale>
+          <string>Agrupación de casas de apuestas (España)</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <bookmakers>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>85</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>103</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>100</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>19</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>77</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>24</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>79</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+        <objectId>106</objectId>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+    </bookmakers>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerAuthorization>
+</list>

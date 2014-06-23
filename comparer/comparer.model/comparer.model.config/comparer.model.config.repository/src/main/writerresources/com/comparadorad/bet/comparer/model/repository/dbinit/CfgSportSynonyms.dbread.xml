@@ -1,0 +1,1029 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>1</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F�tbol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Football</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Futbol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Football</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>fotboll</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+       <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Soccer</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>1</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>2</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Baloncesto</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Basketball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>B�squet</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Basket-ball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Basket</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>2</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>3</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tenis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tennis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tennis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tenis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tennis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>3</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>4</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>P�del</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Paddle</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>P�del</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Paddle</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Paddle</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>4</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>5</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tenis de mesa</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Table tennis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Tenis taula</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Table tennis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Table tennis</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>5</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>6</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F1</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F1</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F1</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F1</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F1</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>6</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>7</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Motociclismo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Motorcycling</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Motociclisme</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Motorcycling</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Motorcycling</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>7</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>8</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rally</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rally</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ral�li</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rally</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rally</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>8</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>9</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>N�scar</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Nascar</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>N�scar</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Nascar</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Nascar</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>9</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>10</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Dardos</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Darts</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Dards</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Darts</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Darts</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>10</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>11</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Snooker</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Snooker</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Snooker</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Snooker</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Snooker</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>11</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>12</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Golf</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Golf</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Golf</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Golf</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Golf</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>12</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>13</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Atletismo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Athletics</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Atletisme</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Athletics</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Athletics</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>13</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>14</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ciclismo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cycling</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ciclisme</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cycling</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cycling</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>14</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>15</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Triatl�n</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Triathlon</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Triatl�</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Triathlon</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Triathlon</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>15</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>16</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Carreras de galgos</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Greyhounds</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Curses de galgos</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Greyhounds</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Greyhounds</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>16</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>17</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Carreras de caballos</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Horse Racing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Curses de cavalls</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Horse Racing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Horse Racing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>17</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>18</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Balonmano</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Handball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Handbol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Handball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Handball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>18</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>19</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Voleibol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Volleyball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Voleibol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Voleibol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Voleibol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>19</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>20</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Boxeo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Boxing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Boxa</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Boxing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Boxing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>20</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>21</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Deportes de combate</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Combat sports</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Esports de lluita</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Combat sports</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Combat sports</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>21</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>22</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Esqu� de fondo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cross-country skiing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Esqu� de fons</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cross-country skiing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cross-country skiing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>22</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>23</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Esqu�</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ski</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Esqu�</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ski</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ski</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>23</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>24</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Hockey sobre hielo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ice hockey</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Hoquei sobre gel</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ice hockey</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Ice hockey</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>24</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>25</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cricket</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cricket</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cricket</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cricket</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Cricket</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>25</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>26</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>F�tbol americano</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>American football</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Futbol americ�</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>American football</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>American football</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>26</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>27</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>B�isbol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Baseball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Beisbol</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Baseball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Baseball</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>27</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>28</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Remo</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rowing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rem</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rowing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rowing</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>28</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>29</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Lacrosse</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Lacrosse</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Lacrosse</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Lacrosse</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Lacrosse</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>29</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>30</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Aussie Rules</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Aussie Rules</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Aussie Rules</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Aussie Rules</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Aussie Rules</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>30</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+<!--   <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms> -->
+<!--     <objectId>31</objectId> -->
+<!--     <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic"> -->
+<!--       <historicList> -->
+<!--         <com.comparadorad.bet.comparer.model.core.bean.HistoricChange> -->
+<!--           <creationAction>true</creationAction> -->
+<!--           <date>2011-09-25 22:00:00.0 UTC</date> -->
+<!--           <user>WRITER_APP</user> -->
+<!--         </com.comparadorad.bet.comparer.model.core.bean.HistoricChange> -->
+<!--       </historicList> -->
+<!--     </historic> -->
+<!--     <synonimWords> -->
+<!--       <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--         <word>Ciclismo</word> -->
+<!--       </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--       <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--         <word>Cycling</word> -->
+<!--       </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--       <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--         <word>Ciclisme</word> -->
+<!--       </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--       <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--         <word>Cycling</word> -->
+<!--       </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--       <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--         <word>Cycling</word> -->
+<!--       </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord> -->
+<!--     </synonimWords> -->
+<!--     <sport> -->
+<!--       <objectId>31</objectId> -->
+<!--     </sport> -->
+<!--   </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms> -->
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+    <objectId>32</objectId>
+    <historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+      <historicList>
+        <com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+          <creationAction>true</creationAction>
+          <date>2011-09-25 22:00:00.0 UTC</date>
+          <user>WRITER_APP</user>
+        </com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+      </historicList>
+    </historic>
+    <synonimWords>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rugby League</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rugby League</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rugby League</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rugby League</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+      <com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+        <word>Rugby League</word>
+      </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord>
+    </synonimWords>
+    <sport>
+      <objectId>32</objectId>
+    </sport>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms>
+</list>
