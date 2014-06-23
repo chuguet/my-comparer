@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:int="http://www.springframework.org/schema/integration"
+	xmlns:int-amqp="http://www.springframework.org/schema/integration/amqp"
+	xsi:schemaLocation="http://www.springframework.org/schema/integration/amqp http://www.springframework.org/schema/integration/amqp/spring-integration-amqp.xsd
+		http://www.springframework.org/schema/integration http://www.springframework.org/schema/integration/spring-integration.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- LOG -->
+
+	<int:message-history tracked-components="*Channel" />
+
+	<int:logging-channel-adapter id="logger"
+		expression="'CHANNEL: ' + headers.history.get(headers.history.size()-1).get('name') + ' PAYLOAD: ' + payload"
+		logger-name="SPRING-INTEGRATION" level="INFO" />
+
+</beans>
