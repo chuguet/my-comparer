@@ -1,0 +1,79 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.task.AbstractTaskValueBet" 
+    project="comparer.communication.valuebets" 
+    file="/comparer.communication.valuebets/src/main/java/com/comparadorad/bet/comparer/communication/task/AbstractTaskValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="513" y="122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.task.DailyTaskValueBet" project="comparer.communication.valuebets" 
+    
+    file="/comparer.communication.valuebets/src/main/java/com/comparadorad/bet/comparer/communication/task/DailyTaskValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="175" y="339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.task.MonthlyTaskValueBet" 
+    project="comparer.communication.valuebets" 
+    file="/comparer.communication.valuebets/src/main/java/com/comparadorad/bet/comparer/communication/task/MonthlyTaskValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="807" y="336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.task.WeeklyTaskValueBet" 
+    project="comparer.communication.valuebets" 
+    file="/comparer.communication.valuebets/src/main/java/com/comparadorad/bet/comparer/communication/task/WeeklyTaskValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="517" y="339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.communication.task.ITaskValueBet" project="comparer.communication.valuebets" 
+    file="/comparer.communication.valuebets/src/main/java/com/comparadorad/bet/comparer/communication/task/ITaskValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="914" y="122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="6">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="9">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
