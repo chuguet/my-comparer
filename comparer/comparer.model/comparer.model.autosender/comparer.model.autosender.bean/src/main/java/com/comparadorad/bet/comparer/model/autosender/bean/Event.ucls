@@ -1,0 +1,183 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="com.comparadorad.bet.comparer.model.autosender.bean.Event" 
+    project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/Event.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="642" y="129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.EventAttribute" project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/EventAttribute.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1014" y="131"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.EventAttribute.AttributeName" 
+    project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/EventAttribute.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1014" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.TypeEvent" project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/TypeEvent.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="273" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.TypeEvent.TypeEventName" 
+    project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/TypeEvent.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="265" y="339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.MessageQueue.MessageQueueState" 
+    project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/MessageQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="627" y="743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.MessageQueue" project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/MessageQueue.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="640" y="523"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="8" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.TypePayment.TypePaymentName" 
+    project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/TypePayment.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1031" y="725"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.autosender.bean.TypePayment" project="comparer.model.autosender.bean" 
+    file="/comparer.model.autosender.bean/src/main/java/com/comparadorad/bet/comparer/model/autosender/bean/TypePayment.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1031" y="522"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="10">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="11" name="typeEventName"/>      
+      <multiplicity id="12" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="13">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="14" name="name"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="16">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="17" name="attributes"/>      
+      <multiplicity id="18" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="20" name="typePayment"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="22">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="23">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="24" name="typePaymentName"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="27" name="messageQueueState"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="29">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="30">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="31" name="typeEvent"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="33">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <nesting id="34">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="35">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="36" name="event"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

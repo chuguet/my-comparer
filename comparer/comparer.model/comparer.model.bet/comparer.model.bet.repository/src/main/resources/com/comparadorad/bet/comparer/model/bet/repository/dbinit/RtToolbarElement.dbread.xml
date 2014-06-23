@@ -1,0 +1,70 @@
+<list>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>1</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+      <objectId>1</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>2</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgSport">
+      <objectId>2</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>3</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <parentElement reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement[2]"/>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+      <objectId>724</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>4</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <parentElement reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement"/>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgRegion">
+      <objectId>724</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>5</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <parentElement reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement[4]"/>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+      <objectId>656935033</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>6</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <parentElement reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement[4]"/>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+      <objectId>41</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+  <com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+    <objectId>7</objectId>
+    <coreActiveElement>
+      <active>true</active>
+    </coreActiveElement>
+    <parentElement reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement[3]"/>
+    <toolbarConfigurable class="com.comparadorad.bet.comparer.model.config.bean.CfgCompetition">
+      <objectId>6</objectId>
+    </toolbarConfigurable>
+  </com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement>
+</list>

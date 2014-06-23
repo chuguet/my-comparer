@@ -1,0 +1,22 @@
+<list>
+  <com.comparadorad.bet.comparer.model.bet.bean.CfgImageSlider>
+    <betType>
+      <objectId>1</objectId>
+    </betType>
+    <betTypeEvent>
+      <objectId>1</objectId>
+    </betTypeEvent>
+    <idMatch>1122</idMatch>
+    <imageLocation>/documents/10180/0/Evento2/63910dee-cd01-408e-bf14-ff11b98fd693?t=1373624078000</imageLocation>
+  </com.comparadorad.bet.comparer.model.bet.bean.CfgImageSlider>
+  <com.comparadorad.bet.comparer.model.bet.bean.CfgImageSlider>
+    <betType>
+      <objectId>1</objectId>
+    </betType>
+    <betTypeEvent>
+      <objectId>1</objectId>
+    </betTypeEvent>
+    <idMatch>2211</idMatch>
+    <imageLocation>/documents/10180/0/Evento1/393e6dc2-352a-4f23-82cd-23f67e7b19e1?t=1373623925000</imageLocation>
+  </com.comparadorad.bet.comparer.model.bet.bean.CfgImageSlider>
+</list>

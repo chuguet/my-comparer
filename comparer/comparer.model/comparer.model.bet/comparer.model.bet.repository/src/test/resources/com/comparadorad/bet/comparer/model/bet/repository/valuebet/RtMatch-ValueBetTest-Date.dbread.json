@@ -1,0 +1,3615 @@
+/* 0 */
+{
+  "_id" : ObjectId("000000000000000000000000"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "5621e82cea43dad40b86cf15ecbbbfd590f4670f",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Swansea City",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.35"
+          },
+          "hashKey" : "47b48515a017c41fbd2e4977c339e9c278734d8f",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "583584203"
+            }
+          },
+          "webUrl" : {
+            "_id" : "69",
+            "url" : "http://affiliate.intertops.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Intertops"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:41:44.763Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:41:44.763Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "69"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Swansea",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.50"
+          },
+          "hashKey" : "019125aef3eb832264eb1a3f1050f849785a6836",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "583584203"
+            }
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:40:36.047Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:40:36.047Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Valencia",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.50"
+          },
+          "hashKey" : "c04d401eed5b670b1f71654e9101c72dd063d0ce",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "744342839"
+            }
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:40:35.938Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:40:35.938Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "CF Valencia",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.53"
+          },
+          "hashKey" : "fc6ca8954253a28dad91f57377045698bc847ccb",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "744342839"
+            }
+          },
+          "webUrl" : {
+            "_id" : "69",
+            "url" : "http://affiliate.intertops.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Intertops"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:41:44.665Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:41:44.665Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "69"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:40:34.955Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:40:34.955Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("1999-11-28T17:00:00Z"),
+          "providerTimeZoneStr" : "Europe/Malta",
+          "zeroGmtMatchDate" : ISODate("1999-11-28T17:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "YOUWIN_COM_ID",
+            "weigth" : 60
+          }, {
+            "bookmakerId" : "INTERTOPS_EU_ID",
+            "weigth" : 6
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "583584203"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "744342839"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("1999-11-28T17:00:00Z"),
+      "providerTimeZoneStr" : "Europe/Malta",
+      "zeroGmtMatchDate" : ISODate("1999-11-28T17:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("1999-11-27T07:40:34.955Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "983914387"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Europa League Group A Outrights"
+      }, {
+        "_id" : null,
+        "string" : "Europa League Group A Outrights"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("1999-11-27T07:40:34.955Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 1 */
+{
+  "_id" : ObjectId("000000000000000000000001"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "aa063c405390d151ea88b51228832c2640463441",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Nanterre",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "251.00"
+          },
+          "hashKey" : "30f0dd2235c16d95a1749f120ddad045bb0ce0e9",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "787053107"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.192Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.192Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "CSKA Moscow",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "5.50"
+          },
+          "hashKey" : "380375914c14fc03f7bd6761803bafb32abd3a8e",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "860914333"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.292Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.292Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Fenerbahce Ulker",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.20"
+          },
+          "hashKey" : "8245e4d28c5ef11004d9fa6c174ecc1f787d0999",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "784262977"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.294Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.294Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Regal FC Barcelona",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "5.50"
+          },
+          "hashKey" : "4a3e20642c106142984fce7ceebc40b37a9bbb6f",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "539147051"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.092Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:08.092Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:44:07.774Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:44:07.774Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("2255-11-28T16:30:00Z"),
+          "providerTimeZoneStr" : "UTC",
+          "zeroGmtMatchDate" : ISODate("2255-11-28T17:30:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "WILLIAMHILL_COM_ID",
+            "weigth" : 40
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "787053107"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "860914333"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "539147051"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "784262977"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("2255-11-28T16:30:00Z"),
+      "providerTimeZoneStr" : "UTC",
+      "zeroGmtMatchDate" : ISODate("2255-11-28T17:30:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("2255-11-27T07:44:07.674Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "1003056619"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Euroleague 2255/2255 - Group Winner - Group A"
+      }, {
+        "_id" : null,
+        "string" : "Euroleague 2255/2255 - Group Winner - Group A"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2255-11-27T07:44:07.674Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 2 */
+{
+  "_id" : ObjectId("000000000000000000000002"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "e4abb175c49e52010edfcd45855b447f507f902e",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Cleveland Browns",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "americanOdds" : "5000.00",
+            "fraOdds" : "50/1",
+            "odds" : "51.00"
+          },
+          "hashKey" : "ba5e1421555e4b99da782ded3105085b9050e126",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "886656809"
+            }
+          },
+          "webUrl" : {
+            "_id" : "26",
+            "url" : "http://partners.betfredaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetFred"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.819Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.819Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "26"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Baltimore Ravens",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "americanOdds" : "750.00",
+            "fraOdds" : "15/2",
+            "odds" : "8.50"
+          },
+          "hashKey" : "f9e87cefec28c61ea6b3b1f06059d29344484dcb",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "878017457"
+            }
+          },
+          "webUrl" : {
+            "_id" : "26",
+            "url" : "http://partners.betfredaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetFred"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.817Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.817Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "26"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Pittsburgh Steelers",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "americanOdds" : "750.00",
+            "fraOdds" : "15/2",
+            "odds" : "8.50"
+          },
+          "hashKey" : "8c09cf9a20939de3d63df69da36cebf02c4a4f62",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "645516761"
+            }
+          },
+          "webUrl" : {
+            "_id" : "26",
+            "url" : "http://partners.betfredaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetFred"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.82Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.82Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "26"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Cincinnati Bengals",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "americanOdds" : "-16.67",
+            "fraOdds" : "1/6",
+            "odds" : "1.17"
+          },
+          "hashKey" : "2e505f5697c4841f382acdc8e6867c22c043d17f",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "602474911"
+            }
+          },
+          "webUrl" : {
+            "_id" : "26",
+            "url" : "http://partners.betfredaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetFred"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.818Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:31:03.818Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "26"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:31:03.009Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:31:03.009Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("2255-05-18T22:00:00Z"),
+          "providerTimeZoneStr" : "UTC",
+          "zeroGmtMatchDate" : ISODate("2255-05-18T23:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "BETFRED_COM_ID",
+            "weigth" : 18
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "645516761"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "878017457"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "602474911"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "886656809"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("2255-05-18T22:00:00Z"),
+      "providerTimeZoneStr" : "UTC",
+      "zeroGmtMatchDate" : ISODate("2255-05-18T23:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("1999-11-27T07:31:02.404Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "906711683"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "AFC North Division AFC North Winner"
+      }, {
+        "_id" : null,
+        "string" : "AFC North Division AFC North Winner"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("1999-11-27T07:31:02.404Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 3 */
+{
+  "_id" : ObjectId("000000000000000000000003"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "94970bccf600418f875ad7041836ee9b8ca2bbdc",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Paris Saint Germain",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.08"
+          },
+          "hashKey" : "1e132a7612b1888765ab901025332450be81eb64",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "704302369"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.571Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.571Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Olympique Marseille",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "80.0"
+          },
+          "hashKey" : "46f34347d01d855dde87b266cce3dddd40d84bbe",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "887349403"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.574Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.574Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "AS Saint Etienne",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "150.0"
+          },
+          "hashKey" : "f560b4c5f4bbd8d11e9fdf899773891ea2abd915",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "761109931"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.775Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.775Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "OSC Lille",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "20.0"
+          },
+          "hashKey" : "065bfaa237fee80d6ce2a00508b5a7ed9407f92e",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "807183599"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.575Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.575Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "AS Monaco",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "7.75"
+          },
+          "hashKey" : "e3c788e14808879872fe45899b798be40750f343",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "627293279"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.573Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:32:42.573Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:32:42.471Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:32:42.471Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("2255-05-17T18:00:00Z"),
+          "providerTimeZoneStr" : "Europe/Vienna",
+          "zeroGmtMatchDate" : ISODate("2255-05-17T18:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "BET_AT_HOME_COM_ID",
+            "weigth" : 120
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "627293279"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "704302369"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "761109931"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "807183599"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "887349403"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("2255-05-17T18:00:00Z"),
+      "providerTimeZoneStr" : "Europe/Vienna",
+      "zeroGmtMatchDate" : ISODate("2255-05-17T18:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("2255-11-27T07:32:42.001Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "671152109"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ligue 1 Champion"
+      }, {
+        "_id" : null,
+        "string" : "Ligue 1 Champion"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2255-11-27T07:32:42.001Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 4 */
+{
+  "_id" : ObjectId("000000000000000000000004"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "a4d9b4ac96a9de27c0c4bace0b0707c143c9e177",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Pittsburgh Steelers",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "7.5"
+          },
+          "hashKey" : "011f20d97dec4a2bc6d025df3a7c2df1176f392e",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "645516761"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:42.14Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:42.14Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Cincinnati Bengals",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.15"
+          },
+          "hashKey" : "1d508315806452373f636685c25da276481dbe0b",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "602474911"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:41.837Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:41.837Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Cleveland Browns",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "50.0"
+          },
+          "hashKey" : "227aee81ce15c8a0dd122f69e2e3dbb572c9578d",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "886656809"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:41.837Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:41.837Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Baltimore Ravens",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "7.5"
+          },
+          "hashKey" : "7f776ca3906676dbcda6d356357d125ae3e4f3ac",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "878017457"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:41.534Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:33:41.534Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:33:41.126Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:33:41.126Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("2255-12-31T18:00:00Z"),
+          "providerTimeZoneStr" : "Europe/Vienna",
+          "zeroGmtMatchDate" : ISODate("2255-12-31T18:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "BET_AT_HOME_COM_ID",
+            "weigth" : 120
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "645516761"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "878017457"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "602474911"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "886656809"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("2255-12-31T18:00:00Z"),
+      "providerTimeZoneStr" : "Europe/Vienna",
+      "zeroGmtMatchDate" : ISODate("2255-12-31T18:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("2255-11-27T07:33:40.408Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "906711683"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "AFC North Conference Winner"
+      }, {
+        "_id" : null,
+        "string" : "AFC North Conference Winner"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2255-11-27T07:33:40.408Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 5 */
+{
+  "_id" : ObjectId("000000000000000000000005"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "97da450427890ef99a4a225ca1cf6d417f46dc8a",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "TWO",
+            "winnerName" : "Hagen",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.50"
+          },
+          "hashKey" : "8c9dadac81af721dd48fb7ae7e62e7abbb9328a0",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1034554471"
+            }
+          },
+          "webUrl" : {
+            "_id" : "109",
+            "url" : "https://www.interwetten.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Interwetten"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.51Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.51Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "109"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "ONE",
+            "winnerName" : "Fraport Skyliners Frankfurt",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.50"
+          },
+          "betOddhistoric" : [{
+              "_id" : null,
+              "odds" : "1.55"
+            }],
+          "hashKey" : "d115618a51c60bf605b6160a8d672c8e3e87d9e3",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1069459529"
+            }
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T08:09:30.724Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T08:09:30.724Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "ONE",
+            "winnerName" : "Skyliners Frankfurt",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.45"
+          },
+          "hashKey" : "e6ce0e9e468bd0185baaec4aa93e781983a2ef09",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1069459529"
+            }
+          },
+          "webUrl" : {
+            "_id" : "109",
+            "url" : "https://www.interwetten.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Interwetten"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.509Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.509Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "109"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "TWO",
+            "winnerName" : "Phoenix Hagen",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.40"
+          },
+          "betOddhistoric" : [{
+              "_id" : null,
+              "odds" : "2.35"
+            }],
+          "hashKey" : "0041b394fc95236f86a96d65e911489838e35d0c",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1034554471"
+            }
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T08:09:30.929Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T08:09:30.929Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "472b07b9fcf2c2451e8781e944bf5f77cd8457c8",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:33:53.406Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:33:53.406Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "2"
+      }
+    }, {
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute",
+            "asianResult" : "TWO",
+            "firstValue" : -4.5,
+            "betName" : "Handicap_Asiatico"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.85"
+          },
+          "hashKey" : "6ed6a46f68d28bed55882db69f47f7827132600f",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1034554471"
+            }
+          },
+          "webUrl" : {
+            "_id" : "109",
+            "url" : "https://www.interwetten.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Interwetten"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.609Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.609Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "109"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute",
+            "asianResult" : "ONE",
+            "firstValue" : -4.5,
+            "betName" : "Handicap_Asiatico"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.85"
+          },
+          "hashKey" : "3c339eb89994f8fd2e3930cfac74bc6e1183f79f",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1069459529"
+            }
+          },
+          "webUrl" : {
+            "_id" : "109",
+            "url" : "https://www.interwetten.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Interwetten"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.513Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:33:53.513Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "109"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "761f22b2c1593d0bb87e0b606f990ba4974706de",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:33:53.512Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:33:53.512Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "4"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("1999-12-01T16:00:00Z"),
+          "providerTimeZoneStr" : "Europe/Vienna",
+          "zeroGmtMatchDate" : ISODate("1999-12-01T16:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "INTERWETTEN_COM_ID",
+            "weigth" : 120
+          }, {
+            "bookmakerId" : "YOUWIN_COM_ID",
+            "weigth" : 60
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : true,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "1034554471"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : true,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "1069459529"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("1999-12-01T16:00:00Z"),
+      "providerTimeZoneStr" : "Europe/Vienna",
+      "zeroGmtMatchDate" : ISODate("1999-12-01T16:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("1999-11-27T07:33:53.405Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "891121537"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "1"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Fraport Skyliners Frankfurt vs Phoenix Hagen"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("1999-11-27T07:33:53.405Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 6 */
+{
+  "_id" : ObjectId("000000000000000000000006"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "6c3da6a8004aeed4aedf622557682a38202f4710",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Heart of Midlothian",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "7.75"
+          },
+          "hashKey" : "00d39b2947163f70653ebbce8bc3fce2739abee8",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "565020497"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:06.041Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:06.041Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "St. Johnstone",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "4.9"
+          },
+          "hashKey" : "b31f3699fdc3359bbb2b0b7272b2a00678170655",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "734314079"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:05.839Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:05.839Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Inverness Caledonian Thistle",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.85"
+          },
+          "hashKey" : "028c93309dd1ce50c0960d2f5df6b59f217a38db",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "783250733"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:05.738Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:05.738Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Aberdeen FC",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.35"
+          },
+          "hashKey" : "b80e6f6f8b0dd7e312fc2e4246de34f641f3c612",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "955661591"
+            }
+          },
+          "webUrl" : {
+            "_id" : "16",
+            "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetAtHome"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:05.737Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:34:05.737Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "16"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:34:05.636Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:34:05.636Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("2255-02-01T12:00:00Z"),
+          "providerTimeZoneStr" : "Europe/Vienna",
+          "zeroGmtMatchDate" : ISODate("2255-02-01T12:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "BET_AT_HOME_COM_ID",
+            "weigth" : 120
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "734314079"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "565020497"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "955661591"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "783250733"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("2255-02-01T12:00:00Z"),
+      "providerTimeZoneStr" : "Europe/Vienna",
+      "zeroGmtMatchDate" : ISODate("2255-02-01T12:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("2255-11-27T07:34:05.335Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "741690017"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "League Cup Overal Winner"
+      }, {
+        "_id" : null,
+        "string" : "League Cup Overal Winner"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2255-11-27T07:34:05.335Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 7 */
+{
+  "_id" : ObjectId("000000000000000000000007"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "cdc24e4947084e1d86a677c95bf70a801e5b07d3",
+  "live" : false,
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Lokomotiv Kuban",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "3.75"
+          },
+          "hashKey" : "d5cf7b7f09a88b25fd9143437f0f7d3315afdce8",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1052984423"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.57Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.57Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Red Star Belgrade",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "41.00"
+          },
+          "hashKey" : "b357b5ee49ac62236080fd6420fa3c002e3bfb9a",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "538566823"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.371Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.371Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Laboral Kutxa",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "9.00"
+          },
+          "hashKey" : "37b000f0f6453795bb43d95b708e083469fbb222",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "669433019"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.778Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.778Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Panathinaikos",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "3.75"
+          },
+          "hashKey" : "ceb218db10e964f86c558c3b73127973be6f9e2a",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "766876951"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:15.083Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:15.083Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Maccabi Electra",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.00"
+          },
+          "hashKey" : "9a3b0231e871c49e6b3dfd4556c14efe1ccc14f2",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "639336853"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.984Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.984Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorAttribute",
+            "winnerName" : "Lietuvos Rytas",
+            "betName" : "Ganador"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "201.00"
+          },
+          "hashKey" : "9a45fc15e04c02266fa16b21a578d3810c3ba721",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "560580109"
+            }
+          },
+          "webUrl" : {
+            "_id" : "105",
+            "url" : "http://www.williamhill.com",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "WilliamHill"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.37Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2255-11-27T07:44:14.37Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "105"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "632667547e7cd3e0466547863e1207a8c0c0c549",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:44:14.37Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("2255-11-27T07:44:14.37Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "3"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("2255-11-28T16:30:00Z"),
+          "providerTimeZoneStr" : "UTC",
+          "zeroGmtMatchDate" : ISODate("2255-11-28T17:30:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "WILLIAMHILL_COM_ID",
+            "weigth" : 40
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "1052984423"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "766876951"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "669433019"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "560580109"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "639336853"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "538566823"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("2255-11-28T16:30:00Z"),
+      "providerTimeZoneStr" : "UTC",
+      "zeroGmtMatchDate" : ISODate("2255-11-28T17:30:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("2255-11-27T07:44:14.27Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "1003056619"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "2"
+    }
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Euroleague 2255/2255 - Group Winner - Group D"
+      }, {
+        "_id" : null,
+        "string" : "Euroleague 2255/2255 - Group Winner - Group D"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2255-11-27T07:44:14.27Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 8 */
+{
+  "_id" : ObjectId("000000000000000000000008"),
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "hashKey" : "4e7e7dccbf093469861ca6ee2f4ac14b0aa4a830",
+  "live" : false,
+  "liveId" : "",
+  "markets" : [{
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "TWO",
+            "winnerName" : "Mora IK",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.75"
+          },
+          "hashKey" : "cd4db1181b993315cad5f79ef75fb042c01a50d0",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "753231923"
+            }
+          },
+          "webUrl" : {
+            "_id" : "19",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetClick.com"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:45.338Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:45.338Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "19"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "TWO",
+            "winnerName" : "Mora IK",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "1.75"
+          },
+          "hashKey" : "0e5ad1b3c1d5814afb3564d6f3a0ba713fe2be09",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "753231923"
+            }
+          },
+          "webUrl" : {
+            "_id" : "56",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Expekt"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.788Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.788Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "56"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "ONE",
+            "winnerName" : "IF Troja Ljungby",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.00"
+          },
+          "hashKey" : "e1317acb602e7ac49dee96325cf2cf1d7ffbea65",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "972057371"
+            }
+          },
+          "webUrl" : {
+            "_id" : "19",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetClick.com"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:44.936Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:44.936Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "19"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtGanadorPartidoAttribute",
+            "result" : "ONE",
+            "winnerName" : "IF Troja Ljungby",
+            "betName" : "Ganador_Partido"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.00"
+          },
+          "hashKey" : "7cedd6529985359f32e92d737465af21ad8b85c7",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "972057371"
+            }
+          },
+          "webUrl" : {
+            "_id" : "56",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Expekt"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.787Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.787Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "56"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "472b07b9fcf2c2451e8781e944bf5f77cd8457c8",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:30:44.132Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:30:44.132Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "2"
+      }
+    }, {
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "ONE",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.60"
+          },
+          "hashKey" : "47358dc554b6317ddcfaddc61b002697ffceb177",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "972057371"
+            }
+          },
+          "webUrl" : {
+            "_id" : "19",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetClick.com"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:42.728Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:42.728Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "19"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "DRAW",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "4.10"
+          },
+          "hashKey" : "1e50f843b3a0e4e81220ab4501ae6aabfff5d99d",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false
+          },
+          "webUrl" : {
+            "_id" : "56",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Expekt"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.078Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.078Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "56"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "TWO",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.20"
+          },
+          "hashKey" : "9607b7446ce296def6127e6521d1745da9aaa992",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "753231923"
+            }
+          },
+          "webUrl" : {
+            "_id" : "56",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Expekt"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.078Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:07.078Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "56"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "DRAW",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "4.10"
+          },
+          "hashKey" : "a07adf170fc2c40de772e27cb089018bb0a1681e",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false
+          },
+          "webUrl" : {
+            "_id" : "19",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetClick.com"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:43.728Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:43.728Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "19"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "TWO",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.20"
+          },
+          "hashKey" : "68e866ed26f9e9f4cbd74e6da10912652c84f636",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "753231923"
+            }
+          },
+          "webUrl" : {
+            "_id" : "19",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetClick.com"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:43.729Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:30:43.729Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "19"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "ONE",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.60"
+          },
+          "hashKey" : "c7ed580606e409c481b301e2c08ab01ae72b1279",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "972057371"
+            }
+          },
+          "webUrl" : {
+            "_id" : "56",
+            "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Expekt"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:06.376Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("1999-11-27T07:47:06.376Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "56"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:30:42.526Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("1999-11-27T07:30:42.526Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }],
+  "matchId" : {
+    "_id" : null,
+    "moda" : [{
+        "element" : {
+          "providerDate" : ISODate("1999-11-27T17:00:00Z"),
+          "providerTimeZoneStr" : "Europe/Isle_of_Man",
+          "zeroGmtMatchDate" : ISODate("1999-11-27T18:00:00Z"),
+          "zeroGmtMatchTimeZoneStr" : "GMT+0"
+        },
+        "matchers" : [{
+            "bookmakerId" : "BETCLIC_COM_ID",
+            "weigth" : 9
+          }, {
+            "bookmakerId" : "EXPEKT_COM_ID",
+            "weigth" : 9
+          }]
+      }],
+    "participiants" : [{
+        "_id" : null,
+        "awayParticipant" : false,
+        "homeParticipant" : true,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "972057371"
+        }
+      }, {
+        "_id" : null,
+        "awayParticipant" : true,
+        "homeParticipant" : false,
+        "under" : false,
+        "over" : false,
+        "cfgParticipant" : {
+          "$ref" : "cfgParticipant",
+          "$id" : "753231923"
+        }
+      }],
+    "startDate" : {
+      "providerDate" : ISODate("1999-11-27T17:00:00Z"),
+      "providerTimeZoneStr" : "Europe/Isle_of_Man",
+      "zeroGmtMatchDate" : ISODate("1999-11-27T18:00:00Z"),
+      "zeroGmtMatchTimeZoneStr" : "GMT+0"
+    },
+    "historic" : {
+      "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+      "historicList" : [{
+          "creationAction" : true,
+          "date" : ISODate("1999-11-27T07:30:41.725Z"),
+          "user" : "system",
+          "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+        }]
+    },
+    "competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "849865427"
+    },
+    "competitionEvent" : {
+      "$ref" : "cfgCompetitionEvent",
+      "$id" : "1"
+    }
+  },
+  "streaming" : "0",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Troja Ljungby vs Mora IK"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("1999-11-27T07:30:41.725Z"),
+        "user" : "system",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}

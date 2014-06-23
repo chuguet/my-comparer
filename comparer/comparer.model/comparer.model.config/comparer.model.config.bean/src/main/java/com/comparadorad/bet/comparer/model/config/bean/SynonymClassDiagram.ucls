@@ -1,0 +1,158 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.AbstractCfgSynonymWord" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/AbstractCfgSynonymWord.java" 
+    binary="false">    
+    <position height="169" width="336" x="1646" y="246"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.AbstractCfgSynonyms" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/AbstractCfgSynonyms.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="859" y="293"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgCompetitionSynonyms.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="333" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord" 
+    project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgCompetitionSynonymWord.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1860" y="604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgSportSynonyms.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1166" y="566"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgSportSynonymWord.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1510" y="614"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgParticipantSynonyms.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="788" y="577"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgParticipantSynonymWord.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="2178" y="603"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.ICfgSynonyms" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/ICfgSynonyms.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="910" y="87"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.ICfgSynonymWord" project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/ICfgSynonymWord.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1788" y="78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="17">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="18" name="abstractCfgSynonyms"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="21" name="synonimWords"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

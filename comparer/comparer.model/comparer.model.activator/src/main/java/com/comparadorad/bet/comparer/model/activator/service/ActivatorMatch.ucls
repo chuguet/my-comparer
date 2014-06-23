@@ -1,0 +1,77 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.bet.activator.AbstractActivatorMatch" project="comparer.model.bet.service" 
+    
+    file="/comparer.model.bet.service/src/main/java/com/comparadorad/bet/comparer/model/bet/activator/AbstractActivatorMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="549" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.bet.activator.IActivatorMatch" project="comparer.model.bet.service" 
+    file="/comparer.model.bet.service/src/main/java/com/comparadorad/bet/comparer/model/bet/activator/IActivatorMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="547" y="95"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.bet.activator.PreproductionActivatorMatch" 
+    project="comparer.model.bet.service" 
+    file="/comparer.model.bet.service/src/main/java/com/comparadorad/bet/comparer/model/bet/activator/PreproductionActivatorMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="556" y="497"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.bet.activator.ProActivatorMatch" project="comparer.model.bet.service" 
+    file="/comparer.model.bet.service/src/main/java/com/comparadorad/bet/comparer/model/bet/activator/ProActivatorMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="201" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.bet.activator.TestActivatorMatch" project="comparer.model.bet.service" 
+    file="/comparer.model.bet.service/src/main/java/com/comparadorad/bet/comparer/model/bet/activator/TestActivatorMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="889" y="481"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <realization id="6">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
