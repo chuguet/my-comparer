@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.app.util.xml</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>comparer.app.util.xml.download</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<properties>
+		<service.name>ComparerApps.DownloadXml</service.name>
+	</properties>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>appassembler-maven-plugin</artifactId>
+				<version>1.1.1</version>
+				<executions>
+					<execution>
+						<id>create-repository</id>
+						<phase>integration-test</phase>
+						<goals>
+							<goal>create-repository</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>generate-jsw-scripts</id>
+						<phase>package</phase>
+						<goals>
+							<goal>generate-daemons</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<!--declare the JSW config -->
+					<defaultJvmSettings>
+						<initialMemorySize>32M</initialMemorySize>
+						<maxMemorySize>64M</maxMemorySize>
+					</defaultJvmSettings>
+					<repositoryLayout>flat</repositoryLayout>
+					<programs>
+						<program>
+							<name>${service.name}</name>
+							<!-- class Main -->
+							<mainClass>com.comparadorad.bet.comparer.app.util.xml.download.app.BatchXmlDownloadApp</mainClass>
+						</program>
+					</programs>
+					<platforms>
+						<platform>windows</platform>
+					</platforms>
+					<daemons>
+						<daemon>
+							<!-- Name Service -->
+							<id>${service.name}</id>
+							<mainClass>com.comparadorad.bet.comparer.app.util.xml.download.app.BatchXmlDownloadApp</mainClass>
+							<platforms>
+								<platform>jsw</platform>
+							</platforms>
+
+							<generatorConfigurations>
+								<generatorConfiguration>
+									<generator>jsw</generator>
+									<configuration>
+										<property>
+											<name>set.default.REPO_DIR</name>
+											<value>lib</value>
+										</property>
+										<property>
+											<name>wrapper.logfile</name>
+											<value>logs/wrapper_YYYYMMDD.log</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxsize</name>
+											<value>3m</value>
+										</property>										
+										<property>
+											<name>wrapper.ntservice.displayname</name>
+											<value>Comparer Apps. Xml Downloader</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.description</name>
+											<value>Compare Apps. Downloads the xml from the bookmakers.</value>
+										</property>
+									</configuration>
+								</generatorConfiguration>
+							</generatorConfigurations>
+						</daemon>
+					</daemons>
+					<target>${project.build.directory}/appassembler</target>
+					<repoPath>jsw/${service.name}/lib/</repoPath>
+				</configuration>
+
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<!-- Start dependency own -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.datasource</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.datasource</artifactId>
+			<classifier>tests</classifier>
+			<scope>test</scope>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.config.repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.logger</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.server.dummy</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<!-- End dependency own -->
+		<dependency>
+			<groupId>org.springframework.batch</groupId>
+			<artifactId>spring-batch-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+			<version>${spring.version}</version>
+		</dependency>
+		<!-- Start dependency test -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<!-- End dependency test -->
+		<!-- start For test -->
+		<dependency>
+			<groupId>org.eclipse.jetty</groupId>
+			<artifactId>jetty-server</artifactId>
+			<!-- <scope>test</scope> -->
+		</dependency>
+
+	</dependencies>
+
+
+</project>

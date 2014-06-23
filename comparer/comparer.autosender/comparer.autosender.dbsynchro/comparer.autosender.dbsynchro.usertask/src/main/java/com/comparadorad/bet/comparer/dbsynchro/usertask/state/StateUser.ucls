@@ -1,0 +1,110 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.content.StartUserState" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/content/StartUserState.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="438" y="258"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.PaymentUserState" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/PaymentUserState.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="510" y="513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.content.DeleteUserState" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/content/DeleteUserState.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="839" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.content.ModificationUserState" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/content/ModificationUserState.java" 
+    binary="false">    
+    <position height="214" width="256" x="1042" y="150"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.content.CreateUserState" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/content/CreateUserState.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1157" y="495"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.AbstractStateUser" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/AbstractStateUser.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="816" y="261"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.dbsynchro.usertask.state.content.IUserState" 
+    project="comparer.autosender.dbsynchro.usertask" 
+    file="/comparer.autosender.dbsynchro.usertask/src/main/java/com/comparadorad/bet/comparer/dbsynchro/usertask/state/content/IUserState.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="825" y="58"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="11">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
