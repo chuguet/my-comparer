@@ -1,0 +1,152 @@
+Apuesta: Lukas Lacko - David Ferrer
+Configuracion:
+<dictionary>
+	<sport>
+		<Tenis>
+			<All>
+				Tennis
+			</All>
+		</Tenis>
+	</sport>
+	<Competition>
+		<French_Open_Men>
+			<TitanBet>
+				French Open 2012 - Mens Match Coupon
+			</TitanBet>
+			<BetClick>
+				French Open M.
+			</BetClick>
+			<BetAtHome>
+				French Open Men
+			</BetAtHome>
+		</French_Open_Men>
+	</Competition>
+	<participant>
+		<Tenis>
+			<French_Open_Men>
+				
+			</French_Open_Men>
+		</Tenis>
+	</participant>
+</dictionary>
+
+<patternMaster>
+	<string>""</string>
+</patternMaster>
+
+
+<pattern>
+	<All>
+		<!--
+			Se encuentra la cadena dentro de otra cadena
+		-->
+		<string>""</string>
+		<height>50%</height>
+	</All>
+	<TitanBet>
+		<!--
+			Comparacion quitando todo los elementos que estan dentro de ()
+		-->
+		<string>"^(*)"</string>
+		<height>100%</height>
+	</TitanBet>
+	<BetAtHome>
+		<!--
+			Se encuentra la cadena dentro de otra cadena quitando letra un punto
+		-->
+		<string>"^([a-z]?.)"</string>
+		<height>90%</height>
+	</BetAtHome>
+</pattern>
+
+1º 	TitanBet		Grabacion: 	"David Ferrer (ESP)" con peso:0
+						No asigna puntos
+	ESTADO:			David Ferrer (ESP) 	= 0
+					David Ferrer		NO EXISTE
+					Ferrer D			NO EXISTE
+2º	BetClick		Grabacion:	"David Ferrer" con peso: 0. 
+						Asigno a la cadena "David Ferrer (ESP)" 50% puntos de BetClick
+					2 VOTANTES
+	ESTADO:			David Ferrer (ESP) 	= 	50/2 = 25
+					David Ferrer		=	0%
+					Ferrer D.			NO EXISTE
+3º	BetAtHome		Grabacion:	"Ferrer D" con peso: 0.
+						Asigno a la cadena "David Ferrer (ESP)" 90% puntos de BetAtHome
+						Asigno a la cadena "David Ferrer" 90% puntos de BetAtHome
+					3 VOTANTES
+	ESTADO:			David Ferrer (ESP) 	= 	90% + 50% = 46.6
+					David Ferrer		=	90% = 30
+					Ferrer D			=	0%
+				
+#Se promociona con >45 David Ferrer como master, los demas son hijos.
+					
+					
+					
+
+
+
+-- TitanBet
+<sport id="2490" name="Tennis">
+	<group id="70421" name="French Open 2012 - Mens Match Coupon">
+		<event id="791762" name="Lukas Lacko (SVK) - David Ferrer (ESP)" date="2012-05-29 09:10:00" BRI="2707424">
+			<participants>
+				<participant id="70625" team="Lukas Lacko (SVK)" type="1"/>
+				<participant id="70871" team="David Ferrer (ESP)" type="2"/>
+			</participants>
+			<market tid="120" name="Match Winner">
+				<outcome id="18735243" name="Lukas Lacko (SVK)" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+				<outcome id="18735244" name="David Ferrer (ESP)" odds="1.004" american_odds="-25000" fra_odds="1/250"/>
+			</market>
+			<market tid="131" name="Set 1 Winner">
+				<outcome id="18787303" name="Lukas Lacko (SVK)" odds="10.00" american_odds="900" fra_odds="9/1"/>
+				<outcome id="18787304" name="David Ferrer (ESP)" odds="1.06" american_odds="-1667" fra_odds="1/20"/>
+			</market>
+			<market tid="268" name="Total Games">
+				<outcome id="18795075" name="Over 25.5" odds="2.15" american_odds="115" fra_odds="23/20"/>
+				<outcome id="18795076" name="Under 25.5" odds="1.7" american_odds="-143" fra_odds="7/10"/>
+			</market>
+			<market tid="255" name="Games Handicap">
+				<outcome id="18795109" name="Lukas Lacko (SVK) (+11)" odds="1.9" american_odds="-111" fra_odds="9/10"/>
+				<outcome id="18795110" name="David Ferrer (ESP) (-11)" odds="1.9" american_odds="-111" fra_odds="9/10"/>
+			</market>
+			<market tid="262" name="Correct Score - 5 Sets">
+				<outcome id="18787309" name="Lukas Lacko (SVK) 3-0" odds="101.00" american_odds="10000" fra_odds="100/1"/>
+				<outcome id="18787310" name="Lukas Lacko (SVK) 3-1" odds="81.00" american_odds="8000" fra_odds="80/1"/>
+				<outcome id="18787311" name="Lukas Lacko (SVK) 3-2" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+				<outcome id="18787312" name="David Ferrer (ESP) 0-3" odds="1.16" american_odds="-625" fra_odds="3/20"/>
+				<outcome id="18787313" name="David Ferrer (ESP) 1-3" odds="6.5" american_odds="550" fra_odds="11/2"/>
+				<outcome id="18787314" name="David Ferrer (ESP) 2-3" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+			</market>
+		</event>
+	</group>
+</sport>
+
+--BetClick
+<sport name="Tennis" id="2">
+	<event name="French Open M." id="59">
+		<match name="David Ferrer - Lukas Lacko" id="458957" start_date="2012-05-29T10:00:00" live_id="52812" streaming="0">
+			<bets>
+				<bet code="Ten_Mr2" name="Match Winner" id="3445005">
+					<choice name="%1%" id="29109260" odd="1.01"/>
+					<choice name="%2%" id="29109261" odd="20.00"/>
+				</bet>
+			</bets>
+		</match>
+	</event>
+</sport>
+
+--BetAtHome
+<OO>
+	<Sport>Tennis</Sport>
+	<Category />
+	<Tournament>French Open Men</Tournament>
+	<Date>2012-05-29T10:55:00</Date>
+	<AC>1</AC>
+	<OddsType>2W</OddsType>
+	<OddsData>
+		<HomeTeam>Ferrer D.</HomeTeam>
+		<AwayTeam>Lacko L.</AwayTeam>
+		<HomeOdds>1.01</HomeOdds>
+		<AwayOdds>12.00</AwayOdds>
+	</OddsData>
+</OO>

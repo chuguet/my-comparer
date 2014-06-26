@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.synchro.reader</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.synchro.reader.app</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<properties>
+		<service.name>ComparerApps.ReaderApp</service.name>
+		<service.description>Compare Apps.Main application.</service.description>
+		<service.mainClass>com.comparadorad.bet.comparer.synchro.reader.app.BatchReaderApp</service.mainClass>
+		<default.service.environments>preproduction,DATA_APP_CORRECT_DATABASE</default.service.environments>
+	</properties>
+
+	<profiles>
+		<profile>
+			<id>bwin</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>bwin</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-bwin</service.name>
+				<service.description>Compare Apps.Main application - bwin.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/bwin
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>bwin_ZERO</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>bwin_ZERO</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-bwin - ZERO</service.name>
+				<service.description>Compare Apps.Main application - bwin - ZERO.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/bwin_ZERO
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<id>betboo</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betboo</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betboo</service.name>
+				<service.description>Compare Apps.Main application - betboo.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betboo
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>sportsbetting</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>sportsbetting</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-sportsbetting</service.name>
+				<service.description>Compare Apps.Main application - sportsbetting.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/sportsbetting
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<id>sportsbettingag</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>sportsbettingag</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-sportsbettingag</service.name>
+				<service.description>Compare Apps.Main application -
+					sportsbettingag.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/sportsbettingag
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betathome</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betathome</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betathome</service.name>
+				<service.description>Compare Apps.Main application - betathome.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betathome
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>uwin</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>uwin</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-uwin</service.name>
+				<service.description>Compare Apps.Main application - uwin.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/uwin
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+		<profile>
+			<id>interwetten</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>interwetten</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-interwetten</service.name>
+				<service.description>Compare Apps.Main application - interwetten.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/interwetten
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>interwetten_ZERO</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>interwetten_ZERO</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-interwetten-ZERO</service.name>
+				<service.description>Compare Apps.Main application -
+					interwetten-ZERO.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/interwetten_ZERO
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>boylesports</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>boylesports</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-boyleSports</service.name>
+				<service.description>Compare Apps.Main application - boyleSports.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/boylesports
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betredkings</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betredkings</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betredkings</service.name>
+				<service.description>Compare Apps.Main application - betredkings.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betredkings
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>pinnacle</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>pinnacle</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-pinnacle</service.name>
+				<service.description>Compare Apps.Main application - pinnacle.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/pinnacle
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betonline</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betonline</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betonline</service.name>
+				<service.description>Compare Apps.Main application - betonline.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betonline
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>unibet</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>unibet</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-unibet</service.name>
+				<service.description>Compare Apps.Main application - unibet.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/unibet
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+		<profile>
+			<id>luckia</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>luckia</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-luckia</service.name>
+				<service.description>Compare Apps.Main application - luckia.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/luckia
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>luckia_ZERO</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>luckia_ZERO</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-luckia - ZERO</service.name>
+				<service.description>Compare Apps.Main application - luckia - ZERO.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/luckia_ZERO
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>intertops</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>intertops</value>
+				</property>
+			</activation>
+			<properties>
+				<service.name>ComparerApps.ReaderApp-interTops</service.name>
+				<service.description>Compare Apps.Main application - interTops.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/intertops
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>expekt</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>expekt</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-expekt</service.name>
+				<service.description>Compare Apps.Main application - expekt.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/expekt
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betfred</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betfred</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betfred</service.name>
+				<service.description>Compare Apps.Main application - betfred.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betfred
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>youwin</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>youwin</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-youWin</service.name>
+				<service.description>Compare Apps.Main application - youWin.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/youwin
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>williamhill</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>williamhill</value>
+				</property>
+			</activation>
+			<properties>
+				<service.name>ComparerApps.ReaderApp-williamhill</service.name>
+				<service.description>Compare Apps.Main application - williamhill.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/williamhill
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>williamhill_ZERO</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>williamhill_ZERO</value>
+				</property>
+			</activation>
+			<properties>
+				<service.name>ComparerApps.ReaderApp-williamhill-ZERO</service.name>
+				<service.description>Compare Apps.Main application -
+					williamhill-ZERO.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/williamhill_ZERO
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+
+		<profile>
+			<id>triobet</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>triobet</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-Triobet</service.name>
+				<service.description>Compare Apps.Main application - Triobet.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/triobet
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>nordic</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>nordic</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-Nordic</service.name>
+				<service.description>Compare Apps.Main application - Nordic.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/nordic
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betclick</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betclick</value>
+				</property>
+			</activation>
+			<properties>
+				<service.name>ComparerApps.ReaderApp-Betclick</service.name>
+				<service.description>Compare Apps.Main application - BetClick.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betclick
+						</directory>
+					</resource>
+				</resources>
+			</build>
+		</profile>
+
+		<profile>
+			<id>sportingbet</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>sportingbet</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-sportingbet</service.name>
+				<service.description>Compare Apps.Main application - sportingbet.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/sportingbet
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<id>centrebet</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>centrebet</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-centrebet</service.name>
+				<service.description>Compare Apps.Main application - centrebet.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/centrebet
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>miapuesta</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>miapuesta</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-miapuesta</service.name>
+				<service.description>Compare Apps.Main application - miapuesta.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/miapuesta
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betgun</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betgun</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betgun</service.name>
+				<service.description>Compare Apps.Main application - betgun.</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betgun
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<id>bookmaker.eu</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>bookmaker.eu</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-bookmaker.eu</service.name>
+				<service.description>Compare Apps.Main application - bookmaker.eu</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/bookmakereu
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betcris</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betcris</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betcris</service.name>
+				<service.description>Compare Apps.Main application - betcris</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betcris
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+		<profile>
+			<id>betdsi</id>
+			<activation>
+				<property>
+					<name>env</name>
+					<value>betdsi</value>
+				</property>
+			</activation>
+
+			<properties>
+				<service.name>ComparerApps.ReaderApp-betdsi</service.name>
+				<service.description>Compare Apps.Main application - betdsi</service.description>
+			</properties>
+			<build>
+				<resources>
+					<resource>
+						<filtering>true</filtering>
+						<directory>
+							${basedir}/src/main/resources
+						</directory>
+						<excludes>
+							<exclude>config-batch.properties</exclude>
+						</excludes>
+					</resource>
+					<resource>
+						<filtering>false</filtering>
+						<directory>
+							${basedir}/src/main/resources/betdsi
+						</directory>
+					</resource>
+				</resources>
+			</build>
+
+		</profile>
+
+	</profiles>
+
+
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>appassembler-maven-plugin</artifactId>
+				<version>1.3</version>
+				<executions>
+					<execution>
+						<id>create-repository</id>
+						<phase>integration-test</phase>
+						<goals>
+							<goal>create-repository</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>generate-jsw-scripts</id>
+						<phase>package</phase>
+						<goals>
+							<goal>generate-daemons</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<!--declare the JSW config -->
+					<defaultJvmSettings>
+						<initialMemorySize>64M</initialMemorySize>
+						<maxMemorySize>512M</maxMemorySize>
+					</defaultJvmSettings>
+					<repositoryLayout>flat</repositoryLayout>
+					<programs>
+						<program>
+							<name>${service.name}</name>
+							<!-- class Main -->
+							<mainClass>${service.mainClass}</mainClass>
+						</program>
+					</programs>
+					<platforms>
+						<platform>windows</platform>
+					</platforms>
+					<daemons>
+						<daemon>
+							<!-- Name Service -->
+							<id>${service.name}</id>
+							<mainClass>${service.mainClass}</mainClass>
+							<platforms>
+								<platform>jsw</platform>
+							</platforms>
+							<jvmSettings>
+								<extraArguments>
+									<extraArgument>-Dspring.profiles.active=${default.service.environments}</extraArgument>
+								</extraArguments>
+							</jvmSettings>
+							<generatorConfigurations>
+								<generatorConfiguration>
+									<generator>jsw</generator>
+									<includes>
+										<include>linux-x86-32</include>
+										<include>linux-x86-64</include>
+										<include>windows-x86-32</include>
+									</includes>
+									<configuration>
+										<property>
+											<name>wrapper.java.initmemory</name>
+											<value>512M</value>
+										</property>
+										<property>
+											<name>wrapper.java.maxmemory</name>
+											<value>1200M</value>
+										</property>
+										<property>
+											<name>set.default.REPO_DIR</name>
+											<value>lib</value>
+										</property>
+										<property>
+											<name>wrapper.logfile</name>
+											<value>logs/wrapper.log</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxsize</name>
+											<value>10m</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxfiles</name>
+											<value>25</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.displayname</name>
+											<value>${service.name}</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.description</name>
+											<value>${service.description}</value>
+										</property>
+										<property>
+											<name>wrapper.ping.interval</name>
+											<value>10</value>
+										</property>
+										<property>
+											<name>wrapper.ping.timeout</name>
+											<value>60</value>
+										</property>
+										<property>
+											<name>wrapper.ping.timeout.action</name>
+											<value>RESTART</value>
+										</property>
+									</configuration>
+								</generatorConfiguration>
+							</generatorConfigurations>
+						</daemon>
+					</daemons>
+					<target>${project.build.directory}/appassembler</target>
+					<repoPath>jsw/${service.name}/lib/</repoPath>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<!-- Start com.comparadorad.bet -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.batch</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.config.service</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.config.service</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.datasource</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.filter</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!--<dependency> <groupId>com.comparadorad.bet</groupId> <artifactId>comparer.synchro.reader.reader</artifactId> 
+			<version>${project.version}</version> </dependency> -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.readerbookmaker.core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- dependency> <groupId>com.comparadorad.bet</groupId> <artifactId>comparer.synchro.reader.process</artifactId> 
+			<version>${project.version}</version> </dependency -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.processbookmaker</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.writer</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.url.maker</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.toolbar</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.url.parameter</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.synchro.reader.url.parameter</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.integration.producer</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- End com.comparadorad.bet -->
+		<!-- Start Spring -->
+		<dependency>
+			<groupId>org.springframework.batch</groupId>
+			<artifactId>spring-batch-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>javax.inject</groupId>
+			<artifactId>javax.inject</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-tx</artifactId>
+		</dependency>
+		<!-- End Spring -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+
+	</dependencies>
+
+</project>

@@ -1,0 +1,4000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-05-29 10:40:28" lastMsgId="3179914124" requestTime="0.3265">
+	<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+		<williamhill>
+			<class id="273" name="European Basketball" maxRepDate="2012-05-17" maxRepTime="09:59:01">
+				<type
+id="1653"
+name="Polish PLK"
+url="http://sports.williamhill.com/bet/betting/t/1653"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="35924046"
+name="Trefl Sopot v Asseco Prokom - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3027711/Trefl%2dSopot%2dv%2dAsseco%2dProkom"
+date="2012-05-29"
+time="17:30:00"
+betTillDate="2012-05-29"
+betTillTime="17:30:00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+>
+						<participant
+name="Yes"
+id="152332221"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="No"
+id="152332223"
+odds="1/50"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+					</market>
+					<market
+id="35924048"
+name="Trefl Sopot v Asseco Prokom - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3027711/Trefl%2dSopot%2dv%2dAsseco%2dProkom"
+date="2012-05-29"
+time="17:30:00"
+betTillDate="2012-05-29"
+betTillTime="17:30:00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+>
+						<participant
+name="Asseco Prokom 7-9 points"
+id="152332228"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 4-6 points"
+id="152332230"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 4-6 points"
+id="152332233"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Asseco Prokom 13-16 points"
+id="152332235"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 13-16 points"
+id="152332238"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 10-12 points"
+id="152332239"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 17-20 points"
+id="152332242"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Asseco Prokom 21 points or more"
+id="152332244"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 21 points or more"
+id="152332247"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 10-12 points"
+id="152332251"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 7-9 points"
+id="152332253"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 1-3 points"
+id="152332257"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 17-20 points"
+id="152332261"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 1-3 points"
+id="152332264"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+					</market>
+					<market
+id="35924053"
+name="Trefl Sopot v Asseco Prokom - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3027711/Trefl%2dSopot%2dv%2dAsseco%2dProkom"
+date="2012-05-29"
+time="17:30:00"
+betTillDate="2012-05-29"
+betTillTime="17:30:00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+>
+						<participant
+name="Trefl Sopot/Trefl Sopot"
+id="152332270"
+odds="21/10"
+oddsDecimal="3.10"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom/Asseco Prokom"
+id="152332271"
+odds="6/5"
+oddsDecimal="2.20"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot/Asseco Prokom"
+id="152332273"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Tie/Asseco Prokom"
+id="152332275"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom/Trefl Sopot"
+id="152332277"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Tie/Trefl Sopot"
+id="152332279"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+					</market>
+					<market
+id="35924094"
+name="Trefl Sopot v Asseco Prokom - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3027711/Trefl%2dSopot%2dv%2dAsseco%2dProkom"
+date="2012-05-29"
+time="17:30:00"
+betTillDate="2012-05-29"
+betTillTime="17:30:00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+>
+						<participant
+name="Asseco Prokom 1-3 points"
+id="152332378"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 10-12 points"
+id="152332382"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 7-9 points"
+id="152332384"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 21 points or more"
+id="152332388"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 13-16 points"
+id="152332389"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 17-20 points"
+id="152332392"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 1-3 points"
+id="152332394"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 10-12 points"
+id="152332397"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 4-6 points"
+id="152332399"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Asseco Prokom 13-16 points"
+id="152332403"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Tie"
+id="152332405"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 17-20 points"
+id="152332408"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 7-9 points"
+id="152332411"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+						<participant
+name="Trefl Sopot 21 points or more"
+id="152332414"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:39"
+handicap=""/>
+						<participant
+name="Trefl Sopot 4-6 points"
+id="152332418"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-27"
+lastUpdateTime="09:27:40"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="1692"
+name="Italian Lega Due"
+url="http://sports.williamhill.com/bet/betting/t/1692"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="36037292"
+name="Givova Scafati v Pistoia - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036120/Givova%2dScafati%2dv%2dPistoia"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+>
+						<participant
+name="No"
+id="152766480"
+odds="1/66"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Yes"
+id="152766482"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+					</market>
+					<market
+id="36037294"
+name="Givova Scafati v Pistoia - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036120/Givova%2dScafati%2dv%2dPistoia"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+>
+						<participant
+name="Givova Scafati 10-12 points"
+id="152766483"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+handicap=""/>
+						<participant
+name="Pistoia 13-16 points"
+id="152766485"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Givova Scafati 13-16 points"
+id="152766486"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Pistoia 10-12 points"
+id="152766488"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Pistoia 7-9 points"
+id="152766490"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Pistoia 17-20 points"
+id="152766492"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Pistoia 1-3 points"
+id="152766494"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+handicap=""/>
+						<participant
+name="Givova Scafati 21 points or more"
+id="152766497"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Pistoia 4-6 points"
+id="152766499"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Pistoia 21 points or more"
+id="152766501"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+						<participant
+name="Givova Scafati 7-9 points"
+id="152766504"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+handicap=""/>
+						<participant
+name="Givova Scafati 4-6 points"
+id="152766506"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+handicap=""/>
+						<participant
+name="Givova Scafati 1-3 points"
+id="152766508"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:46"
+handicap=""/>
+						<participant
+name="Givova Scafati 17-20 points"
+id="152766510"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="17:15:31"
+handicap=""/>
+					</market>
+					<market
+id="36037322"
+name="Givova Scafati v Pistoia - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036120/Givova%2dScafati%2dv%2dPistoia"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:47"
+>
+						<participant
+name="Pistoia 10-12 points"
+id="152766577"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Givova Scafati 1-3 points"
+id="152766578"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:49"
+handicap=""/>
+						<participant
+name="Pistoia 17-20 points"
+id="152766579"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Pistoia 4-6 points"
+id="152766581"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Givova Scafati 4-6 points"
+id="152766583"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Pistoia 7-9 points"
+id="152766585"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Pistoia 21 points or more"
+id="152766587"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Pistoia 1-3 points"
+id="152766589"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Givova Scafati 7-9 points"
+id="152766591"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Givova Scafati 10-12 points"
+id="152766594"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Givova Scafati 13-16 points"
+id="152766596"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Pistoia 13-16 points"
+id="152766598"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:49"
+handicap=""/>
+						<participant
+name="Givova Scafati 21 points or more"
+id="152766600"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Givova Scafati 17-20 points"
+id="152766601"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+						<participant
+name="Tie"
+id="152766604"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:35:48"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="1693"
+name="Greek A1"
+url="http://sports.williamhill.com/bet/betting/t/1693"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="23411231"
+name="Greek A1 - Outright Winner - Outright Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2427988/Greek%2dA1%2d%2d%2dOutright%2dWinner"
+date="2012-05-30"
+time="17:00:00"
+betTillDate="2012-05-30"
+betTillTime="17:00:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:04"
+>
+						<participant
+name="Panathinaikos"
+id="104015576"
+odds="13/4"
+oddsDecimal="4.25"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:18:38"
+handicap=""/>
+						<participant
+name="Olympiacos"
+id="104015577"
+odds="1/5"
+oddsDecimal="1.20"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:17:57"
+handicap=""/>
+					</market>
+					<market
+id="36104345"
+name="Panathinaikos v Olympiacos - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039681/Panathinaikos%2dv%2dOlympiacos"
+date="2012-05-30"
+time="17:00:00"
+betTillDate="2012-05-30"
+betTillTime="17:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:51"
+>
+						<participant
+name="No"
+id="153020317"
+odds="1/50"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Yes"
+id="153020318"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:51"
+handicap=""/>
+					</market>
+					<market
+id="36104346"
+name="Panathinaikos v Olympiacos - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039681/Panathinaikos%2dv%2dOlympiacos"
+date="2012-05-30"
+time="17:00:00"
+betTillDate="2012-05-30"
+betTillTime="17:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:51"
+>
+						<participant
+name="Olympiacos 4-6 points"
+id="153020319"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 13-16 points"
+id="153020320"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 7-9 points"
+id="153020321"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 1-3 points"
+id="153020322"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 17-20 points"
+id="153020323"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 17-20 points"
+id="153020324"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 1-3 points"
+id="153020325"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 4-6 points"
+id="153020326"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:33:24"
+handicap=""/>
+						<participant
+name="Panathinaikos 10-12 points"
+id="153020327"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 21 points or more"
+id="153020328"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 7-9 points"
+id="153020329"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:33:47"
+handicap=""/>
+						<participant
+name="Olympiacos 21 points or more"
+id="153020330"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 13-16 points"
+id="153020331"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 10-12 points"
+id="153020332"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+					</market>
+					<market
+id="36104347"
+name="Panathinaikos v Olympiacos - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039681/Panathinaikos%2dv%2dOlympiacos"
+date="2012-05-30"
+time="17:00:00"
+betTillDate="2012-05-30"
+betTillTime="17:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+>
+						<participant
+name="Panathinaikos/Panathinaikos"
+id="153020333"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos/Panathinaikos"
+id="153020334"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos/Olympiacos"
+id="153020335"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Tie/Olympiacos"
+id="153020336"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Tie/Panathinaikos"
+id="153020337"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos/Olympiacos"
+id="153020338"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+					</market>
+					<market
+id="36104361"
+name="Panathinaikos v Olympiacos - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039681/Panathinaikos%2dv%2dOlympiacos"
+date="2012-05-30"
+time="17:00:00"
+betTillDate="2012-05-30"
+betTillTime="17:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:51"
+>
+						<participant
+name="Panathinaikos 13-16 points"
+id="153020369"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 7-9 points"
+id="153020370"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 1-3 points"
+id="153020371"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Tie"
+id="153020372"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 13-16 points"
+id="153020373"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 21 points or more"
+id="153020374"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 17-20 points"
+id="153020375"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:51"
+handicap=""/>
+						<participant
+name="Olympiacos 1-3 points"
+id="153020376"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 10-12 points"
+id="153020377"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Panathinaikos 4-6 points"
+id="153020378"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 4-6 points"
+id="153020379"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:51"
+handicap=""/>
+						<participant
+name="Panathinaikos 7-9 points"
+id="153020380"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 17-20 points"
+id="153020381"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 10-12 points"
+id="153020382"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+						<participant
+name="Olympiacos 21 points or more"
+id="153020383"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:37:52"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="1747"
+name="Spanish Liga ACB"
+url="http://sports.williamhill.com/bet/betting/t/1747"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="23186533"
+name="Spanish Liga ACB - Outright Winner - Outright Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2415536/Spanish%2dLiga%2dACB%2d%2d%2dOutright%2dWinner"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:04"
+>
+						<participant
+name="Regal FC Barcelona"
+id="102759645"
+odds="8/15"
+oddsDecimal="1.53"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:21:46"
+handicap=""/>
+						<participant
+name="Real Madrid"
+id="102759646"
+odds="13/4"
+oddsDecimal="4.25"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:22:00"
+handicap=""/>
+						<participant
+name="Caja Laboral"
+id="102759647"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:22:25"
+handicap=""/>
+						<participant
+name="Valencia Basket"
+id="102759649"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:15"
+handicap=""/>
+					</market>
+					<market
+id="36103817"
+name="Caja Laboral v Real Madrid - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039646/Caja%2dLaboral%2dv%2dReal%2dMadrid"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+>
+						<participant
+name="Yes"
+id="153018742"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="No"
+id="153018745"
+odds="1/50"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+					</market>
+					<market
+id="36103820"
+name="Caja Laboral v Real Madrid - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039646/Caja%2dLaboral%2dv%2dReal%2dMadrid"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+>
+						<participant
+name="Real Madrid 17-20 points"
+id="153018748"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 1-3 points"
+id="153018750"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Caja Laboral 21 points or more"
+id="153018752"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Real Madrid 10-12 points"
+id="153018755"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 7-9 points"
+id="153018756"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Caja Laboral 10-12 points"
+id="153018759"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 17-20 points"
+id="153018760"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 4-6 points"
+id="153018763"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Real Madrid 1-3 points"
+id="153018764"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Real Madrid 13-16 points"
+id="153018766"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Real Madrid 21 points or more"
+id="153018768"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Real Madrid 7-9 points"
+id="153018771"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Caja Laboral 13-16 points"
+id="153018773"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Real Madrid 4-6 points"
+id="153018775"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+					</market>
+					<market
+id="36103830"
+name="Caja Laboral v Real Madrid - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039646/Caja%2dLaboral%2dv%2dReal%2dMadrid"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+>
+						<participant
+name="Caja Laboral/Real Madrid"
+id="153018779"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Real Madrid/Real Madrid"
+id="153018781"
+odds="21/10"
+oddsDecimal="3.10"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Caja Laboral/Caja Laboral"
+id="153018783"
+odds="6/5"
+oddsDecimal="2.20"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Tie/Caja Laboral"
+id="153018785"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Real Madrid/Caja Laboral"
+id="153018788"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+						<participant
+name="Tie/Real Madrid"
+id="153018789"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+handicap=""/>
+					</market>
+					<market
+id="36103867"
+name="Caja Laboral v Real Madrid - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039646/Caja%2dLaboral%2dv%2dReal%2dMadrid"
+date="2012-05-29"
+time="19:45:00"
+betTillDate="2012-05-29"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:37"
+>
+						<participant
+name="Real Madrid 1-3 points"
+id="153018900"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Caja Laboral 7-9 points"
+id="153018903"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Caja Laboral 1-3 points"
+id="153018905"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 21 points or more"
+id="153018907"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Caja Laboral 17-20 points"
+id="153018910"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Real Madrid 10-12 points"
+id="153018912"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 10-12 points"
+id="153018914"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Real Madrid 4-6 points"
+id="153018915"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Real Madrid 13-16 points"
+id="153018918"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 13-16 points"
+id="153018920"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Real Madrid 7-9 points"
+id="153018923"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Tie"
+id="153018924"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Real Madrid 21 points or more"
+id="153018926"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Real Madrid 17-20 points"
+id="153018929"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Caja Laboral 4-6 points"
+id="153018931"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+					</market>
+					<market
+id="36103844"
+name="Valencia Basket v Regal FC Barcelona - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039647/Valencia%2dBasket%2dv%2dRegal%2dFC%2dBarcelona"
+date="2012-05-30"
+time="19:45:00"
+betTillDate="2012-05-30"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+>
+						<participant
+name="No"
+id="153018816"
+odds="1/66"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:34"
+handicap=""/>
+						<participant
+name="Yes"
+id="153018819"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:34"
+handicap=""/>
+					</market>
+					<market
+id="36103846"
+name="Valencia Basket v Regal FC Barcelona - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039647/Valencia%2dBasket%2dv%2dRegal%2dFC%2dBarcelona"
+date="2012-05-30"
+time="19:45:00"
+betTillDate="2012-05-30"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+>
+						<participant
+name="Regal FC Barcelona 10-12 points"
+id="153018823"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 4-6 points"
+id="153018827"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 10-12 points"
+id="153018830"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 1-3 points"
+id="153018832"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 21 points or more"
+id="153018834"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 1-3 points"
+id="153018837"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 21 points or more"
+id="153018840"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 13-16 points"
+id="153018842"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 7-9 points"
+id="153018844"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 4-6 points"
+id="153018847"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 7-9 points"
+id="153018850"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 17-20 points"
+id="153018852"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 13-16 points"
+id="153018855"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 17-20 points"
+id="153018858"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+					</market>
+					<market
+id="36103853"
+name="Valencia Basket v Regal FC Barcelona - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039647/Valencia%2dBasket%2dv%2dRegal%2dFC%2dBarcelona"
+date="2012-05-30"
+time="19:45:00"
+betTillDate="2012-05-30"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+>
+						<participant
+name="Tie/Valencia Basket"
+id="153018862"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket/Valencia Basket"
+id="153018865"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket/Regal FC Barcelona"
+id="153018867"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Tie/Regal FC Barcelona"
+id="153018869"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona/Valencia Basket"
+id="153018871"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona/Regal FC Barcelona"
+id="153018873"
+odds="5/6"
+oddsDecimal="1.83"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+					</market>
+					<market
+id="36103893"
+name="Valencia Basket v Regal FC Barcelona - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3039647/Valencia%2dBasket%2dv%2dRegal%2dFC%2dBarcelona"
+date="2012-05-30"
+time="19:45:00"
+betTillDate="2012-05-30"
+betTillTime="19:45:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+>
+						<participant
+name="Valencia Basket 1-3 points"
+id="153018981"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Tie"
+id="153018983"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 13-16 points"
+id="153018986"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 21 points or more"
+id="153018988"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 4-6 points"
+id="153018989"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Valencia Basket 7-9 points"
+id="153018991"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Valencia Basket 17-20 points"
+id="153018993"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Valencia Basket 4-6 points"
+id="153018994"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 17-20 points"
+id="153018995"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Valencia Basket 13-16 points"
+id="153018997"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 7-9 points"
+id="153018999"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Valencia Basket 10-12 points"
+id="153019000"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 1-3 points"
+id="153019001"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:36"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 10-12 points"
+id="153019002"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+						<participant
+name="Regal FC Barcelona 21 points or more"
+id="153019003"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:14:35"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="1748"
+name="Italian Lega Basket"
+url="http://sports.williamhill.com/bet/betting/t/1748"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="36036909"
+name="Emporio Armani Milano v Scavolini Siviglia Pesaro - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036118/Emporio%2dArmani%2dMilano%2dv%2dScavolini%2dSiviglia%2dPesaro"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+>
+						<participant
+name="Scavolini Siviglia Pesaro 17-20 points"
+id="152765427"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 4-6 points"
+id="152765429"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 7-9 points"
+id="152765432"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 21 points or more"
+id="152765434"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 10-12 points"
+id="152765437"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 1-3 points"
+id="152765440"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 13-16 points"
+id="152765443"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 13-16 points"
+id="152765446"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 4-6 points"
+id="152765449"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 7-9 points"
+id="152765452"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 17-20 points"
+id="152765455"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 1-3 points"
+id="152765458"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 10-12 points"
+id="152765461"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 21 points or more"
+id="152765463"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+					</market>
+					<market
+id="36036912"
+name="Emporio Armani Milano v Scavolini Siviglia Pesaro - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036118/Emporio%2dArmani%2dMilano%2dv%2dScavolini%2dSiviglia%2dPesaro"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+>
+						<participant
+name="Tie/Emporio Armani Milano"
+id="152765468"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Tie/Scavolini Siviglia Pesaro"
+id="152765469"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano/Emporio Armani Milano"
+id="152765471"
+odds="4/7"
+oddsDecimal="1.57"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro/Scavolini Siviglia Pesaro"
+id="152765474"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro/Emporio Armani Milano"
+id="152765478"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano/Scavolini Siviglia Pesaro"
+id="152765481"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+					</market>
+					<market
+id="36036954"
+name="Emporio Armani Milano v Scavolini Siviglia Pesaro - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036118/Emporio%2dArmani%2dMilano%2dv%2dScavolini%2dSiviglia%2dPesaro"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+>
+						<participant
+name="Scavolini Siviglia Pesaro 1-3 points"
+id="152765572"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 4-6 points"
+id="152765575"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 7-9 points"
+id="152765576"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 21 points or more"
+id="152765579"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 21 points or more"
+id="152765581"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 10-12 points"
+id="152765583"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 17-20 points"
+id="152765586"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 4-6 points"
+id="152765589"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 13-16 points"
+id="152765592"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 10-12 points"
+id="152765595"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Tie"
+id="152765597"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 7-9 points"
+id="152765602"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:39"
+handicap=""/>
+						<participant
+name="Scavolini Siviglia Pesaro 13-16 points"
+id="152765605"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 1-3 points"
+id="152765608"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+						<participant
+name="Emporio Armani Milano 17-20 points"
+id="152765610"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:34:38"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="1749"
+name="German BBL"
+url="http://sports.williamhill.com/bet/betting/t/1749"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="23412417"
+name="German BBL -Outright Winner - Outright Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2428019/German%2dBBL%2d%2dOutright%2dWinner"
+date="2012-06-03"
+time="14:30:00"
+betTillDate="2012-06-03"
+betTillTime="14:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:04"
+>
+						<participant
+name="Brose Baskets"
+id="103626583"
+odds="3/25"
+oddsDecimal="1.12"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:24:00"
+handicap=""/>
+						<participant
+name="Rationpharm Ulm"
+id="103626595"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:24:08"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="1750"
+name="French LNB Pro A"
+url="http://sports.williamhill.com/bet/betting/t/1750"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="36037177"
+name="Le Mans v SLUC Nancy - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036113/Le%2dMans%2dv%2dSLUC%2dNancy"
+date="2012-05-29"
+time="19:00:00"
+betTillDate="2012-05-29"
+betTillTime="19:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+>
+						<participant
+name="Yes"
+id="152766155"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="No"
+id="152766157"
+odds="1/50"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+					</market>
+					<market
+id="36037180"
+name="Le Mans v SLUC Nancy - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036113/Le%2dMans%2dv%2dSLUC%2dNancy"
+date="2012-05-29"
+time="19:00:00"
+betTillDate="2012-05-29"
+betTillTime="19:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+>
+						<participant
+name="SLUC Nancy 4-6 points"
+id="152766162"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="SLUC Nancy 1-3 points"
+id="152766165"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:55"
+handicap=""/>
+						<participant
+name="SLUC Nancy 17-20 points"
+id="152766168"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="SLUC Nancy 10-12 points"
+id="152766171"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="SLUC Nancy 21 points or more"
+id="152766174"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="Le Mans 10-12 points"
+id="152766177"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="SLUC Nancy 13-16 points"
+id="152766181"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="Le Mans 21 points or more"
+id="152766182"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:55"
+handicap=""/>
+						<participant
+name="Le Mans 1-3 points"
+id="152766185"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Le Mans 4-6 points"
+id="152766188"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="SLUC Nancy 7-9 points"
+id="152766190"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="Le Mans 7-9 points"
+id="152766193"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="Le Mans 17-20 points"
+id="152766194"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:54"
+handicap=""/>
+						<participant
+name="Le Mans 13-16 points"
+id="152766197"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:55"
+handicap=""/>
+					</market>
+					<market
+id="36037181"
+name="Le Mans v SLUC Nancy - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036113/Le%2dMans%2dv%2dSLUC%2dNancy"
+date="2012-05-29"
+time="19:00:00"
+betTillDate="2012-05-29"
+betTillTime="19:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:14"
+>
+						<participant
+name="Le Mans/SLUC Nancy"
+id="152766200"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Tie/Le Mans"
+id="152766202"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="SLUC Nancy/SLUC Nancy"
+id="152766205"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Le Mans/Le Mans"
+id="152766209"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy/Le Mans"
+id="152766211"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Tie/SLUC Nancy"
+id="152766213"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+					</market>
+					<market
+id="36037223"
+name="Le Mans v SLUC Nancy - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036113/Le%2dMans%2dv%2dSLUC%2dNancy"
+date="2012-05-29"
+time="19:00:00"
+betTillDate="2012-05-29"
+betTillTime="19:00:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+>
+						<participant
+name="Tie"
+id="152766305"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="SLUC Nancy 4-6 points"
+id="152766308"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Le Mans 1-3 points"
+id="152766310"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Le Mans 21 points or more"
+id="152766315"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy 10-12 points"
+id="152766318"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy 7-9 points"
+id="152766321"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Le Mans 7-9 points"
+id="152766324"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy 1-3 points"
+id="152766326"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="Le Mans 17-20 points"
+id="152766329"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy 13-16 points"
+id="152766332"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Le Mans 13-16 points"
+id="152766333"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy 21 points or more"
+id="152766336"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="Le Mans 4-6 points"
+id="152766338"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="Le Mans 10-12 points"
+id="152766340"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+						<participant
+name="SLUC Nancy 17-20 points"
+id="152766343"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="15:41:59"
+handicap=""/>
+					</market>
+					<market
+id="23506568"
+name="French Pro A - Outright Winner - Outright Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2431006/French%2dPro%2dA%2d%2d%2dOutright%2dWinner"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:04"
+>
+						<participant
+name="SLUC Nancy"
+id="104059465"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:35:02"
+handicap=""/>
+						<participant
+name="Cholet"
+id="104059466"
+odds="15/1"
+oddsDecimal="16.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:34:54"
+handicap=""/>
+						<participant
+name="Le Mans"
+id="104059467"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:34:03"
+handicap=""/>
+						<participant
+name="Gravelines"
+id="104059468"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:30:08"
+handicap=""/>
+						<participant
+name="Chalon sur Saone"
+id="104059470"
+odds="2/1"
+oddsDecimal="3.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:30:17"
+handicap=""/>
+						<participant
+name="Orleans"
+id="104059471"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-24"
+lastUpdateTime="11:54:51"
+handicap=""/>
+					</market>
+					<market
+id="36037176"
+name="Gravelines v Cholet - Will There Be Overtime?"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036112/Gravelines%2dv%2dCholet"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+>
+						<participant
+name="Yes"
+id="152766153"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="No"
+id="152766156"
+odds="1/66"
+oddsDecimal="1.02"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+					</market>
+					<market
+id="36037179"
+name="Gravelines v Cholet - Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036112/Gravelines%2dv%2dCholet"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+>
+						<participant
+name="Cholet 7-9 points"
+id="152766160"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="Cholet 13-16 points"
+id="152766163"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Cholet 21 points or more"
+id="152766166"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Cholet 1-3 points"
+id="152766170"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Cholet 10-12 points"
+id="152766172"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines 4-6 points"
+id="152766175"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="Gravelines 21 points or more"
+id="152766178"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines 13-16 points"
+id="152766180"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines 7-9 points"
+id="152766184"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:15"
+handicap=""/>
+						<participant
+name="Cholet 4-6 points"
+id="152766186"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines 1-3 points"
+id="152766189"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines 17-20 points"
+id="152766192"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Cholet 17-20 points"
+id="152766195"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines 10-12 points"
+id="152766198"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+					</market>
+					<market
+id="36037182"
+name="Gravelines v Cholet - Double Result"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036112/Gravelines%2dv%2dCholet"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+>
+						<participant
+name="Tie/Gravelines"
+id="152766201"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Cholet/Gravelines"
+id="152766204"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines/Gravelines"
+id="152766207"
+odds="7/10"
+oddsDecimal="1.70"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Gravelines/Cholet"
+id="152766210"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Cholet/Cholet"
+id="152766212"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+						<participant
+name="Tie/Cholet"
+id="152766215"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="22:21:16"
+handicap=""/>
+					</market>
+					<market
+id="36037224"
+name="Gravelines v Cholet - 1st Half Winning Margin"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3036112/Gravelines%2dv%2dCholet"
+date="2012-05-29"
+time="19:30:00"
+betTillDate="2012-05-29"
+betTillTime="19:30:00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+>
+						<participant
+name="Gravelines 1-3 points"
+id="152766312"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Gravelines 10-12 points"
+id="152766316"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Gravelines 17-20 points"
+id="152766319"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 17-20 points"
+id="152766322"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Gravelines 7-9 points"
+id="152766325"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 21 points or more"
+id="152766328"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Gravelines 13-16 points"
+id="152766331"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Gravelines 4-6 points"
+id="152766334"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 7-9 points"
+id="152766337"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 1-3 points"
+id="152766339"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Gravelines 21 points or more"
+id="152766341"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Tie"
+id="152766344"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 13-16 points"
+id="152766346"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 10-12 points"
+id="152766349"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+						<participant
+name="Cholet 4-6 points"
+id="152766352"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="11:32:16"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="3919"
+name="Turkish TBL"
+url="http://sports.williamhill.com/bet/betting/t/3919"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="23798764"
+name="Turkish TBL - Outright Winner - Outright Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2445718/Turkish%2dTBL%2d%2d%2dOutright%2dWinner"
+date="2012-05-29"
+time="17:00:00"
+betTillDate="2012-05-29"
+betTillTime="17:00:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:04"
+>
+						<participant
+name="Anadolu Efes"
+id="105230092"
+odds="4/5"
+oddsDecimal="1.80"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:36:02"
+handicap=""/>
+						<participant
+name="Besiktas"
+id="105230095"
+odds="9/10"
+oddsDecimal="1.90"
+lastUpdateDate="2012-05-28"
+lastUpdateTime="12:36:07"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="8360"
+name="Olympics 2012 - Women&amp;apos;s Basketball"
+url="http://sports.williamhill.com/bet/betting/t/8360"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="31959569"
+name="Women&amp;apos;s Basketball - Gold Medal Winner - Gold Medal Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2841666/Women%2ds%2dBasketball%2d%2d%2dGold%2dMedal%2dWinner"
+date="2012-06-25"
+time="15:30:00"
+betTillDate="2012-06-25"
+betTillTime="15:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:16"
+>
+						<participant
+name="USA"
+id="137228622"
+odds="1/6"
+oddsDecimal="1.17"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Australia"
+id="137228623"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Russia"
+id="137228624"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="France"
+id="137228625"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Czech Republic"
+id="137228626"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Turkey"
+id="137228627"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="China"
+id="137228628"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Brazil"
+id="137228629"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="South Korea"
+id="137228630"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Canada"
+id="137228631"
+odds="250/1"
+oddsDecimal="251.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Croatia"
+id="137228632"
+odds="250/1"
+oddsDecimal="251.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Japan"
+id="137228633"
+odds="250/1"
+oddsDecimal="251.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Argentina"
+id="137228634"
+odds="350/1"
+oddsDecimal="351.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="New Zealand"
+id="137228635"
+odds="350/1"
+oddsDecimal="351.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Great Britain"
+id="137228636"
+odds="500/1"
+oddsDecimal="501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Cuba"
+id="137228637"
+odds="500/1"
+oddsDecimal="501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Mozambique"
+id="137228638"
+odds="1000/1"
+oddsDecimal="1001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Mali"
+id="137228639"
+odds="1000/1"
+oddsDecimal="1001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Puerto Rico"
+id="137228640"
+odds="2000/1"
+oddsDecimal="2001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Angola"
+id="137228641"
+odds="2000/1"
+oddsDecimal="2001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Senegal"
+id="137228642"
+odds="5000/1"
+oddsDecimal="5001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+					</market>
+					<market
+id="31959609"
+name="Women&amp;apos;s Basketball - Podium Finish - Podium Finish"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2841668/Women%2ds%2dBasketball%2d%2d%2dPodium%2dFinish"
+date="2012-06-25"
+time="15:30:00"
+betTillDate="2012-06-25"
+betTillTime="15:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:16"
+>
+						<participant
+name="USA"
+id="137228580"
+odds="1/200"
+oddsDecimal="1.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Australia"
+id="137228581"
+odds="2/5"
+oddsDecimal="1.40"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Russia"
+id="137228582"
+odds="2/5"
+oddsDecimal="1.40"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="France"
+id="137228583"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Czech Republic"
+id="137228584"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Turkey"
+id="137228585"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="China"
+id="137228586"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Brazil"
+id="137228587"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="South Korea"
+id="137228588"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Canada"
+id="137228589"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Croatia"
+id="137228590"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Japan"
+id="137228591"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Argentina"
+id="137228592"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="New Zealand"
+id="137228593"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Great Britain"
+id="137228594"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Cuba"
+id="137228595"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Mozambique"
+id="137228596"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Mali"
+id="137228597"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Puerto Rico"
+id="137228598"
+odds="500/1"
+oddsDecimal="501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Angola"
+id="137228599"
+odds="500/1"
+oddsDecimal="501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Senegal"
+id="137228600"
+odds="1000/1"
+oddsDecimal="1001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+					</market>
+					<market
+id="32930413"
+name="Outright Without USA - Winner Without USA"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2879005/Outright%2dWithout%2dUSA"
+date="2012-06-25"
+time="15:30:00"
+betTillDate="2012-06-25"
+betTillTime="15:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:18"
+>
+						<participant
+name="Australia"
+id="140918349"
+odds="11/8"
+oddsDecimal="2.38"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Russia"
+id="140918350"
+odds="11/8"
+oddsDecimal="2.38"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="France"
+id="140918351"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Czech Republic"
+id="140918352"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Turkey"
+id="140918353"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="China"
+id="140918354"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Brazil"
+id="140918355"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="South Korea"
+id="140918356"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Canada"
+id="140918357"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Croatia"
+id="140918358"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Japan"
+id="140918359"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Argentina"
+id="140918360"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="New Zealand"
+id="140918361"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Great Britain"
+id="140918362"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Cuba"
+id="140918363"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Mozambique"
+id="140918364"
+odds="300/1"
+oddsDecimal="301.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Mali"
+id="140918365"
+odds="300/1"
+oddsDecimal="301.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Puerto Rico"
+id="140918366"
+odds="600/1"
+oddsDecimal="601.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Angola"
+id="140918367"
+odds="600/1"
+oddsDecimal="601.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Senegal"
+id="140918368"
+odds="1500/1"
+oddsDecimal="1501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+					</market>
+				</type>
+				<type
+id="8361"
+name="Olympics 2012 - Men&amp;apos;s Basketball"
+url="http://sports.williamhill.com/bet/betting/t/8361"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:52:19">
+					<market
+id="31958357"
+name="Men&amp;apos;s Basketball - Gold Medal Winner - Gold Medal Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2841669/Men%2ds%2dBasketball%2d%2d%2dGold%2dMedal%2dWinner"
+date="2012-07-02"
+time="15:30:00"
+betTillDate="2012-07-02"
+betTillTime="15:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:16"
+>
+						<participant
+name="USA"
+id="137228643"
+odds="1/5"
+oddsDecimal="1.20"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Spain"
+id="137228644"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="France"
+id="137228645"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Argentina"
+id="137228646"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Lithuania"
+id="137228647"
+odds="30/1"
+oddsDecimal="31.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Russia"
+id="137228648"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Brazil"
+id="137228649"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Greece"
+id="137228650"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Australia"
+id="137228651"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Puerto Rico"
+id="137228652"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Great Britain"
+id="137228653"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="FYR Macedonia"
+id="137228654"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Dominican Republic"
+id="137228655"
+odds="250/1"
+oddsDecimal="251.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="China"
+id="137228656"
+odds="250/1"
+oddsDecimal="251.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="New Zealand"
+id="137228657"
+odds="350/1"
+oddsDecimal="351.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Angola"
+id="137228658"
+odds="500/1"
+oddsDecimal="501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Nigeria"
+id="137228659"
+odds="1000/1"
+oddsDecimal="1001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Tunisia"
+id="137228660"
+odds="2000/1"
+oddsDecimal="2001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Venezuela"
+id="137228661"
+odds="2000/1"
+oddsDecimal="2001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="South Korea"
+id="137228662"
+odds="2000/1"
+oddsDecimal="2001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Jordan"
+id="137228663"
+odds="5000/1"
+oddsDecimal="5001.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+					</market>
+					<market
+id="31959596"
+name="Men&amp;apos;s Basketball - Podium Finish - Podium Finish"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2841667/Men%2ds%2dBasketball%2d%2d%2dPodium%2dFinish"
+date="2012-07-02"
+time="15:30:00"
+betTillDate="2012-07-02"
+betTillTime="15:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:16"
+>
+						<participant
+name="USA"
+id="137228601"
+odds="1/100"
+oddsDecimal="1.01"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Spain"
+id="137228602"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="France"
+id="137228603"
+odds="9/4"
+oddsDecimal="3.25"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Argentina"
+id="137228604"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Lithuania"
+id="137228605"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Russia"
+id="137228606"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Brazil"
+id="137228607"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Greece"
+id="137228608"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Australia"
+id="137228609"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Puerto Rico"
+id="137228610"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Great Britain"
+id="137228611"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="FYR Macedonia"
+id="137228612"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Dominican Republic"
+id="137228613"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="China"
+id="137228614"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="New Zealand"
+id="137228615"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Angola"
+id="137228616"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Nigeria"
+id="137228617"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Tunisia"
+id="137228618"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Venezuela"
+id="137228619"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="South Korea"
+id="137228620"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+						<participant
+name="Jordan"
+id="137228621"
+odds="500/1"
+oddsDecimal="501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:58:58"
+handicap=""/>
+					</market>
+					<market
+id="32930464"
+name="Outright Without USA - Winner Without USA"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2879004/Outright%2dWithout%2dUSA"
+date="2012-07-02"
+time="15:30:00"
+betTillDate="2012-07-02"
+betTillTime="15:30:00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:53:18"
+>
+						<participant
+name="Spain"
+id="140918299"
+odds="4/5"
+oddsDecimal="1.80"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="France"
+id="140918300"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Argentina"
+id="140918301"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Lithuania"
+id="140918302"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Russia"
+id="140918303"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Brazil"
+id="140918304"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Greece"
+id="140918305"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Australia"
+id="140918306"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Puerto Rico"
+id="140918307"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Great Britain"
+id="140918308"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="FYR Macedonia"
+id="140918309"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Dominican Republic"
+id="140918310"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="China"
+id="140918311"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="New Zealand"
+id="140918312"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Angola"
+id="140918313"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Nigeria"
+id="140918314"
+odds="300/1"
+oddsDecimal="301.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Tunisia"
+id="140918315"
+odds="700/1"
+oddsDecimal="701.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Venezuela"
+id="140918316"
+odds="700/1"
+oddsDecimal="701.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="South Korea"
+id="140918317"
+odds="700/1"
+oddsDecimal="701.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+						<participant
+name="Jordan"
+id="140918318"
+odds="1500/1"
+oddsDecimal="1501.00"
+lastUpdateDate="2012-05-17"
+lastUpdateTime="09:59:01"
+handicap=""/>
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+			</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

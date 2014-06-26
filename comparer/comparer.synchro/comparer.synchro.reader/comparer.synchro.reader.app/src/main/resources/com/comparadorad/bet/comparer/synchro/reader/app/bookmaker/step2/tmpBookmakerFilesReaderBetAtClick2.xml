@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports file_date="2012-05-29T09:25:26.647">
+	<sport name="Football" id="1">
+		<event name="Euro 2012" id="122">
+			<match name="Portugal - Spain" id="463874" start_date="2012-06-27T19:45:00"
+				live_id="54026" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Match Result" id="3507636">
+						<choice name="%1%" id="29462382" odd="4.00" />
+						<choice name="Draw" id="29462383" odd="3.30" />
+						<choice name="%2%" id="29462384" odd="1.90" />
+					</bet>
+					<bet code="Ftb_Csc" name="Correct Score" id="3507640">
+						<choice name="1 - 0" id="29462394" odd="8.50" />
+						<choice name="2 - 0" id="29462395" odd="20.00" />
+						<choice name="2 - 1" id="29462396" odd="14.00" />
+						<choice name="3 - 0" id="29462397" odd="50.00" />
+						<choice name="3 - 1" id="29462398" odd="40.00" />
+						<choice name="3 - 2" id="29462399" odd="60.00" />
+						<choice name="4 - 0" id="29462400" odd="125.00" />
+						<choice name="4 - 1" id="29462401" odd="100.00" />
+						<choice name="4 - 2" id="29462402" odd="125.00" />
+						<choice name="4 - 3" id="29462403" odd="150.00" />
+						<choice name="0 - 0" id="29462404" odd="7.00" />
+						<choice name="1 - 1" id="29462405" odd="6.00" />
+						<choice name="2 - 2" id="29462406" odd="20.00" />
+						<choice name="3 - 3" id="29462407" odd="80.00" />
+						<choice name="0 - 1" id="29462408" odd="5.50" />
+						<choice name="0 - 2" id="29462409" odd="7.00" />
+						<choice name="1 - 2" id="29462410" odd="8.50" />
+						<choice name="0 - 3" id="29462411" odd="14.00" />
+						<choice name="1 - 3" id="29462412" odd="18.00" />
+						<choice name="2 - 3" id="29462413" odd="40.00" />
+						<choice name="0 - 4" id="29462414" odd="40.00" />
+						<choice name="1 - 4" id="29462415" odd="40.00" />
+						<choice name="2 - 4" id="29462416" odd="80.00" />
+						<choice name="3 - 4" id="29462417" odd="125.00" />
+						<choice name="5 - 0" id="29462418" odd="175.00" />
+						<choice name="5 - 1" id="29462419" odd="175.00" />
+						<choice name="5 - 2" id="29462420" odd="175.00" />
+						<choice name="6 - 0" id="29462421" odd="200.00" />
+						<choice name="6 - 1" id="29462422" odd="175.00" />
+						<choice name="6 - 2" id="29462423" odd="200.00" />
+						<choice name="0 - 5" id="29462424" odd="80.00" />
+						<choice name="1 - 5" id="29462425" odd="100.00" />
+						<choice name="2 - 5" id="29462426" odd="125.00" />
+						<choice name="0 - 6" id="29462427" odd="150.00" />
+						<choice name="1 - 6" id="29462428" odd="150.00" />
+						<choice name="2 - 6" id="29462429" odd="175.00" />
+						<choice name="5 - 3" id="29462430" odd="175.00" />
+						<choice name="7 - 0" id="29462431" odd="200.00" />
+						<choice name="7 - 1" id="29462432" odd="200.00" />
+						<choice name="8 - 0" id="29462433" odd="200.00" />
+						<choice name="8 - 1" id="29462434" odd="200.00" />
+						<choice name="9 - 0" id="29462435" odd="200.00" />
+						<choice name="10 - 0" id="29462436" odd="200.00" />
+						<choice name="4 - 4" id="29462437" odd="175.00" />
+						<choice name="3 - 5" id="29462438" odd="175.00" />
+						<choice name="0 - 7" id="29462439" odd="175.00" />
+						<choice name="0 - 8" id="29462440" odd="200.00" />
+						<choice name="0 - 9" id="29462441" odd="200.00" />
+						<choice name="0 - 10" id="29462444" odd="200.00" />
+						<choice name="1 - 7" id="29462442" odd="175.00" />
+						<choice name="1 - 8" id="29462443" odd="200.00" />
+						<choice name="Any other score" id="29462450" odd="175.00" />
+						<choice name="5 - 4" id="29462445" odd="200.00" />
+						<choice name="6 - 3" id="29462446" odd="200.00" />
+						<choice name="5 - 5" id="29462447" odd="200.00" />
+						<choice name="4 - 5" id="29462448" odd="175.00" />
+						<choice name="3 - 6" id="29462449" odd="175.00" />
+					</bet>
+					<bet code="Ftb_Htf" name="Half-Time / Full-Time" id="3507642">
+						<choice name="%1% / Draw" id="29462478" odd="16.00" />
+						<choice name="Draw / %1%" id="29462480" odd="8.50" />
+						<choice name="Draw / Draw" id="29462481" odd="4.75" />
+						<choice name="Draw / %2%" id="29462482" odd="4.50" />
+						<choice name="%2% / Draw" id="29462484" odd="16.00" />
+						<choice name="%1% / %1%" id="29462477" odd="7.50" />
+						<choice name="%2% / %1%" id="29462483" odd="40.00" />
+						<choice name="%1% / %2%" id="29462479" odd="25.00" />
+						<choice name="%2% / %2%" id="29462485" odd="3.00" />
+					</bet>
+					<bet code="Ftb_Htr" name="Half-Time Result" id="3507643">
+						<choice name="%1%" id="29462486" odd="4.75" />
+						<choice name="Draw" id="29462487" odd="1.90" />
+						<choice name="%2%" id="29462488" odd="2.65" />
+					</bet>
+					<bet code="Ftb_Tgl" name="Total Goals" id="3507666">
+						<choice name="0 - 1" id="29462562" odd="2.55" />
+						<choice name="2 - 3" id="29462563" odd="1.95" />
+						<choice name="4 +" id="29462564" odd="4.50" />
+					</bet>
+					<bet code="Ftb_Han" name="Handicap Result 1" id="3507650">
+						<choice name="%1% +1" id="29462520" odd="1.80" />
+						<choice name="Draw (%1% +1)" id="29462521" odd="3.50" />
+						<choice name="%2% -1" id="29462522" odd="3.60" />
+					</bet>
+					<bet code="Ftb_Dbc" name="Double Chance" id="3507646">
+						<choice name="%1% or Draw" id="29462511" odd="1.80" />
+						<choice name="%1% or %2%" id="29462512" odd="1.28" />
+						<choice name="Draw or %2%" id="29462513" odd="1.20" />
+					</bet>
+					<bet code="Ftb_Fts" name="First Team To Score" id="3507638">
+						<choice name="%1%" id="29462388" odd="2.75" />
+						<choice name="%2%" id="29462390" odd="1.65" />
+						<choice name="No goals" id="29462389" odd="7.00" />
+					</bet>
+					<bet code="Ftb_Fgs" name="First Goalscorer" id="3507785">
+						<choice name="No Goalscorer" id="29463362" odd="7.00" />
+						<choice name="Andres Iniesta" id="29463348" odd="8.50" />
+						<choice name="Cesc Fabregas" id="29463343" odd="6.00" />
+						<choice name="Xavi" id="29463353" odd="13.00" />
+						<choice name="Cristiano Ronaldo" id="29463322" odd="6.00" />
+						<choice name="Fernando Torres" id="29463342" odd="5.50" />
+						<choice name="Hugo Viana" id="29463331" odd="22.00" />
+						<choice name="Ricardo Costa" id="29463340" odd="40.00" />
+						<choice name="Sergio Ramos" id="29463357" odd="22.00" />
+						<choice name="Xabi Alonso" id="29463351" odd="12.00" />
+						<choice name="Alvaro Arbeloa" id="29463360" odd="40.00" />
+						<choice name="Juanfran" id="29463358" odd="30.00" />
+						<choice name="Hugo Almeida" id="29463323" odd="11.00" />
+						<choice name="Bruno Alves" id="29463337" odd="35.00" />
+						<choice name="Raul Meireles" id="29463330" odd="20.00" />
+						<choice name="Ricardo Quaresma" id="29463328" odd="16.00" />
+						<choice name="Pepe" id="29463336" odd="30.00" />
+						<choice name="Nani" id="29463325" odd="12.00" />
+						<choice name="Joao Moutinho" id="29463329" odd="20.00" />
+						<choice name="Custódio" id="29463333" odd="30.00" />
+						<choice name="David Silva" id="29463346" odd="7.50" />
+						<choice name="Raul Albiol" id="29463361" odd="40.00" />
+						<choice name="Jesus Navas" id="29463352" odd="13.00" />
+						<choice name="Gerard Pique" id="29463354" odd="22.00" />
+						<choice name="Joao Pereira" id="29463338" odd="35.00" />
+						<choice name="Rolando" id="29463341" odd="40.00" />
+						<choice name="Miguel Veloso" id="29463335" odd="30.00" />
+						<choice name="Silvestre Varela" id="29463327" odd="13.00" />
+						<choice name="Fernando Llorente" id="29463345" odd="6.50" />
+						<choice name="Fabio Coentrao" id="29463334" odd="30.00" />
+						<choice name="Juan Mata" id="29463349" odd="10.00" />
+						<choice name="Negredo" id="29463344" odd="6.00" />
+						<choice name="Ruben Micael" id="29463332" odd="25.00" />
+						<choice name="Sergio Busquets" id="29463359" odd="30.00" />
+						<choice name="Santi Cazorla" id="29463350" odd="12.00" />
+						<choice name="Miguel Lopes" id="29463339" odd="40.00" />
+						<choice name="Nelson Oliveira" id="29463326" odd="13.00" />
+						<choice name="Jordi Alba" id="29463356" odd="22.00" />
+						<choice name="Pedro" id="29463347" odd="8.00" />
+						<choice name="Javi Martinez" id="29463355" odd="22.00" />
+					</bet>
+					<bet code="Ftb_Psc" name="Goalscorer" id="3507788">
+						<choice name="Andres Iniesta" id="29463430" odd="3.25" />
+						<choice name="Cesc Fabregas" id="29463425" odd="2.75" />
+						<choice name="Xavi" id="29463434" odd="5.00" />
+						<choice name="Cristiano Ronaldo" id="29463404" odd="2.50" />
+						<choice name="Fernando Torres" id="29463424" odd="2.50" />
+						<choice name="Hugo Viana" id="29463413" odd="7.00" />
+						<choice name="Ricardo Costa" id="29463422" odd="12.00" />
+						<choice name="Sergio Ramos" id="29463438" odd="7.00" />
+						<choice name="Xabi Alonso" id="29463432" odd="3.75" />
+						<choice name="Alvaro Arbeloa" id="29463442" odd="12.00" />
+						<choice name="Juanfran" id="29463440" odd="10.00" />
+						<choice name="Hugo Almeida" id="29463405" odd="4.00" />
+						<choice name="Bruno Alves" id="29463415" odd="10.00" />
+						<choice name="Raul Meireles" id="29463412" odd="6.50" />
+						<choice name="Ricardo Quaresma" id="29463410" odd="5.50" />
+						<choice name="Pepe" id="29463420" odd="10.00" />
+						<choice name="Nani" id="29463407" odd="4.50" />
+						<choice name="Joao Moutinho" id="29463411" odd="6.50" />
+						<choice name="Custódio" id="29463416" odd="10.00" />
+						<choice name="David Silva" id="29463428" odd="3.25" />
+						<choice name="Raul Albiol" id="29463443" odd="12.00" />
+						<choice name="Jesus Navas" id="29463435" odd="6.00" />
+						<choice name="Gerard Pique" id="29463436" odd="7.00" />
+						<choice name="Joao Pereira" id="29463418" odd="10.00" />
+						<choice name="Rolando" id="29463423" odd="12.00" />
+						<choice name="Miguel Veloso" id="29463419" odd="10.00" />
+						<choice name="Silvestre Varela" id="29463409" odd="5.00" />
+						<choice name="Fernando Llorente" id="29463427" odd="2.75" />
+						<choice name="Fabio Coentrao" id="29463417" odd="10.00" />
+						<choice name="Juan Mata" id="29463431" odd="3.40" />
+						<choice name="Negredo" id="29463426" odd="2.75" />
+						<choice name="Ruben Micael" id="29463414" odd="8.00" />
+						<choice name="Sergio Busquets" id="29463441" odd="10.00" />
+						<choice name="Santi Cazorla" id="29463433" odd="4.50" />
+						<choice name="Miguel Lopes" id="29463421" odd="12.00" />
+						<choice name="Nelson Oliveira" id="29463408" odd="5.00" />
+						<choice name="Jordi Alba" id="29463439" odd="8.00" />
+						<choice name="Pedro" id="29463429" odd="3.25" />
+						<choice name="Javi Martinez" id="29463437" odd="7.00" />
+					</bet>
+					<bet code="Ftb_Hcs" name="Half-Time Correct Score" id="3507644">
+						<choice name="1 - 0" id="29462489" odd="5.50" />
+						<choice name="2 - 0" id="29462490" odd="25.00" />
+						<choice name="2 - 1" id="29462491" odd="35.00" />
+						<choice name="3 - 0" id="29462492" odd="80.00" />
+						<choice name="3 - 1" id="29462493" odd="80.00" />
+						<choice name="3 - 2" id="29462494" odd="100.00" />
+						<choice name="4 - 0" id="29462495" odd="100.00" />
+						<choice name="4 - 1" id="29462496" odd="100.00" />
+						<choice name="0 - 0" id="29462497" odd="2.40" />
+						<choice name="1 - 1" id="29462498" odd="8.50" />
+						<choice name="2 - 2" id="29462499" odd="70.00" />
+						<choice name="0 - 1" id="29462500" odd="3.50" />
+						<choice name="0 - 2" id="29462501" odd="10.00" />
+						<choice name="1 - 2" id="29462502" odd="25.00" />
+						<choice name="0 - 3" id="29462503" odd="35.00" />
+						<choice name="1 - 3" id="29462504" odd="60.00" />
+						<choice name="2 - 3" id="29462505" odd="100.00" />
+						<choice name="0 - 4" id="29462506" odd="80.00" />
+						<choice name="1 - 4" id="29462507" odd="100.00" />
+					</bet>
+					<bet code="Ftb_Hr2" name="Handicap Result 2" id="3507651">
+						<choice name="%1% +2" id="29462523" odd="1.22" />
+						<choice name="Draw (%1% +2)" id="29462524" odd="5.50" />
+						<choice name="%2% -2" id="29462525" odd="8.50" />
+					</bet>
+					<bet code="Ftb_Tg2" name="Total Goals Line 2" id="3507662">
+						<choice name="0-2 goals" id="29462554" odd="1.50" />
+						<choice name="3 or more goals" id="29462555" odd="2.40" />
+					</bet>
+					<bet code="Ftb_Lgs" name="Last Goalscorer" id="3507787">
+						<choice name="No Goalscorer" id="29463402" odd="7.00" />
+						<choice name="Andres Iniesta" id="29463388" odd="8.50" />
+						<choice name="Cesc Fabregas" id="29463383" odd="6.00" />
+						<choice name="Xavi" id="29463393" odd="13.00" />
+						<choice name="Cristiano Ronaldo" id="29463363" odd="6.00" />
+						<choice name="Fernando Torres" id="29463382" odd="5.50" />
+						<choice name="Hugo Viana" id="29463371" odd="22.00" />
+						<choice name="Ricardo Costa" id="29463380" odd="40.00" />
+						<choice name="Sergio Ramos" id="29463397" odd="22.00" />
+						<choice name="Xabi Alonso" id="29463391" odd="12.00" />
+						<choice name="Alvaro Arbeloa" id="29463400" odd="40.00" />
+						<choice name="Juanfran" id="29463398" odd="30.00" />
+						<choice name="Hugo Almeida" id="29463364" odd="11.00" />
+						<choice name="Bruno Alves" id="29463377" odd="35.00" />
+						<choice name="Raul Meireles" id="29463370" odd="20.00" />
+						<choice name="Ricardo Quaresma" id="29463368" odd="16.00" />
+						<choice name="Pepe" id="29463376" odd="30.00" />
+						<choice name="Nani" id="29463403" odd="12.00" />
+						<choice name="Joao Moutinho" id="29463369" odd="20.00" />
+						<choice name="Custódio" id="29463373" odd="30.00" />
+						<choice name="David Silva" id="29463386" odd="7.50" />
+						<choice name="Raul Albiol" id="29463401" odd="40.00" />
+						<choice name="Jesus Navas" id="29463392" odd="13.00" />
+						<choice name="Gerard Pique" id="29463394" odd="22.00" />
+						<choice name="Joao Pereira" id="29463378" odd="35.00" />
+						<choice name="Rolando" id="29463381" odd="40.00" />
+						<choice name="Miguel Veloso" id="29463375" odd="30.00" />
+						<choice name="Silvestre Varela" id="29463367" odd="13.00" />
+						<choice name="Fernando Llorente" id="29463385" odd="6.50" />
+						<choice name="Fabio Coentrao" id="29463374" odd="30.00" />
+						<choice name="Juan Mata" id="29463389" odd="10.00" />
+						<choice name="Negredo" id="29463384" odd="6.00" />
+						<choice name="Ruben Micael" id="29463372" odd="25.00" />
+						<choice name="Sergio Busquets" id="29463399" odd="30.00" />
+						<choice name="Santi Cazorla" id="29463390" odd="12.00" />
+						<choice name="Miguel Lopes" id="29463379" odd="40.00" />
+						<choice name="Nelson Oliveira" id="29463366" odd="13.00" />
+						<choice name="Jordi Alba" id="29463396" odd="22.00" />
+						<choice name="Pedro" id="29463387" odd="8.00" />
+						<choice name="Javi Martinez" id="29463395" odd="22.00" />
+					</bet>
+					<bet code="Ftb_Tg1" name="Total Goals Line 1" id="3507661">
+						<choice name="0-1 goals" id="29462552" odd="2.55" />
+						<choice name="2 or more goals" id="29462553" odd="1.45" />
+					</bet>
+					<bet code="Ftb_Fgt" name="First Goal Time" id="3507694">
+						<choice name="No goals" id="29462640" odd="7.00" />
+						<choice name="1-10 minute" id="29462631" odd="5.00" />
+						<choice name="11-20 minute" id="29462632" odd="5.50" />
+						<choice name="21-30 minute" id="29462633" odd="6.50" />
+						<choice name="31-40 minute" id="29462634" odd="7.50" />
+						<choice name="41-50 minute" id="29462635" odd="8.50" />
+						<choice name="51-60 minute" id="29462636" odd="11.00" />
+						<choice name="61-70 minute" id="29462637" odd="13.00" />
+						<choice name="71-80 minute" id="29462638" odd="16.00" />
+						<choice name="81 minute - Full-Time" id="29462639" odd="16.00" />
+					</bet>
+					<bet code="Ftb_Tg0" name="Total Goals Line 0" id="3507660">
+						<choice name="No goals" id="29462550" odd="7.00" />
+						<choice name="1 or more goals" id="29462551" odd="1.06" />
+					</bet>
+					<bet code="Ftb_Tg3" name="Total Goals Line 3" id="3507663">
+						<choice name="4 or more goals" id="29462557" odd="4.50" />
+						<choice name="0-3 goals" id="29462556" odd="1.16" />
+					</bet>
+					<bet code="Ftb_1Tg0" name="1st Half Total Goals Line 0   " id="3507668">
+						<choice name="No goals" id="29462571" odd="2.40" />
+						<choice name="1 or more goals" id="29462572" odd="1.50" />
+					</bet>
+					<bet code="Ftb_1Tg1" name="1st Half Total Goals Line 1" id="3507669">
+						<choice name="0-1 goals" id="29462573" odd="1.28" />
+						<choice name="2 or more goals" id="29462574" odd="3.30" />
+					</bet>
+					<bet code="Ftb_2Tg0" name="2nd Half Total Goals Line 0" id="3507670">
+						<choice name="No goals" id="29462575" odd="3.00" />
+						<choice name="1 or more goals" id="29462576" odd="1.33" />
+					</bet>
+					<bet code="Ftb_2Tg1" name="2nd Half Total Goals Line 1" id="3507671">
+						<choice name="0-1 goals" id="29462577" odd="1.45" />
+						<choice name="2 or more goals" id="29462578" odd="2.55" />
+					</bet>
+					<bet code="Ftb_Tgl2" name="Total Goals 2" id="3507667">
+						<choice name="3" id="29462567" odd="4.25" />
+						<choice name="4" id="29462568" odd="7.00" />
+						<choice name="2" id="29462570" odd="3.20" />
+						<choice name="1" id="29462566" odd="3.40" />
+						<choice name="0" id="29462565" odd="7.00" />
+						<choice name="5 or more goals" id="29462569" odd="9.00" />
+					</bet>
+					<bet code="Ftb_Dc1" name="Double Chance 1" id="3507647">
+						<choice name="%2%" id="29462515" odd="1.90" />
+						<choice name="%1% or Draw" id="29462514" odd="1.80" />
+					</bet>
+					<bet code="Ftb_Dc2" name="Double Chance 2" id="3507648">
+						<choice name="Draw" id="29462517" odd="3.30" />
+						<choice name="%1% or %2%" id="29462516" odd="1.28" />
+					</bet>
+					<bet code="Ftb_Dc3" name="Double Chance 3" id="3507649">
+						<choice name="%1%" id="29462519" odd="4.00" />
+						<choice name="Draw or %2%" id="29462518" odd="1.20" />
+					</bet>
+					<bet code="Ftb_Hg1" name="Home Team Total Gls Line 1" id="3507673">
+						<choice name="0-1 goals" id="29462581" odd="1.18" />
+						<choice name="2 or more goals" id="29462582" odd="4.25" />
+					</bet>
+					<bet code="Ftb_Ag1" name="Away Team Total Gls Line 1" id="3507676">
+						<choice name="0-1 goals" id="29462587" odd="1.55" />
+						<choice name="2 or more goals" id="29462588" odd="2.30" />
+					</bet>
+					<bet code="Ftb_Hf0" name="Home Team Total Gls 1H - 0" id="3507678">
+						<choice name="No goals" id="29462591" odd="1.35" />
+						<choice name="1 or more goals" id="29462592" odd="2.90" />
+					</bet>
+					<bet code="Ftb_Af0" name="Away Team Total Goals 1H - 0" id="3507696">
+						<choice name="No goals" id="29462644" odd="1.72" />
+						<choice name="1 or more goals" id="29462645" odd="2.00" />
+					</bet>
+					<bet code="Ftb_Af1" name="Away Team Total Goals 1H - 1" id="3507680">
+						<choice name="0-1 goals" id="29462595" odd="1.09" />
+						<choice name="2 or more goals" id="29462596" odd="6.00" />
+					</bet>
+					<bet code="Ftb_Hs0" name="Home Team Total Gls 2H - 0" id="3507681">
+						<choice name="No goals" id="29462597" odd="1.48" />
+						<choice name="1 or more goals" id="29462598" odd="2.45" />
+					</bet>
+					<bet code="Ftb_Hs1" name="Home Team Total Gls 2H - 1" id="3507683">
+						<choice name="0-1 goals" id="29462601" odd="1.04" />
+						<choice name="2 or more goals" id="29462602" odd="8.00" />
+					</bet>
+					<bet code="Ftb_As0" name="Away Team Total Goals 2H - 0" id="3507684">
+						<choice name="No goals" id="29462603" odd="2.00" />
+						<choice name="1 or more goals" id="29462604" odd="1.72" />
+					</bet>
+					<bet code="Ftb_As1" name="Away Team Total Goals 2H - 1" id="3507682">
+						<choice name="0-1 goals" id="29462599" odd="1.16" />
+						<choice name="2 or more goals" id="29462600" odd="4.50" />
+					</bet>
+					<bet code="Ftb_Mr2" name="Match Result 2" id="3507637">
+						<choice name="%1%" id="29462385" odd="3.75" />
+						<choice name="Draw" id="29462386" odd="3.25" />
+						<choice name="%2%" id="29462387" odd="1.90" />
+					</bet>
+					<bet code="Ftb_Hm1" name="Handicap Result -1" id="3507655">
+						<choice name="%1% -1" id="29462535" odd="10.00" />
+						<choice name="Draw (%1% -1)" id="29462536" odd="5.50" />
+						<choice name="%2% +1" id="29462537" odd="1.20" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

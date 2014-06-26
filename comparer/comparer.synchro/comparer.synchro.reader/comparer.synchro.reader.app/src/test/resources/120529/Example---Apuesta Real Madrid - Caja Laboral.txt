@@ -1,0 +1,181 @@
+Apuesta:Caja Laboral VS Real Madrid
+
+Configuracion:
+
+<dictionary>
+	<sport>
+		<Baloncesto>
+			<All>
+				Basketball
+			</All>
+			<WilliamHill>
+				European Basketball
+			</WilliamHill>
+			<WilliamHill>
+				US Basketball
+			</WilliamHill>
+		</Baloncesto>
+	</sport>
+	<Competition>
+		<ACB>
+			<All>
+				Spain ACB
+			</All>
+			<TitanBet>
+				Spain - Liga ACB
+			</TitanBet>
+			<WilliamHill>
+				Spanish Liga ACB
+			</WilliamHill>
+		</ACB>
+	</Competition>
+	<participant>
+		<Baloncesto>
+			<ACB>
+				<team>
+					Real Madrid
+					<TitanBet>
+						R. Madrid
+					</TitanBet>					
+				</team>
+				<team>
+					Caja Laboral
+				</team>
+			</ACB>
+		</Baloncesto>
+	</participant>
+</dictionary>
+
+<patternMaster>
+	<string>""</string>
+</patternMaster>
+
+Bet-At-Home
+<OO>
+	<Sport>Basketball</Sport>
+	<Category />
+	<Tournament>Spain ACB</Tournament>
+	<Date>2012-05-29T20:45:00</Date>
+	<AC>1</AC>
+	<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Caja Laboral Baskonia</HomeTeam>
+			<AwayTeam>Real Madrid</AwayTeam>
+			<HomeOdds>1.65</HomeOdds>
+			<AwayOdds>2.00</AwayOdds>
+		</OddsData>
+</OO>
+
+TitanBet
+<sport id="5" name="Basketball">
+	<group id="41135" name="Spain - Liga ACB">
+		<event id="790239" name="Caja Laboral - Real Madrid" date="2012-05-29 18:45:00">
+		<participants>
+			<participant id="41454" team="Caja Laboral" type="1"/>
+			<participant id="41143" team="Real Madrid" type="2"/>
+			</participants>
+			<market tid="154" name="Moneyline">
+				<outcome id="18785869" name="Caja Laboral" odds="1.61" american_odds="-164" fra_odds="3/5"/>
+				<outcome id="18785870" name="Real Madrid" odds="2.25" american_odds="125" fra_odds="5/4"/>
+			</market>
+			<market tid="90" name="Handicap">
+				<outcome id="18781629" name="Caja Laboral (-3)" odds="1.87" american_odds="-115" fra_odds="17/20"/>
+				<outcome id="18781630" name="Real Madrid (+3)" odds="1.91" american_odds="-110" fra_odds="9/10"/>
+			</market>
+			<market tid="91" name="Totals">
+				<outcome id="18781295" name="Over 152" odds="1.91" american_odds="-110" fra_odds="9/10"/>
+				<outcome id="18781296" name="Under 152" odds="1.87" american_odds="-115" fra_odds="17/20"/>
+			</market>
+		</event>
+	</group>
+</sport>
+
+BetClick
+<sport name="Basketball" id="4">
+	<event name="Spain ACB" id="154">
+	<match name="Caja Laboral - Real Madrid" id="458435" start_date="2012-05-29T19:45:00" live_id="52764" streaming="0">
+		<bets>
+			<bet code="Bkb_Mr2" name="Match Winner" id="3440728">
+				<choice name="%1%" id="29083697" odd="1.68"/>
+				<choice name="%2%" id="29083698" odd="2.05"/>
+			</bet>
+			<bet code="Bkb_Han" name="Handicap Result" id="3440734">
+				<choice name="%1% -2.5" id="29132931" odd="1.90"/>
+				<choice name="%2% +2.5" id="29132932" odd="1.80"/>
+			</bet>
+			<bet code="Bkb_Mrs" name="Match Result" id="3440731">
+				<choice name="%1%" id="29083720" odd="1.72"/>
+				<choice name="Draw" id="29083721" odd="14.00"/>
+				<choice name="%2%" id="29083722" odd="2.15"/>
+			</bet>
+			<bet code="Bkb_Tpt" name="Total Points" id="3440735">
+				<choice name="Under 151.5" id="29132934" odd="1.85"/>
+				<choice name="Over 151.5" id="29132933" odd="1.85"/>
+			</bet>
+		</bets>
+	</match>
+</sport>
+
+PinnacleFeed
+<event>
+	<event_datetimeGMT>2012-05-29 18:45</event_datetimeGMT>
+	<gamenumber>249091851</gamenumber>
+	<sporttype>Basketball</sporttype>
+	<league>Spain ACB</league>
+	<IsLive>No</IsLive>
+	<participants>
+		<participant>
+			<participant_name>Caja Laboral</participant_name>
+			<contestantnum>6931</contestantnum>
+			<rotnum>6931</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+		</participant>
+		<participant>
+			<participant_name>Real Madrid</participant_name>
+			<contestantnum>6932</contestantnum>
+			<rotnum>6932</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+		</participant>
+	</participants>
+	<periods>
+		<period>
+			<period_number>0</period_number>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2012-05-29 18:45</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<period_update>open</period_update>
+			<spread_maximum>3000</spread_maximum>
+			<moneyline_maximum>2000</moneyline_maximum>
+			<total_maximum>2000</total_maximum>
+			<moneyline>
+				<moneyline_visiting>139</moneyline_visiting>
+				<moneyline_home>-154</moneyline_home>
+			</moneyline>
+			<spread>
+				<spread_visiting>3</spread_visiting>
+				<spread_adjust_visiting>-101</spread_adjust_visiting>
+				<spread_home>-3</spread_home>
+				<spread_adjust_home>-109</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>152</total_points>
+				<over_adjust>-102</over_adjust>
+				<under_adjust>-108</under_adjust>
+			</total>
+		</period>
+	</periods>
+
+	
+William Hill
+
+<market id="36103817" name="Caja Laboral v Real Madrid - Will There Be Overtime?"
+	url="http://sports.williamhill.com/bet/en-gb/betting/e/3039646/Caja%2dLaboral%2dv%2dReal%2dMadrid"
+	date="2012-05-29"
+	time="19:45:00"
+	betTillDate="2012-05-29"
+	betTillTime="19:45:00"
+	lastUpdateDate="2012-05-28"
+	lastUpdateTime="12:14:37">
+		<participant name="Yes" id="153018742" odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-28" lastUpdateTime="12:14:37" handicap=""/>
+		<participant name="No" id="153018745" odds="1/50" oddsDecimal="1.02" lastUpdateDate="2012-05-28" lastUpdateTime="12:14:37" handicap=""/>
+</market>	

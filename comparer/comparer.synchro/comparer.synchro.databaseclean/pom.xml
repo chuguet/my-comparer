@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.synchro</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>comparer.synchro.databaseclean</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<properties>
+		<service.name>ComparerApps.DatabaseCleanTaskApp</service.name>
+		<service.description>Compare Apps.Main DatabaseCleanTask</service.description>
+		<service.mainClass>com.comparadorad.bet.comparer.synchro.databaseclean.app.DatabaseCleanTaskApp</service.mainClass>
+		<default.service.environments>production,DATA_APP_CORRECT_DATABASE</default.service.environments>
+	</properties>
+
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>appassembler-maven-plugin</artifactId>
+				<version>1.3</version>
+				<executions>
+					<execution>
+						<id>create-repository</id>
+						<phase>integration-test</phase>
+						<goals>
+							<goal>create-repository</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>generate-jsw-scripts</id>
+						<phase>package</phase>
+						<goals>
+							<goal>generate-daemons</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<!--declare the JSW config -->
+					<defaultJvmSettings>
+						<initialMemorySize>64M</initialMemorySize>
+						<maxMemorySize>512M</maxMemorySize>
+					</defaultJvmSettings>
+					<repositoryLayout>flat</repositoryLayout>
+					<programs>
+						<program>
+							<name>${service.name}</name>
+							<!-- class Main -->
+							<mainClass>${service.mainClass}</mainClass>
+						</program>
+					</programs>
+					<platforms>
+						<platform>windows</platform>
+					</platforms>
+					<daemons>
+						<daemon>
+							<!-- Name Service -->
+							<id>${service.name}</id>
+							<mainClass>${service.mainClass}</mainClass>
+							<platforms>
+								<platform>jsw</platform>
+							</platforms>
+							<jvmSettings>
+								<extraArguments>
+									<extraArgument>-Dspring.profiles.active=${default.service.environments}</extraArgument>
+								</extraArguments>
+							</jvmSettings>
+							<generatorConfigurations>
+								<generatorConfiguration>
+									<generator>jsw</generator>
+									<configuration>
+										<property>
+											<name>wrapper.java.initmemory</name>
+											<value>128M</value>
+										</property>
+										<property>
+											<name>wrapper.java.maxmemory</name>
+											<value>521M</value>
+										</property>
+										<property>
+											<name>set.default.REPO_DIR</name>
+											<value>lib</value>
+										</property>
+										<property>
+											<name>wrapper.logfile</name>
+											<value>logs/wrapper.log</value>
+										</property>
+										<property>
+											<name>wrapper.logfile.maxsize</name>
+											<value>10m</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.displayname</name>
+											<value>${service.name}</value>
+										</property>
+										<property>
+											<name>wrapper.ntservice.description</name>
+											<value>${service.description}</value>
+										</property>
+										<property>
+											<name>wrapper.ping.interval</name>
+											<value>10</value>
+										</property>
+										<property>
+											<name>wrapper.ping.timeout</name>
+											<value>60</value>
+										</property>
+										<property>
+											<name>wrapper.ping.timeout.action</name>
+											<value>RESTART</value>
+										</property>
+									</configuration>
+								</generatorConfiguration>
+							</generatorConfigurations>
+						</daemon>
+					</daemons>
+					<target>${project.build.directory}/appassembler</target>
+					<repoPath>jsw/${service.name}/lib/</repoPath>
+				</configuration>
+
+			</plugin>
+		</plugins>
+	</build>
+
+
+	<dependencies>
+		<!-- Spring dependencies -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+		</dependency>
+		<!-- Project dependencies -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.bet.repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.config.repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.valuebet.repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.securebet.repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.log.repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
+
+</project>

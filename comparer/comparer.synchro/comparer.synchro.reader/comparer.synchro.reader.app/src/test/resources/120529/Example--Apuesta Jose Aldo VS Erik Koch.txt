@@ -1,0 +1,106 @@
+Apuesta:
+Jose Aldo VS Erik Koch
+
+<dictionary>
+	<sport>
+		<lucha>
+			<betAtHome>
+				Combat sports
+			</betAtHome>
+			<pinnacleFeed>
+				Mixed Martial Arts
+			</pinnacleFeed>
+		</lucha>
+	</sport>
+	<Competition>
+		<Campeonato_lucha>
+			<betAtHome>
+				Ultimate Fighting Championship
+			</betAtHome>
+			<pinnacleFeed>
+				UFC
+			</pinnacleFeed>
+		</Campeonato_lucha>
+	</Competition>
+	<participant>
+	</participant>
+</dictionary>
+
+<patternMaster>
+	<string>""</string>
+</patternMaster>
+
+<pattern>
+	<All>
+		<!--
+			Se encuentra la cadena dentro de otra cadena
+		-->
+		<string>""</string>
+		<height>50%</height>
+	</All>
+	<TitanBet>
+		<!--
+			Comparacion quitando todo los elementos que estan dentro de ()
+		-->
+		<string>"^(*)"</string>
+		<height>100%</height>
+	</TitanBet>
+	<BetAtHome>
+		<!--
+			Se encuentra la cadena dentro de otra cadena quitando letra un punto
+		-->
+		<string>"^([a-z]?.)"</string>
+		<height>90%</height>
+	</BetAtHome>
+</pattern>
+
+1º 	PinnacleFeed		Grabacion: 	"Jose Aldo" con peso:0
+						No asigna puntos
+	ESTADO:			Jose Aldo 	= 0
+					Jose Aldo (BRA)		NO EXISTE
+2º	Bet-At-Home		Grabacion:	"Jose Aldo (BRA)" con peso: 0. 
+						Asigno a la cadena "Jose Aldo" 50% puntos de BetClick
+					2 VOTANTES
+	ESTADO:			Jose Aldo 			= 	0
+					Jose Aldo (BRA)		=	90% + 0% = 45
+<!--
+#Se promociona con <45 Jose Aldo (BRA) como master, los demas son hijos.
+-->
+
+
+--PinnacleFeed
+<event_datetimeGMT>2012-07-22 04:15</event_datetimeGMT>
+	<gamenumber>249212118</gamenumber>
+	<sporttype>Mixed Martial Arts</sporttype>
+	<league>UFC</league>
+	<IsLive>No</IsLive>
+	<participants>
+		<participant>
+			<participant_name>Erik Koch</participant_name>
+			<contestantnum>2561</contestantnum>
+			<rotnum>2561</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+		</participant>
+		<participant>
+			<participant_name>Jose Aldo</participant_name>
+			<contestantnum>2562</contestantnum>
+			<rotnum>2562</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+		</participant>
+</participants>
+	
+--Bet-At-Home
+	<OO>
+		<Sport>Combat sports</Sport>
+		<Category />
+		<Tournament>Ultimate Fighting Championship</Tournament>
+		<Date>2012-07-22T04:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Jose Aldo (BRA)</HomeTeam>
+			<AwayTeam>Erik Koch (USA)</AwayTeam>
+			<HomeOdds>1.17</HomeOdds>
+			<AwayOdds>4.50</AwayOdds>
+		</OddsData>
+	</OO>

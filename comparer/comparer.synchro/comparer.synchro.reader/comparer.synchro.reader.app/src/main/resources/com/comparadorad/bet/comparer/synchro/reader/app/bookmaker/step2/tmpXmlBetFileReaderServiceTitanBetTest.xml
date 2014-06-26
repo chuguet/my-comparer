@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmaker name="titanbet">
+	<sport id="6" name="Football">
+		<group id="46439" name="Europe - Euro 2012">
+			<event id="799459" name="Spain - Portugal" date="2012-06-27 18:45:00">
+				<participants>
+					<participant id="46440" team="Spain" type="1"/>
+					<participant id="46445" team="Portugal" type="2"/>
+				</participants>
+				<market tid="1" name="Match Result">
+					<outcome id="19149005" name="Spain" odds="1.92" american_odds="-109" fra_odds="9/10"/>
+					<outcome id="19149006" name="Draw" odds="3.35" american_odds="235" fra_odds="47/20"/>
+					<outcome id="19149007" name="Portugal" odds="4.33" american_odds="333" fra_odds="33/10"/>
+				</market>
+				<market tid="120" name="Draw No Bet">
+					<outcome id="19148861" name="Spain" odds="1.36" american_odds="-278" fra_odds="7/20"/>
+					<outcome id="19148862" name="Portugal" odds="2.9" american_odds="190" fra_odds="19/10"/>
+				</market>
+				<market tid="2" name="Total Goals O/U">
+					<outcome id="19175149" name="Over 2" odds="1.95" american_odds="-105" fra_odds="19/20"/>
+					<outcome id="19175150" name="Under 2" odds="1.8" american_odds="-125" fra_odds="4/5"/>
+				</market>
+				<market tid="451" name="Additional O/U">
+					<outcome id="19175161" name="Over 1.5" odds="1.55" american_odds="-182" fra_odds="11/20"/>
+					<outcome id="19175162" name="Under 1.5" odds="2.39" american_odds="139" fra_odds="27/20"/>
+					<outcome id="19148871" name="Over 1.5, 2" odds="1.74" american_odds="-135" fra_odds="7/10"/>
+					<outcome id="19148872" name="Under 1.5, 2" odds="2.06" american_odds="106" fra_odds="21/20"/>
+					<outcome id="19175163" name="Over 2, 2.5" odds="2.23" american_odds="123" fra_odds="6/5"/>
+					<outcome id="19175164" name="Under 2, 2.5" odds="1.63" american_odds="-159" fra_odds="3/5"/>
+					<outcome id="19148875" name="Over 2.5" odds="2.58" american_odds="158" fra_odds="31/20"/>
+					<outcome id="19148876" name="Under 2.5" odds="1.48" american_odds="-208" fra_odds="9/20"/>
+				</market>
+				<market tid="277" name="Asian Handicap">
+					<outcome id="19148859" name="Spain (-0.5)" odds="1.95" american_odds="-105" fra_odds="19/20"/>
+					<outcome id="19148860" name="Portugal (+0.5)" odds="1.91" american_odds="-110" fra_odds="9/10"/>
+				</market>
+				<market tid="458" name="Additional Asian Handicap">
+					<outcome id="19148883" name="Spain (-1)" odds="2.87" american_odds="187" fra_odds="37/20"/>
+					<outcome id="19148884" name="Portugal (+1)" odds="1.44" american_odds="-227" fra_odds="2/5"/>
+					<outcome id="19148885" name="Spain (-0.5, -1)" odds="2.3" american_odds="130" fra_odds="13/10"/>
+					<outcome id="19148886" name="Portugal (+0.5, +1)" odds="1.65" american_odds="-154" fra_odds="13/20"/>
+					<outcome id="19148889" name="Spain (0)" odds="1.4" american_odds="-250" fra_odds="2/5"/>
+					<outcome id="19148890" name="Portugal (0)" odds="3.04" american_odds="204" fra_odds="2/1"/>
+				</market>
+				<market tid="39" name="HT/FT">
+					<outcome id="19148928" name="1 / 1" odds="3.25" american_odds="225" fra_odds="9/4"/>
+					<outcome id="19148929" name="1 / X" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19148930" name="1 / 2" odds="29.00" american_odds="2800" fra_odds="28/1"/>
+					<outcome id="19148931" name="X / 1" odds="4.75" american_odds="375" fra_odds="15/4"/>
+					<outcome id="19148932" name="X / X" odds="4.5" american_odds="350" fra_odds="7/2"/>
+					<outcome id="19148933" name="X / 2" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19148934" name="2 / 1" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19148935" name="2 / X" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19148936" name="2 / 2" odds="7.5" american_odds="650" fra_odds="13/2"/>
+				</market>
+				<market tid="28" name="Correct Score">
+					<outcome id="19148895" name="Spain 1-0" odds="5.25" american_odds="425" fra_odds="17/4"/>
+					<outcome id="19148900" name="Spain 2-0" odds="7.5" american_odds="650" fra_odds="13/2"/>
+					<outcome id="19148901" name="Spain 2-1" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19148904" name="Spain 3-0" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19148905" name="Spain 3-1" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19148906" name="Spain 3-2" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19148908" name="Spain 4-0" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19148909" name="Spain 4-1" odds="51.00" american_odds="5000" fra_odds="50/1"/>
+					<outcome id="19148910" name="Spain 4-2" odds="126.00" american_odds="12500" fra_odds="125/1"/>
+					<outcome id="19148911" name="Spain 5-0" odds="151.00" american_odds="15000" fra_odds="150/1"/>
+					<outcome id="19148891" name="Draw 0-0" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19148896" name="Draw 1-1" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19148902" name="Draw 2-2" odds="19.00" american_odds="1800" fra_odds="18/1"/>
+					<outcome id="19148907" name="Draw 3-3" odds="151.00" american_odds="15000" fra_odds="150/1"/>
+					<outcome id="19148892" name="Portugal 0-1" odds="8.00" american_odds="700" fra_odds="7/1"/>
+					<outcome id="19148893" name="Portugal 0-2" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19148897" name="Portugal 1-2" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19148894" name="Portugal 0-3" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+					<outcome id="19148898" name="Portugal 1-3" odds="51.00" american_odds="5000" fra_odds="50/1"/>
+					<outcome id="19148903" name="Portugal 2-3" odds="81.00" american_odds="8000" fra_odds="80/1"/>
+				</market>
+				<market tid="121" name="Double Chance">
+					<outcome id="19148925" name="1 / X" odds="1.2" american_odds="-500" fra_odds="1/5"/>
+					<outcome id="19148927" name="X / 2" odds="1.67" american_odds="-149" fra_odds="13/20"/>
+					<outcome id="19148926" name="1 / 2" odds="1.26" american_odds="-385" fra_odds="1/4"/>
+				</market>
+				<market tid="348" name="1st Goalscorer">
+					<outcome id="19191668" name="Fernando Torres" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191669" name="Cristiano Ronaldo" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191670" name="No Goalscorer" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19191671" name="Fernando Llorente" odds="7.00" american_odds="600" fra_odds="6/1"/>
+					<outcome id="19191672" name="Cesc Fabregas" odds="7.00" american_odds="600" fra_odds="6/1"/>
+					<outcome id="19191673" name="Alvaro Negredo" odds="7.5" american_odds="650" fra_odds="13/2"/>
+					<outcome id="19191674" name="David Jimenez Silva" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19191675" name="Pedro" odds="9.5" american_odds="850" fra_odds="17/2"/>
+					<outcome id="19191676" name="Andres Iniesta" odds="9.5" american_odds="850" fra_odds="17/2"/>
+					<outcome id="19191679" name="Hugo Almeida" odds="11.00" american_odds="1000" fra_odds="10/1"/>
+					<outcome id="19191677" name="Juan Mata" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191678" name="Nani" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191684" name="Xabi Alonso" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191680" name="Nelson Oliveira" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19191681" name="Santi Cazorla" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19191682" name="Jesus Navas" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191683" name="Xavi Hernandez" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191685" name="Silvestre Varela" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191686" name="Ricardo Quaresma" odds="19.00" american_odds="1800" fra_odds="18/1"/>
+					<outcome id="19191687" name="Raul Meireles" odds="21.00" american_odds="2000" fra_odds="20/1"/>
+					<outcome id="19191690" name="Javier Martinez" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19191691" name="Joao Moutinho" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19191688" name="Gerard Pique" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19191692" name="Sergio Ramos" odds="29.00" american_odds="2800" fra_odds="28/1"/>
+					<outcome id="19191689" name="Juanfran" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19191693" name="Jordi Alba" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19191696" name="Pepe" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19191694" name="Hugo Viana" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19191695" name="Bruno Alves" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19191697" name="Sergio Busquets" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+				</market>
+				<market tid="364" name="Last Goalscorer">
+					<outcome id="19191698" name="Fernando Torres" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191699" name="Cristiano Ronaldo" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191700" name="No Goalscorer" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19191701" name="Fernando Llorente" odds="7.00" american_odds="600" fra_odds="6/1"/>
+					<outcome id="19191702" name="Cesc Fabregas" odds="7.00" american_odds="600" fra_odds="6/1"/>
+					<outcome id="19191703" name="Alvaro Negredo" odds="7.5" american_odds="650" fra_odds="13/2"/>
+					<outcome id="19191704" name="David Jimenez Silva" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19191705" name="Pedro" odds="9.5" american_odds="850" fra_odds="17/2"/>
+					<outcome id="19191706" name="Andres Iniesta" odds="9.5" american_odds="850" fra_odds="17/2"/>
+					<outcome id="19191709" name="Hugo Almeida" odds="11.00" american_odds="1000" fra_odds="10/1"/>
+					<outcome id="19191707" name="Juan Mata" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191708" name="Nani" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191714" name="Xabi Alonso" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191710" name="Nelson Oliveira" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19191711" name="Santi Cazorla" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19191712" name="Jesus Navas" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191713" name="Xavi Hernandez" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191715" name="Silvestre Varela" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191716" name="Ricardo Quaresma" odds="19.00" american_odds="1800" fra_odds="18/1"/>
+					<outcome id="19191717" name="Raul Meireles" odds="21.00" american_odds="2000" fra_odds="20/1"/>
+					<outcome id="19191720" name="Javier Martinez" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19191721" name="Joao Moutinho" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19191718" name="Gerard Pique" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19191722" name="Sergio Ramos" odds="29.00" american_odds="2800" fra_odds="28/1"/>
+					<outcome id="19191719" name="Juanfran" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19191723" name="Jordi Alba" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19191726" name="Pepe" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19191724" name="Hugo Viana" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19191725" name="Bruno Alves" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19191727" name="Sergio Busquets" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+				</market>
+				<market tid="365" name="Anytime Goalscorer">
+					<outcome id="19191728" name="Fernando Torres" odds="2.35" american_odds="135" fra_odds="27/20"/>
+					<outcome id="19191729" name="Cristiano Ronaldo" odds="2.35" american_odds="135" fra_odds="27/20"/>
+					<outcome id="19191731" name="Fernando Llorente" odds="2.75" american_odds="175" fra_odds="7/4"/>
+					<outcome id="19191732" name="Cesc Fabregas" odds="2.75" american_odds="175" fra_odds="7/4"/>
+					<outcome id="19191733" name="Alvaro Negredo" odds="3.00" american_odds="200" fra_odds="2/1"/>
+					<outcome id="19191734" name="David Jimenez Silva" odds="3.5" american_odds="250" fra_odds="5/2"/>
+					<outcome id="19191735" name="Pedro" odds="3.6" american_odds="260" fra_odds="13/5"/>
+					<outcome id="19191736" name="Andres Iniesta" odds="3.6" american_odds="260" fra_odds="13/5"/>
+					<outcome id="19191739" name="Hugo Almeida" odds="4.00" american_odds="300" fra_odds="3/1"/>
+					<outcome id="19191737" name="Juan Mata" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19191738" name="Nani" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19191744" name="Xabi Alonso" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19191740" name="Nelson Oliveira" odds="5.5" american_odds="450" fra_odds="9/2"/>
+					<outcome id="19191741" name="Santi Cazorla" odds="5.5" american_odds="450" fra_odds="9/2"/>
+					<outcome id="19191742" name="Jesus Navas" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191743" name="Xavi Hernandez" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191745" name="Silvestre Varela" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19191730" name="No Goalscorer" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19191746" name="Ricardo Quaresma" odds="7.00" american_odds="600" fra_odds="6/1"/>
+					<outcome id="19191747" name="Raul Meireles" odds="7.5" american_odds="650" fra_odds="13/2"/>
+					<outcome id="19191750" name="Javier Martinez" odds="8.5" american_odds="750" fra_odds="15/2"/>
+					<outcome id="19191751" name="Joao Moutinho" odds="8.5" american_odds="750" fra_odds="15/2"/>
+					<outcome id="19191748" name="Gerard Pique" odds="10.00" american_odds="900" fra_odds="9/1"/>
+					<outcome id="19191752" name="Sergio Ramos" odds="11.00" american_odds="1000" fra_odds="10/1"/>
+					<outcome id="19191749" name="Juanfran" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191753" name="Jordi Alba" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191756" name="Pepe" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19191754" name="Hugo Viana" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191755" name="Bruno Alves" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19191757" name="Sergio Busquets" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+				</market>
+				<market tid="346" name="Team to Score 1st Goal">
+					<outcome id="19148948" name="Spain" odds="1.62" american_odds="-161" fra_odds="3/5"/>
+					<outcome id="19148950" name="No Goal" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19148949" name="Portugal" odds="3.00" american_odds="200" fra_odds="2/1"/>
+				</market>
+				<market tid="352" name="Method of 1st Goal">
+					<outcome id="19150449" name="Shot" odds="1.6" american_odds="-167" fra_odds="3/5"/>
+					<outcome id="19150450" name="Penalty" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19150451" name="Own Goal" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19150452" name="Header" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19150453" name="Free Kick" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19150454" name="No Goal" odds="6.5" american_odds="550" fra_odds="11/2"/>
+				</market>
+				<market tid="353" name="Method of Last Goal">
+					<outcome id="19150461" name="Shot" odds="1.6" american_odds="-167" fra_odds="3/5"/>
+					<outcome id="19150462" name="Penalty" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19150463" name="Own Goal" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19150464" name="Header" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19150465" name="Free Kick" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19150466" name="No Goal" odds="6.5" american_odds="550" fra_odds="11/2"/>
+				</market>
+				<market tid="5" name="1st Half Result">
+					<outcome id="19175153" name="Spain" odds="2.6" american_odds="160" fra_odds="8/5"/>
+					<outcome id="19175154" name="Draw" odds="2.00" american_odds="-100" fra_odds="1/1"/>
+					<outcome id="19175155" name="Portugal" odds="4.33" american_odds="333" fra_odds="33/10"/>
+				</market>
+				<market tid="6" name="1st Half Goals O/U">
+					<outcome id="19175151" name="Over 0.5, 1" odds="1.91" american_odds="-110" fra_odds="9/10"/>
+					<outcome id="19175152" name="Under 0.5, 1" odds="1.83" american_odds="-120" fra_odds="4/5"/>
+				</market>
+				<market tid="453" name="1st Half Additional O/U">
+					<outcome id="19175167" name="Over 0.5" odds="1.64" american_odds="-156" fra_odds="3/5"/>
+					<outcome id="19175168" name="Under 0.5" odds="2.22" american_odds="122" fra_odds="6/5"/>
+					<outcome id="19175169" name="Over 1" odds="2.61" american_odds="161" fra_odds="8/5"/>
+					<outcome id="19175170" name="Under 1" odds="1.47" american_odds="-213" fra_odds="9/20"/>
+					<outcome id="19175171" name="Over 1, 1.5" odds="3.08" american_odds="208" fra_odds="41/20"/>
+					<outcome id="19175172" name="Under 1, 1.5" odds="1.35" american_odds="-286" fra_odds="7/20"/>
+				</market>
+				<market tid="278" name="1st Half Asian Handicap">
+					<outcome id="19175159" name="Spain (0, -0.5)" odds="2.05" american_odds="105" fra_odds="21/20"/>
+					<outcome id="19175160" name="Portugal (0, +0.5)" odds="1.75" american_odds="-133" fra_odds="3/4"/>
+				</market>
+				<market tid="459" name="1st Half Additional Asian Handicap">
+					<outcome id="19175173" name="Spain (-0.5, -1)" odds="3.6" american_odds="260" fra_odds="13/5"/>
+					<outcome id="19175174" name="Portugal (+0.5, +1)" odds="1.27" american_odds="-370" fra_odds="1/4"/>
+					<outcome id="19175175" name="Spain (-0.5)" odds="2.5" american_odds="150" fra_odds="3/2"/>
+					<outcome id="19175176" name="Portugal (+0.5)" odds="1.5" american_odds="-200" fra_odds="1/2"/>
+					<outcome id="19175177" name="Spain (0)" odds="1.45" american_odds="-222" fra_odds="9/20"/>
+					<outcome id="19175178" name="Portugal (0)" odds="2.67" american_odds="167" fra_odds="33/20"/>
+					<outcome id="19175179" name="Spain (0, +0.5)" odds="1.25" american_odds="-400" fra_odds="1/4"/>
+					<outcome id="19175180" name="Portugal (0, -0.5)" odds="3.75" american_odds="275" fra_odds="11/4"/>
+				</market>
+				<market tid="78" name="1st Half Correct Score">
+					<outcome id="19148913" name="Draw 0-0" odds="2.25" american_odds="125" fra_odds="5/4"/>
+					<outcome id="19148917" name="Spain 1-0" odds="3.75" american_odds="275" fra_odds="11/4"/>
+					<outcome id="19148914" name="Portugal 0-1" odds="5.75" american_odds="475" fra_odds="19/4"/>
+					<outcome id="19148918" name="Draw 1-1" odds="8.5" american_odds="750" fra_odds="15/2"/>
+					<outcome id="19148920" name="Spain 2-0" odds="9.5" american_odds="850" fra_odds="17/2"/>
+					<outcome id="19148915" name="Portugal 0-2" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19148921" name="Spain 2-1" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19148923" name="Spain 3-0" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19148919" name="Portugal 1-2" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19148924" name="Spain 3-1" odds="126.00" american_odds="12500" fra_odds="125/1"/>
+				</market>
+				<market tid="224" name="1st Half Total Goals">
+					<outcome id="19150467" name="0" odds="2.3" american_odds="130" fra_odds="13/10"/>
+					<outcome id="19150468" name="1" odds="2.4" american_odds="140" fra_odds="7/5"/>
+					<outcome id="19150469" name="2" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19150470" name="3+" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+				</market>
+				<market tid="40" name="2nd Half Result">
+					<outcome id="19175156" name="Spain" odds="2.3" american_odds="130" fra_odds="13/10"/>
+					<outcome id="19175157" name="Draw" odds="2.2" american_odds="120" fra_odds="6/5"/>
+					<outcome id="19175158" name="Portugal" odds="4.5" american_odds="350" fra_odds="7/2"/>
+				</market>
+				<market tid="276" name="2nd Half Total Goals">
+					<outcome id="19150471" name="0" odds="3.1" american_odds="210" fra_odds="21/10"/>
+					<outcome id="19150472" name="1" odds="2.5" american_odds="150" fra_odds="3/2"/>
+					<outcome id="19150473" name="2" odds="4.00" american_odds="300" fra_odds="3/1"/>
+					<outcome id="19150474" name="3+" odds="6.25" american_odds="525" fra_odds="21/4"/>
+				</market>
+				<market tid="155" name="Winning Margin">
+					<outcome id="19148954" name="Spain To Win By 1" odds="3.5" american_odds="250" fra_odds="5/2"/>
+					<outcome id="19148963" name="Score Draw" odds="5.25" american_odds="425" fra_odds="17/4"/>
+					<outcome id="19148955" name="Spain To Win By 2" odds="5.75" american_odds="475" fra_odds="19/4"/>
+					<outcome id="19148958" name="Portugal To Win By 1" odds="5.75" american_odds="475" fra_odds="19/4"/>
+					<outcome id="19148962" name="0 - 0 Draw" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19148956" name="Spain To Win By 3" odds="11.00" american_odds="1000" fra_odds="10/1"/>
+					<outcome id="19148959" name="Portugal To Win By 2" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19148957" name="Spain To Win By 4+" odds="26.00" american_odds="2500" fra_odds="25/1"/>
+					<outcome id="19148960" name="Portugal To Win By 3" odds="51.00" american_odds="5000" fra_odds="50/1"/>
+					<outcome id="19148961" name="Portugal To Win By 4+" odds="151.00" american_odds="15000" fra_odds="150/1"/>
+				</market>
+				<market tid="103" name="1st Half Corners">
+					<outcome id="19211612" name="Over 5.5" odds="1.78" american_odds="-128" fra_odds="3/4"/>
+					<outcome id="19211613" name="Under 5.5" odds="1.93" american_odds="-108" fra_odds="9/10"/>
+				</market>
+				<market tid="271" name="Total Goals">
+					<outcome id="19150475" name="0-1" odds="2.5" american_odds="150" fra_odds="3/2"/>
+					<outcome id="19150476" name="2-3" odds="2.00" american_odds="-100" fra_odds="1/1"/>
+					<outcome id="19150477" name="4-6" odds="5.5" american_odds="450" fra_odds="9/2"/>
+					<outcome id="19150478" name="7+" odds="19.00" american_odds="1800" fra_odds="18/1"/>
+				</market>
+				<market tid="102" name="Total Corners">
+					<outcome id="19211642" name="Over 11.5" odds="1.83" american_odds="-120" fra_odds="4/5"/>
+					<outcome id="19211643" name="Under 11.5" odds="1.89" american_odds="-112" fra_odds="17/20"/>
+				</market>
+				<market tid="439" name="1st Half Goals O/E">
+					<outcome id="19148865" name="Odd" odds="2.2" american_odds="120" fra_odds="6/5"/>
+					<outcome id="19148866" name="Even" odds="1.61" american_odds="-164" fra_odds="3/5"/>
+				</market>
+				<market tid="496" name="Additional Total Corners - Over/Under">
+					<outcome id="19211889" name="Over 9.5" odds="1.32" american_odds="-312" fra_odds="3/10"/>
+					<outcome id="19211890" name="Under 9.5" odds="3.12" american_odds="212" fra_odds="21/10"/>
+					<outcome id="19211887" name="Over 10.5" odds="1.52" american_odds="-192" fra_odds="1/2"/>
+					<outcome id="19211888" name="Under 10.5" odds="2.37" american_odds="137" fra_odds="27/20"/>
+					<outcome id="19211883" name="Over 12.5" odds="2.27" american_odds="127" fra_odds="5/4"/>
+					<outcome id="19211884" name="Under 12.5" odds="1.57" american_odds="-175" fra_odds="11/20"/>
+					<outcome id="19211885" name="Over 13.5" odds="2.9" american_odds="190" fra_odds="19/10"/>
+					<outcome id="19211886" name="Under 13.5" odds="1.37" american_odds="-270" fra_odds="7/20"/>
+				</market>
+				<market tid="266" name="Time of 1st Goal">
+					<outcome id="19150479" name="1' - 10'" odds="5.00" american_odds="400" fra_odds="4/1"/>
+					<outcome id="19150480" name="11' - 20'" odds="5.5" american_odds="450" fra_odds="9/2"/>
+					<outcome id="19150481" name="21' - 30'" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19150482" name="31' - 40'" odds="7.5" american_odds="650" fra_odds="13/2"/>
+					<outcome id="19150483" name="41' - 45'" odds="11.00" american_odds="1000" fra_odds="10/1"/>
+					<outcome id="19150484" name="46' - 55'" odds="9.5" american_odds="850" fra_odds="17/2"/>
+					<outcome id="19150485" name="56' - 65'" odds="12.00" american_odds="1100" fra_odds="11/1"/>
+					<outcome id="19150486" name="66' - 75'" odds="14.00" american_odds="1300" fra_odds="13/1"/>
+					<outcome id="19150487" name="76' - 85'" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19150488" name="86' - 90'" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19150489" name="No Goals" odds="6.5" american_odds="550" fra_odds="11/2"/>
+				</market>
+				<market tid="269" name="Odd/Even Goals Total">
+					<outcome id="19148863" name="Odd" odds="1.91" american_odds="-110" fra_odds="9/10"/>
+					<outcome id="19148864" name="Even" odds="1.87" american_odds="-115" fra_odds="17/20"/>
+				</market>
+				<market tid="479" name="Total Home Goals">
+					<outcome id="19148937" name="0" odds="3.4" american_odds="240" fra_odds="12/5"/>
+					<outcome id="19148938" name="1" odds="2.62" american_odds="162" fra_odds="8/5"/>
+					<outcome id="19148939" name="2" odds="3.75" american_odds="275" fra_odds="11/4"/>
+					<outcome id="19148940" name="3+" odds="5.25" american_odds="425" fra_odds="17/4"/>
+				</market>
+				<market tid="480" name="Total Away Goals">
+					<outcome id="19148941" name="0" odds="2.05" american_odds="105" fra_odds="21/20"/>
+					<outcome id="19148942" name="1" odds="2.6" american_odds="160" fra_odds="8/5"/>
+					<outcome id="19148943" name="2" odds="5.75" american_odds="475" fra_odds="19/4"/>
+					<outcome id="19148944" name="3+" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+				</market>
+				<market tid="368" name="Player to Score a Hat-Trick">
+					<outcome id="19196546" name="No Goalscorer" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19196539" name="Fernando Torres" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19196537" name="Cristiano Ronaldo" odds="51.00" american_odds="5000" fra_odds="50/1"/>
+					<outcome id="19196536" name="Cesc Fabregas" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+					<outcome id="19196538" name="Fernando Llorente" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+					<outcome id="19196540" name="Alvaro Negredo" odds="81.00" american_odds="8000" fra_odds="80/1"/>
+					<outcome id="19196541" name="David Jimenez Silva" odds="81.00" american_odds="8000" fra_odds="80/1"/>
+					<outcome id="19196542" name="Andres Iniesta" odds="101.00" american_odds="10000" fra_odds="100/1"/>
+					<outcome id="19196543" name="Pedro" odds="101.00" american_odds="10000" fra_odds="100/1"/>
+					<outcome id="19196544" name="Xavi Hernandez" odds="151.00" american_odds="15000" fra_odds="150/1"/>
+					<outcome id="19196545" name="Nani" odds="151.00" american_odds="15000" fra_odds="150/1"/>
+				</market>
+				<market tid="397" name="Home To Win To Nil">
+					<outcome id="19150493" name="Yes" odds="2.75" american_odds="175" fra_odds="7/4"/>
+					<outcome id="19150494" name="No" odds="1.4" american_odds="-250" fra_odds="2/5"/>
+				</market>
+				<market tid="398" name="Away To Win To Nil">
+					<outcome id="19150495" name="Yes" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19150496" name="No" odds="1.09" american_odds="-1111" fra_odds="1/20"/>
+				</market>
+				<market tid="402" name="Both Teams To Score">
+					<outcome id="19150497" name="Yes" odds="2.2" american_odds="120" fra_odds="6/5"/>
+					<outcome id="19150498" name="No" odds="1.62" american_odds="-161" fra_odds="3/5"/>
+				</market>
+				<market tid="407" name="Both teams score in the 1st Half">
+					<outcome id="19150499" name="Yes" odds="5.5" american_odds="450" fra_odds="9/2"/>
+					<outcome id="19150500" name="No" odds="1.11" american_odds="-909" fra_odds="1/10"/>
+				</market>
+				<market tid="499" name="Additional Home Goals O/U">
+					<outcome id="19149008" name="Over 2, 2.5" odds="4.29" american_odds="329" fra_odds="13/4"/>
+					<outcome id="19149009" name="Under 2, 2.5" odds="1.18" american_odds="-556" fra_odds="3/20"/>
+					<outcome id="19149010" name="Over 3, 3.5" odds="8.4" american_odds="740" fra_odds="37/5"/>
+					<outcome id="19149011" name="Under 3, 3.5" odds="1.04" american_odds="-2500" fra_odds="1/25"/>
+				</market>
+				<market tid="433" name="Home Goals O/U">
+					<outcome id="19148879" name="Over 1, 1.5" odds="1.9" american_odds="-111" fra_odds="9/10"/>
+					<outcome id="19148880" name="Under 1, 1.5" odds="1.81" american_odds="-123" fra_odds="4/5"/>
+				</market>
+				<market tid="434" name="Away Goals O/U">
+					<outcome id="19175165" name="Over 0.5" odds="1.75" american_odds="-133" fra_odds="3/4"/>
+					<outcome id="19175166" name="Under 0.5" odds="1.98" american_odds="-102" fra_odds="19/20"/>
+				</market>
+				<market tid="500" name="Additional Away Goals O/U">
+					<outcome id="19175181" name="Over 0.5, 1" odds="2.22" american_odds="122" fra_odds="6/5"/>
+					<outcome id="19175182" name="Under 0.5, 1" odds="1.6" american_odds="-167" fra_odds="3/5"/>
+					<outcome id="19149014" name="Over 1" odds="3.02" american_odds="202" fra_odds="2/1"/>
+					<outcome id="19149015" name="Under 1" odds="1.34" american_odds="-294" fra_odds="3/10"/>
+				</market>
+				<market tid="463" name="Home Goals O/E">
+					<outcome id="19148867" name="Odd" odds="2.00" american_odds="-100" fra_odds="1/1"/>
+					<outcome id="19148868" name="Even" odds="1.75" american_odds="-133" fra_odds="3/4"/>
+				</market>
+				<market tid="464" name="Away Goals O/E">
+					<outcome id="19148869" name="Odd" odds="2.3" american_odds="130" fra_odds="13/10"/>
+					<outcome id="19148870" name="Even" odds="1.57" american_odds="-175" fra_odds="11/20"/>
+				</market>
+				<market tid="443" name="Half With Most Goals">
+					<outcome id="19148951" name="1st Half" odds="3.3" american_odds="230" fra_odds="23/10"/>
+					<outcome id="19148953" name="2nd Half" odds="2.1" american_odds="110" fra_odds="11/10"/>
+					<outcome id="19148952" name="Draw" odds="3.00" american_odds="200" fra_odds="2/1"/>
+				</market>
+				<market tid="37" name="Team To Score Last Goal">
+					<outcome id="19148964" name="Spain" odds="1.62" american_odds="-161" fra_odds="3/5"/>
+					<outcome id="19148965" name="No Goal" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19148966" name="Portugal" odds="3.00" american_odds="200" fra_odds="2/1"/>
+				</market>
+				<market tid="403" name="Home Clean Sheet">
+					<outcome id="19150501" name="Yes" odds="3.5" american_odds="250" fra_odds="5/2"/>
+					<outcome id="19150502" name="No" odds="1.28" american_odds="-357" fra_odds="1/4"/>
+				</market>
+				<market tid="404" name="Away Clean Sheet">
+					<outcome id="19150503" name="Yes" odds="2.00" american_odds="-100" fra_odds="1/1"/>
+					<outcome id="19150504" name="No" odds="1.75" american_odds="-133" fra_odds="3/4"/>
+				</market>
+				<market tid="408" name="Home To Be Leading At Half And Not Win">
+					<outcome id="19150505" name="Yes" odds="10.00" american_odds="900" fra_odds="9/1"/>
+					<outcome id="19150506" name="No" odds="1.03" american_odds="-3333" fra_odds="0/1"/>
+				</market>
+				<market tid="409" name="Away To Be Leading At Half And Not Win">
+					<outcome id="19150507" name="Yes" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19150508" name="No" odds="1.04" american_odds="-2500" fra_odds="1/25"/>
+				</market>
+				<market tid="350" name="Team to Take 1st Corner">
+					<outcome id="19150509" name="Spain" odds="1.62" american_odds="-161" fra_odds="3/5"/>
+					<outcome id="19150510" name="Portugal" odds="2.15" american_odds="115" fra_odds="23/20"/>
+				</market>
+				<market tid="351" name="Team to Take Last Corner">
+					<outcome id="19150513" name="Spain" odds="1.62" american_odds="-161" fra_odds="3/5"/>
+					<outcome id="19150514" name="No Corners" odds="101.00" american_odds="10000" fra_odds="100/1"/>
+					<outcome id="19150515" name="Portugal" odds="2.15" american_odds="115" fra_odds="23/20"/>
+				</market>
+				<market tid="431" name="Total Home Team Corners - Over/Under">
+					<outcome id="19213434" name="Over 7.5" odds="2.03" american_odds="103" fra_odds="1/1"/>
+					<outcome id="19213435" name="Under 7.5" odds="1.71" american_odds="-141" fra_odds="7/10"/>
+				</market>
+				<market tid="497" name="Additional Home Corners - over/under">
+					<outcome id="19211596" name="Over 5.5" odds="1.31" american_odds="-323" fra_odds="3/10"/>
+					<outcome id="19211597" name="Under 5.5" odds="3.17" american_odds="217" fra_odds="43/20"/>
+					<outcome id="19211598" name="Over 6.5" odds="1.59" american_odds="-169" fra_odds="11/20"/>
+					<outcome id="19211599" name="Under 6.5" odds="2.24" american_odds="124" fra_odds="6/5"/>
+					<outcome id="19213466" name="Over 8.5" odds="2.73" american_odds="173" fra_odds="17/10"/>
+					<outcome id="19213467" name="Under 8.5" odds="1.41" american_odds="-244" fra_odds="2/5"/>
+					<outcome id="19213468" name="Over 9.5" odds="3.78" american_odds="278" fra_odds="11/4"/>
+					<outcome id="19213469" name="Under 9.5" odds="1.23" american_odds="-435" fra_odds="1/5"/>
+				</market>
+				<market tid="432" name="Total Away Team Corners - Over/Under">
+					<outcome id="19213436" name="Over 4.5" odds="2.03" american_odds="103" fra_odds="1/1"/>
+					<outcome id="19213437" name="Under 4.5" odds="1.71" american_odds="-141" fra_odds="7/10"/>
+				</market>
+				<market tid="498" name="Additional Away Corners - over/under">
+					<outcome id="19213472" name="Over 2.5" odds="1.2" american_odds="-500" fra_odds="1/5"/>
+					<outcome id="19213473" name="Under 2.5" odds="4.08" american_odds="308" fra_odds="61/20"/>
+					<outcome id="19213470" name="Over 3.5" odds="1.49" american_odds="-204" fra_odds="9/20"/>
+					<outcome id="19213471" name="Under 3.5" odds="2.47" american_odds="147" fra_odds="29/20"/>
+					<outcome id="19211610" name="Over 5.5" odds="2.98" american_odds="198" fra_odds="39/20"/>
+					<outcome id="19211611" name="Under 5.5" odds="1.35" american_odds="-286" fra_odds="7/20"/>
+					<outcome id="19211608" name="Over 6.5" odds="4.52" american_odds="352" fra_odds="7/2"/>
+					<outcome id="19211609" name="Under 6.5" odds="1.17" american_odds="-588" fra_odds="3/20"/>
+				</market>
+				<market tid="506" name="Double Chance 1st Half">
+					<outcome id="19150518" name="1 / X" odds="1.12" american_odds="-833" fra_odds="1/10"/>
+					<outcome id="19150519" name="X / 2" odds="1.4" american_odds="-250" fra_odds="2/5"/>
+					<outcome id="19150520" name="1 / 2" odds="1.72" american_odds="-139" fra_odds="7/10"/>
+				</market>
+				<market tid="507" name="Total Yellow Cards - Over/Under">
+					<outcome id="19211895" name="Over 4.5" odds="1.72" american_odds="-139" fra_odds="7/10"/>
+					<outcome id="19211896" name="Under 4.5" odds="2.00" american_odds="-100" fra_odds="1/1"/>
+				</market>
+				<market tid="508" name="To Qualify">
+					<outcome id="19200595" name="Spain" odds="1.44" american_odds="-227" fra_odds="2/5"/>
+					<outcome id="19200596" name="Portugal" odds="2.87" american_odds="187" fra_odds="37/20"/>
+				</market>
+				<market tid="138" name="Team To Score First And Not Win">
+					<outcome id="19196482" name="Spain" odds="6.5" american_odds="550" fra_odds="11/2"/>
+					<outcome id="19196483" name="Portugal" odds="5.5" american_odds="450" fra_odds="9/2"/>
+				</market>
+				<market tid="139" name="Team To Score In Both Halves">
+					<outcome id="19196410" name="Spain" odds="3.5" american_odds="250" fra_odds="5/2"/>
+					<outcome id="19196411" name="Portugal" odds="7.00" american_odds="600" fra_odds="6/1"/>
+				</market>
+				<market tid="140" name="Team To Win In Extra Time">
+					<outcome id="19195881" name="Spain" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19195882" name="Portugal" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+				</market>
+				<market tid="141" name="Team To Win Both Halves">
+					<outcome id="19196417" name="Spain" odds="6.00" american_odds="500" fra_odds="5/1"/>
+					<outcome id="19196418" name="Portugal" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+				</market>
+				<market tid="142" name="Team To Score First And Lose">
+					<outcome id="19196530" name="Spain" odds="10.00" american_odds="900" fra_odds="9/1"/>
+					<outcome id="19196531" name="Portugal" odds="19.00" american_odds="1800" fra_odds="18/1"/>
+				</market>
+				<market tid="144" name="To Win Not To Nil">
+					<outcome id="19196494" name="Spain" odds="4.5" american_odds="350" fra_odds="7/2"/>
+					<outcome id="19196495" name="Portugal" odds="7.5" american_odds="650" fra_odds="13/2"/>
+				</market>
+				<market tid="145" name="Team To Win From Behind">
+					<outcome id="19196424" name="Spain" odds="9.00" american_odds="800" fra_odds="8/1"/>
+					<outcome id="19196425" name="Portugal" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+				</market>
+				<market tid="146" name="Home Team To Win Either Half">
+					<outcome id="19196392" name="Yes" odds="1.5" american_odds="-200" fra_odds="1/2"/>
+					<outcome id="19196393" name="No" odds="2.5" american_odds="150" fra_odds="3/2"/>
+				</market>
+				<market tid="147" name="Own Goal Scored">
+					<outcome id="19196428" name="Yes" odds="10.00" american_odds="900" fra_odds="9/1"/>
+					<outcome id="19196429" name="No" odds="1.04" american_odds="-2500" fra_odds="1/25"/>
+				</market>
+				<market tid="148" name="Team To Win On Penalties">
+					<outcome id="19195849" name="Spain" odds="12.00" american_odds="1100" fra_odds="11/1"/>
+					<outcome id="19195850" name="Portugal" odds="12.00" american_odds="1100" fra_odds="11/1"/>
+				</market>
+				<market tid="149" name="Home Win No Bet">
+					<outcome id="19196564" name="Draw" odds="1.44" american_odds="-227" fra_odds="2/5"/>
+					<outcome id="19196565" name="Portugal" odds="2.62" american_odds="162" fra_odds="8/5"/>
+				</market>
+				<market tid="151" name="Away Team to Win Either Half">
+					<outcome id="19196398" name="Yes" odds="2.5" american_odds="150" fra_odds="3/2"/>
+					<outcome id="19196399" name="No" odds="1.5" american_odds="-200" fra_odds="1/2"/>
+				</market>
+				<market tid="150" name="Player To Score 2 Or More Goals">
+					<outcome id="19196460" name="Fernando Torres" odds="10.00" american_odds="900" fra_odds="9/1"/>
+					<outcome id="19196461" name="Cesc Fabregas" odds="13.00" american_odds="1200" fra_odds="12/1"/>
+					<outcome id="19196462" name="Cristiano Ronaldo" odds="11.00" american_odds="1000" fra_odds="10/1"/>
+					<outcome id="19196463" name="Fernando Llorente" odds="15.00" american_odds="1400" fra_odds="14/1"/>
+					<outcome id="19196464" name="Alvaro Negredo" odds="17.00" american_odds="1600" fra_odds="16/1"/>
+					<outcome id="19196465" name="David Jimenez Silva" odds="19.00" american_odds="1800" fra_odds="18/1"/>
+					<outcome id="19196466" name="Pedro" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19196467" name="Andres Iniesta" odds="23.00" american_odds="2200" fra_odds="22/1"/>
+					<outcome id="19196468" name="Juan Mata" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19196469" name="Santi Cazorla" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19196470" name="Hugo Almeida" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19196471" name="Nani" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19196472" name="Nelson Oliveira" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+					<outcome id="19196473" name="Xabi Alonso" odds="41.00" american_odds="4000" fra_odds="40/1"/>
+					<outcome id="19196474" name="Xavi Hernandez" odds="34.00" american_odds="3300" fra_odds="33/1"/>
+					<outcome id="19196475" name="Jesus Navas" odds="51.00" american_odds="5000" fra_odds="50/1"/>
+					<outcome id="19196476" name="Ricardo Quaresma" odds="51.00" american_odds="5000" fra_odds="50/1"/>
+					<outcome id="19196477" name="Silvestre Varela" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+					<outcome id="19196478" name="Gerard Pique" odds="67.00" american_odds="6600" fra_odds="66/1"/>
+					<outcome id="19196479" name="No Goalscorer" odds="6.5" american_odds="550" fra_odds="11/2"/>
+				</market>
+				<market tid="152" name="Hat-Trick Scored">
+					<outcome id="19196480" name="Yes" odds="27.00" american_odds="2600" fra_odds="26/1"/>
+					<outcome id="19196481" name="No" odds="1.01" american_odds="-10000" fra_odds="1/100"/>
+				</market>
+				<market tid="10176" name="First Half Home Win No Bet">
+					<outcome id="19196566" name="Draw" odds="1.33" american_odds="-303" fra_odds="3/10"/>
+					<outcome id="19196567" name="Portugal" odds="3.00" american_odds="200" fra_odds="2/1"/>
+				</market>
+				<market tid="10177" name="2nd Half Home Win No Bet">
+					<outcome id="19196568" name="Draw" odds="1.4" american_odds="-250" fra_odds="2/5"/>
+					<outcome id="19196569" name="Portugal" odds="2.75" american_odds="175" fra_odds="7/4"/>
+				</market>
+				<market tid="10178" name="Away Win No Bet">
+					<outcome id="19196573" name="Draw" odds="1.57" american_odds="-175" fra_odds="11/20"/>
+					<outcome id="19196574" name="Spain" odds="2.25" american_odds="125" fra_odds="5/4"/>
+				</market>
+				<market tid="10179" name="First Half Away Win No Bet">
+					<outcome id="19196653" name="Draw" odds="1.62" american_odds="-161" fra_odds="3/5"/>
+					<outcome id="19196654" name="Spain" odds="2.2" american_odds="120" fra_odds="6/5"/>
+				</market>
+				<market tid="10180" name="2nd Half Away Win No Bet">
+					<outcome id="19196655" name="Draw" odds="1.8" american_odds="-125" fra_odds="4/5"/>
+					<outcome id="19196656" name="Spain" odds="1.9" american_odds="-111" fra_odds="9/10"/>
+				</market>
+				<market tid="10181" name="Fisrt Half To Keep A Clean Sheet">
+					<outcome id="19196793" name="Spain" odds="1.35" american_odds="-286" fra_odds="7/20"/>
+					<outcome id="19196794" name="Portugal" odds="1.67" american_odds="-149" fra_odds="13/20"/>
+				</market>
+				<market tid="10182" name="2nd Half To Keep A Clean Sheet">
+					<outcome id="19196795" name="Spain" odds="1.52" american_odds="-192" fra_odds="1/2"/>
+					<outcome id="19196796" name="Portugal" odds="2.1" american_odds="110" fra_odds="11/10"/>
+				</market>
+				<market tid="10183" name="First Half Draw No Bet">
+					<outcome id="19196836" name="Spain" odds="1.44" american_odds="-227" fra_odds="2/5"/>
+					<outcome id="19196837" name="Portugal" odds="2.62" american_odds="162" fra_odds="8/5"/>
+				</market>
+				<market tid="10184" name="2nd Half Draw No Bet">
+					<outcome id="19196838" name="Spain" odds="1.44" american_odds="-227" fra_odds="2/5"/>
+					<outcome id="19196839" name="Portugal" odds="2.62" american_odds="162" fra_odds="8/5"/>
+				</market>
+				<market tid="10185" name="First Half Team To Score First">
+					<outcome id="19196854" name="Spain" odds="2.25" american_odds="125" fra_odds="5/4"/>
+					<outcome id="19196855" name="Portugal" odds="3.9" american_odds="290" fra_odds="29/10"/>
+					<outcome id="19196856" name="No Goal" odds="2.3" american_odds="130" fra_odds="13/10"/>
+				</market>
+				<market tid="10186" name="2nd Half First Team to Score">
+					<outcome id="19196859" name="Spain" odds="2.1" american_odds="110" fra_odds="11/10"/>
+					<outcome id="19196860" name="Portugal" odds="3.4" american_odds="240" fra_odds="12/5"/>
+					<outcome id="19196861" name="No Goal" odds="2.95" american_odds="195" fra_odds="39/20"/>
+				</market>
+				<market tid="10187" name="2nd Half Double Chance">
+					<outcome id="19196862" name="1 / X" odds="1.12" american_odds="-833" fra_odds="1/10"/>
+					<outcome id="19196863" name="X / 2" odds="1.48" american_odds="-208" fra_odds="9/20"/>
+					<outcome id="19196864" name="1 / 2" odds="1.54" american_odds="-185" fra_odds="1/2"/>
+				</market>
+			</event>
+		</group>
+	</sport>
+</bookmaker>

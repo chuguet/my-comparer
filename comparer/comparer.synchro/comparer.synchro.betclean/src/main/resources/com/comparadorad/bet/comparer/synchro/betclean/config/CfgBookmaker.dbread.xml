@@ -1,0 +1,84 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+		<nameId>BetBoo</nameId>
+		<objectId>19</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2011-09-30 22:00:00.0 UTC</date>
+					<user>WRITER_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>BetBoo</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<bookmakerConfiguration>
+			<bookmakerMasterWordConfig>
+				<couldCreateMasterWord>true</couldCreateMasterWord>
+				<creationPriority>10</creationPriority>
+			</bookmakerMasterWordConfig>
+			<cfgBookmakerDataUrl>
+				<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+					<url>http://www.betboo.com/xml/openMatches.xml</url>
+				</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+			</cfgBookmakerDataUrl>
+			<cfgBookmakerWebUrl>
+				<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+					<url>http://record.betboopartners.com/</url>
+				</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+			</cfgBookmakerWebUrl>
+			<idAfiliado>_H7U40lBzn13Kto_EPcZApGNd7ZgqdRLk/1</idAfiliado>
+			<timeZone>America/Denver</timeZone>
+		</bookmakerConfiguration>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+		<nameId>William Hill</nameId>
+		<objectId>20</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2011-09-30 22:00:00.0 UTC</date>
+					<user>WRITER_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>BetBoo</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<bookmakerConfiguration>
+			<bookmakerMasterWordConfig>
+				<couldCreateMasterWord>true</couldCreateMasterWord>
+				<creationPriority>10</creationPriority>
+			</bookmakerMasterWordConfig>
+			<cfgBookmakerDataUrl>
+				<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+					<url>http://www.betboo.com/xml/openMatches.xml</url>
+				</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+			</cfgBookmakerDataUrl>
+			<cfgBookmakerWebUrl>
+				<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+					<url>http://record.betboopartners.com/</url>
+				</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+			</cfgBookmakerWebUrl>
+			<idAfiliado>_H7U40lBzn13Kto_EPcZApGNd7ZgqdRLk/1</idAfiliado>
+			<timeZone>America/Denver</timeZone>
+		</bookmakerConfiguration>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker>
+</list>

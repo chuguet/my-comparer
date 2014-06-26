@@ -1,0 +1,28 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent>
+    <objectId>1</objectId>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Competicion Corto Plazo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <longTerm>
+      <longTerm>false</longTerm>
+    </longTerm>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent>
+    <objectId>2</objectId>
+    <i18n>
+      <i18nFields>
+        <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          <string>Competicion Largo Plazo</string>
+        </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+      </i18nFields>
+    </i18n>
+    <longTerm>
+      <longTerm>true</longTerm>
+    </longTerm>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent>
+</list>

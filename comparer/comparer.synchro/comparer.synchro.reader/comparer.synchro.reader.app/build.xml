@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+
+<project basedir=".">
+
+	<echo message="pulling in property files" />
+	<property file="build.properties" />
+	<property name="maven.commoncmd" value="" />
+	<condition property="maven.line" value="--offline ${maven.commoncmd}">
+		<istrue value="${offline}" />
+	</condition>
+	<condition property="maven.executable" value="mvn.bat">
+		<os family="windows" />
+	</condition>
+	<property name="maven.executable" value="maven" />
+	<property name="maven.line" value="${maven.commoncmd}" />
+
+	<presetdef name="maven">
+		<exec failonerror="true" executable="${maven.executable}">
+			<arg line="${maven.line}" />
+		</exec>
+	</presetdef>
+	<!-- ################################## -->
+	<target name="eclipse:clean" description="clean everything">
+		<maven>
+			<arg value="eclipse:clean" />
+		</maven>
+	</target>
+	<target name="eclipse:eclipse" depends="eclipse:clean" description="">
+		<maven>
+			<arg value="eclipse:eclipse" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="eclipse:eclipse-source" depends="eclipse:clean" description="">
+		<maven>
+			<arg value="eclipse:eclipse" />
+			<arg value="-DdownloadSources=true" />
+		</maven>
+	</target>
+	<target name="dependency:tree" description="">
+		<maven>
+			<arg value="dependency:tree" />
+			<!--
+			<arg value="-DoutputType=graphml" />
+			<arg value="-Doutput=dependency.graphml" />-->
+		</maven>
+	</target>
+	<target name="clean" description="">
+		<maven>
+			<arg value="clean" />
+		</maven>
+	</target>
+
+	<target name="install" depends="clean" description="">
+		<maven>
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+
+	<target name="install-betathome" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betathome" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betclick" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betclick" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betcris" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betcris" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betdsi" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betdsi" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betfred" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betfred" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betgun" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betgun" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betonline" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betonline" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-betredkings" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=betredkings" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-bookmaker.eu" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=bookmaker.eu" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-boylesports" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=boylesports" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-bwin" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=bwin" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-bwin-ZERO" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=bwin_ZERO" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-expekt" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=expekt" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-intertops" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=intertops" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-interwetten" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=interwetten" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-interwetten-ZERO" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=interwetten_ZERO" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-luckia" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=luckia" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-luckia-ZERO" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=luckia_ZERO" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-nordic" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=nordic" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-pinnacle" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=pinnacle" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-sportsbetting" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=sportsbetting" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-sportsbettingag" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=sportsbettingag" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-triobet" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=triobet" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-unibet" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=unibet" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-uwin" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=uwin" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-williamhill" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=williamhill" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-williamhill-ZERO" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=williamhill_ZERO" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-youwin" depends="clean" description="">
+		<maven>
+			<arg value="-Denv=youwin" />
+			<arg value="install" />
+			<arg value="-o" />
+		</maven>
+	</target>
+	<target name="install-notest" depends="clean" description="">
+		<maven>
+			<arg value="install" />
+			<arg value="-Dmaven.test.skip=true" />
+		</maven>
+	</target>
+	<target name="install-noclean" description="">
+		<maven>
+			<arg value="install" />
+		</maven>
+	</target>
+	<target name="install-PREPROD" depends="clean" description="">
+		<maven>
+			<arg value="install" />
+		</maven>
+		<copydir dest="${comparerApps.path}" src="./target/appassembler/jsw/">
+		</copydir>
+		<echo>Es necesario ir al servidor e instalar/actualizar los servicios</echo>
+		<echo>La instalación/actualización de servicios se debe hacer como administrador.</echo>
+	</target>
+	<target name="test" description="">
+		<maven>
+			<arg value="test" />
+		</maven>
+	</target>
+
+	<target name="deploy" description="">
+		<maven>
+			<arg value="deploy" />
+		</maven>
+	</target>
+
+</project>
+

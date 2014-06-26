@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:batch="http://www.springframework.org/schema/batch" xmlns:task="http://www.springframework.org/schema/task"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans-3.1.xsd 
+    http://www.springframework.org/schema/task
+    http://www.springframework.org/schema/task/spring-task-3.1.xsd
+    http://www.springframework.org/schema/batch
+    http://www.springframework.org/schema/batch/spring-batch-2.1.xsd">
+
+	<task:annotation-driven />
+
+	<bean id="jobBeThreadPool"
+		class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+		<property name="corePoolSize" value="${pool.size}" />
+		<property name="daemon" value="false" />
+	</bean>
+
+	<!-- <task:executor id="stepInitExecutor" pool-size="${pool.thread.init}"/> 
+		<task:executor id="stepObtainBookmakersExecutor" pool-size="${pool.thread.obtainbookmakers}" 
+		/> <task:executor id="stepMakerUrlExecutor" pool-size="${pool.thread.makeurl}" 
+		/> <task:executor id="stepDownloadUrlExecutor" pool-size="${pool.thread.downloadurl}" 
+		/> <task:executor id="stepBookmakerFileProcessExecutor" pool-size="${pool.thread.fileprocess}" 
+		/> <task:executor id="stepParameterDownloadExecutor" pool-size="${pool.thread.parameter}" 
+		/> <task:executor id="stepMatchFilterExecutor" pool-size="${pool.thread.matchfilter}" 
+		/> <task:executor id="stepMatchProcessExecutor" pool-size="${pool.thread.matchprocess}" 
+		/> <task:executor id="splitExecutor" pool-size="${pool.thread.split}" /> 
+		<task:executor id="splitExecutorProcess" pool-size="0-18" /> -->
+
+	<batch:step id="init">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" start-limit="1" throttle-limit="1">
+			<batch:chunk reader="bookmakersInit" writer="bookmakersInit"
+				commit-interval="${pool.commit.init}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+	<batch:step id="obtainBookmakers">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" start-limit="1"
+			throttle-limit="${pool.throttleLimit.obtainBookmakers}">
+			<batch:chunk reader="bookmakersObtainerReader" writer="bookmakersObtainerWriter"
+				commit-interval="${pool.commit.obtainbookmakers}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+	<batch:step id="makerUrl">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" start-limit="1"
+			throttle-limit="${pool.throttleLimit.makerUrl}">
+			<batch:chunk reader="makerUrlReader" writer="makerUrlWriter"
+				commit-interval="${pool.commit.init}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+	<batch:step id="downloadUrl">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" throttle-limit="${pool.throttleLimit.downloadUrl}">
+			<batch:chunk reader="downloadUrlReader" writer="downloadUrlWriter"
+				commit-interval="${pool.commit.downloadurl}" />
+		</batch:tasklet>
+	</batch:step>
+
+	<batch:step id="bookmakerFileProcess">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" throttle-limit="${pool.throttleLimit.bookmakerFileProcess}">
+			<batch:chunk reader="bookmakerFileProcessReader" writer="bookmakerFileProcessWriter"
+				commit-interval="${pool.commit.fileprocess}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+
+	<batch:step id="parameterDownload">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" throttle-limit="${pool.throttleLimit.parameterDownload}">
+			<batch:chunk reader="parameterDownloadReader" writer="parameterDownloadWriter"
+				commit-interval="${pool.commit.parameter}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+
+	<batch:step id="matchFilter">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" throttle-limit="${pool.throttleLimit.matchFilter}">
+			<batch:chunk reader="filterProcessReader" writer="filterProcessReaderWriter"
+				commit-interval="${pool.commit.matchfilter}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+
+	<batch:step id="matchProcess">
+		<batch:tasklet transaction-manager="jobRepository-transactionManager"
+			task-executor="jobBeThreadPool" throttle-limit="${pool.throttleLimit.matchProcess}">
+			<batch:chunk reader="matchProcessReader" processor="matchProcessProcessor"
+				writer="matchProcessWriter" commit-interval="${pool.commit.matchprocess}">
+			</batch:chunk>
+		</batch:tasklet>
+	</batch:step>
+
+
+
+	<!-- <batch:job id="jobBet" xmlns="http://www.springframework.org/schema/batch" 
+		job-repository="jobRepository" restartable="true" incrementer="dynamicJobParameters"> 
+		<batch:step id="initStep" parent="init" next="obtainBookmakersStep" /> <batch:step 
+		id="obtainBookmakersStep" parent="obtainBookmakers" next="makerUrlStep" /> 
+		<batch:step id="makerUrlStep" parent="makerUrl" next="splitStep"/> <batch:split 
+		id="splitStep" task-executor="splitExecutor"> <batch:flow> <batch:step id="downloadUrlStep" 
+		parent="downloadUrl" /> </batch:flow> <batch:flow> <batch:step id="bookmakerFileProcessStep" 
+		parent="bookmakerFileProcess" next="parameterDownloadStep" /> <batch:step 
+		id="parameterDownloadStep" parent="parameterDownload" next="matchFilterStep" 
+		/> <batch:step id="matchFilterStep" parent="matchFilter" next="matchProcessStep" 
+		/> <batch:step id="matchProcessStep" parent="matchProcess" /> </batch:flow> 
+		</batch:split> </batch:job> -->
+
+	<batch:job id="jobBet" xmlns="http://www.springframework.org/schema/batch"
+		job-repository="jobRepository" restartable="true" incrementer="dynamicJobParameters">
+
+		<batch:step id="initStep" parent="init" next="obtainBookmakersStep" />
+
+		<batch:step id="obtainBookmakersStep" parent="obtainBookmakers"
+			next="makerUrlStep" />
+
+		<batch:step id="makerUrlStep" parent="makerUrl" next="downloadUrlStep" />
+
+		<batch:step id="downloadUrlStep" parent="downloadUrl"
+			next="bookmakerFileProcessStep" />
+
+		<batch:step id="bookmakerFileProcessStep" parent="bookmakerFileProcess"
+			next="parameterDownloadStep" />
+
+		<batch:step id="parameterDownloadStep" parent="parameterDownload"
+			next="matchFilterStep" />
+
+		<batch:step id="matchFilterStep" parent="matchFilter" next="matchProcessStep" />
+
+		<batch:step id="matchProcessStep" parent="matchProcess" />
+
+	</batch:job>
+
+
+</beans>
