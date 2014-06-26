@@ -1,0 +1,27 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+		<objectId>1</objectId>
+		<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+			<historicList>
+				<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					<creationAction>true</creationAction>
+					<date>2011-09-25 22:00:00.0 UTC</date>
+					<user>WRITER_APP</user>
+				</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+			</historicList>
+		</historic>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<locale>en</locale>
+					<string>Football</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<configured>true</configured>
+		<hashKeyParticipants>false</hashKeyParticipants>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgSport>
+</list>

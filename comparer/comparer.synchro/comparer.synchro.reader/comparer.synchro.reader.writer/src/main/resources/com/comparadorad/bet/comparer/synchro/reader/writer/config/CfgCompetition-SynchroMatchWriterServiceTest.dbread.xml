@@ -1,0 +1,21 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetition>
+		<objectId>1</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Premier League</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<sport>
+			<objectId>1</objectId>
+		</sport>
+		<region>
+			<objectId>1</objectId>
+		</region>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetition>
+</list>

@@ -1,0 +1,157 @@
+<list>
+	<com.comparadorad.bet.comparer.model.bet.bean.RtMatch>
+		<objectId>2</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Premier League</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<matchId>
+			<competitionEvent>
+				<objectId>1</objectId>
+				<longTerm>
+					<longTerm>false</longTerm>
+				</longTerm>
+			</competitionEvent>
+			<competition>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields>
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Premier League</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+				<sport>
+					<objectId>1</objectId>
+					<i18n>
+						<i18nFields>
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<string>Football</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+				</sport>
+				<region>
+					<i18n>
+						<i18nFields>
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<string>England</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+				</region>
+			</competition>
+			<startDate>
+				<providerDate>2500-01-01 07:00:00.0 UTC</providerDate>
+				<providerTimeZoneStr>GMT-5</providerTimeZoneStr>
+				<zeroGmtMatchDate>2500-01-01 14:00:00.0 UTC</zeroGmtMatchDate>
+				<zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+			</startDate>
+			<participiants>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+					<cfgParticipant>
+						<objectId>2</objectId>
+					</cfgParticipant>
+					<homeParticipant>true</homeParticipant>
+					<awayParticipant>false</awayParticipant>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+					<cfgParticipant>
+						<objectId>3</objectId>
+					</cfgParticipant>
+					<homeParticipant>false</homeParticipant>
+					<awayParticipant>true</awayParticipant>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+			</participiants>
+			<moda>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtModa>
+					<element class="com.comparadorad.bet.comparer.model.core.bean.CoreDate">
+						<providerDate>2500-01-01 07:00:00.0 UTC</providerDate>
+						<providerTimeZoneStr>GMT2</providerTimeZoneStr>
+						<zeroGmtMatchDate reference="../providerDate" />
+						<zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+					</element>
+					<matchers>
+						<com.comparadorad.bet.comparer.model.bet.bean.RtBookmakerIdWeight>
+							<bookmakerId>BETCLIC_COM_ID</bookmakerId>
+							<weigth>2</weigth>
+						</com.comparadorad.bet.comparer.model.bet.bean.RtBookmakerIdWeight>
+					</matchers>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtModa>
+			</moda>
+		</matchId>
+		<markets>
+			<!-- ******************************************************************************* -->
+			<!-- Hay un mercado con: -->
+			<!-- Tipo de apuesta: Asian Handicap -->
+			<!-- El partido es inactico -->
+			<!-- ******************************************************************************* -->
+			<com.comparadorad.bet.comparer.model.bet.bean.RtMarket>
+				<betTypeEvent>
+					<betTypeEvent>
+						<objectId>1</objectId>
+					</betTypeEvent>
+				</betTypeEvent>
+				<betType>
+					<objectId>4</objectId>
+					<nameId>Handicap_Asiatico</nameId>
+				</betType>
+				<isValid>true</isValid>
+				<bets>
+					<!-- Apuesta Local Casa de apuestas BetClick -->
+					<com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+						<attribute
+							class="com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute">
+							<firstValue>-2.5</firstValue>
+							<finalValue>-2.5</finalValue>
+							<asianResult>ONE</asianResult>
+							<betName>Handicap_Asiatico</betName>
+						</attribute>
+						<betOdd>
+							<odds>1.88</odds>
+						</betOdd>
+						<bookmaker>
+							<objectId>17</objectId>
+						</bookmaker>
+						<participant>
+							<homeParticipant>true</homeParticipant>
+							<awayParticipant>false</awayParticipant>
+							<cfgParticipant>
+								<objectId>2</objectId>
+							</cfgParticipant>
+						</participant>
+					</com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+					<!-- Apuesta Visitante Casa de apuestas BetClick -->
+					<com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+						<attribute
+							class="com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute">
+							<firstValue>-2.5</firstValue>
+							<finalValue>-2.5</finalValue>
+							<asianResult>TWO</asianResult>
+							<betName>Handicap_Asiatico</betName>
+						</attribute>
+						<betOdd>
+							<odds>1.90</odds>
+						</betOdd>
+						<bookmaker>
+							<objectId>17</objectId>
+						</bookmaker>
+						<participant>
+							<homeParticipant>false</homeParticipant>
+							<awayParticipant>true</awayParticipant>
+							<cfgParticipant>
+								<objectId>3</objectId>
+							</cfgParticipant>
+						</participant>
+					</com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+				</bets>
+			</com.comparadorad.bet.comparer.model.bet.bean.RtMarket>
+		</markets>
+	</com.comparadorad.bet.comparer.model.bet.bean.RtMatch>
+</list>

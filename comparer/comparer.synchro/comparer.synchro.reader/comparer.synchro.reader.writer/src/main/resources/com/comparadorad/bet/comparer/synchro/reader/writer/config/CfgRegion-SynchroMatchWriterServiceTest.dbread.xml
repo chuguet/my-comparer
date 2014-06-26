@@ -1,0 +1,18 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgRegion>
+		<objectId>1</objectId>
+		<i18n>
+			<i18nFields>
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>England</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<alfanumeric2Code>england</alfanumeric2Code>
+		<alfanumeric3Code>england</alfanumeric3Code>
+		<numericCode>1</numericCode>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgRegion>
+</list>

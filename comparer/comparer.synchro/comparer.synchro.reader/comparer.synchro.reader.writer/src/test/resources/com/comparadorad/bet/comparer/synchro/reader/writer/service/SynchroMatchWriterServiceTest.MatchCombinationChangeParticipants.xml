@@ -1,0 +1,1291 @@
+<list>
+	<com.comparadorad.bet.comparer.model.bet.bean.RtMatch>
+		<objectId>1</objectId>
+		<i18n>
+			<i18nFields class="linked-hash-set">
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Premier League</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>false</active>
+		</coreActiveElement>
+		<live>false</live>
+		<markets class="linked-hash-set">
+			<com.comparadorad.bet.comparer.model.bet.bean.RtMarket>
+				<bets class="linked-hash-set">
+					<com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+						<attribute
+							class="com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute">
+							<betName>Handicap_Asiatico</betName>
+							<asianResult>ONE</asianResult>
+							<firstValue>2.5</firstValue>
+							<secondValue>3.0</secondValue>
+							<finalValue>2.75</finalValue>
+						</attribute>
+						<betOdd>
+							<odds>1.91</odds>
+						</betOdd>
+						<bookmaker>
+							<nameId>BetClick.com</nameId>
+							<objectId>19</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-30 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>BetClick.com</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<bookmakerConfiguration>
+								<bookmakerMasterWordConfig>
+									<couldCreateMasterWord>true</couldCreateMasterWord>
+									<creationPriority>10</creationPriority>
+								</bookmakerMasterWordConfig>
+								<cfgBookmakerDataUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+										<url>http://xml.cdn.betclic.com/odds_en.xml</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+								</cfgBookmakerDataUrl>
+								<cfgBookmakerWebUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+										<url>http://affiliates.beaffiliates.com/processing/clickthrgh.asp
+										</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+								</cfgBookmakerWebUrl>
+								<idAfiliado></idAfiliado>
+								<timeZone>UTC</timeZone>
+							</bookmakerConfiguration>
+						</bookmaker>
+						<participant>
+							<awayParticipant>false</awayParticipant>
+							<cfgParticipant>
+								<objectId>1</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>Manchester United</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<cfgCompetition>
+									<objectId>1</objectId>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<string>Premier League</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<region>
+										<objectId>1</objectId>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<string>England</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<alfanumeric2Code>england</alfanumeric2Code>
+										<alfanumeric3Code>england</alfanumeric3Code>
+										<numericCode>1</numericCode>
+									</region>
+									<sport>
+										<objectId>1</objectId>
+										<historic
+											class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+											<historicList>
+												<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+													<creationAction>true</creationAction>
+													<date>2011-09-25 22:00:00.0 UTC</date>
+													<user>WRITER_APP</user>
+												</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											</historicList>
+										</historic>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<locale>en</locale>
+													<string>Football</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<configured>true</configured>
+										<hashKeyParticipants>false</hashKeyParticipants>
+									</sport>
+								</cfgCompetition>
+								<cfgSport>
+									<objectId>1</objectId>
+									<historic
+										class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+										<historicList>
+											<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+												<creationAction>true</creationAction>
+												<date>2011-09-25 22:00:00.0 UTC</date>
+												<user>WRITER_APP</user>
+											</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										</historicList>
+									</historic>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<locale>en</locale>
+												<string>Football</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<configured>true</configured>
+									<hashKeyParticipants>false</hashKeyParticipants>
+								</cfgSport>
+							</cfgParticipant>
+							<homeParticipant>true</homeParticipant>
+							<under>false</under>
+							<over>false</over>
+						</participant>
+					</com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+					<com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+						<attribute
+							class="com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute">
+							<betName>Handicap_Asiatico</betName>
+							<asianResult>TWO</asianResult>
+							<firstValue>2.5</firstValue>
+							<secondValue>3.0</secondValue>
+							<finalValue>2.75</finalValue>
+						</attribute>
+						<betOdd>
+							<odds>1.92</odds>
+						</betOdd>
+						<bookmaker>
+							<nameId>BetClick.com</nameId>
+							<objectId>19</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-30 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>BetClick.com</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<bookmakerConfiguration>
+								<bookmakerMasterWordConfig>
+									<couldCreateMasterWord>true</couldCreateMasterWord>
+									<creationPriority>10</creationPriority>
+								</bookmakerMasterWordConfig>
+								<cfgBookmakerDataUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+										<url>http://xml.cdn.betclic.com/odds_en.xml</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+								</cfgBookmakerDataUrl>
+								<cfgBookmakerWebUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+										<url>http://affiliates.beaffiliates.com/processing/clickthrgh.asp
+										</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+								</cfgBookmakerWebUrl>
+								<idAfiliado></idAfiliado>
+								<timeZone>UTC</timeZone>
+							</bookmakerConfiguration>
+						</bookmaker>
+						<participant>
+							<awayParticipant>true</awayParticipant>
+							<cfgParticipant>
+								<objectId>2</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>Aston Villa</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<cfgCompetition>
+									<objectId>1</objectId>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<string>Premier League</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<region>
+										<objectId>1</objectId>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<string>England</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<alfanumeric2Code>england</alfanumeric2Code>
+										<alfanumeric3Code>england</alfanumeric3Code>
+										<numericCode>1</numericCode>
+									</region>
+									<sport>
+										<objectId>1</objectId>
+										<historic
+											class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+											<historicList>
+												<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+													<creationAction>true</creationAction>
+													<date>2011-09-25 22:00:00.0 UTC</date>
+													<user>WRITER_APP</user>
+												</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											</historicList>
+										</historic>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<locale>en</locale>
+													<string>Football</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<configured>true</configured>
+										<hashKeyParticipants>false</hashKeyParticipants>
+									</sport>
+								</cfgCompetition>
+								<cfgSport>
+									<objectId>1</objectId>
+									<historic
+										class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+										<historicList>
+											<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+												<creationAction>true</creationAction>
+												<date>2011-09-25 22:00:00.0 UTC</date>
+												<user>WRITER_APP</user>
+											</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										</historicList>
+									</historic>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<locale>en</locale>
+												<string>Football</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<configured>true</configured>
+									<hashKeyParticipants>false</hashKeyParticipants>
+								</cfgSport>
+							</cfgParticipant>
+							<homeParticipant>false</homeParticipant>
+							<under>false</under>
+							<over>false</over>
+						</participant>
+					</com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+				</bets>
+				<betType>
+					<nameId>Handicap_Asiatico</nameId>
+					<objectId>4</objectId>
+					<i18n>
+						<i18nFields class="linked-hash-set">
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<string>Handicap Asiatico</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+					<coreActiveElement>
+						<active>true</active>
+					</coreActiveElement>
+					<order>
+						<priority>40</priority>
+					</order>
+				</betType>
+				<betTypeEvent>
+					<betTypeEvent>
+						<nameId>PARTIDO_COMPLETO</nameId>
+						<objectId>1</objectId>
+						<i18n>
+							<i18nFields class="linked-hash-set">
+								<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									<string>Partido Completo</string>
+								</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							</i18nFields>
+						</i18n>
+						<coreActiveElement>
+							<active>true</active>
+						</coreActiveElement>
+					</betTypeEvent>
+				</betTypeEvent>
+				<isValid>true</isValid>
+			</com.comparadorad.bet.comparer.model.bet.bean.RtMarket>
+		</markets>
+		<matchId>
+			<moda>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtModa>
+					<element class="com.comparadorad.bet.comparer.model.core.bean.CoreDate">
+						<providerDate>2500-01-01 07:00:00.0 UTC</providerDate>
+						<providerTimeZoneStr>GMT2</providerTimeZoneStr>
+						<zeroGmtMatchDate reference="../providerDate" />
+						<zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+					</element>
+					<matchers>
+						<com.comparadorad.bet.comparer.model.bet.bean.RtBookmakerIdWeight>
+							<bookmakerId>BETCLIC_COM_ID</bookmakerId>
+							<weigth>2</weigth>
+						</com.comparadorad.bet.comparer.model.bet.bean.RtBookmakerIdWeight>
+					</matchers>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtModa>
+			</moda>
+			<competition>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields class="linked-hash-set">
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Premier League</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+				<coreActiveElement>
+					<active>true</active>
+				</coreActiveElement>
+				<region>
+					<objectId>1</objectId>
+					<i18n>
+						<i18nFields class="linked-hash-set">
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<string>England</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+					<coreActiveElement>
+						<active>true</active>
+					</coreActiveElement>
+					<alfanumeric2Code>england</alfanumeric2Code>
+					<alfanumeric3Code>england</alfanumeric3Code>
+					<numericCode>1</numericCode>
+				</region>
+				<sport>
+					<objectId>1</objectId>
+					<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+						<historicList>
+							<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								<creationAction>true</creationAction>
+								<date>2011-09-25 22:00:00.0 UTC</date>
+								<user>WRITER_APP</user>
+							</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						</historicList>
+					</historic>
+					<i18n>
+						<i18nFields class="linked-hash-set">
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<locale>en</locale>
+								<string>Football</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+					<coreActiveElement>
+						<active>true</active>
+					</coreActiveElement>
+					<configured>true</configured>
+					<hashKeyParticipants>false</hashKeyParticipants>
+				</sport>
+			</competition>
+			<competitionEvent>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields class="linked-hash-set">
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Competicion Corto Plazo</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+				<longTerm>
+					<longTerm>false</longTerm>
+				</longTerm>
+			</competitionEvent>
+			<participiants class="linked-hash-set">
+				<com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+					<awayParticipant>false</awayParticipant>
+					<cfgParticipant>
+						<objectId>1</objectId>
+						<i18n>
+							<i18nFields class="linked-hash-set">
+								<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									<string>Manchester United</string>
+								</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							</i18nFields>
+						</i18n>
+						<cfgCompetition>
+							<objectId>1</objectId>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>Premier League</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<region>
+								<objectId>1</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>England</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<alfanumeric2Code>england</alfanumeric2Code>
+								<alfanumeric3Code>england</alfanumeric3Code>
+								<numericCode>1</numericCode>
+							</region>
+							<sport>
+								<objectId>1</objectId>
+								<historic
+									class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+									<historicList>
+										<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											<creationAction>true</creationAction>
+											<date>2011-09-25 22:00:00.0 UTC</date>
+											<user>WRITER_APP</user>
+										</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+									</historicList>
+								</historic>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<locale>en</locale>
+											<string>Football</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<configured>true</configured>
+								<hashKeyParticipants>false</hashKeyParticipants>
+							</sport>
+						</cfgCompetition>
+						<cfgSport>
+							<objectId>1</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-25 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<locale>en</locale>
+										<string>Football</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<configured>true</configured>
+							<hashKeyParticipants>false</hashKeyParticipants>
+						</cfgSport>
+					</cfgParticipant>
+					<homeParticipant>true</homeParticipant>
+					<under>false</under>
+					<over>false</over>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+					<awayParticipant>true</awayParticipant>
+					<cfgParticipant>
+						<objectId>2</objectId>
+						<i18n>
+							<i18nFields class="linked-hash-set">
+								<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									<string>Aston Villa</string>
+								</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							</i18nFields>
+						</i18n>
+						<cfgCompetition>
+							<objectId>1</objectId>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>Premier League</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<region>
+								<objectId>1</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>England</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<alfanumeric2Code>england</alfanumeric2Code>
+								<alfanumeric3Code>england</alfanumeric3Code>
+								<numericCode>1</numericCode>
+							</region>
+							<sport>
+								<objectId>1</objectId>
+								<historic
+									class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+									<historicList>
+										<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											<creationAction>true</creationAction>
+											<date>2011-09-25 22:00:00.0 UTC</date>
+											<user>WRITER_APP</user>
+										</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+									</historicList>
+								</historic>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<locale>en</locale>
+											<string>Football</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<configured>true</configured>
+								<hashKeyParticipants>false</hashKeyParticipants>
+							</sport>
+						</cfgCompetition>
+						<cfgSport>
+							<objectId>1</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-25 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<locale>en</locale>
+										<string>Football</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<configured>true</configured>
+							<hashKeyParticipants>false</hashKeyParticipants>
+						</cfgSport>
+					</cfgParticipant>
+					<homeParticipant>false</homeParticipant>
+					<under>false</under>
+					<over>false</over>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+			</participiants>
+			<startDate>
+				<providerDate>2500-01-01 07:00:00.0 UTC</providerDate>
+				<providerTimeZoneStr>GMT-5</providerTimeZoneStr>
+				<zeroGmtMatchDate>2500-01-01 07:00:00.0 UTC</zeroGmtMatchDate>
+				<zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+			</startDate>
+		</matchId>
+	</com.comparadorad.bet.comparer.model.bet.bean.RtMatch>
+	<com.comparadorad.bet.comparer.model.bet.bean.RtMatch>
+		<i18n>
+			<i18nFields class="linked-hash-set">
+				<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					<string>Premier League</string>
+				</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+			</i18nFields>
+		</i18n>
+		<coreActiveElement>
+			<active>false</active>
+		</coreActiveElement>
+		<live>false</live>
+		<markets class="linked-hash-set">
+			<com.comparadorad.bet.comparer.model.bet.bean.RtMarket>
+				<bets class="linked-hash-set">
+					<com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+						<attribute
+							class="com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute">
+							<betName>Handicap_Asiatico</betName>
+							<asianResult>ONE</asianResult>
+							<firstValue>2.5</firstValue>
+							<finalValue>2.5</finalValue>
+						</attribute>
+						<betOdd>
+							<odds>1.71</odds>
+						</betOdd>
+						<bookmaker>
+							<nameId>BetBoo</nameId>
+							<objectId>17</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-30 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>BetBoo</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<bookmakerConfiguration>
+								<bookmakerMasterWordConfig>
+									<couldCreateMasterWord>true</couldCreateMasterWord>
+									<creationPriority>10</creationPriority>
+								</bookmakerMasterWordConfig>
+								<cfgBookmakerDataUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+										<url>http://www.betboo.com/xml/openMatches.xml</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+								</cfgBookmakerDataUrl>
+								<cfgBookmakerWebUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+										<url>http://record.betboopartners.com/</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+								</cfgBookmakerWebUrl>
+								<idAfiliado></idAfiliado>
+								<timeZone>UTC</timeZone>
+							</bookmakerConfiguration>
+						</bookmaker>
+						<participant>
+							<awayParticipant>true</awayParticipant>
+							<cfgParticipant>
+								<objectId>2</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>Aston Villa</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<cfgCompetition>
+									<objectId>1</objectId>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<string>Premier League</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<region>
+										<objectId>1</objectId>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<string>England</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<alfanumeric2Code>england</alfanumeric2Code>
+										<alfanumeric3Code>england</alfanumeric3Code>
+										<numericCode>1</numericCode>
+									</region>
+									<sport>
+										<objectId>1</objectId>
+										<historic
+											class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+											<historicList>
+												<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+													<creationAction>true</creationAction>
+													<date>2011-09-25 22:00:00.0 UTC</date>
+													<user>WRITER_APP</user>
+												</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											</historicList>
+										</historic>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<locale>en</locale>
+													<string>Football</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<configured>true</configured>
+										<hashKeyParticipants>false</hashKeyParticipants>
+									</sport>
+								</cfgCompetition>
+								<cfgSport>
+									<objectId>1</objectId>
+									<historic
+										class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+										<historicList>
+											<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+												<creationAction>true</creationAction>
+												<date>2011-09-25 22:00:00.0 UTC</date>
+												<user>WRITER_APP</user>
+											</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										</historicList>
+									</historic>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<locale>en</locale>
+												<string>Football</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<configured>true</configured>
+									<hashKeyParticipants>false</hashKeyParticipants>
+								</cfgSport>
+							</cfgParticipant>
+							<homeParticipant>false</homeParticipant>
+							<under>false</under>
+							<over>false</over>
+						</participant>
+					</com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+					<com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+						<attribute
+							class="com.comparadorad.bet.comparer.model.bet.bean.RtAsianHandicapAttribute">
+							<betName>Handicap_Asiatico</betName>
+							<asianResult>TWO</asianResult>
+							<firstValue>2.5</firstValue>
+							<finalValue>2.5</finalValue>
+						</attribute>
+						<betOdd>
+							<odds>1.72</odds>
+						</betOdd>
+						<bookmaker>
+							<nameId>BetBoo</nameId>
+							<objectId>17</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-30 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>BetBoo</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<bookmakerConfiguration>
+								<bookmakerMasterWordConfig>
+									<couldCreateMasterWord>true</couldCreateMasterWord>
+									<creationPriority>10</creationPriority>
+								</bookmakerMasterWordConfig>
+								<cfgBookmakerDataUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+										<url>http://www.betboo.com/xml/openMatches.xml</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerDataUrl>
+								</cfgBookmakerDataUrl>
+								<cfgBookmakerWebUrl class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+										<url>http://record.betboopartners.com/</url>
+									</com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerWebUrl>
+								</cfgBookmakerWebUrl>
+								<idAfiliado></idAfiliado>
+								<timeZone>UTC</timeZone>
+							</bookmakerConfiguration>
+						</bookmaker>
+						<participant>
+							<awayParticipant>false</awayParticipant>
+							<cfgParticipant>
+								<objectId>1</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>Manchester United</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<cfgCompetition>
+									<objectId>1</objectId>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<string>Premier League</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<region>
+										<objectId>1</objectId>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<string>England</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<alfanumeric2Code>england</alfanumeric2Code>
+										<alfanumeric3Code>england</alfanumeric3Code>
+										<numericCode>1</numericCode>
+									</region>
+									<sport>
+										<objectId>1</objectId>
+										<historic
+											class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+											<historicList>
+												<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+													<creationAction>true</creationAction>
+													<date>2011-09-25 22:00:00.0 UTC</date>
+													<user>WRITER_APP</user>
+												</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											</historicList>
+										</historic>
+										<i18n>
+											<i18nFields class="linked-hash-set">
+												<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+													<locale>en</locale>
+													<string>Football</string>
+												</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											</i18nFields>
+										</i18n>
+										<coreActiveElement>
+											<active>true</active>
+										</coreActiveElement>
+										<configured>true</configured>
+										<hashKeyParticipants>false</hashKeyParticipants>
+									</sport>
+								</cfgCompetition>
+								<cfgSport>
+									<objectId>1</objectId>
+									<historic
+										class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+										<historicList>
+											<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+												<creationAction>true</creationAction>
+												<date>2011-09-25 22:00:00.0 UTC</date>
+												<user>WRITER_APP</user>
+											</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										</historicList>
+									</historic>
+									<i18n>
+										<i18nFields class="linked-hash-set">
+											<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+												<locale>en</locale>
+												<string>Football</string>
+											</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										</i18nFields>
+									</i18n>
+									<coreActiveElement>
+										<active>true</active>
+									</coreActiveElement>
+									<configured>true</configured>
+									<hashKeyParticipants>false</hashKeyParticipants>
+								</cfgSport>
+							</cfgParticipant>
+							<homeParticipant>true</homeParticipant>
+							<under>false</under>
+							<over>false</over>
+						</participant>
+					</com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+				</bets>
+				<betType>
+					<nameId>Handicap_Asiatico</nameId>
+					<objectId>4</objectId>
+					<i18n>
+						<i18nFields class="linked-hash-set">
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<string>Handicap Asiatico</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+					<coreActiveElement>
+						<active>true</active>
+					</coreActiveElement>
+					<order>
+						<priority>40</priority>
+					</order>
+				</betType>
+				<betTypeEvent>
+					<betTypeEvent>
+						<nameId>PARTIDO_COMPLETO</nameId>
+						<objectId>1</objectId>
+						<i18n>
+							<i18nFields class="linked-hash-set">
+								<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									<string>Partido Completo</string>
+								</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							</i18nFields>
+						</i18n>
+						<coreActiveElement>
+							<active>true</active>
+						</coreActiveElement>
+					</betTypeEvent>
+				</betTypeEvent>
+				<isValid>true</isValid>
+			</com.comparadorad.bet.comparer.model.bet.bean.RtMarket>
+		</markets>
+		<matchId>
+			<moda>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtModa>
+					<element class="com.comparadorad.bet.comparer.model.core.bean.CoreDate">
+						<providerDate>2500-01-01 07:00:00.0 UTC</providerDate>
+						<providerTimeZoneStr>GMT2</providerTimeZoneStr>
+						<zeroGmtMatchDate reference="../providerDate" />
+						<zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+					</element>
+					<matchers>
+						<com.comparadorad.bet.comparer.model.bet.bean.RtBookmakerIdWeight>
+							<bookmakerId>BETCLIC_COM_ID</bookmakerId>
+							<weigth>2</weigth>
+						</com.comparadorad.bet.comparer.model.bet.bean.RtBookmakerIdWeight>
+					</matchers>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtModa>
+			</moda>
+			<competition>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields class="linked-hash-set">
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Premier League</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+				<coreActiveElement>
+					<active>true</active>
+				</coreActiveElement>
+				<region>
+					<objectId>1</objectId>
+					<i18n>
+						<i18nFields class="linked-hash-set">
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<string>England</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+					<coreActiveElement>
+						<active>true</active>
+					</coreActiveElement>
+					<alfanumeric2Code>england</alfanumeric2Code>
+					<alfanumeric3Code>england</alfanumeric3Code>
+					<numericCode>1</numericCode>
+				</region>
+				<sport>
+					<objectId>1</objectId>
+					<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+						<historicList>
+							<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								<creationAction>true</creationAction>
+								<date>2011-09-25 22:00:00.0 UTC</date>
+								<user>WRITER_APP</user>
+							</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+						</historicList>
+					</historic>
+					<i18n>
+						<i18nFields class="linked-hash-set">
+							<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								<locale>en</locale>
+								<string>Football</string>
+							</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+						</i18nFields>
+					</i18n>
+					<coreActiveElement>
+						<active>true</active>
+					</coreActiveElement>
+					<configured>true</configured>
+					<hashKeyParticipants>false</hashKeyParticipants>
+				</sport>
+			</competition>
+			<competitionEvent>
+				<objectId>1</objectId>
+				<i18n>
+					<i18nFields class="linked-hash-set">
+						<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							<string>Competicion Corto Plazo</string>
+						</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+					</i18nFields>
+				</i18n>
+				<longTerm>
+					<longTerm>false</longTerm>
+				</longTerm>
+			</competitionEvent>
+			<participiants class="linked-hash-set">
+				<com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+					<awayParticipant>true</awayParticipant>
+					<cfgParticipant>
+						<objectId>1</objectId>
+						<i18n>
+							<i18nFields class="linked-hash-set">
+								<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									<string>Manchester United</string>
+								</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							</i18nFields>
+						</i18n>
+						<cfgCompetition>
+							<objectId>1</objectId>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>Premier League</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<region>
+								<objectId>1</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>England</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<alfanumeric2Code>england</alfanumeric2Code>
+								<alfanumeric3Code>england</alfanumeric3Code>
+								<numericCode>1</numericCode>
+							</region>
+							<sport>
+								<objectId>1</objectId>
+								<historic
+									class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+									<historicList>
+										<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											<creationAction>true</creationAction>
+											<date>2011-09-25 22:00:00.0 UTC</date>
+											<user>WRITER_APP</user>
+										</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+									</historicList>
+								</historic>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<locale>en</locale>
+											<string>Football</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<configured>true</configured>
+								<hashKeyParticipants>false</hashKeyParticipants>
+							</sport>
+						</cfgCompetition>
+						<cfgSport>
+							<objectId>1</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-25 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<locale>en</locale>
+										<string>Football</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<configured>true</configured>
+							<hashKeyParticipants>false</hashKeyParticipants>
+						</cfgSport>
+					</cfgParticipant>
+					<homeParticipant>false</homeParticipant>
+					<under>false</under>
+					<over>false</over>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+				<com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+					<awayParticipant>false</awayParticipant>
+					<cfgParticipant>
+						<objectId>2</objectId>
+						<i18n>
+							<i18nFields class="linked-hash-set">
+								<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									<string>Aston Villa</string>
+								</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+							</i18nFields>
+						</i18n>
+						<cfgCompetition>
+							<objectId>1</objectId>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<string>Premier League</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<region>
+								<objectId>1</objectId>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<string>England</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<alfanumeric2Code>england</alfanumeric2Code>
+								<alfanumeric3Code>england</alfanumeric3Code>
+								<numericCode>1</numericCode>
+							</region>
+							<sport>
+								<objectId>1</objectId>
+								<historic
+									class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+									<historicList>
+										<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+											<creationAction>true</creationAction>
+											<date>2011-09-25 22:00:00.0 UTC</date>
+											<user>WRITER_APP</user>
+										</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+									</historicList>
+								</historic>
+								<i18n>
+									<i18nFields class="linked-hash-set">
+										<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+											<locale>en</locale>
+											<string>Football</string>
+										</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+									</i18nFields>
+								</i18n>
+								<coreActiveElement>
+									<active>true</active>
+								</coreActiveElement>
+								<configured>true</configured>
+								<hashKeyParticipants>false</hashKeyParticipants>
+							</sport>
+						</cfgCompetition>
+						<cfgSport>
+							<objectId>1</objectId>
+							<historic
+								class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+								<historicList>
+									<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+										<creationAction>true</creationAction>
+										<date>2011-09-25 22:00:00.0 UTC</date>
+										<user>WRITER_APP</user>
+									</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+								</historicList>
+							</historic>
+							<i18n>
+								<i18nFields class="linked-hash-set">
+									<com.comparadorad.bet.comparer.model.core.bean.I18nField>
+										<locale>en</locale>
+										<string>Football</string>
+									</com.comparadorad.bet.comparer.model.core.bean.I18nField>
+								</i18nFields>
+							</i18n>
+							<coreActiveElement>
+								<active>true</active>
+							</coreActiveElement>
+							<configured>true</configured>
+							<hashKeyParticipants>false</hashKeyParticipants>
+						</cfgSport>
+					</cfgParticipant>
+					<homeParticipant>true</homeParticipant>
+					<under>false</under>
+					<over>false</over>
+				</com.comparadorad.bet.comparer.model.bet.bean.RtParticipant>
+			</participiants>
+			<startDate>
+				<providerDate>2500-01-01 07:00:00.0 UTC</providerDate>
+				<providerTimeZoneStr>GMT-5</providerTimeZoneStr>
+				<zeroGmtMatchDate>2500-01-01 07:00:00.0 UTC</zeroGmtMatchDate>
+				<zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+			</startDate>
+		</matchId>
+	</com.comparadorad.bet.comparer.model.bet.bean.RtMatch>
+</list>
