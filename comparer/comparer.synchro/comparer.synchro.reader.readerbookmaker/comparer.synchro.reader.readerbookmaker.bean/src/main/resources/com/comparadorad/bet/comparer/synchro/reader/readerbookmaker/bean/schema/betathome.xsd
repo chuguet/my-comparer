@@ -1,0 +1,438 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="List">
+    <xs:annotation>
+      <xs:documentation><![CDATA[Documentation for the bet-at-home.com sports odd feed - http://www.bet-at-home.com/en/feed/sport
+
+This is the sports odd feed of bet-at-home.com
+
+URL parameters for calling sports odd feed:
+ * Desired language for the sports odd feed. I.e. all texts included inside the XML will be translated into the given language. The following languages are available:
+	 * DE
+	 * EN
+	 * IT
+	 * ES
+	 * EL
+	 * PL
+	 * SL
+	 * TR
+	 * CS
+	 * HU
+	 * SK
+	 * RU
+	 * BG
+	 * HR
+	 * RO
+	 * SR
+	 * SV
+	 * PT
+   This parameter is part of the URL, all following parameters are named parameters.
+ * username (required): a valid username in order to login to our sports odd feed.
+ * password (required): a valid password in order to login to our sports odd feed.
+ * jurisdictionID (optional - default value is COM): id of the jurisdiction for which you would like to receive the feed. The following jurisdictions are available:
+	 * 1: .com
+	 * 2: .it
+	 * 3: .de
+ * sportID (optional): one or multiple sport IDs separated by a colon. Only the bets for the given sport IDs will be selected. If the parameter sportID is not provided at all, all available bets will be selected.
+
+Examples for calling sports odd feed:
+ * http://www.bet-at-home.com/EN/feed/sport?username=yourUsername&password=yourPassword
+	 * -> returns xml feed including all available bets in english.
+ * http://www.bet-at-home.com/DE/feed/sport?username=yourUsername&password=yourPassword
+	 * -> returns xml feed including all available bets in german.
+ * http://www.bet-at-home.com/en/feed/sport?username=yourUsername&password=yourPassword&sportID=1
+	 * -> returns xml feed including all available bets for soccer (sportID 1).
+ * http://www.bet-at-home.com/en/feed/sport?username=yourUsername&password=yourPassword&sportID=2,6
+	 * -> returns xml feed including all available bets for tennis (sportID 2) and american football (sportID 6).
+ * http://www.bet-at-home.com/en/feed/sport?username=yourUsername&password=yourPassword&jurisdictionID=1
+	 * -> returns xml feed including all available bets for the given jurisdiction (i.e. .com).
+
+XML Documentation:
+As you can see in the following example, the XML feed starts with a node named 'List' and its attribute 'generatedAt'. This attribute contains the timestamp at which the XML has been generated at the server in the format 'yyyy-MM-ddTHH:mm:ss'. Further on, the 'List' node contains all available bets. One bet is being described within one 'OddsObject' node, which contains all the required information including event details.
+
+- - - - -
+<List generatedAt="2012-01-13T13:23:59">
+	<OddsObject>
+		...
+	</OddsObject>
+	<OddsObject>
+		...
+	</OddsObject>
+	...
+</List>
+- - - - -
+
+The 'OddsObject' node contains multiple sub nodes that are always available, no matter what type of bet it is:
+ * Sport: name of the sport (e.g.: sport, golf, tennis, etc.)
+ * Category: name of the region (e.g.: International, Austria, England, etc.)
+ * Tournament: name of the tournament (e.g.: premier league), for winner events the tournament contains the name of the event (e.g.: US Masters).
+ * MatchId: ID of the match/event
+ * Date: match start for this bet, format: YYYY-MM-DDTHH:MM:00
+ * AC: accumulation for this bet
+ * OddsType: contains all information about the type of the bet
+	 * betTypeId: ID of the bet type
+	 * oddType: 1 -> 1 way bet; 2 -> 2 way bet; 3 -> 3 way bet;
+	 * betTypeGroup: ID of the group the bet type belongs to. Use it in order to distinguish between handicap, spread, under/over, etc.
+	 * defaultName: name of the bet type, e.g.: "Who will score the first goal?"
+	 * groupName: short name of the group, e.g.: "1st goal"
+	 * betName: name of the bet, e.g.: "Who will win ´The Race to Dubai´?" for odd type 1; for odd types 2 or 3 betName is always the same as defaultName, e.g.: "Tip"
+	 * text node: contains the odds type text from the old bet-at-home odd feed. Otherwise, it contains "Other". Please don't use this text in order to distinguish between different bets. Use the new attributes from the 'OddsType' node.
+		 * FirstScore: first team to score.
+		 * 1SetTennis2W: 2-way odds for tennis. who will win the first set?
+		 * Halftime3W: 3-way odds for the first half
+		 * 2W: 2-way odds
+		 * 3W: 3-way odds
+		 * DC: double chance odds
+		 * Spread: spread odds
+		 * Total: total score odds
+		 * HC: handicap odds
+		 * TimeFirstGoal: time of first goal
+		 * HT/FT: half time / full time
+		 * CorrectScore: correct score odds
+		 * Outright: outright odds.
+ * OddsData: contains the odds for the bet. The representation of the odds depends on the OddsType.
+
+- - - - -
+<OddsObject>
+	<Sport id="1">Soccer</Sport>
+	<Category id="219">Champions League</Category>
+	<Tournament id="152">Champions League</Tournament>
+	<MatchId>604922</MatchId>
+	<Date>2012-01-15T20:40:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="100" oddType="3" betTypeGroup="1" defaultName="Tip" groupName="Tip" betName="Tip">3W</OddsType>
+	<OddsData>
+		...
+	</OddsData>
+</OddsObject>
+- - - - -
+
+The content of 'OddsData' depends on the 'oddType' and on the 'betTypeGroup'. Below, you can find the two different structures for odd type 1. In the first sample, you can see a HT/FT bet. In that case, additionally to 'Outcomes', the node 'OddsData' also contains 'HomeTeam' and 'AwayTeam'.
+
+- - - - -
+<OddsObject>
+	<Sport id="1">Soccer</Sport>
+	<Category id="219">Champions League</Category>
+	<Tournament id="152">Champions League</Tournament>
+	<MatchId>604922</MatchId>
+	<Date>2012-01-15T20:40:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="104" oddType="1" betTypeGroup="5" defaultName="Halftime/Fulltime" groupName="Halftime/Fulltime" betName="Halftime/Fulltime">HT/FT</OddsType>
+	<OddsData>
+		<HomeTeam>CFR Cluj</HomeTeam>
+		<AwayTeam>AS Roma</AwayTeam>
+		<Outcomes>
+			<Outcome oddId="604922_2009505_4339911" name="1 / 1">6.30</Outcome>
+			<Outcome oddId="604922_2009505_4339912" name="1 / X">10.00</Outcome>
+			<Outcome oddId="604922_2009505_4339913" name="1 / 2">16.00</Outcome>
+			<Outcome oddId="604922_2009505_4339914" name="X / 1">6.60</Outcome>
+			<Outcome oddId="604922_2009505_4339915" name="X / X">5.10</Outcome>
+			<Outcome oddId="604922_2009505_4339916" name="X / 2">3.90</Outcome>
+			<Outcome oddId="604922_2009505_4339917" name="2 / 1">24.00</Outcome>
+			<Outcome oddId="604922_2009505_4339918" name="2 / X">11.00</Outcome>
+			<Outcome oddId="604922_2009505_4339919" name="2 / 2">2.80</Outcome>
+		</Outcomes>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+The second sample for odd type 1 is an outright bet. In that case, 'OddsData' only contains the 'Outcomes' node with all available odds for the bet.
+
+- - - - -
+<OddsObject>
+	<Sport id="3">Ice hockey</Sport>
+	<Category id="350">Weltmeisterschaft</Category>
+	<Tournament id="95">World Champion</Tournament>
+	<MatchId>692337</MatchId>
+	<Date>2012-01-18T08:00:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="301" oddType="1" betTypeGroup="1" defaultName="Long term" groupName="Long term" betName="Who will be the World champion (Men)?">Outright</OddsType>
+	<OddsData>
+		<Outcomes>
+			<Outcome oddId="692337_2581476_5137303" name="Finland">3.65</Outcome>
+			<Outcome oddId="692337_2581476_5137304" name="Canada">4.20</Outcome>
+			<Outcome oddId="692337_2581476_5137305" name="United States of America">35.00</Outcome>
+			<Outcome oddId="692337_2581476_5137306" name="Switzerland">50.00</Outcome>
+			<Outcome oddId="692337_2581476_5137307" name="Slovak Republic">35.00</Outcome>
+			<Outcome oddId="692337_2581476_5137308" name="Belarus">250.00</Outcome>
+			<Outcome oddId="692337_2581476_5137309" name="France">750.00</Outcome>
+			<Outcome oddId="692337_2581476_5137310" name="Kazakhstan">500.00</Outcome>
+			<Outcome oddId="692337_2581476_5137311" name="Russia">4.70</Outcome>
+			<Outcome oddId="692337_2581476_5137312" name="Sweden">3.65</Outcome>
+			<Outcome oddId="692337_2581476_5137313" name="Czech Republic">6.50</Outcome>
+			<Outcome oddId="692337_2581476_5137314" name="Germany">50.00</Outcome>
+			<Outcome oddId="692337_2581476_5137315" name="Norway">250.00</Outcome>
+			<Outcome oddId="692337_2581476_5137316" name="Latvia">500.00</Outcome>
+			<Outcome oddId="692337_2581476_5137317" name="Denmark">500.00</Outcome>
+			<Outcome oddId="692337_2581476_5137318" name="Italy">750.00</Outcome>
+		</Outcomes>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+For odd type 2 and 3 exist 5 different structures for 'OddsData' depending on the 'betTypeGroup'. In the first sample you can see the entire 'OddsObject' for a bet that belongs to betTypeGroup 2, i.e. it's a handicap bet.
+
+- - - - -
+<OddsObject>
+	<Sport id="1">Soccer</Sport>
+	<Category id="219">Champions League</Category>
+	<Tournament id="152">Champions League</Tournament>
+	<MatchId>605241</MatchId>
+	<Date>2012-01-18T20:40:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="102" oddType="3" betTypeGroup="2" defaultName="Handicap" groupName="Handicap" betName="Handicap">HC</OddsType>
+	<OddsData>
+		<HomeTeam>Werder Bremen</HomeTeam>
+		<AwayTeam>Inter Milan</AwayTeam>
+		<Handicap>0:1</Handicap>
+		<HomeOdds oddId="605241_2042778_1">4.20</HomeOdds>
+		<DrawOdds oddId="605241_2042778_0">3.55</DrawOdds>
+		<AwayOdds oddId="605241_2042778_2">1.55</AwayOdds>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+In the second sample you can see the entire 'OddsObject' for a bet that belongs to betTypeGroup 3, i.e. it's a handicap spread.
+
+- - - - -
+<OddsObject>
+	<Sport id="6">American Football</Sport>
+	<Category id="1">Amerika</Category>
+	<Tournament id="97">NFL</Tournament>
+	<MatchId>611216</MatchId>
+	<Date>2012-01-17T22:15:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="603" oddType="2" betTypeGroup="3" defaultName="Spread" groupName="Spread" betName="Spread">Spread</OddsType>
+	<OddsData>
+		<HomeTeam>New York Jets</HomeTeam>
+		<AwayTeam>Miami Dolphins</AwayTeam>
+		<SpreadHome>-4.5</SpreadHome>
+		<SpreadAway>+4.5</SpreadAway>
+		<SpreadOddsHome oddId="611216_2044748_1">1.85</SpreadOddsHome>
+		<SpreadOddsAway oddId="611216_2044748_2">1.85</SpreadOddsAway>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+The third sample shows the entire 'OddsObject' for a bet that belongs to betTypeGroup 4, which is a double chance bet.
+
+- - - - -
+<OddsObject>
+	<Sport id="1">Soccer</Sport>
+	<Category id="219">Champions League</Category>
+	<Tournament id="152">Champions League</Tournament>
+	<MatchId>615321</MatchId>
+	<Date>2012-03-28T20:40:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="103" oddType="3" betTypeGroup="4" defaultName="Double Chance" groupName="Double Chance" betName="Double Chance">DC</OddsType>
+	<OddsData>
+		<HomeTeam>AC Milan</HomeTeam>
+		<AwayTeam>Tottenham Hotspurs</AwayTeam>
+		<Outcomes>
+			<Outcome oddId="615321_2068772_1" name="1X">1.14</Outcome>
+			<Outcome oddId="615321_2068772_0" name="12">1.27</Outcome>
+			<Outcome oddId="615321_2068772_2" name="X2">2.16</Outcome>
+		</Outcomes>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+The fourth sample shows the entire 'OddsObject' for a bet that belongs to betTypeGroup 7, i.e. it's a under/over bet.
+
+- - - - -
+<OddsObject>
+	<Sport id="1">Soccer</Sport>
+	<Category id="219">Champions League</Category>
+	<Tournament id="152">Champions League</Tournament>
+	<MatchId>615321</MatchId>
+	<Date>2012-03-28T20:40:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="106" oddType="2" betTypeGroup="7" defaultName="Under/Over" groupName="Under/Over" betName="Under/Over">Total</OddsType>
+	<OddsData>
+		<HomeTeam>AC Milan</HomeTeam>
+		<AwayTeam>Tottenham Hotspurs</AwayTeam>
+		<Total>2.5</Total>
+		<UnderOdds oddId="615321_2068775_1">1.80</UnderOdds>
+		<OverOdds oddId="615321_2068775_2">1.80</OverOdds>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+All remaining odd type 2 or 3 bets will be displayed like in the fifth sample below. In case of an odd type 2 bet, the node 'DrawOdds' is not available.
+
+- - - - -
+<OddsObject>
+	<Sport id="1">Soccer</Sport>
+	<Category id="219">Champions League</Category>
+	<Tournament id="152">Champions League</Tournament>
+	<MatchId>615321</MatchId>
+	<Date>2012-03-28T20:40:00</Date>
+	<AC>1</AC>
+	<OddsType betTypeId="107" oddType="3" betTypeGroup="8" defaultName="Who leads at halftime?" groupName="1st halftime" betName="Who leads at halftime?">Halftime3W</OddsType>
+	<OddsData>
+		<HomeTeam>AC Milan</HomeTeam>
+		<AwayTeam>Tottenham Hotspurs</AwayTeam>
+		<HomeOdds oddId="615321_2068776_1">2.00</HomeOdds>
+		<DrawOdds oddId="615321_2068776_0">2.25</DrawOdds>
+		<AwayOdds oddId="615321_2068776_2">4.70</AwayOdds>
+	</OddsData>
+</OddsObject>
+- - - - -
+
+End of XML Documentation.]]></xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="OddsObject" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Sport">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:byte" name="id" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Category">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:short" name="id" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Tournament">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:short" name="id" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:int" name="MatchId"/>
+              <xs:element type="xs:dateTime" name="Date"/>
+              <xs:element type="xs:byte" name="AC"/>
+              <xs:element name="OddsType">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:short" name="betTypeId" use="optional"/>
+                      <xs:attribute type="xs:byte" name="oddType" use="optional"/>
+                      <xs:attribute type="xs:byte" name="betTypeGroup" use="optional"/>
+                      <xs:attribute type="xs:string" name="defaultName" use="optional"/>
+                      <xs:attribute type="xs:string" name="groupName" use="optional"/>
+                      <xs:attribute type="xs:string" name="betName" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="OddsData">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="HomeTeam" minOccurs="0"/>
+                    <xs:element type="xs:string" name="AwayTeam" minOccurs="0"/>
+                    <xs:element type="xs:string" name="Handicap" minOccurs="0"/>
+                    <xs:element name="HomeOdds" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="DrawOdds" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="AwayOdds" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Outcomes" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Outcome" maxOccurs="unbounded" minOccurs="0">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:float">
+                                  <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                                  <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                                  <xs:attribute type="xs:string" name="name" use="optional"/>
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:float" name="Total" minOccurs="0"/>
+                    <xs:element name="UnderOdds" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="OverOdds" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:float" name="SpreadHome" minOccurs="0"/>
+                    <xs:element type="xs:float" name="SpreadAway" minOccurs="0"/>
+                    <xs:element name="SpreadOddsHome" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="SpreadOddsAway" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:float">
+                            <xs:attribute type="xs:string" name="oddId" use="optional"/>
+                            <xs:attribute type="xs:string" name="linkId" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:dateTime" name="generatedAt"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

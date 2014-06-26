@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-11 16:01:49" lastMsgId="4455763735"  requestTime="0.0974">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="402" name="UFC / MMA" maxRepDate="2012-10-03" maxRepTime="08:53:36">
+<type
+id="8855"
+name="UFC on FX: Sotiropoulos vs Pearson"
+url="http://sports.williamhill.com/bet/betting/t/8855"
+lastUpdateDate="2012-12-03"
+lastUpdateTime="14:21:23">
+<market
+id="44681345"
+name="Hector Lombard v Rousimar Palhares - Bout Betting"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3485507/Hector%2dLombard%2dv%2dRousimar%2dPalhares"
+date="2012-12-15"
+time="02:00:00"
+betTillDate="2012-12-15"
+betTillTime="02:00:00"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:48:13"
+>
+<participant
+name="Hector Lombard"
+id="184928240"
+odds="2/5"
+oddsDecimal="1.40"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+<participant
+name="Rousimar Palhares"
+id="184928241"
+odds="2/1"
+oddsDecimal="3.00"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+</market>
+<market
+id="44681346"
+name="George Sotiropoulos v Ross Pearson - Bout Betting"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3485508/George%2dSotiropoulos%2dv%2dRoss%2dPearson"
+date="2012-12-15"
+time="02:00:00"
+betTillDate="2012-12-15"
+betTillTime="02:00:00"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:48:13"
+>
+<participant
+name="Ross Pearson"
+id="184928243"
+odds="11/10"
+oddsDecimal="2.10"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+<participant
+name="George Sotiropoulos"
+id="184928242"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+</market>
+</type>
+<type
+id="9748"
+name="UFC 155"
+url="http://sports.williamhill.com/bet/betting/t/9748"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:47:08">
+<market
+id="44679085"
+name="Cain Velasquez v Junior Dos Santos - Bout Betting"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3485500/Cain%2dVelasquez%2dv%2dJunior%2dDos%2dSantos"
+date="2012-12-30"
+time="02:00:00"
+betTillDate="2012-12-30"
+betTillTime="02:00:00"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:48:13"
+>
+<participant
+name="Junior Dos Santos"
+id="184920289"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-11"
+lastUpdateTime="05:31:00"
+handicap=""/>
+<participant
+name="Cain Velasquez"
+id="184920288"
+odds="11/10"
+oddsDecimal="2.10"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+</market>
+<market
+id="44679086"
+name="Gray Maynard v Joe Lauzon - Bout Betting"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3485501/Gray%2dMaynard%2dv%2dJoe%2dLauzon"
+date="2012-12-30"
+time="02:00:00"
+betTillDate="2012-12-30"
+betTillTime="02:00:00"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:48:13"
+>
+<participant
+name="Joe Lauzon"
+id="184920291"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+<participant
+name="Gray Maynard"
+id="184920290"
+odds="3/10"
+oddsDecimal="1.30"
+lastUpdateDate="2012-10-03"
+lastUpdateTime="08:53:36"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

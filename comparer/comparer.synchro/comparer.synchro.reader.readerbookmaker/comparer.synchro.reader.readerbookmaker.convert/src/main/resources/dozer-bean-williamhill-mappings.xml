@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+
+	<mapping map-id="marketToXmlMatchWilliam">
+		<class-a>com.comparadorad.bet.comparer.synchro.reader.readerbookmaker.bean.williamhill.Market
+		</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch
+		</class-b>
+		<field custom-converter-id="marketNameToXmlMatchNameWilliam">
+			<a>name</a>
+			<b>name</b>
+		</field>
+	</mapping>
+	<mapping map-id="marketToXmlMarketWilliam">
+		<class-a>com.comparadorad.bet.comparer.synchro.reader.readerbookmaker.bean.williamhill.Market
+		</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket
+		</class-b>
+		<field custom-converter-id="marketNameToXmlMarketNameWilliam">
+			<a>name</a>
+			<b>name</b>
+		</field>
+	</mapping>
+
+
+</mappings>
