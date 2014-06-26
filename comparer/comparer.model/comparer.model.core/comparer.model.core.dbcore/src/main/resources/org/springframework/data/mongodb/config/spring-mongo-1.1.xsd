@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns="http://www.springframework.org/schema/data/mongo"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	targetNamespace="http://www.springframework.org/schema/data/mongo">
+
+
+
+	<xsd:element name="repositories">
+		<!-- <xsd:complexType> <xsd:complexContent> <xsd:extension base="repository:repositories"> 
+			<xsd:attributeGroup ref="mongo-repository-attributes" /> <xsd:attributeGroup 
+			ref="repository:repository-attributes" /> </xsd:extension> </xsd:complexContent> 
+			</xsd:complexType> -->
+	</xsd:element>
+
+</xsd:schema>

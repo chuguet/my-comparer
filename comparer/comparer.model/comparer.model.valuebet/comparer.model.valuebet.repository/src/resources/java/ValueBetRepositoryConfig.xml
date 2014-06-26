@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/data/mongo
+    classpath:org/springframework/data/mongodb/config/spring-mongo-1.1.xsd">
+
+	<!-- The spring mongo 1.1 is in the classpath because the file in the spring 
+		servers don't work -->
+	<mongo:repositories base-package="com.comparadorad.bet.comparer.model.valuebet.repository"
+		repository-impl-postfix="CustomImpl" />
+
+</beans>

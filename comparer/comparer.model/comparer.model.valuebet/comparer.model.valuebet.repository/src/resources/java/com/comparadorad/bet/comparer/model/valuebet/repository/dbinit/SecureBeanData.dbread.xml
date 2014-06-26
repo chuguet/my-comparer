@@ -1,0 +1,58 @@
+<list>
+  <com.comparadorad.bet.comparer.model.securebet.bean.SecureBeanData>
+    <nameId>Real Madrid CF</nameId>
+    <objectId>1</objectId>
+    <attribute class="com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute"/>
+    <benefit>
+      <value>6.5%</value>
+    </benefit>
+    <bets>
+      <com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+        <attribute class="com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute"/>
+        <betOdd>
+          <odds>2.5</odds>
+        </betOdd>
+        <betType>
+          <objectId>7</objectId>
+        </betType>
+        <bookmaker>
+          <objectId>33</objectId>
+        </bookmaker>
+        <hashKey>ccc</hashKey>
+      </com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+      <com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+        <attribute class="com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute"/>
+        <betOdd>
+          <odds>1.5</odds>
+        </betOdd>
+        <betType reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtBet/betType"/>
+        <bookmaker>
+          <objectId>105</objectId>
+        </bookmaker>
+        <hashKey>bbb</hashKey>
+      </com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+      <com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+        <attribute class="com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute"/>
+        <betOdd>
+          <odds>1.75</odds>
+        </betOdd>
+        <betType reference="../../com.comparadorad.bet.comparer.model.bet.bean.RtBet/betType"/>
+        <bookmaker>
+          <objectId>43</objectId>
+        </bookmaker>
+        <hashKey>aaa</hashKey>
+      </com.comparadorad.bet.comparer.model.bet.bean.RtBet>
+    </bets>
+    <betType reference="../bets/com.comparadorad.bet.comparer.model.bet.bean.RtBet/betType"/>
+    <betTypeEvent/>
+    <createDate>
+      <zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+    </createDate>
+    <match>
+      <objectId>1001</objectId>
+      <live>false</live>
+      <hashKey></hashKey>
+      <matchId/>
+    </match>
+  </com.comparadorad.bet.comparer.model.securebet.bean.SecureBeanData>
+</list>

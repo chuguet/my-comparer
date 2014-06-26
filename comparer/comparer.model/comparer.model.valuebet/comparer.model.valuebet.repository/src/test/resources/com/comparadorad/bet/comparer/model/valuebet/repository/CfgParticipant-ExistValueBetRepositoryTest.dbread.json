@@ -1,0 +1,18 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Lithuania Reserve Lyga",
+  "sportXmlName" : "European Major Leagues",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "FK Ekranas Reserves"
+      }]
+  },
+  "cfgName" : "FK Ekranas Reserves"
+}

@@ -1,0 +1,383 @@
+/* 0 */
+{
+  "_id" : ObjectId("52cc3a5cae5d0ab00a4c704f"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "1X2"
+    },
+    "hashKey" : "391ec54598264231e0c1ae473d7257f97e119824",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }
+  }
+}
+
+/* 1 */
+{
+  "_id" : ObjectId("52cc3a5dae5d0ab00a4c7050"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "1X2"
+    },
+    "hashKey" : "cfef4e5e54a31cca6f0453af5e14e5ef3723fb7e",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "20"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }
+  }
+}
+
+/* 2 */
+{
+  "_id" : ObjectId("52cc3a5dae5d0ab00a4c7051"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "Handicap_Asiatico"
+    },
+    "hashKey" : "97880ce02fe2eefd486316ce1174f9aea5771a73",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : true,
+      "homeParticipant" : false,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "2"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "761f22b2c1593d0bb87e0b606f990ba4974706de",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "4"
+      }
+    }
+  }
+}
+
+/* 3 */
+{
+  "_id" : ObjectId("52cc3a5eae5d0ab00a4c7052"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "Ganador_Partido"
+    },
+    "hashKey" : "f7158a478e7a7c5c31a6bc885f21f58e96af7bfd",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "472b07b9fcf2c2451e8781e944bf5f77cd8457c8",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "2"
+      }
+    }
+  }
+}
+
+/* 4 */
+{
+  "_id" : ObjectId("52cc3a5eae5d0ab00a4c7053"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "Ganador_Partido"
+    },
+    "hashKey" : "49dc8aee8abeb4aa82729dc76b7e60a01a9a3b03",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "20"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "472b07b9fcf2c2451e8781e944bf5f77cd8457c8",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "2"
+      }
+    }
+  }
+}
+
+/* 5 */
+{
+  "_id" : ObjectId("52cc3a5fae5d0ab00a4c7054"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "Ganador_Partido"
+    },
+    "hashKey" : "fac08c20be77bd84cb6bcfddad1614bbea153de9",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : true,
+      "homeParticipant" : false,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "2"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "472b07b9fcf2c2451e8781e944bf5f77cd8457c8",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "2"
+      }
+    }
+  }
+}
+
+/* 6 */
+{
+  "_id" : ObjectId("52cc3a5fae5d0ab00a4c7055"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "1X2"
+    },
+    "hashKey" : "391ec54598264231e0c1ae473d7257f97e119824",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "2",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }
+  }
+}
+
+/* 7 */
+{
+  "_id" : ObjectId("52cc3a61ae5d0ab00a4c7056"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "1X2"
+    },
+    "hashKey" : "cfef4e5e54a31cca6f0453af5e14e5ef3723fb7e",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "20"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "2",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }
+  }
+}

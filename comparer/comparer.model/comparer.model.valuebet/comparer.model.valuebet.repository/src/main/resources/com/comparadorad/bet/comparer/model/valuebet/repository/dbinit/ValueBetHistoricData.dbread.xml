@@ -1,0 +1,65 @@
+<list>
+  <com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetHistoricData>
+    <objectId>1</objectId>
+    <infoMatch>
+      <objectId>21229</objectId>
+      <name>
+        <i18nFields>
+          <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+            <string>Atletico de Madrid Vs Malaga</string>
+          </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+        </i18nFields>
+      </name>
+      <competition>
+        <objectId>870865763</objectId>
+        <i18n>
+          <i18nFields>
+            <com.comparadorad.bet.comparer.model.core.bean.I18nField>
+              <string>La liga</string>
+            </com.comparadorad.bet.comparer.model.core.bean.I18nField>
+          </i18nFields>
+        </i18n>
+        <sport>
+          <objectId>1</objectId>
+        </sport>
+        <region>
+          <objectId>724</objectId>
+        </region>
+      </competition>
+      <date>2013-04-02 14:58:18.445 UTC</date>
+    </infoMatch>
+    <bet>
+      <attribute class="com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute">
+        <betName>1X2</betName>
+        <result>TWO</result>
+      </attribute>
+      <betOdd>
+        <americanOdds>2.5</americanOdds>
+        <fraOdds>2.5</fraOdds>
+        <odds>2.5</odds>
+      </betOdd>
+      <betType>
+        <objectId>1</objectId>
+      </betType>
+      <bookmaker>
+        <objectId>19</objectId>
+      </bookmaker>
+      <participant>
+        <awayParticipant>false</awayParticipant>
+        <homeParticipant>true</homeParticipant>
+      </participant>
+      <webUrl>
+        <url>http://www.BetClick.com</url>
+      </webUrl>
+    </bet>
+    <probability>
+      <value>3.2</value>
+    </probability>
+    <expectation>
+      <value>1.4</value>
+    </expectation>
+    <betTypeEvent>
+      <objectId>1</objectId>
+    </betTypeEvent>
+  </com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetHistoricData>
+</list>
