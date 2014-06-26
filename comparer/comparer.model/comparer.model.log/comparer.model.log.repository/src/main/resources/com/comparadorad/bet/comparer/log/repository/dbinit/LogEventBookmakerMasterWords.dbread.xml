@@ -1,0 +1,20 @@
+<list>
+  <com.comparadorad.bet.comparer.model.log.bean.LogEventBookmakerMasterWords>
+    <objectId>1</objectId>
+    <data class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch">
+      <name>Partido</name>
+      <live>false</live>
+    </data>
+    <logLevel>
+      <level>30000</level>
+      <levelStr>WARN</levelStr>
+      <syslogEquivalent>4</syslogEquivalent>
+    </logLevel>
+    <logState>NEW</logState>
+    <message>Message...</message>
+    <processId>PROCES ID...</processId>
+    <bookmaker>
+      <objectId>19</objectId>
+    </bookmaker>
+  </com.comparadorad.bet.comparer.model.log.bean.LogEventBookmakerMasterWords>
+</list>

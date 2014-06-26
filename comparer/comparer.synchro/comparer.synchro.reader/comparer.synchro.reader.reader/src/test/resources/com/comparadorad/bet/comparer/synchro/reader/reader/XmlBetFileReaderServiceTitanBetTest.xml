@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmaker name="titanbet">
+	<sport id="6" name="Football">
+		<group id="46439" name="Europe - Euro 2012">
+			<event id="799459" name="Spain - Portugal" date="2012-06-27 18:45:00">
+				<participants>
+					<participant id="46440" team="Spain" type="1"/>
+					<participant id="46445" team="Portugal" type="2"/>
+				</participants>
+				<market tid="1" name="Match Result">
+					<outcome id="19149005" name="Spain" odds="1.92" american_odds="-109" fra_odds="9/10"/>
+					<outcome id="19149006" name="Draw" odds="3.35" american_odds="235" fra_odds="47/20"/>
+					<outcome id="19149007" name="Portugal" odds="4.33" american_odds="333" fra_odds="33/10"/>
+				</market>
+			</event>
+		</group>
+	</sport>
+</bookmaker>

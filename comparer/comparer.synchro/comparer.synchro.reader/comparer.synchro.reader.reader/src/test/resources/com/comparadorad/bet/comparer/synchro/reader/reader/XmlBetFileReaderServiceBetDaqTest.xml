@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root ID="1">
+	<SPORT NAME="Soccer" ID="100003">
+		<EVENT NAME="Euro 2012" ID="797302">
+			<SUBEVENT NAME="Semi Finals" ID="1082178" DATE="2012-06-27 18:45:00">
+				<SUBEVENT1 NAME="(Wed) Portugal v Spain (TV)" ID="1096002"
+					DATE="2012-06-27 19:45:00">
+					<MARKET NAME="Match Odds" ID="2643003" ODDS_SYSTEM="BL">
+						<LINK URL="http://www.betdaq.com?mktid=2643003" />
+						<SELECTION NAME="Portugal" ID="14275446">
+							<OUTCOME NAME="|BACK| Portugal">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="4.80">
+										<AMOUNT CURRENCY="USD" VALUE="1898" />
+										<AMOUNT CURRENCY="GBP" VALUE="1214" />
+										<AMOUNT CURRENCY="EUR" VALUE="1520" />
+									</PRICE>
+									<PRICE VALUE="4.70">
+										<AMOUNT CURRENCY="USD" VALUE="5907" />
+										<AMOUNT CURRENCY="GBP" VALUE="3777" />
+										<AMOUNT CURRENCY="EUR" VALUE="4729" />
+									</PRICE>
+									<PRICE VALUE="4.60">
+										<AMOUNT CURRENCY="USD" VALUE="6806" />
+										<AMOUNT CURRENCY="GBP" VALUE="4351" />
+										<AMOUNT CURRENCY="EUR" VALUE="5448" />
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="|LAY| Portugal">
+								<ODDS POLARITY="LAY">
+									<PRICE VALUE="4.90">
+										<AMOUNT CURRENCY="USD" VALUE="2849" />
+										<AMOUNT CURRENCY="GBP" VALUE="1822" />
+										<AMOUNT CURRENCY="EUR" VALUE="2281" />
+									</PRICE>
+									<PRICE VALUE="5.00">
+										<AMOUNT CURRENCY="USD" VALUE="5255" />
+										<AMOUNT CURRENCY="GBP" VALUE="3360" />
+										<AMOUNT CURRENCY="EUR" VALUE="4207" />
+									</PRICE>
+									<PRICE VALUE="5.10">
+										<AMOUNT CURRENCY="USD" VALUE="3455" />
+										<AMOUNT CURRENCY="GBP" VALUE="2209" />
+										<AMOUNT CURRENCY="EUR" VALUE="2766" />
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Spain" ID="14275447">
+							<OUTCOME NAME="|BACK| Spain">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="1.99">
+										<AMOUNT CURRENCY="USD" VALUE="1667" />
+										<AMOUNT CURRENCY="GBP" VALUE="1066" />
+										<AMOUNT CURRENCY="EUR" VALUE="1335" />
+									</PRICE>
+									<PRICE VALUE="1.98">
+										<AMOUNT CURRENCY="USD" VALUE="4008" />
+										<AMOUNT CURRENCY="GBP" VALUE="2563" />
+										<AMOUNT CURRENCY="EUR" VALUE="3209" />
+									</PRICE>
+									<PRICE VALUE="1.97">
+										<AMOUNT CURRENCY="USD" VALUE="10095" />
+										<AMOUNT CURRENCY="GBP" VALUE="6454" />
+										<AMOUNT CURRENCY="EUR" VALUE="8082" />
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="|LAY| Spain">
+								<ODDS POLARITY="LAY">
+									<PRICE VALUE="2.00">
+										<AMOUNT CURRENCY="USD" VALUE="1630" />
+										<AMOUNT CURRENCY="GBP" VALUE="1042" />
+										<AMOUNT CURRENCY="EUR" VALUE="1305" />
+									</PRICE>
+									<PRICE VALUE="2.01">
+										<AMOUNT CURRENCY="USD" VALUE="6079" />
+										<AMOUNT CURRENCY="GBP" VALUE="3887" />
+										<AMOUNT CURRENCY="EUR" VALUE="4867" />
+									</PRICE>
+									<PRICE VALUE="2.02">
+										<AMOUNT CURRENCY="USD" VALUE="8366" />
+										<AMOUNT CURRENCY="GBP" VALUE="5349" />
+										<AMOUNT CURRENCY="EUR" VALUE="6698" />
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Draw" ID="14275448">
+							<OUTCOME NAME="|BACK| Draw">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="3.40">
+										<AMOUNT CURRENCY="USD" VALUE="10852" />
+										<AMOUNT CURRENCY="GBP" VALUE="6939" />
+										<AMOUNT CURRENCY="EUR" VALUE="8688" />
+									</PRICE>
+									<PRICE VALUE="3.35">
+										<AMOUNT CURRENCY="USD" VALUE="7692" />
+										<AMOUNT CURRENCY="GBP" VALUE="4918" />
+										<AMOUNT CURRENCY="EUR" VALUE="6158" />
+									</PRICE>
+									<PRICE VALUE="3.30">
+										<AMOUNT CURRENCY="USD" VALUE="9363" />
+										<AMOUNT CURRENCY="GBP" VALUE="5986" />
+										<AMOUNT CURRENCY="EUR" VALUE="7496" />
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="|LAY| Draw">
+								<ODDS POLARITY="LAY">
+									<PRICE VALUE="3.45">
+										<AMOUNT CURRENCY="USD" VALUE="6483" />
+										<AMOUNT CURRENCY="GBP" VALUE="4145" />
+										<AMOUNT CURRENCY="EUR" VALUE="5190" />
+									</PRICE>
+									<PRICE VALUE="3.50">
+										<AMOUNT CURRENCY="USD" VALUE="8622" />
+										<AMOUNT CURRENCY="GBP" VALUE="5513" />
+										<AMOUNT CURRENCY="EUR" VALUE="6903" />
+									</PRICE>
+									<PRICE VALUE="3.55">
+										<AMOUNT CURRENCY="USD" VALUE="8065" />
+										<AMOUNT CURRENCY="GBP" VALUE="5157" />
+										<AMOUNT CURRENCY="EUR" VALUE="6457" />
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+						</SELECTION>
+					</MARKET>
+				</SUBEVENT1>
+			</SUBEVENT>
+		</EVENT>
+	</SPORT>
+</root>

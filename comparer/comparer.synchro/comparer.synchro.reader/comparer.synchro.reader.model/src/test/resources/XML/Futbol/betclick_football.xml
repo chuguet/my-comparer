@@ -1,0 +1,21 @@
+<sports file_date="2012-06-26T22:19:19.063">
+	<sport name="Football" id="1">
+		<event name="Euro 2012" id="122">
+			<match name="Portugal - Spain" id="463874" start_date="2012-06-27T19:45:00" live_id="54026" streaming="0">
+				<bets>
+					<bet code="Ftb_Htf" name="Half-Time / Full-Time" id="3507642">
+						<choice name="%1% / Draw" id="29462478" odd="16.00"/>
+						<choice name="Draw / %1%" id="29462480" odd="8.50"/>
+						<choice name="Draw / Draw" id="29462481" odd="4.75"/>
+						<choice name="Draw / %2%" id="29462482" odd="4.50"/>
+						<choice name="%2% / Draw" id="29462484" odd="16.00"/>
+						<choice name="%1% / %1%" id="29462477" odd="7.50"/>
+						<choice name="%2% / %1%" id="29462483" odd="40.00"/>
+						<choice name="%1% / %2%" id="29462479" odd="25.00"/>
+						<choice name="%2% / %2%" id="29462485" odd="3.00"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

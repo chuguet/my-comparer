@@ -1,0 +1,166 @@
+<com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>
+  <xmlBookmakerEvents>
+    <xmlBookmaker>
+      <name>TrioBet</name>
+    </xmlBookmaker>
+    <xmlMatchs class="list">
+      <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+        <bmInternalId>
+          <value>50000155847</value>
+        </bmInternalId>
+        <name>Oakland Athletics (B. Colon) - Toronto Blue Jays (H. Alvarez)</name>
+        <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlBookmakerEvents" reference="../../.."/>
+        <startDate>
+          <providerDate>2012-08-03 03:05:00.0 UTC</providerDate>
+        </startDate>
+        <live>false</live>
+        <xmlMarkets class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>50001147802</value>
+            </bmInternalId>
+            <name>Under/Over Match</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlBetType>
+              <bmInternalId>
+                <value>50001147802</value>
+              </bmInternalId>
+              <name>Under/Over Match</name>
+            </xmlBetType>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>50047972416</value>
+                </bmInternalId>
+                <name>over</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>2.07</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>50047972417</value>
+                </bmInternalId>
+                <name>under</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.76</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>50001147801</value>
+            </bmInternalId>
+            <name>Handicap</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlBetType>
+              <bmInternalId>
+                <value>50001147801</value>
+              </bmInternalId>
+              <name>Handicap</name>
+            </xmlBetType>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>50047972414</value>
+                </bmInternalId>
+                <name>1</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>2.5</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant>
+                  <bmInternalId>
+                    <value>50000009573</value>
+                  </bmInternalId>
+                  <name>Oakland Athletics (B.
+			Colon)
+		</name>
+                  <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../../../../.."/>
+                  <awayParticipant>false</awayParticipant>
+                  <homeParticipant>true</homeParticipant>
+                  <role>1</role>
+                </xmlMatchParticipant>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>50047972415</value>
+                </bmInternalId>
+                <name>2</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.54</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant>
+                  <bmInternalId>
+                    <value>10000051711</value>
+                  </bmInternalId>
+                  <name>Toronto Blue Jays (H.
+			Alvarez)
+		</name>
+                  <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../../../../.."/>
+                  <awayParticipant>true</awayParticipant>
+                  <homeParticipant>false</homeParticipant>
+                  <role>2</role>
+                </xmlMatchParticipant>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>50001147800</value>
+            </bmInternalId>
+            <name>Result</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlBetType>
+              <bmInternalId>
+                <value>50001147800</value>
+              </bmInternalId>
+              <name>Result</name>
+            </xmlBetType>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>50047972412</value>
+                </bmInternalId>
+                <name>1</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.73</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant reference="../../../../com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket[2]/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet/xmlMatchParticipant"/>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>50047972413</value>
+                </bmInternalId>
+                <name>2</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>2.12</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant reference="../../../../com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket[2]/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet[2]/xmlMatchParticipant"/>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+        </xmlMarkets>
+        <xmlMatchParticipants class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant reference="../../xmlMarkets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket[2]/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet/xmlMatchParticipant"/>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant reference="../../xmlMarkets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket[2]/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet[2]/xmlMatchParticipant"/>
+        </xmlMatchParticipants>
+        <xmlTournament>
+          <name>MLB</name>
+          <xmlSport>
+            <name>Baseball</name>
+          </xmlSport>
+          <region>
+            <name>United States of America</name>
+          </region>
+        </xmlTournament>
+      </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+    </xmlMatchs>
+  </xmlBookmakerEvents>
+</com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>

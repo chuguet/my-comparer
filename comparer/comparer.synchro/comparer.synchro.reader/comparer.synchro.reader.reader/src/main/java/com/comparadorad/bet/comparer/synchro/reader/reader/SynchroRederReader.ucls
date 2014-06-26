@@ -1,0 +1,302 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.IXmlBetFileReaderService" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/IXmlBetFileReaderService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="440" y="55"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlBetFileReaderDataResolver" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlBetFileReaderDataResolver.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="421" y="671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/data/XmlBetFileReaderResult.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="786" y="642"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerXmlReader.CfgBookmakerXmlReaderParam" 
+    project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/bmconf/CfgBookmakerXmlReader.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1904" y="973"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlBetFileReaderService" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlBetFileReaderService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="442" y="221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderData.XmlBookmakerData" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/data/XmlBetFileReaderData.java" 
+    binary="false">    
+    <position height="170" width="314" x="1104" y="251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerXmlReader" 
+    project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/bmconf/CfgBookmakerXmlReader.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1811" y="361"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlBetFileReaderNodeReader" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlBetFileReaderNodeReader.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="439" y="434"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.bmconf.CfgBookmakerXmlReader.CfgBookmakerXmlReaderDateFormat" 
+    project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/bmconf/CfgBookmakerXmlReader.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1931" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlReaderHandlerConfiguration" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlReaderHandlerConfiguration.java" 
+    binary="false">    
+    <position height="153" width="343" x="1967" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderData" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/data/XmlBetFileReaderData.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1690" y="79"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerXmlReader.CfgBookmakerXmlReaderData" 
+    project="comparer.model.config.bean" 
+    file="/comparer.model.config.bean/src/main/java/com/comparadorad/bet/comparer/model/config/bean/CfgBookmakerXmlReader.java" 
+    binary="false">    
+    <position height="221" width="531" x="1061" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlReaderHandlerConfiguration.DateUtil" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlReaderHandlerConfiguration.java" 
+    binary="false">    
+    <position height="153" width="314" x="1967" y="807"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.handler.AbstractXmlBetFileReaderHandler" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/handler/AbstractXmlBetFileReaderHandler.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="2416" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="15">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="16" name="dateUtil"/>      
+      <multiplicity id="17" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="18">    
+    <bendpoint x="1622" y="546"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="19">    
+    <bendpoint x="1982" y="251"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="20" name="xmlBetFileReaderData"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="23" name="xmlReaderHandlerConfiguration"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="26" name="xmlReaderConfigData"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <bendpoint x="1643" y="546"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="29" name="generalConfigDataParameters"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="31">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="32">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="33" name="generalConfigDataParameters"/>      
+      <multiplicity id="34" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="36" name="xmlBookmakerData"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="38">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="39">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="40" name="xmlReaderConfig"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="43" name="xmlReaderConfigDataList"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="46" name="xmlBetFileReaderDataResolver"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="49" name="xmlReaderHandlerConfiguration"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="51">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="52">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="53">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="54" name="xmlBetFileReaderNodeReader"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="57" name="xmlReaderConfigDateFormat"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="59">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="60">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="61" name="xmlReaderConfigDataParameters"/>      
+      <multiplicity id="62" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

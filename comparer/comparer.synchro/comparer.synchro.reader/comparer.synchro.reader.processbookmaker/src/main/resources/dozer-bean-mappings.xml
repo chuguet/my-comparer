@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+
+
+
+	<mapping map-id="xmlMatchToRtMatch">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtMatch
+		</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch
+		</class-b>
+		<field custom-converter-id="xmlDateToCoreDate">
+			<a>startDate</a>
+			<b>startDate</b>
+		</field>
+
+	</mapping>
+
+	<mapping map-id="xmlMatchToRtMatchId">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtMatchId
+		</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch
+		</class-b>
+
+		<field custom-converter-id="xmlSportToCfgSport">
+			<a>competition.sport</a>
+			<b>xmlTournament.xmlSport</b>
+		</field>
+		<field custom-converter-id="xmlTournamentToCfgCompetition">
+			<a>competition</a>
+			<b>xmlTournament</b>
+		</field>
+		<field custom-converter-id="xmlSportToCfgSport">
+			<a>competition.sport</a>
+			<b>xmlTournament.xmlSport</b>
+		</field>
+		<field custom-converter-id="xmlDateToCoreDate">
+			<a>startDate</a>
+			<b>startDate</b>
+		</field>
+		<field custom-converter-id="XmlMatchParticipantsToRtParticipants">
+			<a>participiants</a>
+			<b>xmlMatchParticipants</b>
+		</field>
+		<field custom-converter-id="xmlTournamentEventToCfgCompetitionEvent">
+			<a>competitionEvent</a>
+			<b>xmlTournamentEvent</b>
+		</field>
+
+	</mapping>
+
+	<mapping map-id="xmlMarketToRtMarket">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtMarket
+		</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket
+		</class-b>
+		<field custom-converter-id="xmlBetTypeToCfgBetType">
+			<a>betType</a>
+			<b>xmlBetType</b>
+		</field>
+		<field custom-converter-id="xmlBetTypeToCfgBetTypeEvent">
+			<a>betTypeEvent</a>
+			<b>xmlBetType</b>
+		</field>
+	</mapping>
+
+	<mapping map-id="xmlBetTypeToRtBet">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtBet</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlBetType
+		</class-b>
+	</mapping>
+
+	<mapping map-id="xmlMarketBetToRtBet">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtBet</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet
+		</class-b>
+		<field custom-converter-id="xmlMarketBetOddToXmlMarketBetOdd">
+			<a>betOdd</a>
+			<b>xmlMarketBetOdd</b>
+		</field>
+<!-- 		<field custom-converter-id="xmlMatchParticipantToRtParticipant"> -->
+<!-- 			<a>participant</a> -->
+<!-- 			<b>xmlMatchParticipant</b> -->
+<!-- 		</field> -->
+		<field custom-converter-id="xmlXmlUrlToWebUrl">
+			<a>webUrl</a>
+			<b>xmlUrl</b>
+		</field>
+		<field custom-converter-id="xmlAttributeToRtAttribute">
+			<a>attribute</a>
+			<b>xmlAttribute</b>
+		</field>
+
+	</mapping>
+	
+	<mapping map-id="xmlMarketBetToRtBetByDB">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtBet</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet
+		</class-b>
+		<field custom-converter-id="xmlMarketBetOddToXmlMarketBetOdd">
+			<a>betOdd</a>
+			<b>xmlMarketBetOdd</b>
+		</field>
+		<field custom-converter-id="xmlMatchParticipantToRtParticipant">
+			<a>participant</a>
+			<b>xmlMatchParticipant</b>
+		</field>
+		<field custom-converter-id="xmlXmlUrlToWebUrl">
+			<a>webUrl</a>
+			<b>xmlUrl</b>
+		</field>
+		<field custom-converter-id="xmlAttributeToRtAttribute">
+			<a>attribute</a>
+			<b>xmlAttribute</b>
+		</field>
+
+	</mapping>
+	
+	<mapping map-id="xmlMarketBetToRtBetLongTerm">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtBet</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet
+		</class-b>
+		<field custom-converter-id="xmlMarketBetOddToXmlMarketBetOdd">
+			<a>betOdd</a>
+			<b>xmlMarketBetOdd</b>
+		</field>
+		<field custom-converter-id="xmlMatchParticipantToRtParticipant">
+			<a>participant</a>
+			<b>xmlMatchParticipant</b>
+		</field>
+		<field custom-converter-id="xmlXmlUrlToWebUrl">
+			<a>webUrl</a>
+			<b>xmlUrl</b>
+		</field>
+		<field custom-converter-id="xmlAttributeToRtAttribute">
+			<a>attribute</a>
+			<b>xmlAttribute</b>
+		</field>
+
+	</mapping>
+
+	<mapping map-id="xmlToRtResolverDataToRtBet">
+		<class-a>com.comparadorad.bet.comparer.model.bet.bean.RtBet</class-a>
+		<class-b>com.comparadorad.bet.comparer.synchro.reader.processbookmaker.xml.resolver.bean.XmlToRtResolverData
+		</class-b>
+		<field copy-by-reference="true">
+			<a>market</a>
+			<b>lastMarket</b>
+		</field>
+		<field>
+			<a>betType</a>
+			<b>lastCfgBetType</b>
+		</field>
+		<field>
+			<a>bookmaker</a>
+			<b>bookmaker</b>
+		</field>
+	</mapping>
+
+	
+
+
+</mappings>

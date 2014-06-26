@@ -1,0 +1,143 @@
+<sequence-diagram version="1.0.9" icons="true" automaticImage="JPEG">  
+  <object id="1" language="java" name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlBetFileReaderService" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlBetFileReaderService.java" 
+    binary="false" label="xmlBetFileReaderService" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="163" y="0"/>    
+    <execution id="2">      
+      <position height="580" width="240" x="5" y="111"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="240" x="5" y="153"/>    
+    </execution>  
+  </object>  
+  <object id="7" language="java" name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlBetFileReaderNodeVisitor" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlBetFileReaderNodeVisitor.java" 
+    binary="false" label="xmlBetFileReaderNodeVisitor" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="390" y="0"/>    
+    <execution id="6">      
+      <position height="495" width="240" x="249" y="175"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="430" width="7" x="366" y="219"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="0" x="0" y="607"/>    
+    </execution>  
+  </object>  
+  <object id="28" language="java" name="com.comparadorad.bet.comparer.synchro.reader.reader.util.XomUtil" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/util/XomUtil.java" 
+    binary="false" label="&lt;static&gt;" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="11">      
+      <position height="21" width="0" x="0" y="250"/>    
+    </execution>  
+  </object>  
+  <object id="29" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.handler.XmlBetFileReaderHandlerFactory" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/handler/XmlBetFileReaderHandlerFactory.java" 
+    binary="false" label="&lt;static&gt;" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="0" x="0" y="292"/>    
+    </execution>  
+  </object>  
+  <object id="30" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.handler.AbstractXmlBetFileReaderHandler" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/handler/AbstractXmlBetFileReaderHandler.java" 
+    binary="false" label="handler" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="15">      
+      <position height="21" width="0" x="0" y="334"/>    
+    </execution>  
+  </object>  
+  <object id="31" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.reader.XmlBetFileReaderDataResolver" 
+    project="comparer.synchro.reader.reader" 
+    file="/comparer.synchro.reader.reader/src/main/java/com/comparadorad/bet/comparer/synchro/reader/reader/XmlBetFileReaderDataResolver.java" 
+    binary="false" label="xmlBetFileReaderDataResolver" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="17">      
+      <position height="21" width="0" x="0" y="376"/>    
+    </execution>  
+  </object>  
+  <object id="32" language="java" name="nu.xom.ParentNode" project="comparer.synchro.reader.reader" 
+    file="D:/java/maven/.m3/repository/xom/xom/1.2.5/xom-1.2.5.jar" binary="true" label="pElement" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="19">      
+      <position height="21" width="0" x="0" y="418"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="21" width="0" x="0" y="460"/>    
+    </execution>  
+  </object>  
+  <object id="33" language="java" name="nu.xom.Elements" project="comparer.synchro.reader.reader" 
+    file="D:/java/maven/.m3/repository/xom/xom/1.2.5/xom-1.2.5.jar" binary="true" label="elements" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="23">      
+      <position height="21" width="0" x="0" y="502"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="0" x="0" y="544"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="readXom(java.io.InputStream):nu.xom.Document">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" 
+    operation="readDocument(nu.xom.Document,com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerXmlReader,com.comparadorad.bet.comparer.synchro.reader.reader.XmlReaderHandlerConfiguration):com.comparadorad.bet.comparer.synchro.reader.model.XmlBookmakerEvents">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="8" 
+    operation="visitElement(nu.xom.Element,com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerXmlReader,com.comparadorad.bet.comparer.synchro.reader.reader.XmlReaderHandlerConfiguration):void">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="10" operation="getElementXpath(nu.xom.Element):java.lang.String">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" 
+    operation="getGeneratorObject(java.lang.String,com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerXmlReader,com.comparadorad.bet.comparer.synchro.reader.reader.XmlReaderHandlerConfiguration):com.comparadorad.bet.comparer.synchro.reader.reader.handler.AbstractXmlBetFileReaderHandler&lt;?,?&gt;">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" 
+    operation="process(nu.xom.Element,java.lang.Object):com.comparadorad.bet.comparer.synchro.reader.model.AbstractXmlData">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="resolveData(com.comparadorad.bet.comparer.synchro.reader.model.AbstractXmlData):void">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="getChildCount():int">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="20">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="size():int">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="get(int):nu.xom.Element">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" 
+    operation="visitElement(nu.xom.Element,com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerXmlReader,com.comparadorad.bet.comparer.synchro.reader.reader.XmlReaderHandlerConfiguration):void">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>
+</sequence-diagram>

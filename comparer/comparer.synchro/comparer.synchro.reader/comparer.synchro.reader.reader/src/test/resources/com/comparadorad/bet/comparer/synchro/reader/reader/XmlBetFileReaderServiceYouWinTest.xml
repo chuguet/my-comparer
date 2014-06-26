@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odds last_modified="2012/07/30 13:04:13" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="Bellator" regionid="2635.1">
+			<group name="Upcoming Fights" groupid="5429.1">
+				<event name="Friere v Curran" eventid="339156.1" betend="2012/08/25 04:00:00">
+					<bet name="Head to Head" betid="2365657.1">
+						<selection name="Friere, Patricky" priceup="11"
+							pricedown="10" odd="2.10" selectionid="12853633.1" />
+						<selection name="Curran, Pat" priceup="20" pricedown="29"
+							odd="1.69" selectionid="12853635.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>

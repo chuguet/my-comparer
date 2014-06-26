@@ -1,0 +1,25 @@
+<com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+	<bmInternalId>
+		<value>1</value>
+	</bmInternalId>
+	<live>false</live>
+	<xmlMarkets class="list">
+		<com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+			<parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch"
+				reference="../../.." />
+			<xmlBetType>
+				<name>Handicap</name>
+			</xmlBetType>
+		</com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+	</xmlMarkets>
+	<xmlMatchParticipants class="set">
+		<com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+			<name>F.C. Barcelona</name>
+			<awayParticipant>false</awayParticipant>
+			<homeParticipant>false</homeParticipant>
+		</com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+	</xmlMatchParticipants>
+	<xmlTournament>
+		<name>Euro 2012</name>
+	</xmlTournament>
+</com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>

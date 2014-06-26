@@ -1,0 +1,77 @@
+<sequence-diagram version="1.0.9" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.comparadorad.bet.comparer.synchro.reader.process.ProcessXmlMarketToRtMarket" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/ProcessXmlMarketToRtMarket.java" 
+    binary="false" label="processXmlMarketToRtMarket" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="83" y="0"/>    
+    <execution id="2">      
+      <position height="273" width="247" x="5" y="112"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="7" x="125" y="238"/>    
+    </execution>  
+  </object>  
+  <object id="6" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.resolver.impl.XmlToRtMatchResolver" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/resolver/impl/XmlToRtMatchResolver.java" 
+    binary="false" label="xmlToRtMatchResolver" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="351" y="0"/>    
+    <execution id="4">      
+      <position height="231" width="322" x="256" y="133"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="63" width="7" x="414" y="217"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.resolver.impl.XmlToRtMarketResolver" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/resolver/impl/XmlToRtMarketResolver.java" 
+    binary="false" label="xmlToRtMarketResolver" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="352" y="0"/>    
+    <execution id="8">      
+      <position height="189" width="322" x="582" y="154"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="105" width="7" x="740" y="196"/>    
+    </execution>  
+  </object>  
+  <object id="16" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.resolver.impl.XmlToRtBetResolver" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/resolver/impl/XmlToRtBetResolver.java" 
+    binary="false" label="xmlToRtBetResolver" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="373" y="0"/>    
+    <execution id="13">      
+      <position height="147" width="322" x="908" y="175"/>    
+    </execution>  
+  </object>  
+  <message id="3" 
+    operation="resolve(com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch,com.comparadorad.bet.comparer.synchro.reader.process.xml.resolver.bean.XmlToRtResolverData):com.comparadorad.bet.comparer.model.bet.bean.RtMatch">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="7" 
+    operation="resolve(com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket,com.comparadorad.bet.comparer.synchro.reader.process.xml.resolver.bean.XmlToRtResolverData):com.comparadorad.bet.comparer.model.bet.bean.RtMarket">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="10">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>  
+  <message id="12" 
+    operation="resolve(com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet,com.comparadorad.bet.comparer.synchro.reader.process.xml.resolver.bean.XmlToRtResolverData):com.comparadorad.bet.comparer.model.bet.bean.RtBet">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="15">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="17">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>
+</sequence-diagram>

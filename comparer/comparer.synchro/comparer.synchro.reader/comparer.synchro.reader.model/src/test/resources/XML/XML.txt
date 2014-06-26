@@ -1,0 +1,22 @@
+http://www.bet-at-home.com/oddxml.aspx?lang=en&subscriber=YOUR_NAME
+
+http://xml.betclick.com/odds_en.xml
+
+http://xml.betdaq.com/
+
+http://xml.betfred.com/@templates@.xml
+
+http://cubs.bluesq.com/cubs/cubs.php?action=dictionary
+
+http://xmlfeed.centrebet.com/ ---> http://www.sportingbet.com.au/XMLFeeds/xmlAFLfeed.xml
+
+http://xml.nordicbet.com/
+
+http://xml.pinnaclesports.com/pinnacleFeed.aspx?
+
+http://oddsfeed.gamingsys.net/lines/liveodds.xml
+
+http://feeds.titanbet.com/feed.xml
+
+http://xml.triobet.com/
+

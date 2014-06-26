@@ -1,0 +1,94 @@
+<com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>
+  <xmlBookmakerEvents>
+    <bmInternalId>
+      <value>1</value>
+    </bmInternalId>
+    <xmlBookmaker>
+      <name>BetDaq</name>
+    </xmlBookmaker>
+    <xmlMatchs class="list">
+      <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+        <bmInternalId>
+          <value>1096002</value>
+        </bmInternalId>
+        <name>(Wed) Portugal v Spain (TV)</name>
+        <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlBookmakerEvents" reference="../../.."/>
+        <startDate>
+          <commonsDate>
+            <providerDate>2012-06-27 19:45:00.0 UTC</providerDate>
+            <providerTimeZoneStr>GMT</providerTimeZoneStr>
+            <zeroGmtMatchDate>2012-06-27 21:45:00.0 UTC</zeroGmtMatchDate>
+            <zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+          </commonsDate>
+        </startDate>
+        <live>false</live>
+        <xmlMarkets class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>2643003</value>
+            </bmInternalId>
+            <name>Match Odds</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlBetType>
+              <bmInternalId>
+                <value>2643003</value>
+              </bmInternalId>
+              <name>Match Odds</name>
+            </xmlBetType>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+        </xmlMarkets>
+        <xmlMatchParticipants class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+            <bmInternalId>
+              <value>14275446</value>
+            </bmInternalId>
+            <name>Portugal</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlTournament">
+              <bmInternalId>
+                <value>797302</value>
+              </bmInternalId>
+              <name>Euro 2012</name>
+              <tournamentEvents>
+                <com.comparadorad.bet.comparer.synchro.reader.model.XmlTournamentEvent>
+                  <bmInternalId>
+                    <value>1082178</value>
+                  </bmInternalId>
+                  <name>Semi Finals</name>
+                  <startDate>
+                    <commonsDate>
+                      <providerDate>2012-06-27 18:45:00.0 UTC</providerDate>
+                      <providerTimeZoneStr>GMT</providerTimeZoneStr>
+                      <zeroGmtMatchDate>2012-06-27 20:45:00.0 UTC</zeroGmtMatchDate>
+                      <zeroGmtMatchTimeZoneStr>GMT+0</zeroGmtMatchTimeZoneStr>
+                    </commonsDate>
+                  </startDate>
+                </com.comparadorad.bet.comparer.synchro.reader.model.XmlTournamentEvent>
+              </tournamentEvents>
+            </parent>
+            <awayParticipant>false</awayParticipant>
+            <homeParticipant>false</homeParticipant>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+            <bmInternalId>
+              <value>14275447</value>
+            </bmInternalId>
+            <name>Spain</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlTournament" reference="../../com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant/parent"/>
+            <awayParticipant>false</awayParticipant>
+            <homeParticipant>false</homeParticipant>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+            <bmInternalId>
+              <value>14275448</value>
+            </bmInternalId>
+            <name>Draw</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlTournament" reference="../../com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant/parent"/>
+            <awayParticipant>false</awayParticipant>
+            <homeParticipant>false</homeParticipant>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+        </xmlMatchParticipants>
+        <xmlTournament reference="../xmlMatchParticipants/com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant/parent"/>
+      </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+    </xmlMatchs>
+  </xmlBookmakerEvents>
+</com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>

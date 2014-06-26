@@ -1,0 +1,30 @@
+1-Sobra el constructor con 4 par�metros (String pName, final String pInternalId,boolean pHomeParticipant, 
+boolean pAwayParticipant) de la clase XmlMatchparticipant.java???
+
+
+3- Diferencias entre pbmInternalId y pInternalId
+
+
+4- XmlMarketBet tiene como atributo 1 participante, pero hay apuestas como "Half-Time / Full-Time" que son importantes los dos.
+
+
+5- A�adir un atributo code a XmlMarket.java, para el code.  (<bet code="Ftb_Htf" name="Half-Time / Full-Time" id="3507642">)
+
+
+6- El modelo de datos contempla la cantidad m�xima de dinero que se puede apostar para una determinada bet??? 
+       ejemplo: <moneyline_maximum>2000</moneyline_maximum> --> En esta apuesto como mucho se pueden apostar 2000Euros
+
+7- //Qu� pasa con el sistema de ODD?? (testBetdaq())->EN el ejemplo--> ODDS_SYSTEM="BL"
+
+8- XmlMarketBet no tiene constructor que no tenga ID. Algunas bet no tienen ID. Mirar testBetdaq().
+
+--> ya está puesto
+
+9- APUESTA BACK/LAY (testBetdaq()) : <POLARITY> indica si el BACK o LAY, har�a falta a�adir algo al modelo para guardar esto?? s�lo se refleja en el nombre del BET.
+
+10- APUESTA BACK/LAY (testBetdaq()) : Cada LAY o BACK tiene 3 <AMOUNT>, uno para los 3 tipos de moneda, que indican la cantidad de dinero que la gente ha apostado en esa bet. har�a falta guardar esto en el modelo??
+
+11- En una apuesta de HANDICAP, �en que parte del modelo de datos se guardan los -0.5/+0.5?
+
+
+

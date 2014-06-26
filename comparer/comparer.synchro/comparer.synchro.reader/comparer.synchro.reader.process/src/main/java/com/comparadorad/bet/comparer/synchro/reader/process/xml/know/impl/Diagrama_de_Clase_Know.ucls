@@ -1,0 +1,112 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.AbstractRtData" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/AbstractRtData.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="600" y="98"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.IExistRtMatch" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/IExistRtMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="600" y="564"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.ExistRtMarket" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/ExistRtMarket.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="219" y="413"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.ExistRtMatch" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/ExistRtMatch.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="600" y="410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.IExistRtBet" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/IExistRtBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1011" y="578"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.IExistRTMarket" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/IExistRTMarket.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="215" y="567"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.process.xml.know.impl.ExistRtBet" 
+    project="comparer.synchro.reader.process" 
+    file="/comparer.synchro.reader.process/src/main/java/com/comparadorad/bet/comparer/synchro/reader/process/xml/know/impl/ExistRtBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1008" y="414"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <realization id="8">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <generalization id="9">    
+    <bendpoint x="217" y="97"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="11">    
+    <bendpoint x="1008" y="98"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="12">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="13">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

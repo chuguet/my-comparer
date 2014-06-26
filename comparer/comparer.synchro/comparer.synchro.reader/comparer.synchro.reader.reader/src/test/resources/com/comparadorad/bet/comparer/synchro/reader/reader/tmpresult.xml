@@ -1,0 +1,213 @@
+<com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>
+  <xmlBookmakerEvents>
+    <fileDate>
+      <providerDate>2012-05-29 07:25:00.0 UTC</providerDate>
+    </fileDate>
+    <xmlBookmaker>
+      <name>BetAtClick</name>
+    </xmlBookmaker>
+    <xmlMatchs class="list">
+      <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+        <bmInternalId>
+          <value>458435</value>
+        </bmInternalId>
+        <name>Caja Laboral - Real Madrid</name>
+        <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlBookmakerEvents" reference="../../.."/>
+        <date>
+          <providerDate>2012-05-29 17:45:00.0 UTC</providerDate>
+        </date>
+        <live>false</live>
+        <liveId>live_id</liveId>
+        <streaming>streaming</streaming>
+        <xmlMarkets class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>3440728</value>
+            </bmInternalId>
+            <name>Match Winner</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29083697</value>
+                </bmInternalId>
+                <name>%1%</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.68</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant>
+                  <name>Caja Laboral</name>
+                  <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../../../../.."/>
+                  <awayParticipant>false</awayParticipant>
+                  <homeParticipant>false</homeParticipant>
+                  <participantId>%1%</participantId>
+                </xmlMatchParticipant>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29083698</value>
+                </bmInternalId>
+                <name>%2%</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>2.05</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant>
+                  <name>Real Madrid</name>
+                  <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../../../../.."/>
+                  <awayParticipant>false</awayParticipant>
+                  <homeParticipant>false</homeParticipant>
+                  <participantId>%2%</participantId>
+                </xmlMatchParticipant>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+            <xmlBetType>
+              <bmInternalId>
+                <value>3440728</value>
+              </bmInternalId>
+              <name>Match Winner</name>
+              <code>Bkb_Mr2</code>
+            </xmlBetType>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>3440734</value>
+            </bmInternalId>
+            <name>Handicap Result</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29132931</value>
+                </bmInternalId>
+                <name>%1% -2.5</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.90</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29132932</value>
+                </bmInternalId>
+                <name>%2% +2.5</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.80</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+            <xmlBetType>
+              <bmInternalId>
+                <value>3440734</value>
+              </bmInternalId>
+              <name>Handicap Result</name>
+              <code>Bkb_Han</code>
+            </xmlBetType>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>3440731</value>
+            </bmInternalId>
+            <name>Match Result</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29083720</value>
+                </bmInternalId>
+                <name>%1%</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.72</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant reference="../../../../com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet/xmlMatchParticipant"/>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29083721</value>
+                </bmInternalId>
+                <name>Draw</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>14.00</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29083722</value>
+                </bmInternalId>
+                <name>%2%</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>2.15</odds>
+                </xmlMarketBetOdd>
+                <xmlMatchParticipant reference="../../../../com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet[2]/xmlMatchParticipant"/>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+            <xmlBetType>
+              <bmInternalId>
+                <value>3440731</value>
+              </bmInternalId>
+              <name>Match Result</name>
+              <code>Bkb_Mrs</code>
+            </xmlBetType>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>3440735</value>
+            </bmInternalId>
+            <name>Total Points</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29132934</value>
+                </bmInternalId>
+                <name>Under 151.5</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.85</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>29132933</value>
+                </bmInternalId>
+                <name>Over 151.5</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <odds>1.85</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+            <xmlBetType>
+              <bmInternalId>
+                <value>3440735</value>
+              </bmInternalId>
+              <name>Total Points</name>
+              <code>Bkb_Tpt</code>
+            </xmlBetType>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+        </xmlMarkets>
+        <xmlMatchParticipants class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant reference="../../xmlMarkets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet/xmlMatchParticipant"/>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant reference="../../xmlMarkets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket/xmlMarketBets/com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet[2]/xmlMatchParticipant"/>
+        </xmlMatchParticipants>
+        <xmlTournament>
+          <bmInternalId>
+            <value>154</value>
+          </bmInternalId>
+          <name>Spain ACB</name>
+          <xmlSport>
+            <bmInternalId>
+              <value>4</value>
+            </bmInternalId>
+            <name>Basketball</name>
+          </xmlSport>
+        </xmlTournament>
+      </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+    </xmlMatchs>
+  </xmlBookmakerEvents>
+</com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>

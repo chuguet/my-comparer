@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1343646352726</PinnacleFeedTime>
+	<lastContest>14105242</lastContest>
+	<lastGame>81666905</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2012-06-30 13:59</event_datetimeGMT>
+			<gamenumber>249812397</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Allsvenskan</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Mjallby</participant_name>
+					<contestantnum>3008</contestantnum>
+					<rotnum>3008</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>IFK Norrkoping FK</participant_name>
+					<contestantnum>3009</contestantnum>
+					<rotnum>3009</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>3010</contestantnum>
+					<rotnum>3010</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2012-06-30 13:59</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>2000</spread_maximum>
+					<moneyline_maximum>1000</moneyline_maximum>
+					<total_maximum>2000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>362</moneyline_visiting>
+						<moneyline_home>-118</moneyline_home>
+						<moneyline_draw>274</moneyline_draw>
+					</moneyline>
+					<spread>
+						<spread_visiting>0.5</spread_visiting>
+						<spread_adjust_visiting>109</spread_adjust_visiting>
+						<spread_home>-0.5</spread_home>
+						<spread_adjust_home>-118</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>2.5</total_points>
+						<over_adjust>-103</over_adjust>
+						<under_adjust>-107</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

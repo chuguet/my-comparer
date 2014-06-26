@@ -1,0 +1,102 @@
+<com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>
+  <xmlBookmakerEvents>
+    <name>titanbet</name>
+    <xmlBookmaker>
+      <name>TitanBet</name>
+    </xmlBookmaker>
+    <xmlMatchs class="list">
+      <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+        <bmInternalId>
+          <value>799459</value>
+        </bmInternalId>
+        <name>Spain - Portugal</name>
+        <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlBookmakerEvents" reference="../../.."/>
+        <startDate>
+          <providerDate>2012-06-27 16:45:00.0 UTC</providerDate>
+        </startDate>
+        <live>false</live>
+        <xmlMarkets class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+            <bmInternalId>
+              <value>1</value>
+            </bmInternalId>
+            <name>Match Result</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <xmlBetType>
+              <bmInternalId>
+                <value>1</value>
+              </bmInternalId>
+              <name>Match Result</name>
+            </xmlBetType>
+            <xmlMarketBets class="list">
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>19149005</value>
+                </bmInternalId>
+                <name>Spain</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <americanOdds>-109</americanOdds>
+                  <fraOdds>9/10</fraOdds>
+                  <odds>1.92</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>19149006</value>
+                </bmInternalId>
+                <name>Draw</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <americanOdds>235</americanOdds>
+                  <fraOdds>47/20</fraOdds>
+                  <odds>3.35</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+              <com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+                <bmInternalId>
+                  <value>19149007</value>
+                </bmInternalId>
+                <name>Portugal</name>
+                <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket" reference="../../.."/>
+                <xmlMarketBetOdd>
+                  <americanOdds>333</americanOdds>
+                  <fraOdds>33/10</fraOdds>
+                  <odds>4.33</odds>
+                </xmlMarketBetOdd>
+              </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarketBet>
+            </xmlMarketBets>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMarket>
+        </xmlMarkets>
+        <xmlMatchParticipants class="list">
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+            <name>Spain</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <awayParticipant>false</awayParticipant>
+            <homeParticipant>false</homeParticipant>
+            <participantId>%1%</participantId>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+          <com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+            <name>Portugal</name>
+            <parent class="com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch" reference="../../.."/>
+            <awayParticipant>false</awayParticipant>
+            <homeParticipant>false</homeParticipant>
+            <participantId>%2%</participantId>
+          </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatchParticipant>
+        </xmlMatchParticipants>
+        <xmlTournament>
+          <bmInternalId>
+            <value>46439</value>
+          </bmInternalId>
+          <name>Europe - Euro 2012</name>
+          <xmlSport>
+            <bmInternalId>
+              <value>6</value>
+            </bmInternalId>
+            <name>Football</name>
+          </xmlSport>
+        </xmlTournament>
+      </com.comparadorad.bet.comparer.synchro.reader.model.XmlMatch>
+    </xmlMatchs>
+  </xmlBookmakerEvents>
+</com.comparadorad.bet.comparer.synchro.reader.reader.data.XmlBetFileReaderResult>

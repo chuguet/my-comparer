@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports file_date="2012-05-29T09:25:26.647">
+	<sport name="Basketball" id="4">
+		<event name="Spain ACB" id="154">
+			<match name="Caja Laboral - Real Madrid" id="458435"
+				start_date="2012-05-29T19:45:00" live_id="52764" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="3440728">
+						<choice name="%1%" id="29083697" odd="1.68" />
+						<choice name="%2%" id="29083698" odd="2.05" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="3440734">
+						<choice name="%1% -2.5" id="29132931" odd="1.90" />
+						<choice name="%2% +2.5" id="29132932" odd="1.80" />
+					</bet>
+					<bet code="Bkb_Mrs" name="Match Result" id="3440731">
+						<choice name="%1%" id="29083720" odd="1.72" />
+						<choice name="Draw" id="29083721" odd="14.00" />
+						<choice name="%2%" id="29083722" odd="2.15" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="3440735">
+						<choice name="Under 151.5" id="29132934" odd="1.85" />
+						<choice name="Over 151.5" id="29132933" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Motorcycling" id="15">
+		<event name="GP Aragon MotoGP" id="8964">
+			<match name="GP Aragon MotoGP 2012" id="486627" start_date="2012-09-30T13:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Mtc_Rwi" name="Race Winner" id="3909333">
+						<choice name="Valentino Rossi" id="31739492" odd="18.00" />
+						<choice name="Daniel Pedrosa" id="31739490" odd="2.00" />
+						<choice name="Nicky Hayden" id="31739498" odd="70.00" />
+						<choice name="Colin Edwards" id="31739504" odd="2000.00" />
+						<choice name="Randy de Puniet" id="31739502" odd="1000.00" />
+						<choice name="James Ellison" id="31739506" odd="2000.00" />
+						<choice name="Jorge Lorenzo" id="31739491" odd="2.10" />
+						<choice name="Andrea Dovizioso" id="31739495" odd="25.00" />
+						<choice name="Stefan Bradl" id="31739496" odd="40.00" />
+						<choice name="Karel Abraham" id="31739501" odd="1000.00" />
+						<choice name="Hector Barbera" id="31739499" odd="500.00" />
+						<choice name="Alvaro Bautista" id="31739497" odd="50.00" />
+						<choice name="Aleix Espargaro" id="31739500" odd="1000.00" />
+						<choice name="Mattia Pasini" id="31739507" odd="2000.00" />
+						<choice name="Ben Spies" id="31739494" odd="22.00" />
+						<choice name="Cal Crutchlow" id="31739493" odd="22.00" />
+						<choice name="Yonny Hernandez" id="31739503" odd="1000.00" />
+						<choice name="Michele Pirro" id="31739508" odd="2000.00" />
+						<choice name="Danilo Petrucci" id="31739505" odd="2000.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Football" id="1">
+		<event name="World Cup" id="1">
+			<match name="World Cup 2014" id="249450" start_date="2014-07-13T20:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Win" name="Outright Winner" id="1186276">
+						<choice name="Argentina" id="13879900" odd="6.50" />
+						<choice name="Australia" id="13879926" odd="200.00" />
+						<choice name="Brazil" id="13879899" odd="4.50" />
+						<choice name="Costa Rica" id="13879949" odd="1500.00" />
+						<choice name="Croatia" id="13879909" odd="100.00" />
+						<choice name="Czech Republic" id="13879916" odd="150.00" />
+						<choice name="Ecuador" id="13879950" odd="150.00" />
+						<choice name="England" id="13879904" odd="25.00" />
+						<choice name="France" id="13879905" odd="25.00" />
+						<choice name="Ghana" id="13879918" odd="100.00" />
+						<choice name="Holland" id="13879903" odd="16.00" />
+						<choice name="Iran" id="13879964" odd="1000.00" />
+						<choice name="Italy" id="13879906" odd="20.00" />
+						<choice name="Ivory Coast" id="13879910" odd="100.00" />
+						<choice name="Japan" id="13879924" odd="200.00" />
+						<choice name="South Korea" id="13879934" odd="200.00" />
+						<choice name="Mexico" id="13879911" odd="60.00" />
+						<choice name="Paraguay" id="13879919" odd="80.00" />
+						<choice name="Poland" id="13879941" odd="250.00" />
+						<choice name="Portugal" id="13879907" odd="25.00" />
+						<choice name="Saudi Arabia" id="13879955" odd="750.00" />
+						<choice name="Spain" id="13879901" odd="5.50" />
+						<choice name="Sweden" id="13879920" odd="150.00" />
+						<choice name="Switzerland" id="13879930" odd="250.00" />
+						<choice name="Togo" id="13879946" odd="1000.00" />
+						<choice name="Trinidad and Tobago" id="13879973" odd="2500.00" />
+						<choice name="Tunisia" id="13879935" odd="500.00" />
+						<choice name="Ukraine" id="13879925" odd="200.00" />
+						<choice name="Germany" id="13879902" odd="9.00" />
+						<choice name="United States" id="13879914" odd="80.00" />
+						<choice name="Albania" id="13879976" odd="2000.00" />
+						<choice name="Algeria" id="13879936" odd="1000.00" />
+						<choice name="Andorra" id="13879989" odd="10000.00" />
+						<choice name="Armenia" id="13879977" odd="2000.00" />
+						<choice name="Austria" id="13879937" odd="500.00" />
+						<choice name="Azerbaijan" id="13879978" odd="2000.00" />
+						<choice name="Bahrain" id="13879979" odd="2000.00" />
+						<choice name="Belarus" id="13879980" odd="2000.00" />
+						<choice name="Belgium" id="13879927" odd="80.00" />
+						<choice name="Bolivia" id="13879957" odd="500.00" />
+						<choice name="Bosnia-Herzegovina" id="13879947" odd="500.00" />
+						<choice name="Bulgaria" id="13879938" odd="500.00" />
+						<choice name="Cameroon" id="13879922" odd="250.00" />
+						<choice name="Canada" id="13879981" odd="2500.00" />
+						<choice name="Chile" id="13879908" odd="40.00" />
+						<choice name="China" id="13879948" odd="1000.00" />
+						<choice name="Colombia" id="13879931" odd="100.00" />
+						<choice name="Congo" id="13879990" odd="5000.00" />
+						<choice name="Cyprus" id="13879958" odd="1500.00" />
+						<choice name="Denmark" id="13879917" odd="200.00" />
+						<choice name="Egypt" id="13879923" odd="500.00" />
+						<choice name="Estonia" id="13879959" odd="1000.00" />
+						<choice name="Faroe Islands" id="13879991" odd="10000.00" />
+						<choice name="Finland" id="13879951" odd="2000.00" />
+						<choice name="Georgia" id="13879960" odd="1000.00" />
+						<choice name="Greece" id="13879939" odd="250.00" />
+						<choice name="Guatemala" id="13879961" odd="2500.00" />
+						<choice name="Guinea" id="13879962" odd="1000.00" />
+						<choice name="Honduras" id="13879963" odd="1500.00" />
+						<choice name="Hungary" id="13879952" odd="1000.00" />
+						<choice name="Iceland" id="13879982" odd="2000.00" />
+						<choice name="Ireland" id="13879932" odd="250.00" />
+						<choice name="Israel" id="13879953" odd="1000.00" />
+						<choice name="Jamaica" id="13879965" odd="1500.00" />
+						<choice name="Kazakhstan" id="13879983" odd="2000.00" />
+						<choice name="Kenya" id="13879992" odd="5000.00" />
+						<choice name="Kuwait" id="13879966" odd="1000.00" />
+						<choice name="Latvia" id="13879967" odd="1000.00" />
+						<choice name="Libya" id="13879984" odd="2000.00" />
+						<choice name="Liechtenstein" id="13879993" odd="5000.00" />
+						<choice name="Lithuania" id="13879968" odd="1000.00" />
+						<choice name="Luxembourg" id="13879985" odd="2000.00" />
+						<choice name="Macedonia" id="13879986" odd="2000.00" />
+						<choice name="Malta" id="13879994" odd="5000.00" />
+						<choice name="Moldova" id="13879987" odd="2000.00" />
+						<choice name="Morocco" id="13879940" odd="250.00" />
+						<choice name="New Zealand" id="13879969" odd="1500.00" />
+						<choice name="Nigeria" id="13879933" odd="200.00" />
+						<choice name="North Korea" id="13879970" odd="2500.00" />
+						<choice name="Northern Ireland" id="13879971" odd="2500.00" />
+						<choice name="Norway" id="13879928" odd="250.00" />
+						<choice name="Panama" id="13879972" odd="1500.00" />
+						<choice name="Peru" id="13879954" odd="250.00" />
+						<choice name="Romania" id="13879929" odd="250.00" />
+						<choice name="Russia" id="13879912" odd="80.00" />
+						<choice name="San Marino" id="13879995" odd="10000.00" />
+						<choice name="Scotland" id="13879942" odd="1000.00" />
+						<choice name="Senegal" id="13879943" odd="250.00" />
+						<choice name="Slovakia" id="13879944" odd="250.00" />
+						<choice name="Slovenia" id="13879945" odd="250.00" />
+						<choice name="South Africa" id="13879956" odd="500.00" />
+						<choice name="Turkey" id="13879921" odd="150.00" />
+						<choice name="Uruguay" id="13879915" odd="25.00" />
+						<choice name="Uzbekistan" id="13879988" odd="2000.00" />
+						<choice name="Venezuela" id="13879974" odd="250.00" />
+						<choice name="Wales" id="13879975" odd="1500.00" />
+						<choice name="Zambia" id="13879996" odd="2000.00" />
+						<choice name="Serbia" id="13879913" odd="100.00" />
+						<choice name="Montenegro" id="21988868" odd="250.00" />
+						<choice name="Qatar" id="17410768" odd="2500.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>
