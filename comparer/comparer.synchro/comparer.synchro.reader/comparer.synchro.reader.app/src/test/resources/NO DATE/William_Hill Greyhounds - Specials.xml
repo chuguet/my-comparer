@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-05-16 11:57:48" lastMsgId="3113751500" requestTime="0.0341">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="386" name="Greyhounds - Specials" maxRepDate="2012-05-16" maxRepTime="10:22:52">
+<type
+id="6775"
+name="Hotbox"
+url="http://sports.williamhill.com/bet/betting/t/6775"
+lastUpdateDate="2012-02-01"
+lastUpdateTime="06:55:42">
+<market
+id="35199110"
+name="Hall Green Hotbox - Outright - Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2984930/Hall%2dGreen%2dHotbox"
+date="2012-05-16"
+time="11:03:00"
+betTillDate="2012-05-16"
+betTillTime="11:03:00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:51:19"
+>
+<participant
+name="Trap 2"
+id="149615989"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:50:37"
+handicap=""/>
+<participant
+name="Trap 1"
+id="149616142"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:50:28"
+handicap=""/>
+<participant
+name="Trap 3"
+id="149616143"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:50:42"
+handicap=""/>
+<participant
+name="Trap 4"
+id="149616144"
+odds="9/5"
+oddsDecimal="2.80"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:50:47"
+handicap=""/>
+<participant
+name="Trap 5"
+id="149616145"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:50:53"
+handicap=""/>
+<participant
+name="Trap 6"
+id="149616146"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:50:58"
+handicap=""/>
+</market>
+<market
+id="35199107"
+name="Newcastle Hotbox - Outright - Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2984927/Newcastle%2dHotbox"
+date="2012-05-16"
+time="11:11:00"
+betTillDate="2012-05-16"
+betTillTime="11:11:00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:49:45"
+>
+<participant
+name="Trap 5"
+id="149615986"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:46:37"
+handicap=""/>
+<participant
+name="Trap 1"
+id="149616127"
+odds="12/5"
+oddsDecimal="3.40"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:46:12"
+handicap=""/>
+<participant
+name="Trap 2"
+id="149616128"
+odds="17/10"
+oddsDecimal="2.70"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:46:20"
+handicap=""/>
+<participant
+name="Trap 3"
+id="149616129"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:46:25"
+handicap=""/>
+<participant
+name="Trap 4"
+id="149616130"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:46:28"
+handicap=""/>
+<participant
+name="Trap 6"
+id="149616131"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="11:46:40"
+handicap=""/>
+</market>
+<market
+id="35199104"
+name="Belle Vue Hotbox - Outright - Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2984924/Belle%2dVue%2dHotbox"
+date="2012-05-16"
+time="14:00:00"
+betTillDate="2012-05-16"
+betTillTime="14:00:00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:22:52"
+>
+<participant
+name="Trap 2"
+id="149615983"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:21:41"
+handicap=""/>
+<participant
+name="Trap 1"
+id="149616112"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:21:38"
+handicap=""/>
+<participant
+name="Trap 3"
+id="149616113"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:21:46"
+handicap=""/>
+<participant
+name="Trap 4"
+id="149616114"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:21:47"
+handicap=""/>
+<participant
+name="Trap 5"
+id="149616115"
+odds="11/5"
+oddsDecimal="3.20"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:21:52"
+handicap=""/>
+<participant
+name="Trap 6"
+id="149616116"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="10:21:56"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

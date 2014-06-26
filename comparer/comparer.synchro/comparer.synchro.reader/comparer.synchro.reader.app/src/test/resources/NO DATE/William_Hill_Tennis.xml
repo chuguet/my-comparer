@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish -->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved. -->
+<oxip version="7.1" created="2012-05-14 17:40:40" lastMsgId="3106437506"
+	requestTime="0.1375">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="424" name="Challenger Tennis" maxRepDate="2012-05-14"
+				maxRepTime="17:36:51">
+				<type id="9031" name="ATP Challenger Tour Bordeaux"
+					url="http://sports.williamhill.com/bet/betting/t/9031"
+					lastUpdateDate="2012-05-14" lastUpdateTime="15:37:45">
+					<market id="35188093"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Game 8 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:56">
+						<participant name="A Shamasdin/L Zovko to Love" id="149576839"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:56" handicap="" />
+						<participant name="A Shamasdin/L Zovko to 30" id="149576840"
+							odds="18/5" oddsDecimal="4.60" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:55" handicap="" />
+						<participant name="A Shamasdin/L Zovko to 15" id="149576841"
+							odds="3/1" oddsDecimal="4.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:55" handicap="" />
+						<participant name="A Shamasdin/L Zovko to Deuce" id="149576842"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:55" handicap="" />
+						<participant name="O Charroin/J Marray to Love" id="149576843"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:55" handicap="" />
+						<participant name="O Charroin/J Marray to 30" id="149576844"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:55" handicap="" />
+						<participant name="O Charroin/J Marray to 15" id="149576845"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:56" handicap="" />
+						<participant name="O Charroin/J Marray to Deuce" id="149576846"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:56" handicap="" />
+					</market>
+					<market id="35188094"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Game 8 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:56">
+						<participant name="Under 6" id="149576847" odds="19/20"
+							oddsDecimal="1.95" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:55"
+							handicap="" />
+						<participant name="Exactly 6" id="149576848" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:55"
+							handicap="" />
+						<participant name="Over 6" id="149576849" odds="23/10"
+							oddsDecimal="3.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:55"
+							handicap="" />
+					</market>
+					<market id="35188095"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Game 8 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:55">
+						<participant name="A Shamasdin/L Zovko" id="149576850"
+							odds="15/4" oddsDecimal="4.75" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:56" handicap="" />
+						<participant name="O Charroin/J Marray" id="149576851"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:56" handicap="" />
+						<participant name="Neither player" id="149576852"
+							odds="1/4" oddsDecimal="1.25" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:56" handicap="" />
+					</market>
+					<market id="35188097"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Game 9 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:19">
+						<participant name="A Shamasdin/L Zovko to Love" id="149576855"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:19" handicap="" />
+						<participant name="A Shamasdin/L Zovko to 30" id="149576856"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="A Shamasdin/L Zovko to 15" id="149576857"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="A Shamasdin/L Zovko to Deuce" id="149576858"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="O Charroin/J Marray to Love" id="149576859"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:19" handicap="" />
+						<participant name="O Charroin/J Marray to 30" id="149576860"
+							odds="18/5" oddsDecimal="4.60" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="O Charroin/J Marray to 15" id="149576861"
+							odds="16/5" oddsDecimal="4.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="O Charroin/J Marray to Deuce" id="149576862"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+					</market>
+					<market id="35188098"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Game 9 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:19">
+						<participant name="Under 6" id="149576863" odds="19/20"
+							oddsDecimal="1.95" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:18"
+							handicap="" />
+						<participant name="Exactly 6" id="149576864" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:18"
+							handicap="" />
+						<participant name="Over 6" id="149576865" odds="23/10"
+							oddsDecimal="3.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:18"
+							handicap="" />
+					</market>
+					<market id="35188099"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Game 9 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:18">
+						<participant name="A Shamasdin/L Zovko" id="149576866"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="O Charroin/J Marray" id="149576867"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="Neither player" id="149576868"
+							odds="1/4" oddsDecimal="1.25" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+					</market>
+					<market id="35188175"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Under/Over 9.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:23:54">
+						<participant name="Under 9.5" id="149577168" odds="2/5"
+							oddsDecimal="1.40" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+						<participant name="Over 9.5" id="149577169" odds="7/4"
+							oddsDecimal="2.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+					</market>
+					<market id="35188176"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Under/Over 10.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:23:54">
+						<participant name="Under 10.5" id="149577170" odds="1/5"
+							oddsDecimal="1.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+						<participant name="Over 10.5" id="149577171" odds="10/3"
+							oddsDecimal="4.33" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+					</market>
+					<market id="35188184"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Total Games Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:23:53">
+						<participant name="Under 8.5" id="149577195" odds="13/5"
+							oddsDecimal="3.60" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+						<participant name="Between 8.5 - 10.5" id="149577196"
+							odds="4/6" oddsDecimal="1.67" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:18" handicap="" />
+						<participant name="Over 10.5" id="149577197" odds="3/1"
+							oddsDecimal="4.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+					</market>
+					<market id="35188185"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Total Games Odd/Even"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:23:53">
+						<participant name="Odd" id="149577198" odds="4/6"
+							oddsDecimal="1.67" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+						<participant name="Even" id="149577199" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:00"
+							handicap="" />
+					</market>
+					<market id="35186087"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Total Games Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Under 8.5" id="149573831" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Between 8.5 - 10.5" id="149573832"
+							odds="19/20" oddsDecimal="1.95" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:52" handicap="" />
+						<participant name="Over 10.5" id="149573833" odds="23/10"
+							oddsDecimal="3.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35186088"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Total Games Odd/Even"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Odd" id="149573834" odds="10/11"
+							oddsDecimal="1.91" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29"
+							handicap="" />
+						<participant name="Even" id="149573835" odds="10/11"
+							oddsDecimal="1.91" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29"
+							handicap="" />
+					</market>
+					<market id="35186092"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set Tie Break?"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Yes" id="149573855" odds="9/2"
+							oddsDecimal="5.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="No" id="149573856" odds="1/8"
+							oddsDecimal="1.12" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35186226"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 3 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Rui Machado to Love" id="149573397"
+							odds="24/5" oddsDecimal="5.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Rui Machado to 30" id="149573398"
+							odds="17/5" oddsDecimal="4.40" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Rui Machado to 15" id="149573399"
+							odds="14/5" oddsDecimal="3.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Rui Machado to Deuce" id="149573400"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Paul-Henri Mathieu to Love" id="149573401"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Paul-Henri Mathieu to 30" id="149573402"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Paul-Henri Mathieu to 15" id="149573403"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Paul-Henri Mathieu to Deuce" id="149573404"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+					</market>
+					<market id="35186228"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 3 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Under 6" id="149573407" odds="10/11"
+							oddsDecimal="1.91" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Exactly 6" id="149573408" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Over 6" id="149573409" odds="12/5"
+							oddsDecimal="3.40" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+					</market>
+					<market id="35186229"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 3 - Total Pts (5)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Four" id="149573410" odds="15/4"
+							oddsDecimal="4.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Five" id="149573411" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Six or Eight" id="149573412" odds="6/5"
+							oddsDecimal="2.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Ten" id="149573413" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Twelve +" id="149573414" odds="11/1"
+							oddsDecimal="12.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+					</market>
+					<market id="35186230"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 3 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Rui Machado" id="149573415" odds="15/4"
+							oddsDecimal="4.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:13:52"
+							handicap="" />
+						<participant name="Paul-Henri Mathieu" id="149573416"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+						<participant name="Neither player" id="149573417"
+							odds="2/9" oddsDecimal="1.22" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:13:52" handicap="" />
+					</market>
+					<market id="35186231"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Games 3 And 4 - Number Of Deuce Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29">
+						<participant name="None" id="149573418" odds="8/13"
+							oddsDecimal="1.62" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+						<participant name="One" id="149573419" odds="7/5"
+							oddsDecimal="2.40" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+						<participant name="Two" id="149573420" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+					</market>
+					<market id="35186232"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Games 3 And 4 - To Win Both Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29">
+						<participant name="Rui Machado" id="149573421" odds="4/1"
+							oddsDecimal="5.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+						<participant name="Paul-Henri Mathieu" id="149573422"
+							odds="16/5" oddsDecimal="4.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Neither player" id="149573423"
+							odds="4/9" oddsDecimal="1.44" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+					</market>
+					<market id="35186233"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Games 3 And 4 - Total Points"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29">
+						<participant name="Under Eleven" id="149573424" odds="17/10"
+							oddsDecimal="2.70" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+						<participant name="Exactly Eleven" id="149573425"
+							odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Over Eleven" id="149573426" odds="3/4"
+							oddsDecimal="1.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+					</market>
+					<market id="35186235"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 4 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29">
+						<participant name="Rui Machado to Love" id="149573429"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Rui Machado to 30" id="149573430"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Rui Machado to 15" id="149573431"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Rui Machado to Deuce" id="149573432"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Paul-Henri Mathieu to Love" id="149573433"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Paul-Henri Mathieu to 30" id="149573434"
+							odds="10/3" oddsDecimal="4.33" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Paul-Henri Mathieu to 15" id="149573435"
+							odds="13/5" oddsDecimal="3.60" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+						<participant name="Paul-Henri Mathieu to Deuce" id="149573436"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:19" handicap="" />
+					</market>
+					<market id="35186237"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 4 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:30">
+						<participant name="Under 6" id="149573439" odds="17/20"
+							oddsDecimal="1.85" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+						<participant name="Exactly 6" id="149573440" odds="9/4"
+							oddsDecimal="3.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+						<participant name="Over 6" id="149573441" odds="13/5"
+							oddsDecimal="3.60" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+					</market>
+					<market id="35186238"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 4 - Total Pts (5)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:30">
+						<participant name="Four" id="149573442" odds="7/2"
+							oddsDecimal="4.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+						<participant name="Five" id="149573443" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+						<participant name="Six or Eight" id="149573444" odds="6/5"
+							oddsDecimal="2.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+						<participant name="Ten" id="149573445" odds="11/1"
+							oddsDecimal="12.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+						<participant name="Twelve +" id="149573446" odds="12/1"
+							oddsDecimal="13.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:19"
+							handicap="" />
+					</market>
+					<market id="35186239"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Game 4 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29">
+						<participant name="Rui Machado" id="149573447" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:30:18"
+							handicap="" />
+						<participant name="Paul-Henri Mathieu" id="149573448"
+							odds="15/4" oddsDecimal="4.75" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:18" handicap="" />
+						<participant name="Neither player" id="149573449"
+							odds="1/5" oddsDecimal="1.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:30:18" handicap="" />
+					</market>
+					<market id="35186405"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Under/Over 7.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Under 7.5" id="149573800" odds="11/2"
+							oddsDecimal="6.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 7.5" id="149573801" odds="1/10"
+							oddsDecimal="1.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35186406"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Under/Over 8.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Under 8.5" id="149573802" odds="12/5"
+							oddsDecimal="3.40" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 8.5" id="149573803" odds="3/10"
+							oddsDecimal="1.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35186407"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Under/Over 9.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Under 9.5" id="149573804" odds="10/11"
+							oddsDecimal="1.91" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 9.5" id="149573805" odds="10/11"
+							oddsDecimal="1.91" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35186408"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Under/Over 10.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Under 10.5" id="149573806" odds="1/4"
+							oddsDecimal="1.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 10.5" id="149573807" odds="11/4"
+							oddsDecimal="3.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+				</type>
+				<type id="9043" name="ITF Tour - Caserta"
+					url="http://sports.williamhill.com/bet/betting/t/9043"
+					lastUpdateDate="2012-05-14" lastUpdateTime="15:38:02">
+					<market id="35201693"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Total Games Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under 8.5" id="149625081" odds="21/20"
+							oddsDecimal="2.05" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:53"
+							handicap="" />
+						<participant name="Between 8.5 - 10.5" id="149625082"
+							odds="5/4" oddsDecimal="2.25" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:53" handicap="" />
+						<participant name="Over 10.5" id="149625083" odds="4/1"
+							oddsDecimal="5.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:53"
+							handicap="" />
+					</market>
+					<market id="35201694"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Total Games Odd/Even"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Odd" id="149625084" odds="19/20"
+							oddsDecimal="1.95" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Even" id="149625085" odds="4/5"
+							oddsDecimal="1.80" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35201698"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set Tie Break?"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Yes" id="149625105" odds="9/1"
+							oddsDecimal="10.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="No" id="149625106" odds="1/25"
+							oddsDecimal="1.04" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35201832"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 3 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:37">
+						<participant name="Sara Savarise to Love" id="149624678"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:26:37" handicap="" />
+						<participant name="Sara Savarise to 30" id="149624679"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:34:11" handicap="" />
+						<participant name="Sara Savarise to 15" id="149624680"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:28:12" handicap="" />
+						<participant name="Sara Savarise to Deuce" id="149624681"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:34:11" handicap="" />
+						<participant name="Angelica Moratelli to Love" id="149624682"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:34:11" handicap="" />
+						<participant name="Angelica Moratelli to 30" id="149624684"
+							odds="18/5" oddsDecimal="4.60" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:28:12" handicap="" />
+						<participant name="Angelica Moratelli to 15" id="149624686"
+							odds="3/1" oddsDecimal="4.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:26:37" handicap="" />
+						<participant name="Angelica Moratelli to Deuce" id="149624687"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:26:37" handicap="" />
+					</market>
+					<market id="35201834"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 3 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:36">
+						<participant name="Under 6" id="149624690" odds="19/20"
+							oddsDecimal="1.95" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:37"
+							handicap="" />
+						<participant name="Exactly 6" id="149624691" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:37"
+							handicap="" />
+						<participant name="Over 6" id="149624692" odds="23/10"
+							oddsDecimal="3.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:28:12"
+							handicap="" />
+					</market>
+					<market id="35201835"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 3 - Total Pts (5)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:36">
+						<participant name="Four" id="149624693" odds="4/1"
+							oddsDecimal="5.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:34:11"
+							handicap="" />
+						<participant name="Five" id="149624694" odds="21/10"
+							oddsDecimal="3.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:35"
+							handicap="" />
+						<participant name="Six or Eight" id="149624695" odds="23/20"
+							oddsDecimal="2.15" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:35"
+							handicap="" />
+						<participant name="Ten" id="149624696" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:36"
+							handicap="" />
+						<participant name="Twelve +" id="149624697" odds="11/1"
+							oddsDecimal="12.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:36"
+							handicap="" />
+					</market>
+					<market id="35201836"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 3 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:26:36">
+						<participant name="Sara Savarise" id="149624698" odds="15/2"
+							oddsDecimal="8.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:34:11"
+							handicap="" />
+						<participant name="Angelica Moratelli" id="149624699"
+							odds="15/4" oddsDecimal="4.75" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:26:35" handicap="" />
+						<participant name="Neither player" id="149624700"
+							odds="1/4" oddsDecimal="1.25" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:28:12" handicap="" />
+					</market>
+					<market id="35201837"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Games 3 And 4 - Number Of Deuce Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="None" id="149624701" odds="8/11"
+							oddsDecimal="1.73" lastUpdateDate="2012-05-14" lastUpdateTime="17:34:11"
+							handicap="" />
+						<participant name="One" id="149624702" odds="5/4"
+							oddsDecimal="2.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:50"
+							handicap="" />
+						<participant name="Two" id="149624703" odds="17/2"
+							oddsDecimal="9.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:34:11"
+							handicap="" />
+					</market>
+					<market id="35201838"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Games 3 And 4 - To Win Both Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Sara Savarise" id="149624704" odds="9/2"
+							oddsDecimal="5.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:50"
+							handicap="" />
+						<participant name="Angelica Moratelli" id="149624705"
+							odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:50" handicap="" />
+						<participant name="Neither player" id="149624706"
+							odds="3/4" oddsDecimal="1.75" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:50" handicap="" />
+					</market>
+					<market id="35201839"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Games 3 And 4 - Total Points"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under Eleven" id="149624707" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Exactly Eleven" id="149624708"
+							odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Over Eleven" id="149624709" odds="13/20"
+							oddsDecimal="1.65" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+					</market>
+					<market id="35201841"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 4 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Sara Savarise to Love" id="149624712"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Sara Savarise to 30" id="149624713"
+							odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:50" handicap="" />
+						<participant name="Sara Savarise to 15" id="149624714"
+							odds="24/5" oddsDecimal="5.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:50" handicap="" />
+						<participant name="Sara Savarise to Deuce" id="149624715"
+							odds="24/5" oddsDecimal="5.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Angelica Moratelli to Love" id="149624716"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Angelica Moratelli to 30" id="149624717"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Angelica Moratelli to 15" id="149624718"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Angelica Moratelli to Deuce" id="149624719"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+					</market>
+					<market id="35201843"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 4 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under 6" id="149624722" odds="21/20"
+							oddsDecimal="2.05" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Exactly 6" id="149624723" odds="21/10"
+							oddsDecimal="3.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Over 6" id="149624724" odds="21/10"
+							oddsDecimal="3.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+					</market>
+					<market id="35201844"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 4 - Total Pts (5)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Four" id="149624725" odds="9/2"
+							oddsDecimal="5.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Five" id="149624726" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Six or Eight" id="149624727" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Ten" id="149624728" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Twelve +" id="149624729" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+					</market>
+					<market id="35201845"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Game 4 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Sara Savarise" id="149624730" odds="9/2"
+							oddsDecimal="5.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:31:49"
+							handicap="" />
+						<participant name="Angelica Moratelli" id="149624731"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+						<participant name="Neither player" id="149624732"
+							odds="2/7" oddsDecimal="1.29" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:31:49" handicap="" />
+					</market>
+					<market id="35202011"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Under/Over 7.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under 7.5" id="149625050" odds="11/4"
+							oddsDecimal="3.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 7.5" id="149625051" odds="1/4"
+							oddsDecimal="1.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35202012"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Under/Over 8.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under 8.5" id="149625052" odds="6/5"
+							oddsDecimal="2.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 8.5" id="149625053" odds="8/13"
+							oddsDecimal="1.62" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35202013"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Under/Over 9.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under 9.5" id="149625054" odds="2/5"
+							oddsDecimal="1.40" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 9.5" id="149625055" odds="7/4"
+							oddsDecimal="2.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+					<market id="35202014"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Under/Over 10.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52">
+						<participant name="Under 10.5" id="149625056" odds="1/7"
+							oddsDecimal="1.14" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+						<participant name="Over 10.5" id="149625057" odds="4/1"
+							oddsDecimal="5.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:52"
+							handicap="" />
+					</market>
+				</type>
+				<type id="9046" name="ITF Tour - Mexico F7"
+					url="http://sports.williamhill.com/bet/betting/t/9046"
+					lastUpdateDate="2012-05-14" lastUpdateTime="16:09:00">
+					<market id="35223442"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Total Games Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under 8.5" id="149695182" odds="23/10"
+							oddsDecimal="3.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:17"
+							handicap="" />
+						<participant name="Between 8.5 - 10.5" id="149695183"
+							odds="17/20" oddsDecimal="1.85" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:39:17" handicap="" />
+						<participant name="Over 10.5" id="149695184" odds="5/2"
+							oddsDecimal="3.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:17"
+							handicap="" />
+					</market>
+					<market id="35223443"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Total Games Odd/Even"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Odd" id="149695185" odds="4/6"
+							oddsDecimal="1.67" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+						<participant name="Even" id="149695186" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+					</market>
+					<market id="35223447"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set Tie Break?"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Yes" id="149695206" odds="11/2"
+							oddsDecimal="6.50" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+						<participant name="No" id="149695207" odds="1/10"
+							oddsDecimal="1.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+					</market>
+					<market id="35223607"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 6 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:14">
+						<participant name="Keith-Patrick Crowley to Love" id="149694875"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Keith-Patrick Crowley to 30" id="149694876"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Keith-Patrick Crowley to 15" id="149694877"
+							odds="17/5" oddsDecimal="4.40" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Keith-Patrick Crowley to Deuce" id="149694878"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Nikita Kryvonos to Love" id="149694879"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:43" handicap="" />
+						<participant name="Nikita Kryvonos to 30" id="149694880"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:43" handicap="" />
+						<participant name="Nikita Kryvonos to 15" id="149694881"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Nikita Kryvonos to Deuce" id="149694882"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+					</market>
+					<market id="35223609"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 6 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under 6" id="149694885" odds="1/1"
+							oddsDecimal="2.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:42"
+							handicap="" />
+						<participant name="Exactly 6" id="149694886" odds="21/10"
+							oddsDecimal="3.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:42"
+							handicap="" />
+						<participant name="Over 6" id="149694887" odds="9/4"
+							oddsDecimal="3.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:42"
+							handicap="" />
+					</market>
+					<market id="35223610"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 6 - Total Pts (5)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Four" id="149694888" odds="4/1"
+							oddsDecimal="5.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:41"
+							handicap="" />
+						<participant name="Five" id="149694889" odds="21/10"
+							oddsDecimal="3.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:41"
+							handicap="" />
+						<participant name="Six or Eight" id="149694890" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:20"
+							handicap="" />
+						<participant name="Ten" id="149694891" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:41"
+							handicap="" />
+						<participant name="Twelve +" id="149694892" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:33:41"
+							handicap="" />
+					</market>
+					<market id="35223611"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 6 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Keith-Patrick Crowley" id="149694893"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Nikita Kryvonos" id="149694894"
+							odds="13/2" oddsDecimal="7.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Neither player" id="149694895"
+							odds="1/4" oddsDecimal="1.25" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:33:41" handicap="" />
+					</market>
+					<market id="35223612"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Games 6 And 7 - Number Of Deuce Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="None" id="149694896" odds="7/10"
+							oddsDecimal="1.70" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:20"
+							handicap="" />
+						<participant name="One" id="149694897" odds="13/10"
+							oddsDecimal="2.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Two" id="149694898" odds="9/1"
+							oddsDecimal="10.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+					</market>
+					<market id="35223613"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Games 6 And 7 - To Win Both Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Keith-Patrick Crowley" id="149694899"
+							odds="16/5" oddsDecimal="4.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Nikita Kryvonos" id="149694900"
+							odds="27/10" oddsDecimal="3.70" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+						<participant name="Neither player" id="149694901"
+							odds="8/13" oddsDecimal="1.62" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:20" handicap="" />
+					</market>
+					<market id="35223614"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Games 6 And 7 - Total Points"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under Eleven" id="149694902" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:14"
+							handicap="" />
+						<participant name="Exactly Eleven" id="149694903"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:14" handicap="" />
+						<participant name="Over Eleven" id="149694904" odds="4/6"
+							oddsDecimal="1.67" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+					</market>
+					<market id="35223616"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 7 - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Keith-Patrick Crowley to Love" id="149694907"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Keith-Patrick Crowley to 30" id="149694908"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Keith-Patrick Crowley to 15" id="149694909"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Keith-Patrick Crowley to Deuce" id="149694910"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Nikita Kryvonos to Love" id="149694911"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Nikita Kryvonos to 30" id="149694912"
+							odds="18/5" oddsDecimal="4.60" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Nikita Kryvonos to 15" id="149694913"
+							odds="16/5" oddsDecimal="4.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Nikita Kryvonos to Deuce" id="149694914"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+					</market>
+					<market id="35223618"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 7 - Total Pts (3)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under 6" id="149694917" odds="19/20"
+							oddsDecimal="1.95" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Exactly 6" id="149694918" odds="11/5"
+							oddsDecimal="3.20" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Over 6" id="149694919" odds="23/10"
+							oddsDecimal="3.30" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+					</market>
+					<market id="35223619"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 7 - Total Pts (5)"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Four" id="149694920" odds="4/1"
+							oddsDecimal="5.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Five" id="149694921" odds="21/10"
+							oddsDecimal="3.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Six or Eight" id="149694922" odds="23/20"
+							oddsDecimal="2.15" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Ten" id="149694923" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+						<participant name="Twelve +" id="149694924" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15"
+							handicap="" />
+					</market>
+					<market id="35223620"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Game 7 - Win To Deuce"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Keith-Patrick Crowley" id="149694925"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:14" handicap="" />
+						<participant name="Nikita Kryvonos" id="149694926"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:15" handicap="" />
+						<participant name="Neither player" id="149694927"
+							odds="1/4" oddsDecimal="1.25" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:38:14" handicap="" />
+					</market>
+					<market id="35223762"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Under/Over 8.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under 8.5" id="149695153" odds="11/4"
+							oddsDecimal="3.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:17"
+							handicap="" />
+						<participant name="Over 8.5" id="149695154" odds="1/4"
+							oddsDecimal="1.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+					</market>
+					<market id="35223763"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Under/Over 9.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under 9.5" id="149695155" odds="4/6"
+							oddsDecimal="1.67" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+						<participant name="Over 9.5" id="149695156" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:18"
+							handicap="" />
+					</market>
+					<market id="35223764"
+						name="Keith-Patrick Crowley v Nikita Kryvonos - 2nd Set - Under/Over 10.5 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985490/Keith%2dPatrick%2dCrowley%2dv%2dNikita%2dKryvonos"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:38:15">
+						<participant name="Under 10.5" id="149695157" odds="1/4"
+							oddsDecimal="1.25" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:17"
+							handicap="" />
+						<participant name="Over 10.5" id="149695158" odds="11/4"
+							oddsDecimal="3.75" lastUpdateDate="2012-05-14" lastUpdateTime="17:39:17"
+							handicap="" />
+					</market>
+				</type>
+				<type id="9049" name="ITF Tour - Casablanca"
+					url="http://sports.williamhill.com/bet/betting/t/9049"
+					lastUpdateDate="2012-05-14" lastUpdateTime="16:16:25">
+					<market id="35224607"
+						name="Eva Fernandez-Brugues v Fatima El Allami - 2nd Set - Tie Break - Total Pts"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985494/Eva%2dFernandez%2dBrugues%2dv%2dFatima%2dEl%2dAllami"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:26">
+						<participant name="Under 10.5" id="149699540" odds="8/5"
+							oddsDecimal="2.60" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:51"
+							handicap="" />
+						<participant name="10.5 - 12.5" id="149699541" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:24:22"
+							handicap="" />
+						<participant name="Over 12.5" id="149699542" odds="29/10"
+							oddsDecimal="3.90" lastUpdateDate="2012-05-14" lastUpdateTime="17:24:29"
+							handicap="" />
+					</market>
+					<market id="35224608"
+						name="Eva Fernandez-Brugues v Fatima El Allami - 2nd Set - Tie Break - Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985494/Eva%2dFernandez%2dBrugues%2dv%2dFatima%2dEl%2dAllami"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:26">
+						<participant name="Eva Fernandez-Brugues 7-0" id="149699543"
+							odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:24:29" handicap="" />
+						<participant name="Eva Fernandez-Brugues 7-1" id="149699544"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Eva Fernandez-Brugues 7-2" id="149699545"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Eva Fernandez-Brugues 7-3" id="149699546"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Eva Fernandez-Brugues 7-4" id="149699547"
+							odds="13/2" oddsDecimal="7.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Eva Fernandez-Brugues 7-5" id="149699548"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:24:29" handicap="" />
+						<participant name="Eva Fernandez-Brugues Any Other"
+							id="149699549" odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:24:23" handicap="" />
+						<participant name="Fatima El Allami 7-0" id="149699550"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Fatima El Allami 7-1" id="149699551"
+							odds="28/1" oddsDecimal="29.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:24:38" handicap="" />
+						<participant name="Fatima El Allami 7-2" id="149699552"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Fatima El Allami 7-3" id="149699553"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Fatima El Allami 7-4" id="149699554"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Fatima El Allami 7-5" id="149699555"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:24:38" handicap="" />
+						<participant name="Fatima El Allami Any Other" id="149699556"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+					</market>
+					<market id="35224610"
+						name="Eva Fernandez-Brugues v Fatima El Allami - 2nd Set - Tie Break Score After 6 Pts"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2985494/Eva%2dFernandez%2dBrugues%2dv%2dFatima%2dEl%2dAllami"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:26">
+						<participant name="Eva Fernandez-Brugues 6-0" id="149699559"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Eva Fernandez-Brugues 5-1" id="149699560"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:24:29" handicap="" />
+						<participant name="Eva Fernandez-Brugues 4-2" id="149699561"
+							odds="12/5" oddsDecimal="3.40" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Tie 3-3" id="149699562" odds="9/5"
+							oddsDecimal="2.80" lastUpdateDate="2012-05-14" lastUpdateTime="17:24:22"
+							handicap="" />
+						<participant name="Fatima El Allami 6-0" id="149699563"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Fatima El Allami 5-1" id="149699564"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+						<participant name="Fatima El Allami 4-2" id="149699565"
+							odds="3/1" oddsDecimal="4.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:51" handicap="" />
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+				WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place,
+				Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;)
+				relating to information contained on its main trading website. By
+				using the Website You agree to these full Terms of Use available at
+				http://developer.williamhill.com
+</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--OXi dbPublish-->
+<oxip version="7.1" created="2012-05-16 11:52:31" lastMsgId="3113714262" requestTime="0.2066">
+  <response request="getHierarchyByMarketType" code="114" message="Request found no matching data" debug="" provider="williamhill"/>
+</oxip>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish -->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved. -->
+<oxip version="7.1" created="2012-05-14 17:39:10" lastMsgId="3106426517"
+	requestTime="0.0442">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="424" name="Challenger Tennis" maxRepDate="2012-05-14"
+				maxRepTime="17:37:12">
+				<type id="9031" name="ATP Challenger Tour Bordeaux"
+					url="http://sports.williamhill.com/bet/betting/t/9031"
+					lastUpdateDate="2012-05-14" lastUpdateTime="15:37:45">
+					<market id="35188051"
+						name="A Shamasdin/L Zovko v O Charroin/J Marray - 1st Set - Correct Score Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984818/A%2dShamasdin%2fL%2dZovko%2dv%2dO%2dCharroin%2fJ%2dMarray"
+						date="2012-05-14" time="14:30:00" betTillDate="2012-05-14"
+						betTillTime="14:30:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:23:53">
+						<participant name="A Shamasdin/L Zovko 6-4" id="149576679"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+						<participant name="A Shamasdin/L Zovko 7-5" id="149576680"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:58" handicap="" />
+						<participant name="A Shamasdin/L Zovko 7-6" id="149576681"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+						<participant name="O Charroin/J Marray 6-1" id="149576683"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+						<participant name="O Charroin/J Marray 6-2" id="149576684"
+							odds="10/3" oddsDecimal="4.33" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+						<participant name="O Charroin/J Marray 6-3" id="149576685"
+							odds="13/10" oddsDecimal="2.30" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+						<participant name="O Charroin/J Marray 6-4" id="149576686"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+						<participant name="O Charroin/J Marray 7-5" id="149576687"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:58" handicap="" />
+						<participant name="O Charroin/J Marray 7-6" id="149576688"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:46" handicap="" />
+					</market>
+					<market id="35186085"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Score After 4 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Rui Machado 4-0" id="149573819"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Rui Machado 3-1" id="149573820"
+							odds="23/10" oddsDecimal="3.30" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="2-2" id="149573821" odds="4/6"
+							oddsDecimal="1.67" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29"
+							handicap="" />
+						<participant name="Paul-Henri Mathieu 3-1" id="149573823"
+							odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+					</market>
+					<market id="35186086"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Score After 6 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Rui Machado 6-0" id="149573824"
+							odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Rui Machado 5-1" id="149573825"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Rui Machado 4-2" id="149573826"
+							odds="23/10" oddsDecimal="3.30" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="3-3" id="149573827" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:29"
+							handicap="" />
+						<participant name="Paul-Henri Mathieu 5-1" id="149573829"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Paul-Henri Mathieu 4-2" id="149573830"
+							odds="16/5" oddsDecimal="4.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+					</market>
+					<market id="35186404"
+						name="Rui Machado v Paul-Henri Mathieu - 2nd Set - Correct Score Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984811/Rui%2dMachado%2dv%2dPaul%2dHenri%2dMathieu"
+						date="2012-05-14" time="16:00:00" betTillDate="2012-05-14"
+						betTillTime="16:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:35:09">
+						<participant name="Rui Machado 6-0" id="149573786"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:30" handicap="" />
+						<participant name="Rui Machado 6-1" id="149573787"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Rui Machado 6-2" id="149573788"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:30" handicap="" />
+						<participant name="Rui Machado 6-3" id="149573789"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:30" handicap="" />
+						<participant name="Rui Machado 6-4" id="149573790"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:17" handicap="" />
+						<participant name="Rui Machado 7-5" id="149573791"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:30" handicap="" />
+						<participant name="Rui Machado 7-6" id="149573792"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:17" handicap="" />
+						<participant name="Paul-Henri Mathieu 6-1" id="149573794"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:17" handicap="" />
+						<participant name="Paul-Henri Mathieu 6-2" id="149573795"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Paul-Henri Mathieu 6-3" id="149573796"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:17" handicap="" />
+						<participant name="Paul-Henri Mathieu 6-4" id="149573797"
+							odds="19/5" oddsDecimal="4.80" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:29" handicap="" />
+						<participant name="Paul-Henri Mathieu 7-5" id="149573798"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:17" handicap="" />
+						<participant name="Paul-Henri Mathieu 7-6" id="149573799"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:30" handicap="" />
+					</market>
+				</type>
+				<type id="9043" name="ITF Tour - Caserta"
+					url="http://sports.williamhill.com/bet/betting/t/9043"
+					lastUpdateDate="2012-05-14" lastUpdateTime="15:38:02">
+					<market id="35201691"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Score After 4 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:26">
+						<participant name="Sara Savarise 3-1" id="149625070"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="2-2" id="149625071" odds="11/10"
+							oddsDecimal="2.10" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:12"
+							handicap="" />
+						<participant name="Angelica Moratelli 4-0" id="149625072"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 3-1" id="149625073"
+							odds="11/8" oddsDecimal="2.38" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+					</market>
+					<market id="35201692"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Score After 6 Games"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:26">
+						<participant name="Sara Savarise 5-1" id="149625075"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Sara Savarise 4-2" id="149625076"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="3-3" id="149625077" odds="9/5"
+							oddsDecimal="2.80" lastUpdateDate="2012-05-14" lastUpdateTime="17:37:12"
+							handicap="" />
+						<participant name="Angelica Moratelli 6-0" id="149625078"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 5-1" id="149625079"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 4-2" id="149625080"
+							odds="6/4" oddsDecimal="2.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:36:26" handicap="" />
+					</market>
+					<market id="35202010"
+						name="Sara Savarise v Angelica Moratelli - 2nd Set - Correct Score Live"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984939/Sara%2dSavarise%2dv%2dAngelica%2dMoratelli"
+						date="2012-05-14" time="13:00:00" betTillDate="2012-05-14"
+						betTillTime="13:00:00" lastUpdateDate="2012-05-14" lastUpdateTime="17:36:26">
+						<participant name="Sara Savarise 6-1" id="149625037"
+							odds="28/1" oddsDecimal="29.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Sara Savarise 6-2" id="149625038"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Sara Savarise 6-3" id="149625039"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Sara Savarise 6-4" id="149625040"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Sara Savarise 7-5" id="149625041"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Sara Savarise 7-6" id="149625042"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 6-0" id="149625043"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 6-1" id="149625044"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 6-2" id="149625045"
+							odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 6-3" id="149625046"
+							odds="16/5" oddsDecimal="4.20" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 6-4" id="149625047"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 7-5" id="149625048"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+						<participant name="Angelica Moratelli 7-6" id="149625049"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-14"
+							lastUpdateTime="17:37:12" handicap="" />
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+				WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place,
+				Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;)
+				relating to information contained on its main trading website. By
+				using the Website You agree to these full Terms of Use available at
+				http://developer.williamhill.com
+</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

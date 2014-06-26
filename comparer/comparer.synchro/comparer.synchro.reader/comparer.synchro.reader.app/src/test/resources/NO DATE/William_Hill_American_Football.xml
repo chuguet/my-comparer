@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish -->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved. -->
+<oxip version="7.1" created="2012-05-14 17:24:17" lastMsgId="3106323830"
+	requestTime="0.0920">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="19" name="American Football" maxRepDate="2012-03-19"
+				maxRepTime="04:25:00">
+				<type id="195" name="NFL"
+					url="http://sports.williamhill.com/bet/betting/t/195"
+					lastUpdateDate="2012-05-10" lastUpdateTime="17:33:43">
+					<market id="28729684"
+						name="Super Bowl XLVII - Outright - Super Bowl Outright"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2715584/Super%2dBowl%2dXLVII%2d%2d%2dOutright"
+						date="2012-09-06" time="01:30:00" betTillDate="2012-09-06"
+						betTillTime="01:30:00" lastUpdateDate="2012-02-06" lastUpdateTime="03:57:11"
+						ewPlaces="2" ewReduction="1/2">
+						<participant name="Green Bay Packers" id="124907791"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-03-16"
+							lastUpdateTime="15:13:21" handicap="" />
+						<participant name="New England Patriots" id="124907792"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="14:04:20" handicap="" />
+						<participant name="New Orleans Saints" id="124907793"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:37:38" handicap="" />
+						<participant name="Philadelphia Eagles" id="124907794"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-03-22"
+							lastUpdateTime="03:20:26" handicap="" />
+						<participant name="New York Giants" id="124907795"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:11" handicap="" />
+						<participant name="Pittsburgh Steelers" id="124907796"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:54:56" handicap="" />
+						<participant name="Baltimore Ravens" id="124907797"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:54:56" handicap="" />
+						<participant name="Houston Texans" id="124907798"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:37:38" handicap="" />
+						<participant name="Detroit Lions" id="124907799" odds="25/1"
+							oddsDecimal="26.00" lastUpdateDate="2012-03-14" lastUpdateTime="09:57:21"
+							handicap="" />
+						<participant name="San Diego Chargers" id="124907800"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:11" handicap="" />
+						<participant name="San Francisco 49ers" id="124907801"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-03-22"
+							lastUpdateTime="03:20:26" handicap="" />
+						<participant name="Dallas Cowboys" id="124907802"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:11" handicap="" />
+						<participant name="Atlanta Falcons" id="124907803"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-03-22"
+							lastUpdateTime="03:20:26" handicap="" />
+						<participant name="New York Jets" id="124907804" odds="33/1"
+							oddsDecimal="34.00" lastUpdateDate="2012-02-06" lastUpdateTime="03:57:11"
+							handicap="" />
+						<participant name="Chicago Bears" id="124907805" odds="33/1"
+							oddsDecimal="34.00" lastUpdateDate="2012-02-06" lastUpdateTime="03:57:11"
+							handicap="" />
+						<participant name="Indianapolis Colts" id="124907806"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:37:38" handicap="" />
+						<participant name="Arizona Cardinals" id="124907807"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:37:38" handicap="" />
+						<participant name="Carolina Panthers" id="124907808"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-03-22"
+							lastUpdateTime="03:20:26" handicap="" />
+						<participant name="Cincinnati Bengals" id="124907809"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:11" handicap="" />
+						<participant name="Denver Broncos" id="124907810"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="16:10:48" handicap="" />
+						<participant name="Kansas City Chiefs" id="124907811"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:11" handicap="" />
+						<participant name="Miami Dolphins" id="124907812"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:37:38" handicap="" />
+						<participant name="Oakland Raiders" id="124907813"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:11" handicap="" />
+						<participant name="Tennessee Titans" id="124907814"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-03-16"
+							lastUpdateTime="15:13:21" handicap="" />
+						<participant name="Buffalo Bills" id="124907815" odds="100/1"
+							oddsDecimal="101.00" lastUpdateDate="2012-02-06" lastUpdateTime="03:57:12"
+							handicap="" />
+						<participant name="Seattle Seahawks" id="124907816"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:12" handicap="" />
+						<participant name="Cleveland Browns" id="124907817"
+							odds="200/1" oddsDecimal="201.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:54:56" handicap="" />
+						<participant name="Minnesota Vikings" id="124907818"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:12" handicap="" />
+						<participant name="St Louis Rams" id="124907819" odds="100/1"
+							oddsDecimal="101.00" lastUpdateDate="2012-02-06" lastUpdateTime="03:57:12"
+							handicap="" />
+						<participant name="Tampa Bay Buccaneers" id="124907820"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-02-06"
+							lastUpdateTime="03:57:12" handicap="" />
+						<participant name="Washington Redskins" id="124907821"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:54:56" handicap="" />
+						<participant name="Jacksonville Jaguars" id="124907822"
+							odds="200/1" oddsDecimal="201.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:54:56" handicap="" />
+					</market>
+					<market id="29375337" name="NFC - Conference Winner - Conference Winner"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2741483/NFC%2d%2d%2dConference%2dWinner"
+						date="2012-09-06" time="01:30:00" betTillDate="2012-09-06"
+						betTillTime="01:30:00" lastUpdateDate="2012-02-16" lastUpdateTime="19:24:32"
+						ewPlaces="2" ewReduction="1/2">
+						<participant name="Green Bay Packers" id="127442575"
+							odds="3/1" oddsDecimal="4.00" lastUpdateDate="2012-03-28"
+							lastUpdateTime="04:27:32" handicap="" />
+						<participant name="New Orleans Saints" id="127442576"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-03-22"
+							lastUpdateTime="03:24:02" handicap="" />
+						<participant name="Philadelphia Eagles" id="127442577"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-02-16"
+							lastUpdateTime="19:24:47" handicap="" />
+						<participant name="San Francisco 49ers" id="127442578"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-03-18"
+							lastUpdateTime="14:56:53" handicap="" />
+						<participant name="New York Giants" id="127442579"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-03-22"
+							lastUpdateTime="03:24:02" handicap="" />
+						<participant name="Dallas Cowboys" id="127442580"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-02-16"
+							lastUpdateTime="19:24:47" handicap="" />
+						<participant name="Detroit Lions" id="127442581" odds="12/1"
+							oddsDecimal="13.00" lastUpdateDate="2012-05-13" lastUpdateTime="02:39:42"
+							handicap="" />
+						<participant name="Atlanta Falcons" id="127442582"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-03-28"
+							lastUpdateTime="04:29:07" handicap="" />
+						<participant name="Chicago Bears" id="127442583" odds="20/1"
+							oddsDecimal="21.00" lastUpdateDate="2012-02-16" lastUpdateTime="19:24:48"
+							handicap="" />
+						<participant name="Carolina Panthers" id="127442584"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-03-28"
+							lastUpdateTime="04:27:32" handicap="" />
+						<participant name="Arizona Cardinals" id="127442585"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:39:42" handicap="" />
+						<participant name="Seattle Seahawks" id="127442586"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-02-16"
+							lastUpdateTime="19:24:48" handicap="" />
+						<participant name="Minnesota Vikings" id="127442587"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="17:00:14" handicap="" />
+						<participant name="St Louis Rams" id="127442588" odds="50/1"
+							oddsDecimal="51.00" lastUpdateDate="2012-02-16" lastUpdateTime="19:24:48"
+							handicap="" />
+						<participant name="Tampa Bay Bucaneers" id="127442589"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="17:00:14" handicap="" />
+						<participant name="Washington Redskins" id="127442590"
+							odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:39:42" handicap="" />
+					</market>
+					<market id="29375347" name="AFC - Conference Winner - Conference Winner"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2741482/AFC%2d%2d%2dConference%2dWinner"
+						date="2012-09-09" time="18:00:00" betTillDate="2012-09-09"
+						betTillTime="18:00:00" lastUpdateDate="2012-02-16" lastUpdateTime="19:24:38"
+						ewPlaces="2" ewReduction="1/2">
+						<participant name="New England Patriots" id="127442559"
+							odds="10/3" oddsDecimal="4.33" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:41:27" handicap="" />
+						<participant name="Houston Texans" id="127442560"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:41:27" handicap="" />
+						<participant name="Baltimore Ravens" id="127442561"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:41:27" handicap="" />
+						<participant name="Pittsburgh Steelers" id="127442562"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:41:27" handicap="" />
+						<participant name="San Diego Chargers" id="127442563"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="23:31:58" handicap="" />
+						<participant name="New York Jets" id="127442564" odds="14/1"
+							oddsDecimal="15.00" lastUpdateDate="2012-05-13" lastUpdateTime="02:41:27"
+							handicap="" />
+						<participant name="Cincinnati Bengals" id="127442565"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-02-16"
+							lastUpdateTime="19:24:42" handicap="" />
+						<participant name="Kansas City Chiefs" id="127442566"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-02-16"
+							lastUpdateTime="19:24:42" handicap="" />
+						<participant name="Miami Dolphins" id="127442567"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:41:27" handicap="" />
+						<participant name="Oakland Raiders" id="127442568"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:58:14" handicap="" />
+						<participant name="Tennessee Titans" id="127442569"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="23:32:27" handicap="" />
+						<participant name="Denver Broncos" id="127442570"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="16:18:13" handicap="" />
+						<participant name="Indianapolis Colts" id="127442571"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-05-13"
+							lastUpdateTime="02:41:27" handicap="" />
+						<participant name="Buffalo Bills" id="127442572" odds="50/1"
+							oddsDecimal="51.00" lastUpdateDate="2012-05-12" lastUpdateTime="22:20:21"
+							handicap="" />
+						<participant name="Cleveland Browns" id="127442573"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:58:14" handicap="" />
+						<participant name="Jacksonville Jaguars" id="127442574"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-03-12"
+							lastUpdateTime="16:58:14" handicap="" />
+					</market>
+				</type>
+				<type id="265" name="NCAA"
+					url="http://sports.williamhill.com/bet/betting/t/265"
+					lastUpdateDate="2012-02-01" lastUpdateTime="06:55:42">
+					<market id="27170428"
+						name="BCS Championship 2013 - Outright - BCS Championship Outright"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2648719/BCS%2dChampionship%2d2013%2d%2d%2dOutright"
+						date="2012-09-01" time="18:00:00" betTillDate="2012-09-01"
+						betTillTime="18:00:00" lastUpdateDate="2012-02-01" lastUpdateTime="06:55:46"
+						ewPlaces="2" ewReduction="1/2">
+						<participant name="Alabama Crimson Tide" id="118965253"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:37" handicap="" />
+						<participant name="Arkansas Razorbacks" id="118965254"
+							odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:37" handicap="" />
+						<participant name="Auburn Tigers" id="118965255" odds="50/1"
+							oddsDecimal="51.00" lastUpdateDate="2012-02-01" lastUpdateTime="07:00:11"
+							handicap="" />
+						<participant name="Arizona Wildcats" id="118965256"
+							odds="200/1" oddsDecimal="201.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Boise State Broncos" id="118965257"
+							odds="80/1" oddsDecimal="81.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Boston College Eagles" id="118965258"
+							odds="250/1" oddsDecimal="251.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="BYU Cougars" id="118965259" odds="200/1"
+							oddsDecimal="201.00" lastUpdateDate="2012-05-08" lastUpdateTime="13:28:38"
+							handicap="" />
+						<participant name="California Golden Bears" id="118965260"
+							odds="150/1" oddsDecimal="151.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Cincinnati Bearcats" id="118965261"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Clemson Tigers" id="118965262"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Florida Gators" id="118965263"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Florida State Seminoles" id="118965264"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:37" handicap="" />
+						<participant name="Georgia Bulldogs" id="118965265"
+							odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:37" handicap="" />
+						<participant name="Georgia Tech Yellow Jackets" id="118965266"
+							odds="250/1" oddsDecimal="251.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Iowa Hawkeyes" id="118965267" odds="125/1"
+							oddsDecimal="126.00" lastUpdateDate="2012-05-08" lastUpdateTime="13:28:38"
+							handicap="" />
+						<participant name="Kansas State Wildcats" id="118965268"
+							odds="80/1" oddsDecimal="81.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="LSU Tigers" id="118965269" odds="9/2"
+							oddsDecimal="5.50" lastUpdateDate="2012-02-01" lastUpdateTime="07:00:11"
+							handicap="" />
+						<participant name="Miami (FL) Hurricanes" id="118965270"
+							odds="150/1" oddsDecimal="151.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Michigan Wolverines" id="118965271"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Michigan State Spartans" id="118965272"
+							odds="80/1" oddsDecimal="81.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Missouri Tigers" id="118965273"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Mississippi State Bulldogs" id="118965274"
+							odds="100/1" oddsDecimal="101.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Nebraska Cornhuskers" id="118965275"
+							odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Notre Dame Fighting Irish" id="118965277"
+							odds="28/1" oddsDecimal="29.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:37" handicap="" />
+						<participant name="Oklahoma Sooners" id="118965278"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Oklahoma State Cowboys" id="118965279"
+							odds="80/1" oddsDecimal="81.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Oregon Ducks" id="118965280" odds="12/1"
+							oddsDecimal="13.00" lastUpdateDate="2012-05-08" lastUpdateTime="13:28:37"
+							handicap="" />
+						<participant name="Oregon State Beavers" id="118965281"
+							odds="500/1" oddsDecimal="501.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Penn State Nittany Lions" id="118965282"
+							odds="200/1" oddsDecimal="201.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Pittsburgh Panthers" id="118965283"
+							odds="250/1" oddsDecimal="251.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="South Carolina Gamecocks" id="118965284"
+							odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="South Florida Bulls" id="118965285"
+							odds="250/1" oddsDecimal="251.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Stanford Cardinal" id="118965286"
+							odds="125/1" oddsDecimal="126.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="TCU Horned Frogs" id="118965287"
+							odds="66/1" oddsDecimal="67.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Tennessee Volunteers" id="118965288"
+							odds="125/1" oddsDecimal="126.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Texas Longhorns" id="118965289"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="Texas A&amp;amp;M Aggies" id="118965290"
+							odds="200/1" oddsDecimal="201.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="UCLA Bruins" id="118965291" odds="300/1"
+							oddsDecimal="301.00" lastUpdateDate="2012-05-08" lastUpdateTime="13:28:38"
+							handicap="" />
+						<participant name="USC Trojans" id="118965292" odds="7/2"
+							oddsDecimal="4.50" lastUpdateDate="2012-05-08" lastUpdateTime="13:28:37"
+							handicap="" />
+						<participant name="Virginia Tech Hokies" id="118965293"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Washington Huskies" id="118965294"
+							odds="150/1" oddsDecimal="151.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+						<participant name="West Virginia Mountaineers" id="118965295"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-02-01"
+							lastUpdateTime="07:00:11" handicap="" />
+						<participant name="Wisconsin Badgers" id="118965296"
+							odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-05-08"
+							lastUpdateTime="13:28:38" handicap="" />
+					</market>
+				</type>
+				<type id="5041" name="CFL"
+					url="http://sports.williamhill.com/bet/betting/t/5041"
+					lastUpdateDate="2012-02-01" lastUpdateTime="11:15:34">
+					<market id="31457835" name="Grey Cup - Outright - Grey Cup Outright"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2823126/Grey%2dCup%2d%2d%2dOutright"
+						date="2012-06-14" time="00:00:00" betTillDate="2012-06-14"
+						betTillTime="00:00:00" lastUpdateDate="2012-03-19" lastUpdateTime="04:24:59">
+						<participant name="BC Lions" id="135357973" odds="9/2"
+							oddsDecimal="5.50" lastUpdateDate="2012-03-19" lastUpdateTime="04:24:59"
+							handicap="" />
+						<participant name="Calgary Stampeders" id="135357974"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:24:59" handicap="" />
+						<participant name="Edmonton Eskimos" id="135357975"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:25:00" handicap="" />
+						<participant name="Hamilton Tiger-Cats" id="135357976"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:25:00" handicap="" />
+						<participant name="Montreal Alouettes" id="135357977"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:25:00" handicap="" />
+						<participant name="Saskatchewan Roughriders" id="135357978"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:25:00" handicap="" />
+						<participant name="Toronto Argonauts" id="135357979"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:25:00" handicap="" />
+						<participant name="Winnipeg Blue Bombers" id="135357980"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-03-19"
+							lastUpdateTime="04:25:00" handicap="" />
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+				WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place,
+				Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;)
+				relating to information contained on its main trading website. By
+				using the Website You agree to these full Terms of Use available at
+				http://developer.williamhill.com
+</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish -->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved. -->
+<oxip version="7.1" created="2012-05-16 11:58:07" lastMsgId="3113754212"
+	requestTime="0.1144">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="336" name="US Basketball" maxRepDate="2012-05-16"
+				maxRepTime="05:13:51">
+				<type id="266" name="NBA"
+					url="http://sports.williamhill.com/bet/betting/t/266"
+					lastUpdateDate="2012-03-27" lastUpdateTime="10:44:53">
+					<market id="17441464"
+						name="NBA - Championship Winner 2012 - Championship Winner"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2121472/NBA%2d%2d%2dChampionship%2dWinner%2d2012"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-04-27" lastUpdateTime="01:30:40"
+						ewPlaces="2" ewReduction="1/3">
+						<participant name="Boston Celtics" id="79907914" odds="16/1"
+							oddsDecimal="17.00" lastUpdateDate="2012-05-16" lastUpdateTime="05:58:35"
+							handicap="" />
+						<participant name="Indiana Pacers" id="79907923" odds="25/1"
+							oddsDecimal="26.00" lastUpdateDate="2012-05-16" lastUpdateTime="07:20:44"
+							handicap="" />
+						<participant name="Los Angeles Clippers" id="79907924"
+							odds="80/1" oddsDecimal="81.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:58:35" handicap="" />
+						<participant name="Los Angeles Lakers" id="79907925"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="08:40:02" handicap="" />
+						<participant name="Miami Heat" id="79907927" odds="7/5"
+							oddsDecimal="2.40" lastUpdateDate="2012-05-16" lastUpdateTime="07:20:17"
+							handicap="" />
+						<participant name="Oklahoma City Thunder" id="79907933"
+							odds="5/2" oddsDecimal="3.50" lastUpdateDate="2012-05-16"
+							lastUpdateTime="07:20:17" handicap="" />
+						<participant name="Philadelphia 76ers" id="79907935"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="06:53:10" handicap="" />
+						<participant name="San Antonio Spurs" id="79907939"
+							odds="5/2" oddsDecimal="3.50" lastUpdateDate="2012-05-16"
+							lastUpdateTime="07:20:17" handicap="" />
+					</market>
+					<market id="26138607"
+						name="NBA - Eastern Conference Winner 2012 - Conference Winner"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2567052/NBA%2d%2d%2dEastern%2dConference%2dWinner%2d2012"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-04-10" lastUpdateTime="23:11:42">
+						<participant name="Miami Heat" id="114681479" odds="3/10"
+							oddsDecimal="1.30" lastUpdateDate="2012-05-16" lastUpdateTime="05:56:13"
+							handicap="" />
+						<participant name="Boston Celtics" id="114681481"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:56:13" handicap="" />
+						<participant name="Philadelphia 76ers" id="114681486"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:56:13" handicap="" />
+						<participant name="Indiana Pacers" id="114681487"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:56:47" handicap="" />
+					</market>
+					<market id="34994298"
+						name="Boston Celtics v Philadelphia 76ers - Series Correct Score - Series Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2972752/Boston%2dCeltics%2dv%2dPhiladelphia%2d76ers%2d%2d%2dSeries%2dCorrect%2dScore"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-05-15" lastUpdateTime="16:27:34">
+						<participant name="Boston Celtics 4-1" id="148839800"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:27:29" handicap="" />
+						<participant name="Boston Celtics 4-2" id="148839801"
+							odds="3/1" oddsDecimal="4.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:27:29" handicap="" />
+						<participant name="Boston Celtics 4-3" id="148839802"
+							odds="11/4" oddsDecimal="3.75" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:27:29" handicap="" />
+						<participant name="Philadelphia 76ers 4-1" id="148839804"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:27:29" handicap="" />
+						<participant name="Philadelphia 76ers 4-2" id="148839805"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:27:29" handicap="" />
+						<participant name="Philadelphia 76ers 4-3" id="148839806"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:27:29" handicap="" />
+					</market>
+					<market id="35266870"
+						name="Boston Celtics @ Philadelphia 76ers - Will There Be Overtime?"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-05-15" lastUpdateTime="22:02:33">
+						<participant name="No" id="149863451" odds="1/50"
+							oddsDecimal="1.02" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:39"
+							handicap="" />
+						<participant name="Yes" id="149863453" odds="12/1"
+							oddsDecimal="13.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:39"
+							handicap="" />
+					</market>
+					<market id="35266872"
+						name="Boston Celtics @ Philadelphia 76ers - Winning Margin"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-05-15" lastUpdateTime="22:02:33">
+						<participant name="Philadelphia 76ers 4-6 points" id="149863455"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 1-3 points" id="149863457"
+							odds="8/1" oddsDecimal="9.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 21 points or more"
+							id="149863459" odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 4-6 points" id="149863462"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 17-20 points"
+							id="149863463" odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 1-3 points" id="149863465"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 7-9 points" id="149863467"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:38" handicap="" />
+						<participant name="Philadelphia 76ers 7-9 points" id="149863469"
+							odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 10-12 points"
+							id="149863471" odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 21 points or more"
+							id="149863473" odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 10-12 points" id="149863475"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 17-20 points" id="149863477"
+							odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 13-16 points" id="149863479"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 13-16 points"
+							id="149863481" odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+					</market>
+					<market id="35266874"
+						name="Boston Celtics @ Philadelphia 76ers - Double Result"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-05-15" lastUpdateTime="22:02:33">
+						<participant name="Philadelphia 76ers/Boston Celtics"
+							id="149863483" odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Tie/Boston Celtics" id="149863485"
+							odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers/Philadelphia 76ers"
+							id="149863487" odds="13/10" oddsDecimal="2.30" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics/Philadelphia 76ers"
+							id="149863489" odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics/Boston Celtics" id="149863491"
+							odds="19/10" oddsDecimal="2.90" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Tie/Philadelphia 76ers" id="149863493"
+							odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:38" handicap="" />
+					</market>
+					<market id="35266905"
+						name="Boston Celtics @ Philadelphia 76ers - 1st Half Winning Margin"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+						date="2012-05-17" time="00:00:00" betTillDate="2012-05-17"
+						betTillTime="00:00:00" lastUpdateDate="2012-05-15" lastUpdateTime="22:02:33">
+						<participant name="Philadelphia 76ers 13-16 points"
+							id="149863561" odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="18:01:03" handicap="" />
+						<participant name="Tie" id="149863563" odds="14/1"
+							oddsDecimal="15.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:39"
+							handicap="" />
+						<participant name="Philadelphia 76ers 21 points or more"
+							id="149863565" odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="18:01:03" handicap="" />
+						<participant name="Philadelphia 76ers 7-9 points" id="149863566"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 13-16 points" id="149863568"
+							odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 10-12 points"
+							id="149863569" odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 7-9 points" id="149863572"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 21 points or more"
+							id="149863574" odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 17-20 points" id="149863576"
+							odds="28/1" oddsDecimal="29.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 1-3 points" id="149863578"
+							odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 10-12 points" id="149863580"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Boston Celtics 4-6 points" id="149863582"
+							odds="13/2" oddsDecimal="7.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 17-20 points"
+							id="149863584" odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 1-3 points" id="149863586"
+							odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+						<participant name="Philadelphia 76ers 4-6 points" id="149863588"
+							odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:39" handicap="" />
+					</market>
+					<market id="26138608"
+						name="NBA - Western Conference Winner 2012 - Conference Winner"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2567053/NBA%2d%2d%2dWestern%2dConference%2dWinner%2d2012"
+						date="2012-05-17" time="02:35:00" betTillDate="2012-05-17"
+						betTillTime="02:35:00" lastUpdateDate="2012-04-12" lastUpdateTime="06:59:08">
+						<participant name="Los Angeles Lakers" id="114681494"
+							odds="10/1" oddsDecimal="11.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:50:39" handicap="" />
+						<participant name="Oklahoma City Thunder" id="114681495"
+							odds="1/1" oddsDecimal="2.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="09:42:21" handicap="" />
+						<participant name="San Antonio Spurs" id="114681499"
+							odds="1/1" oddsDecimal="2.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:50:39" handicap="" />
+						<participant name="Los Angeles Clippers" id="114681500"
+							odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:50:59" handicap="" />
+					</market>
+					<market id="35185095"
+						name="Oklahoma City Thunder  v Los Angeles Lakers - Series Correct Score - Series Correct Score"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2984804/Oklahoma%2dCity%2dThunder%2d%2dv%2dLA%2dLakers%2d%2d%2dSeries%2dCorrect%2dScore"
+						date="2012-05-17" time="02:35:00" betTillDate="2012-05-17"
+						betTillTime="02:35:00" lastUpdateDate="2012-05-15" lastUpdateTime="16:34:27">
+						<participant name="Oklahoma City Thunder 4-0" id="149565842"
+							odds="7/2" oddsDecimal="4.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:34:16" handicap="" />
+						<participant name="Oklahoma City Thunder 4-1" id="149565843"
+							odds="9/4" oddsDecimal="3.25" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:34:16" handicap="" />
+						<participant name="Oklahoma City Thunder 4-2" id="149565844"
+							odds="7/2" oddsDecimal="4.50" lastUpdateDate="2012-05-14"
+							lastUpdateTime="05:14:09" handicap="" />
+						<participant name="Oklahoma City Thunder 4-3" id="149565845"
+							odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:34:16" handicap="" />
+						<participant name="LA Lakers 4-1" id="149565847" odds="25/1"
+							oddsDecimal="26.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:34:16"
+							handicap="" />
+						<participant name="LA Lakers 4-2" id="149565848" odds="10/1"
+							oddsDecimal="11.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:34:16"
+							handicap="" />
+						<participant name="LA Lakers 4-3" id="149565849" odds="12/1"
+							oddsDecimal="13.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:34:16"
+							handicap="" />
+					</market>
+					<market id="35266871"
+						name="Los Angeles Lakers @ Oklahoma City Thunder - Will There Be Overtime?"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+						date="2012-05-17" time="02:35:00" betTillDate="2012-05-17"
+						betTillTime="02:35:00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:41">
+						<participant name="Yes" id="149863452" odds="14/1"
+							oddsDecimal="15.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:40"
+							handicap="" />
+						<participant name="No" id="149863454" odds="1/66"
+							oddsDecimal="1.02" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:40"
+							handicap="" />
+					</market>
+					<market id="35266873"
+						name="Los Angeles Lakers @ Oklahoma City Thunder - Winning Margin"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+						date="2012-05-17" time="02:35:00" betTillDate="2012-05-17"
+						betTillTime="02:35:00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:41">
+						<participant name="Oklahoma City Thunder 17-20 points"
+							id="149863456" odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Los Angeles Lakers 7-9 points" id="149863458"
+							odds="16/1" oddsDecimal="17.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:40" handicap="" />
+						<participant name="Los Angeles Lakers 21 points or more"
+							id="149863460" odds="55/1" oddsDecimal="56.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:51" handicap="" />
+						<participant name="Oklahoma City Thunder 1-3 points"
+							id="149863461" odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:40" handicap="" />
+						<participant name="Oklahoma City Thunder 13-16 points"
+							id="149863464" odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Los Angeles Lakers 10-12 points"
+							id="149863466" odds="22/1" oddsDecimal="23.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:40" handicap="" />
+						<participant name="Oklahoma City Thunder 21 points or more"
+							id="149863468" odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Los Angeles Lakers 1-3 points" id="149863470"
+							odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Los Angeles Lakers 4-6 points" id="149863472"
+							odds="11/1" oddsDecimal="12.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:40" handicap="" />
+						<participant name="Oklahoma City Thunder 10-12 points"
+							id="149863474" odds="13/2" oddsDecimal="7.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:40" handicap="" />
+						<participant name="Oklahoma City Thunder 7-9 points"
+							id="149863476" odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder 4-6 points"
+							id="149863478" odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Los Angeles Lakers 13-16 points"
+							id="149863480" odds="28/1" oddsDecimal="29.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:40" handicap="" />
+						<participant name="Los Angeles Lakers 17-20 points"
+							id="149863482" odds="45/1" oddsDecimal="46.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:51" handicap="" />
+					</market>
+					<market id="35266875"
+						name="Los Angeles Lakers @ Oklahoma City Thunder - Double Result"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+						date="2012-05-17" time="02:35:00" betTillDate="2012-05-17"
+						betTillTime="02:35:00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:40">
+						<participant name="Los Angeles Lakers/Oklahoma City Thunder"
+							id="149863484" odds="9/2" oddsDecimal="5.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder/Los Angeles Lakers"
+							id="149863486" odds="17/2" oddsDecimal="9.50" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:14:00" handicap="" />
+						<participant name="Los Angeles Lakers/Los Angeles Lakers"
+							id="149863488" odds="24/5" oddsDecimal="5.80" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:14:01" handicap="" />
+						<participant name="Tie/Los Angeles Lakers" id="149863490"
+							odds="33/1" oddsDecimal="34.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Tie/Oklahoma City Thunder" id="149863492"
+							odds="20/1" oddsDecimal="21.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder/Oklahoma City Thunder"
+							id="149863494" odds="4/7" oddsDecimal="1.57" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:14:00" handicap="" />
+					</market>
+					<market id="35266907"
+						name="Los Angeles Lakers @ Oklahoma City Thunder - 1st Half Winning Margin"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+						date="2012-05-17" time="02:35:00" betTillDate="2012-05-17"
+						betTillTime="02:35:00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:41">
+						<participant name="Los Angeles Lakers 10-12 points"
+							id="149863567" odds="18/1" oddsDecimal="19.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder 10-12 points"
+							id="149863570" odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:51" handicap="" />
+						<participant name="Oklahoma City Thunder 7-9 points"
+							id="149863571" odds="6/1" oddsDecimal="7.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Tie" id="149863573" odds="18/1"
+							oddsDecimal="19.00" lastUpdateDate="2012-05-15" lastUpdateTime="16:17:41"
+							handicap="" />
+						<participant name="Los Angeles Lakers 17-20 points"
+							id="149863575" odds="40/1" oddsDecimal="41.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Los Angeles Lakers 21 points or more"
+							id="149863577" odds="50/1" oddsDecimal="51.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder 17-20 points"
+							id="149863579" odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder 13-16 points"
+							id="149863581" odds="15/2" oddsDecimal="8.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder 21 points or more"
+							id="149863583" odds="14/1" oddsDecimal="15.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Los Angeles Lakers 13-16 points"
+							id="149863585" odds="25/1" oddsDecimal="26.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Los Angeles Lakers 7-9 points" id="149863587"
+							odds="12/1" oddsDecimal="13.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Los Angeles Lakers 1-3 points" id="149863589"
+							odds="7/1" oddsDecimal="8.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:50" handicap="" />
+						<participant name="Oklahoma City Thunder 4-6 points"
+							id="149863590" odds="5/1" oddsDecimal="6.00" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Oklahoma City Thunder 1-3 points"
+							id="149863591" odds="11/2" oddsDecimal="6.50" lastUpdateDate="2012-05-15"
+							lastUpdateTime="16:17:41" handicap="" />
+						<participant name="Los Angeles Lakers 4-6 points" id="149863593"
+							odds="9/1" oddsDecimal="10.00" lastUpdateDate="2012-05-16"
+							lastUpdateTime="05:13:51" handicap="" />
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+				WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place,
+				Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;)
+				relating to information contained on its main trading website. By
+				using the Website You agree to these full Terms of Use available at
+				http://developer.williamhill.com
+</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

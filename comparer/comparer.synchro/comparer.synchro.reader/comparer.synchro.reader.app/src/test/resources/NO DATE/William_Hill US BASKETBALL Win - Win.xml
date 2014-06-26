@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-05-16 12:01:44" lastMsgId="3113777135" requestTime="0.0468">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="336" name="US Basketball" maxRepDate="2012-05-16" maxRepTime="05:13:50">
+<type
+id="266"
+name="NBA"
+url="http://sports.williamhill.com/bet/betting/t/266"
+lastUpdateDate="2012-03-27"
+lastUpdateTime="10:44:53">
+<market
+id="34994297"
+name="Boston Celtics v Philadelphia 76ers - Playoff Series Winner - Playoff Series Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2972753/Boston%2dCeltics%2dv%2dPhiladelphia%2d76ers%2d%2d%2dPlayoff%2dSeries%2dWinner"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:25:20"
+>
+<participant
+name="Boston Celtics"
+id="148839797"
+odds="4/6"
+oddsDecimal="1.67"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="07:42:37"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="148839798"
+odds="13/10"
+oddsDecimal="2.30"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="07:42:37"
+handicap=""/>
+</market>
+<market
+id="35266868"
+name="Boston Celtics @ Philadelphia 76ers - Money Line"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Boston Celtics"
+id="149863447"
+odds="11/10"
+oddsDecimal="2.10"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="149863448"
+odds="10/13"
+oddsDecimal="1.77"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:38"
+handicap=""/>
+</market>
+<market
+id="35266893"
+name="Boston Celtics @ Philadelphia 76ers - 1st Quarter - Last Team To Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Boston Celtics"
+id="149863536"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="149863537"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35266895"
+name="Boston Celtics @ Philadelphia 76ers - 2nd Quarter - Last Team To Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Philadelphia 76ers"
+id="149863541"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Boston Celtics"
+id="149863542"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35266924"
+name="Boston Celtics @ Philadelphia 76ers - Team To Score 1st Basket"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Philadelphia 76ers"
+id="149863625"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Boston Celtics"
+id="149863626"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35266926"
+name="Boston Celtics @ Philadelphia 76ers - Race To 20 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Boston Celtics"
+id="149863629"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="149863630"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35266928"
+name="Boston Celtics @ Philadelphia 76ers - Race To 30 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Boston Celtics"
+id="149863633"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="149863635"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35266930"
+name="Boston Celtics @ Philadelphia 76ers - Race To 40 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Boston Celtics"
+id="149863637"
+odds="21/20"
+oddsDecimal="2.05"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="149863639"
+odds="7/10"
+oddsDecimal="1.70"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35266932"
+name="Boston Celtics @ Philadelphia 76ers - Race To 50 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988427/Boston%2dCeltics%2d%40%2dPhiladelphia%2d76ers"
+date="2012-05-17"
+time="00:00:00"
+betTillDate="2012-05-17"
+betTillTime="00:00:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="22:02:33"
+>
+<participant
+name="Boston Celtics"
+id="149863641"
+odds="11/10"
+oddsDecimal="2.10"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+<participant
+name="Philadelphia 76ers"
+id="149863642"
+odds="4/6"
+oddsDecimal="1.67"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:39"
+handicap=""/>
+</market>
+<market
+id="35173074"
+name="Oklahoma City Thunder v Los Angeles Lakers - Playoff Series Winner - Playoff Series Winner"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2981994/Oklahoma%2dCity%2dThunder%2dv%2dLA%2dLakers%2d%2d%2dPlayoff%2dSeries%2dWinner"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="06:35:32"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149509391"
+odds="1/9"
+oddsDecimal="1.11"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="17:21:11"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149509392"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="17:21:18"
+handicap=""/>
+</market>
+<market
+id="35266869"
+name="Los Angeles Lakers @ Oklahoma City Thunder - Money Line"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:40"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149863449"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149863450"
+odds="13/4"
+oddsDecimal="4.25"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+</market>
+<market
+id="35266896"
+name="Los Angeles Lakers @ Oklahoma City Thunder - 1st Quarter - Last Team To Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:40"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149863543"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:40"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149863544"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:40"
+handicap=""/>
+</market>
+<market
+id="35266898"
+name="Los Angeles Lakers @ Oklahoma City Thunder - 2nd Quarter - Last Team To Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:40"
+>
+<participant
+name="Los Angeles Lakers"
+id="149863547"
+odds="19/20"
+oddsDecimal="1.95"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:41"
+handicap=""/>
+<participant
+name="Oklahoma City Thunder"
+id="149863549"
+odds="4/5"
+oddsDecimal="1.80"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:41"
+handicap=""/>
+</market>
+<market
+id="35266925"
+name="Los Angeles Lakers @ Oklahoma City Thunder - Team To Score 1st Basket"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:40"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149863627"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149863628"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+</market>
+<market
+id="35266927"
+name="Los Angeles Lakers @ Oklahoma City Thunder - Race To 20 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:41"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149863631"
+odds="8/15"
+oddsDecimal="1.53"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149863632"
+odds="11/8"
+oddsDecimal="2.38"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+</market>
+<market
+id="35266929"
+name="Los Angeles Lakers @ Oklahoma City Thunder - Race To 30 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:41"
+>
+<participant
+name="Los Angeles Lakers"
+id="149863634"
+odds="13/8"
+oddsDecimal="2.62"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+<participant
+name="Oklahoma City Thunder"
+id="149863636"
+odds="4/9"
+oddsDecimal="1.44"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+</market>
+<market
+id="35266931"
+name="Los Angeles Lakers @ Oklahoma City Thunder - Race To 40 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:41"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149863638"
+odds="2/5"
+oddsDecimal="1.40"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149863640"
+odds="7/4"
+oddsDecimal="2.75"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+</market>
+<market
+id="35266933"
+name="Los Angeles Lakers @ Oklahoma City Thunder - Race To 50 Points"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/2988428/LA%2dLakers%2d%40%2dOklahoma%2dCity%2dThunder"
+date="2012-05-17"
+time="02:35:00"
+betTillDate="2012-05-17"
+betTillTime="02:35:00"
+lastUpdateDate="2012-05-15"
+lastUpdateTime="16:17:41"
+>
+<participant
+name="Oklahoma City Thunder"
+id="149863643"
+odds="4/11"
+oddsDecimal="1.36"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+<participant
+name="Los Angeles Lakers"
+id="149863644"
+odds="2/1"
+oddsDecimal="3.00"
+lastUpdateDate="2012-05-16"
+lastUpdateTime="05:13:50"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

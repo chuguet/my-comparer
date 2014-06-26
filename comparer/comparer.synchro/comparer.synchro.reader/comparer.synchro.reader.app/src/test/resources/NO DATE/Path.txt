@@ -1,0 +1,36 @@
+#Configuracion Lectura casa de Apuesta Bet At Home
+betAthome.sport=/Betradar/OO/Sport
+betAthome.tournament=/Betradar/OO/Tournament
+betAthome.equip=/Betradar/OO/OddsData/HomeTeam | /Betradar/OO/OddsData/AwayTeam
+betAthome.date=/Betradar/OO/Date
+betAthome.odds=/Betradar/OO/OddsType
+
+#Configuracion Lectura casa de Apuesta William Hill
+williamhill.sport=/oxip/response/williamhill/class/@name
+williamhill.tournament=/oxip/response/williamhill/class/type/@name
+williamhill.equip=/oxip/response/williamhill/class/type/market/participant/@name
+williamhill.date=/oxip/response/williamhill/class/type/market/@date
+williamhill.odds=/oxip/response/williamhill/class/type/market/participant/@oddsDecimal
+
+
+#Configuracion Lectura casa de betdaq
+betdaq.sport=/root/SPORT/@NAME
+betdaq.tournament=/root/SPORT/EVENT/@NAME
+betdaq.equip=/root/SPORT/EVENT/SUBEVENT/MARKET/SELECTION/@NAME
+betdaq.date=/root/SPORT/EVENT/SUBEVENT/@DATE
+betdaq.odds=/root/SPORT/EVENT/SUBEVENT/MARKET/@NAME
+
+#Configuracion Lectura casa de bluesq
+bluesq.sport=/BSQCUBS/Class/Title
+bluesq.tournament=/BSQCUBS/Class/Type/Title
+bluesq.equip=/BSQCUBS/Class/Type/Event/Description
+bluesq.date=/BSQCUBS/Class/Type/Event/@start_time
+bluesq.odds=/BSQCUBS/Class/Type/Event/Market/@mkt_typ
+
+
+#Configuracion Lectura casa de betClick
+betclick.sport=/sports/sport/@name
+betclick.tournament=/sports/sport/event/match/@name
+betclick.equip=/sports/sport/event/match/bets/bet/choice/@name
+betclick.date=/sports/sport/event/match/@start_date
+betclick.odds=/sports/sport/event/match/bets/bet/@name

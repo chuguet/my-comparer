@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BSQCUBS Version="0.04" Date="Thu May 17 10:12:20 BST 2012" MachineDate="Thu, 17 May 2012 10:12:23 +0100">
+	<Class class_id="386">
+		<Title>Football Long-Term</Title>
+		<Type type_id="4383" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>English League 2</Title>
+			<Event start_time="2012-05-17 19:45:00" ev_id="2581821" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>English League 2 2011-2012 - Promotion</Description>
+				<Market mkt_typ="Promotion" lp_avail="Y" sp_avail="N" mkt_id="4995363">
+					<Occurrence bet_id="36124189" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="1880.0">
+						<Description>Crewe Alexandra</Description>
+					</Occurrence>
+					<Occurrence bet_id="36124199" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="1090.0">
+						<Description>Cheltenham Town</Description>
+					</Occurrence>
+					<Occurrence bet_id="36124188" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="190.0">
+						<Description>Torquay United</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4392" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Manager Specials</Title>
+			<Event start_time="2012-05-17 20:00:01" ev_id="3220830" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Next Permanent Manager - Aston Villa</Description>
+				<Market mkt_typ="Next Permanent Manager" lp_avail="Y" sp_avail="N" mkt_id="8494034">
+					<Occurrence bet_id="49483627" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Paul Lambert</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483628" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Roberto Martinez</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483658" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Mick McCarthy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483630" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Kevin MacDonald</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483629" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Rafael Benitez</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483633" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Gus Poyet</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483631" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Neil Lennon</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483667" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Claudio Ranieri</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483651" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Paul Ince</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483632" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Alan Curbishley</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483637" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Brendan Rodgers</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483652" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Roberto Di Matteo</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483647" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Lee Clark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483650" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Ole Gunnar Solksjaer</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483655" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Bruce Arena</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483649" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Martin Jol</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483648" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Malky MacKay</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483663" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Stuart Pearce</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483646" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Karl Robinson</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483645" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Jurgen Klinsmann</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483644" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Gianfranco Zola</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483643" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Gary McAllister</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483642" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Didier Deschamps</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483666" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Roy Keane</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483640" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Dave Jones</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483639" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Chris Hughton</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483638" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Brian McDermott</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483654" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Andre Villas Boas</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483636" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Bob Bradley</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483635" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Ally McCoist</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483634" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Steve Bruce</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483656" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Fabio Capello</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483657" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Ian Holloway</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483659" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Paolo Di Canio</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483660" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Steve McClaren</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483641" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>David Moyes</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483661" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Glenn Hoddle</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483653" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Walter Smith</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483662" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Sam Allardyce</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483668" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Gordon Strachan</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483664" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Sven Goran Eriksson</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483665" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Gary Megson</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 20:00:02" ev_id="3192136" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Next Permanent Manager - WBA</Description>
+				<Market mkt_typ="Next Permanent Manager" lp_avail="Y" sp_avail="N" mkt_id="8369494">
+					<Occurrence bet_id="48857780" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>Chris Hughton</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863488" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Roy Keane</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857781" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Michael Appleton</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857798" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Tony Mowbray</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857786" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Lee Clark</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857789" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Gus Poyet</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863465" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Claudio Ranieri</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857779" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Alan Curbishley</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857796" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Paul Lambert</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863462" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Rafael Benitez</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857782" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Roberto Martinez</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857783" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Derek McInnes</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857797" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ole Gunnar Solskjaer</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857784" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Keith Downing</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863468" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Karl Robinson</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857790" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Malky Mackay</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863483" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Mick McCarthy</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857787" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Steve Bruce</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857788" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Gianfranco Zola</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857794" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Dave Jones</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863482" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Paul Ince</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863464" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Brendan Rodgers</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857799" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Gary Megson</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863466" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Dougie Freedman</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863467" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Glenn Hoddle</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857795" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ian Holloway</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857785" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Dean Kiely</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863481" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Paul Di Canio</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863470" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Sven Goran Eriksson</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863473" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Owen Coyle</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863477" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Stuart Pearce</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863478" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Darren Ferguson</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863479" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Gareth Southgate</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863480" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Gordon Strachan</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863489" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Sam Allardyce</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863487" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ray Wilkins</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863484" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Nigel Adkins</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863460" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Graeme Souness</Description>
+					</Occurrence>
+					<Occurrence bet_id="48857793" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Chris Powell</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863463" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Andre Villas Boas</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863486" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Phil Brown</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863493" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Billy Davies</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863490" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Walter Smith</Description>
+					</Occurrence>
+					<Occurrence bet_id="48863492" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Avram Grant</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 22:00:00" ev_id="3224922" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Next Permanent Manager - Liverpool</Description>
+				<Market mkt_typ="Next Permanent Manager" lp_avail="Y" sp_avail="N" mkt_id="8516316">
+					<Occurrence bet_id="49584944" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Andre Villas-Boas</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584941" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Roberto Martinez</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584942" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Rafael Benitez</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584949" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Brendan Rogers</Description>
+					</Occurrence>
+					<Occurrence bet_id="49591206" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Fabio Capello</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584943" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Frank Rijkaard</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590923" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Jurgen Klopp</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584951" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Didier Deschamps</Description>
+					</Occurrence>
+					<Occurrence bet_id="49630489" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Alan Pardew</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584945" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Paul Lambert</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590926" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Martin O'Neill</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584946" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Jupp Heynckes</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590996" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Laurent Blanc</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584947" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Marcelo Bielsa</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584950" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Carlo Ancelotti</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584948" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Steve Clarke</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584953" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Guus Hiddink</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584954" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Louis Van Gaal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590930" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Frank De Boer</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584956" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Pep Guardiola</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584955" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Marcelo Lippi</Description>
+					</Occurrence>
+					<Occurrence bet_id="49584952" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Jose Mourinho</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590927" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Joachim Low</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590963" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Markus Babbel</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590991" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>David Moyes</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590981" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Jamie Carragher</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590956" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Owen Coyle</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590968" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>John Barnes</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590939" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Martin Jol</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590945" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Phil Thompson</Description>
+					</Occurrence>
+					<Occurrence bet_id="49591064" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Robbie Fowler</Description>
+					</Occurrence>
+					<Occurrence bet_id="49591051" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Stan Collymore</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4583" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Copa Libertadores</Title>
+			<Event start_time="2012-05-17 23:45:00" ev_id="2933457" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Copa Libertadores 2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 1 places at 1/1 odds" mkt_id="7298522">
+					<Occurrence bet_id="43168898" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="290.0">
+						<Description>Santos</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168895" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Corinthians</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168901" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>Universidad de Chile</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168896" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Fluminense</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168897" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Boca Juniors</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168902" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Velez Sarsfield</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168899" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Vasco Da Gama</Description>
+					</Occurrence>
+					<Occurrence bet_id="43168914" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Libertad</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4390" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Scottish FA Cup</Title>
+			<Event start_time="2012-05-19 12:45:00" ev_id="2597993" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Active Nation Scottish Cup 2011-2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" mkt_id="5039473">
+					<Occurrence bet_id="36408127" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>Heart of Midlothian</Description>
+					</Occurrence>
+					<Occurrence bet_id="36408129" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Hibernian</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4381" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>English Championship</Title>
+			<Event start_time="2012-05-19 15:00:00" ev_id="2574405" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>English Championship 2011-2012 - Promotion</Description>
+				<Market mkt_typ="Promotion" lp_avail="Y" sp_avail="N" mkt_id="4967936">
+					<Occurrence bet_id="35953006" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.5" oc_maxbet="3500.0">
+						<Description>West Ham United</Description>
+					</Occurrence>
+					<Occurrence bet_id="35953015" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="1600.0">
+						<Description>Blackpool</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4407" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Champions League</Title>
+			<Event start_time="2012-05-19 19:45:00" ev_id="2550610" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Champions League 2011-2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 1 places at 1/1 odds" mkt_id="4902702">
+					<Occurrence bet_id="35518910" lp_num="2" lp_den="5" decimal="1.4"  oc_minbet="0.5" oc_maxbet="5000.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="35518901" lp_num="15" lp_den="8" decimal="2.875"  oc_minbet="0.5" oc_maxbet="2670.0">
+						<Description>Chelsea</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-19 19:45:00" ev_id="2679035" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Champions League 2011-2012 - Top Goalscorer</Description>
+				<Market mkt_typ="Top Goalscorer" lp_avail="Y" sp_avail="N" mkt_id="6418591">
+					<Occurrence bet_id="46798250" lp_num="1" lp_den="14" decimal="1.0714285714286"  oc_minbet="0.1" oc_maxbet="42250.0">
+						<Description>Lionel Messi</Description>
+					</Occurrence>
+					<Occurrence bet_id="38108616" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="460.0">
+						<Description>Mario Gomez</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4582" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Brazilian Serie A</Title>
+			<Event start_time="2012-05-19 22:30:00" ev_id="3208161" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Brazilian Serie A 2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/2 odds" mkt_id="8441626">
+					<Occurrence bet_id="49216020" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Corinthians</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216021" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Fluminense</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216022" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Sao Paulo</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216023" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Santos</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216024" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Internacional</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216025" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Gremio RS</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216027" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Palmeiras</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216026" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Flamengo</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216029" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Botafogo RJ</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216028" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Vasco Da Gama</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216031" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Atletico Mineiro</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216030" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Cruzeiro</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216033" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Coritiba</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216032" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Portuguesa</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216035" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Figueirense</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216036" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Ponte Preta</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216034" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Bahia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216038" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Atletico Goianiense</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216039" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Sport Recife</Description>
+					</Occurrence>
+					<Occurrence bet_id="49216037" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Nautico</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4385" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>English Blue Square Bet Premier</Title>
+			<Event start_time="2012-05-20 14:00:00" ev_id="2582414" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>English Blue Square Bet Premier 2011-2012 - Promotion</Description>
+				<Market mkt_typ="Promotion" lp_avail="Y" sp_avail="N" mkt_id="4996352">
+					<Occurrence bet_id="36130968" lp_num="5" lp_den="6" decimal="1.8333333333333"  oc_minbet="0.5" oc_maxbet="1200.0">
+						<Description>York City</Description>
+					</Occurrence>
+					<Occurrence bet_id="36130964" lp_num="5" lp_den="6" decimal="1.8333333333333"  oc_minbet="0.5" oc_maxbet="1200.0">
+						<Description>Luton Town</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4400" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>French Ligue 1</Title>
+			<Event start_time="2012-05-20 20:00:00" ev_id="2585693" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>French Ligue 1 2011-2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 1 places at 1/1 odds" mkt_id="5005745">
+					<Occurrence bet_id="36194310" lp_num="1" lp_den="16" decimal="1.0625"  oc_minbet="0.5" oc_maxbet="20000.0">
+						<Description>Montpellier</Description>
+					</Occurrence>
+					<Occurrence bet_id="36194305" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="210.0">
+						<Description>Paris Saint-Germain</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4405" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Spanish Copa del Rey</Title>
+			<Event start_time="2012-05-25 19:00:00" ev_id="2629955" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Spanish Copa del Rey 2011-2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 1 places at 1/1 odds" mkt_id="6256170">
+					<Occurrence bet_id="37162396" lp_num="1" lp_den="6" decimal="1.1666666666667"  oc_minbet="0.5" oc_maxbet="2000.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="37162406" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="430.0">
+						<Description>Athletic Bilbao</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4384" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>English League 1</Title>
+			<Event start_time="2012-05-26 15:00:00" ev_id="2581822" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>English League 1 2011-2012 - Promotion</Description>
+				<Market mkt_typ="Promotion" lp_avail="Y" sp_avail="N" mkt_id="4995364">
+					<Occurrence bet_id="36124203" lp_num="5" lp_den="6" decimal="1.8333333333333"  oc_minbet="0.5" oc_maxbet="2400.0">
+						<Description>Sheffield United</Description>
+					</Occurrence>
+					<Occurrence bet_id="36124201" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="2200.0">
+						<Description>Huddersfield Town</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4391" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>England Specials</Title>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3052297" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>England Fans Player of the Year 2012</Description>
+				<Market mkt_typ="Player of the Year" lp_avail="Y" sp_avail="N" mkt_id="7794000">
+					<Occurrence bet_id="45796861" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Joe Hart</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796863" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Ashley Young</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796864" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Scott Parker</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796865" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Wayne Rooney</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796862" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Ashley Cole</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796867" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Steven Gerrard</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796868" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Theo Walcott</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796886" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Alex Oxlade-Chamberlain</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796875" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Phil Jones</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796869" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Danny Welbeck</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796866" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>James Milner</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796876" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Glen Johnson</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796879" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Gary Cahill</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796874" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Frank Lampard</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796877" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Gareth Barry</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796888" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Leighton Baines</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796870" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Adam Johnson</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796871" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Daniel Sturridge</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796896" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Andy Carroll</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796878" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Chris Smalling</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796880" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Jermain Defoe</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796872" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Jack Wilshere</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796890" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Joleon Lescott</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796881" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Stewart Downing</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796882" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>John Terry</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796883" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Kyle Walker</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796889" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Tom Cleverley</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796885" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Phil Jagielka</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796884" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Peter Crouch</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796887" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Darren Bent</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796892" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Robert Green</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796895" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Aaron Lennon</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796898" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Jack Rodwell</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796899" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Micah Richards</Description>
+					</Occurrence>
+					<Occurrence bet_id="45796873" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Rio Ferdinand</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4424" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Euro 2012</Title>
+			<Event start_time="2012-06-08 17:00:00" ev_id="1587445" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Euro 2012 - Winner</Description>
+				<Market mkt_typ="Outright Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/2 odds" mkt_id="2194996">
+					<Occurrence bet_id="17028776" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.5" oc_maxbet="2000.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028779" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.5" oc_maxbet="1670.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028774" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="770.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028790" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="450.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028775" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="420.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028773" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028788" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028777" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028792" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028785" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028787" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028778" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028782" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028781" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028795" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="17028793" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="2873776" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group A</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="7111540">
+					<Occurrence bet_id="42077271" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="1090.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077275" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.5" oc_maxbet="600.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077272" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="380.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077274" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Greece</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3178344" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Euro 2012 - Top Goalscorer</Description>
+				<Market mkt_typ="Top Goalscorer" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 4 places at 1/4 odds" mkt_id="8312321">
+					<Occurrence bet_id="48563947" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="620.0">
+						<Description>Mario Gomez</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563952" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Robin Van Persie</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563948" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>Miroslav Klose</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563939" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>David Villa</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563981" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>Cristiano Ronaldo</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563963" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="310.0">
+						<Description>Karim Benzema</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563953" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>Klaas-Jan Huntelaar</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563943" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Fernando Torres</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563941" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Roberto Soldado</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563940" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Fernando Llorente</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563969" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>Mario Balotelli</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563950" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Lukas Podolski</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563951" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Thomas Muller</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563970" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Giampaolo Pazzini</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563946" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Cesc Fabregas</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563965" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Loic Remy</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563997" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Robert Lewandowski</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563942" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Alvaro Negredo</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563968" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Antonio Di Natale</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563971" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Alessandro Matri</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563957" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Wayne Rooney</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563958" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Darren Bent</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563966" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Bafetimbi Gomis</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564030" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Wesley Sneijder</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563944" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Juan Mata</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563972" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Pablo Osvaldo</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563954" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Arjen Robben</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563956" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Rafael Van Der Vaart</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563964" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Olivier Giroud</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563983" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Helder Postiga</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564028" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Alberto Gilardino</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563955" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Dirk Kuyt</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563949" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Cacau</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563945" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>David Silva</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564012" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Zlatan Ibrahimovic</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563990" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Nikica Jelavic</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563984" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Hugo Almeida</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563978" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Aleksandr Kerzhakov</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563974" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Fabio Borini</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564035" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Pedro</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564034" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Daniel Sturridge</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564029" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Kevin Gameiro</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563959" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Jermain Defoe</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564031" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Liedson</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564033" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Mezut Ozil</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563962" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Danny Welbeck</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563967" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Franck Ribery</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563975" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Roman Pavlyuchenko</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563989" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Andriy Shevchenko</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563977" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Pavel Pogrebnyak</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563985" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Nelson Oliveira</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563960" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Andy Carroll</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563982" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Nani</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563976" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Andrei Arshavin</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564022" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Robbie Keane</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563979" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Artem Dzyuba</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563973" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Sebastian Giovinco</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564032" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Florent Malouda</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564040" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Ashley Young</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563980" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Valdimir Dyadyun</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564038" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Samir Nasri</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564039" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Theo Walcott</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564037" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Frank Lampard</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563999" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Kamil Grosicki</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563998" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Ireneusz Jelen</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563992" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Eduardo</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563996" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Mladen Petric</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563995" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Ivan Klasnic</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563994" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Nikola Kalinic</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564003" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Milan Baros</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563993" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Mario Mandzukic</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564001" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Pawel Brozek</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564017" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Nicklas Bendtner</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564036" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Steven Gerrard</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563961" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Peter Crouch</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563986" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Artem Milevskiy</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563988" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Marko Devych</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563991" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Ivica Olic</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564013" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Johan Elmander</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564010" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Theofanis Gekas</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564005" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>David Lafata</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564007" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Nikos Lyberopooulos</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564004" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Jiri Stajner</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564006" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Jan Rezek</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564020" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Michael Krohn-Dehli</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564016" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Anders Svensson</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564000" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Jakub Blaszczykowski</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564019" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Mads Junker</Description>
+					</Occurrence>
+					<Occurrence bet_id="48563987" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Andriy Voronin</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564018" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Dennis Rommedahl</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564014" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Tobias Hysen</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564024" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Kevin Doyle</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564011" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Kostas Katsouranis</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564008" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Giorgios Samaras</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564009" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Dimitris Salpigidis</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564002" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Tomas Rosicky</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564015" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Kim Kallstrom</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564021" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Tobias Mikkelsen</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564027" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Jonathan Walters</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564023" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Shane Long</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564025" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Damien Duff</Description>
+					</Occurrence>
+					<Occurrence bet_id="48564026" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Aiden McGeady</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3220602" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Euro 2012 - 1/5 1,2,3,4</Description>
+				<Market mkt_typ="Winner 1,2,3,4" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 4 places at 1/5 odds" mkt_id="8492816">
+					<Occurrence bet_id="49479041" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.5" oc_maxbet="620.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479042" lp_num="13" lp_den="5" decimal="3.6"  oc_minbet="0.5" oc_maxbet="570.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479043" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479044" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479045" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479046" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479048" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479047" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479049" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479051" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479050" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479053" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479052" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479054" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479055" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49479056" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="2873776" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group A</Description>
+				<Market mkt_typ="To Qualify" lp_avail="Y" sp_avail="N" mkt_id="8494037">
+					<Occurrence bet_id="49483684" lp_num="2" lp_den="5" decimal="1.4"  oc_minbet="0.5" oc_maxbet="5000.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483686" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="2400.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483685" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="1660.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483687" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.5" oc_maxbet="1330.0">
+						<Description>Greece</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Not To Qualify" lp_avail="Y" sp_avail="N" mkt_id="8494038">
+					<Occurrence bet_id="49483691" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.5" oc_maxbet="3000.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483689" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.5" oc_maxbet="2440.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483690" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="1650.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483688" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.5" oc_maxbet="860.0">
+						<Description>Russia</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3222976" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Euro 2012 - To Reach The Final</Description>
+				<Market mkt_typ="To Reach The Final" lp_avail="Y" sp_avail="N" mkt_id="8505237">
+					<Occurrence bet_id="49534134" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="800.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534135" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.5" oc_maxbet="660.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534136" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534137" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534138" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534139" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534140" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534141" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534142" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534144" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534143" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534146" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534145" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534147" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534148" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49534149" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3223033" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Euro 2012 - Name The Finalists</Description>
+				<Market mkt_typ="Name The Finalists" lp_avail="Y" sp_avail="N" mkt_id="8506313">
+					<Occurrence bet_id="49539631" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="430.0">
+						<Description>Spain v Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539646" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Germany v Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539632" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Spain v Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539633" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="190.0">
+						<Description>Spain v England</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539635" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Spain v Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539634" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Spain v France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539647" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Germany v England</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539651" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Germany v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539636" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Spain v Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539649" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Germany v Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539637" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>Spain v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539648" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>Germany v France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539660" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Holland v England</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539673" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>England v France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539650" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Germany v Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539664" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Holland v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539662" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Holland v Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539661" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Holland v France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539639" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Spain v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539674" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>England v Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539640" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Spain v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539638" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Spain v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539654" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Germany v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539663" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Holland v Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539685" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>France v Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539652" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Germany v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539676" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>England v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539675" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>England v Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539653" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Germany v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539687" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>France v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539643" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Spain v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539641" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Spain v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539697" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Italy v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539642" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Spain v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539686" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>France v Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539696" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Italy v Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539657" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Germany v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539656" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Germany v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539655" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Germany v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539667" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Holland v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539665" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Holland v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539644" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Spain v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539658" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Germany v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539666" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Holland v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539677" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>England v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539706" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Russia v Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539669" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Holland v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539668" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Holland v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539678" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>England v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539688" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>France v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539679" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>England v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539659" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Germany v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539670" lp_num="175" lp_den="1" decimal="176"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Holland v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539689" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>France v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539690" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>France v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539682" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>England v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539681" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>England v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539645" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Spain v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539671" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Holland v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539680" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>England v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539698" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Italy v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539691" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>France v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539715" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539707" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539700" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539699" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539693" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>France v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539692" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>France v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539672" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Holland v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539716" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539702" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539717" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539701" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539683" lp_num="350" lp_den="1" decimal="351"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>England v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539709" lp_num="350" lp_den="1" decimal="351"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539719" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539708" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539694" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>France v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539718" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539684" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>England v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539703" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539720" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539710" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539712" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539711" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539723" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539695" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>France v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539724" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539730" lp_num="600" lp_den="1" decimal="601"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Croatia v Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539705" lp_num="600" lp_den="1" decimal="601"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539704" lp_num="600" lp_den="1" decimal="601"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Italy v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539721" lp_num="750" lp_den="1" decimal="751"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539725" lp_num="750" lp_den="1" decimal="751"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539713" lp_num="750" lp_den="1" decimal="751"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539726" lp_num="750" lp_den="1" decimal="751"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539731" lp_num="800" lp_den="1" decimal="801"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Croatia v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539732" lp_num="800" lp_den="1" decimal="801"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Croatia v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539741" lp_num="800" lp_den="1" decimal="801"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Greece v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539737" lp_num="800" lp_den="1" decimal="801"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Poland v Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539736" lp_num="800" lp_den="1" decimal="801"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Poland v Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539714" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Russia v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539727" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539722" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Portugal v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539742" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Greece v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539733" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Croatia v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539738" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Poland v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539745" lp_num="1200" lp_den="1" decimal="1201"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Czech Republic v Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539728" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539744" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Greece v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539743" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Greece v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539746" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Czech Republic v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539735" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Croatia v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539734" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Croatia v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539747" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Czech Republic v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539740" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Poland v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539739" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Poland v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539748" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Sweden v Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539729" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Ukraine v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539749" lp_num="2000" lp_den="1" decimal="2001"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Sweden v Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49539750" lp_num="2500" lp_den="1" decimal="2501"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Denmark v Ireland</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3225275" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Eliminated By Penalty Shootout</Description>
+				<Market mkt_typ="Lose On Penalties" lp_avail="Y" sp_avail="N" mkt_id="8516750">
+					<Occurrence bet_id="49587756" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="370.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587757" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587758" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587760" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="210.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587759" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="210.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587761" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="210.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587763" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587762" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587766" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587765" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587768" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587764" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587767" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587769" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587771" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49587770" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3225298" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Russia</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517559">
+					<Occurrence bet_id="49592313" lp_num="10" lp_den="3" decimal="4.3333333333333"  oc_minbet="0.5" oc_maxbet="300.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592316" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592315" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592314" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592317" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592312" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592311" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592310" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592309" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3225299" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Poland</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517560">
+					<Occurrence bet_id="49592322" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592324" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592321" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592325" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592319" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592323" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592320" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592326" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592318" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3225300" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Czech Republic</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517561">
+					<Occurrence bet_id="49592331" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592330" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592328" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592333" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592329" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592334" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592332" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592327" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592335" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-08 17:00:00" ev_id="3225301" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Greece</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517562">
+					<Occurrence bet_id="49592340" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592337" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592339" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592338" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592342" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592336" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592341" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592343" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592344" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-09 17:00:00" ev_id="2873777" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group B</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="7111541">
+					<Occurrence bet_id="42077276" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.5" oc_maxbet="1360.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077277" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.5" oc_maxbet="860.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077278" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077279" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="To Qualify" lp_avail="Y" sp_avail="N" mkt_id="8494039">
+					<Occurrence bet_id="49483692" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.5" oc_maxbet="5000.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483693" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.5" oc_maxbet="4500.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483694" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="1600.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483695" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="440.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Not To Qualify" lp_avail="Y" sp_avail="N" mkt_id="8494040">
+					<Occurrence bet_id="49483699" lp_num="1" lp_den="8" decimal="1.125"  oc_minbet="0.5" oc_maxbet="12000.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483698" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.5" oc_maxbet="2810.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483697" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.5" oc_maxbet="920.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="49483696" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Germany</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-09 17:00:00" ev_id="3225302" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Germany</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517563">
+					<Occurrence bet_id="49592352" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592349" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592351" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592353" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592350" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592348" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592347" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592346" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592345" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-09 17:00:00" ev_id="3225303" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Holland</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517564">
+					<Occurrence bet_id="49592358" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592360" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592361" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592357" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592359" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592362" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592356" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592355" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592354" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-09 17:00:00" ev_id="3225304" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Portugal</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517565">
+					<Occurrence bet_id="49592367" lp_num="13" lp_den="5" decimal="3.6"  oc_minbet="0.5" oc_maxbet="380.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592366" lp_num="15" lp_den="4" decimal="4.75"  oc_minbet="0.5" oc_maxbet="260.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592369" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592364" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592365" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592370" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592368" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592363" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592371" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-09 17:00:00" ev_id="3225305" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Denmark</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517566">
+					<Occurrence bet_id="49592373" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.5" oc_maxbet="410.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592372" lp_num="16" lp_den="5" decimal="4.2"  oc_minbet="0.5" oc_maxbet="310.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592375" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592376" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592374" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592378" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592377" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592379" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592380" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="2873778" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group C</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="7111542">
+					<Occurrence bet_id="42077280" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.5" oc_maxbet="2810.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077281" lp_num="10" lp_den="3" decimal="4.3333333333333"  oc_minbet="0.5" oc_maxbet="450.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077282" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077283" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="To Qualify" lp_avail="Y" sp_avail="N" mkt_id="7111727">
+					<Occurrence bet_id="42252352" lp_num="1" lp_den="10" decimal="1.1"  oc_minbet="0.1" oc_maxbet="15000.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252355" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="2250.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252356" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.1" oc_maxbet="1000.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077802" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="380.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="2873782" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Ireland</Description>
+				<Market mkt_typ="Stage Of Elimination" lp_avail="Y" sp_avail="N" mkt_id="7111735">
+					<Occurrence bet_id="42077842" lp_num="1" lp_den="7" decimal="1.1428571428571"  oc_minbet="0.5" oc_maxbet="6990.0">
+						<Description>Group Stage</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077843" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Quarter Final</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077844" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Semi Final</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077845" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Losing Finalist</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077846" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Winner</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="2873778" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group C</Description>
+				<Market mkt_typ="Not To Qualify" lp_avail="Y" sp_avail="N" mkt_id="7143899">
+					<Occurrence bet_id="42252444" lp_num="1" lp_den="7" decimal="1.1428571428571"  oc_minbet="0.1" oc_maxbet="10490.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252443" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.1" oc_maxbet="3000.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252435" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="1360.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252420" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.1" oc_maxbet="270.0">
+						<Description>Spain</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="3225306" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Spain</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517567">
+					<Occurrence bet_id="49592388" lp_num="21" lp_den="10" decimal="3.1"  oc_minbet="0.5" oc_maxbet="470.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592389" lp_num="9" lp_den="4" decimal="3.25"  oc_minbet="0.5" oc_maxbet="440.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592387" lp_num="15" lp_den="4" decimal="4.75"  oc_minbet="0.5" oc_maxbet="260.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592385" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592386" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592384" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592383" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592382" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592381" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="3225307" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Italy</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517568">
+					<Occurrence bet_id="49592394" lp_num="13" lp_den="5" decimal="3.6"  oc_minbet="0.5" oc_maxbet="380.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592396" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592393" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592397" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592395" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592391" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592392" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592398" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592390" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="3225308" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Croatia</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517569">
+					<Occurrence bet_id="49592403" lp_num="13" lp_den="5" decimal="3.6"  oc_minbet="0.5" oc_maxbet="380.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592402" lp_num="15" lp_den="4" decimal="4.75"  oc_minbet="0.5" oc_maxbet="260.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592400" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592405" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592401" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592399" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592404" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592406" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592407" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-10 17:00:00" ev_id="2873782" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Ireland</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517570">
+					<Occurrence bet_id="49592409" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.5" oc_maxbet="400.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592408" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592411" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592412" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592410" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592414" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592413" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592415" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592416" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="2873779" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group D</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="7111543">
+					<Occurrence bet_id="42077284" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.5" oc_maxbet="920.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077285" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.5" oc_maxbet="920.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077286" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077287" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="230.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="To Qualify" lp_avail="Y" sp_avail="N" mkt_id="7111728">
+					<Occurrence bet_id="42251964" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.1" oc_maxbet="4000.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077804" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.5" oc_maxbet="3750.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="42251974" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.1" oc_maxbet="1450.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="42251976" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.1" oc_maxbet="1140.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="2873783" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>England</Description>
+				<Market mkt_typ="Stage Of Elimination" lp_avail="Y" sp_avail="N" mkt_id="7111736">
+					<Occurrence bet_id="42077847" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="730.0">
+						<Description>Group Stage</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077848" lp_num="11" lp_den="5" decimal="3.2"  oc_minbet="0.5" oc_maxbet="450.0">
+						<Description>Quarter Final</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077849" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Semi Final</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077850" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Losing Finalist</Description>
+					</Occurrence>
+					<Occurrence bet_id="42077851" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Winner</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="2873779" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Group D</Description>
+				<Market mkt_typ="Not To Qualify" lp_avail="Y" sp_avail="N" mkt_id="7143866">
+					<Occurrence bet_id="42252054" lp_num="2" lp_den="5" decimal="1.4"  oc_minbet="0.1" oc_maxbet="3750.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252053" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.1" oc_maxbet="2630.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252045" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.1" oc_maxbet="1090.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="42252046" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.1" oc_maxbet="1000.0">
+						<Description>France</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="2873783" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>England</Description>
+				<Market mkt_typ="Top Team Goalscorer" lp_avail="Y" sp_avail="N" mkt_id="8516320">
+					<Occurrence bet_id="49585024" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.1" oc_maxbet="220.0">
+						<Description>Wayne Rooney</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585027" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Andy Carroll</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585032" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.1" oc_maxbet="170.0">
+						<Description>Ashley Young</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585025" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.1" oc_maxbet="170.0">
+						<Description>Danny Welbeck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585030" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>Theo Walcott</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585029" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>Steven Gerrard</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585028" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>Frank Lampard</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585026" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>Jermain Defoe</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585031" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.1" oc_maxbet="50.0">
+						<Description>Alex Oxlade-Chamberlain</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585146" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>No England Goalscorer</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585126" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>John Terry</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585127" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Stewart Downing</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585130" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Gary Cahill</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585129" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>James Milner</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585128" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Scott Parker</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585131" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Gareth Barry</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585150" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Phil Jones</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585151" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Joleon Lescott</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585148" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Leighton Baines</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585149" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Glen Johnson</Description>
+					</Occurrence>
+					<Occurrence bet_id="49585132" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Ashley Cole</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517571">
+					<Occurrence bet_id="49592421" lp_num="14" lp_den="5" decimal="3.8"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592424" lp_num="15" lp_den="4" decimal="4.75"  oc_minbet="0.5" oc_maxbet="260.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592423" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592422" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592420" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592425" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592419" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592418" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592417" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="3225309" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>France</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517572">
+					<Occurrence bet_id="49592430" lp_num="14" lp_den="5" decimal="3.8"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592433" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592432" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592429" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592431" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592428" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592427" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592434" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592426" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>0 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="3225310" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Ukraine</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517573">
+					<Occurrence bet_id="49592439" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592438" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592436" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592441" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592437" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592442" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592440" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592435" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592443" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-06-11 17:00:00" ev_id="3225311" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Sweden</Description>
+				<Market mkt_typ="Group Points" lp_avail="Y" sp_avail="N" mkt_id="8517574">
+					<Occurrence bet_id="49592448" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>4 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592445" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="280.0">
+						<Description>1 point</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592447" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592446" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>2 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592444" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>0 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592450" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>6 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592449" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592451" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>7 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49592452" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>9 points</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4425" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>World Cup</Title>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612757" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group A</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174778">
+					<Occurrence bet_id="36729910" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1000.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729912" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1000.0">
+						<Description>Belgium</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729911" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1140.0">
+						<Description>Serbia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729913" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Scotland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729915" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Wales</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729914" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Macedonia</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612758" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group B</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174779">
+					<Occurrence bet_id="36729916" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.5" oc_maxbet="4000.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729918" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="500.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729917" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="440.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729919" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Bulgaria</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729920" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Armenia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729921" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Malta</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612759" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group C</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174780">
+					<Occurrence bet_id="36729922" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.5" oc_maxbet="8000.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729923" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="440.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729924" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729925" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Austria</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729927" lp_num="2500" lp_den="1" decimal="2501"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Kazakhstan</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729926" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Faroe Islands</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612760" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group D</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174781">
+					<Occurrence bet_id="36729928" lp_num="1" lp_den="5" decimal="1.2"  oc_minbet="0.5" oc_maxbet="10000.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729929" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Turkey</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729931" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>Romania</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729930" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Hungary</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729932" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Estonia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729933" lp_num="10000" lp_den="1" decimal="10001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Andorra</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612761" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group E</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174782">
+					<Occurrence bet_id="36729936" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="1450.0">
+						<Description>Switzerland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729934" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.5" oc_maxbet="1230.0">
+						<Description>Norway</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729935" lp_num="10" lp_den="3" decimal="4.3333333333333"  oc_minbet="0.5" oc_maxbet="600.0">
+						<Description>Slovenia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729938" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Cyprus</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729939" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Iceland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729937" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Albania</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612762" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group F</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174783">
+					<Occurrence bet_id="36729940" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.5" oc_maxbet="3250.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729941" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.5" oc_maxbet="1140.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729942" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Israel</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729943" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Northern Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729944" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Azerbaijan</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729945" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Luxembourg</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612763" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group G</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174784">
+					<Occurrence bet_id="36729946" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1000.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729947" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1000.0">
+						<Description>Slovakia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729948" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1000.0">
+						<Description>Bosnia &amp; Herzegovina</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729950" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Latvia</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729949" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Lithuania</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729951" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Liechtenstein</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612764" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group H</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174785">
+					<Occurrence bet_id="36729952" lp_num="2" lp_den="5" decimal="1.4"  oc_minbet="0.5" oc_maxbet="5000.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729954" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="440.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729953" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Montenegro</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729955" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729956" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Moldova</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729957" lp_num="10000" lp_den="1" decimal="10001"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>San Marino</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-07-01 18:00:00" ev_id="2612765" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014 - Group I</Description>
+				<Market mkt_typ="Group Winner" lp_avail="Y" sp_avail="N" mkt_id="6174786">
+					<Occurrence bet_id="36729958" lp_num="2" lp_den="7" decimal="1.2857142857143"  oc_minbet="0.5" oc_maxbet="6990.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729959" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.5" oc_maxbet="800.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729960" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Belarus</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729962" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Finland</Description>
+					</Occurrence>
+					<Occurrence bet_id="36729961" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="25.0">
+						<Description>Georgia</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4748" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Olympics Men</Title>
+			<Event start_time="2012-07-26 12:00:00" ev_id="3175997" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Olympics Men 2012</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/2 odds" mkt_id="8299200">
+					<Occurrence bet_id="48501133" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.5" oc_maxbet="1330.0">
+						<Description>Brazil U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501134" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="730.0">
+						<Description>Spain U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501135" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Great Britain U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501136" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Uruguay U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501137" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Switzerland U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501138" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>Mexico U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501139" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Japan U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501140" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Egypt U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501145" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Gabon U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501142" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Belarus U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501141" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>South Korea U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501143" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Morocco U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501144" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Senegal U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501146" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Honduras U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501148" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>United Arab Emirates U23</Description>
+					</Occurrence>
+					<Occurrence bet_id="48501147" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>New Zealand U23</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4382" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>English Premier League</Title>
+			<Event start_time="2012-08-01 15:00:00" ev_id="3218814" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>English Premier League 2012-2013</Description>
+				<Market mkt_typ="Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/3 odds" mkt_id="8484115">
+					<Occurrence bet_id="49436068" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="3330.0">
+						<Description>Manchester City</Description>
+					</Occurrence>
+					<Occurrence bet_id="49436071" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="2660.0">
+						<Description>Manchester United</Description>
+					</Occurrence>
+					<Occurrence bet_id="49436072" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="1110.0">
+						<Description>Chelsea</Description>
+					</Occurrence>
+					<Occurrence bet_id="49436070" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Arsenal</Description>
+					</Occurrence>
+					<Occurrence bet_id="49436067" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Tottenham Hotspur</Description>
+					</Occurrence>
+					<Occurrence bet_id="49436073" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Liverpool</Description>
+					</Occurrence>
+					<Occurrence bet_id="49436069" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Newcastle United</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4425" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>World Cup</Title>
+			<Event start_time="2012-08-11 18:00:00" ev_id="2265925" ev_minbet="0.5" ev_maxbet="500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>World Cup 2014</Description>
+				<Market mkt_typ="Outright Winner" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/2 odds" mkt_id="3935817">
+					<Occurrence bet_id="29151501" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.5" oc_maxbet="1140.0">
+						<Description>Brazil</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151500" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="890.0">
+						<Description>Spain</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151502" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="730.0">
+						<Description>Argentina</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151503" lp_num="8" lp_den="1" decimal="9"  oc_minbet="0.5" oc_maxbet="500.0">
+						<Description>Germany</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151505" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>Holland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151504" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="290.0">
+						<Description>England</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151506" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>Italy</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151507" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>France</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151553" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Uruguay</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151508" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Portugal</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151513" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Chile</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151547" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Russia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151551" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>USA</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151524" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Paraguay</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151544" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Ivory Coast</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151520" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Mexico</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151548" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Serbia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151515" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Croatia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151517" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Ghana</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151514" lp_num="100" lp_den="1" decimal="101"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Colombia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151516" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Ecuador</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151511" lp_num="125" lp_den="1" decimal="126"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Belgium</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151519" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Japan</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151538" lp_num="175" lp_den="1" decimal="176"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Czech Republic</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151512" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Cameroon</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151549" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Sweden</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151552" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Ukraine</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151534" lp_num="200" lp_den="1" decimal="201"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Turkey</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151545" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Nigeria</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151510" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Australia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151550" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Switzerland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151539" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Denmark</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151531" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>South Korea</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151525" lp_num="300" lp_den="1" decimal="301"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Poland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151528" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Slovakia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151536" lp_num="400" lp_den="1" decimal="401"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Bosnia-Herzegovina</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151543" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151523" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Norway</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151541" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Greece</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151526" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Romania</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151540" lp_num="500" lp_den="1" decimal="501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Egypt</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151530" lp_num="750" lp_den="1" decimal="751"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>South Africa</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151529" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Slovenia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151527" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Scotland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151533" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Tunisia</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151509" lp_num="1000" lp_den="1" decimal="1001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Algeria</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151518" lp_num="1500" lp_den="1" decimal="1501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Jamaica</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151555" lp_num="2000" lp_den="1" decimal="2001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>China</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151537" lp_num="2000" lp_den="1" decimal="2001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Costa Rica</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151521" lp_num="2500" lp_den="1" decimal="2501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>New Zealand</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151542" lp_num="2500" lp_den="1" decimal="2501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Honduras</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151532" lp_num="4000" lp_den="1" decimal="4001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Trinidad &amp; Tobago</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151554" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Finland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151546" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>North Korea</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151522" lp_num="5000" lp_den="1" decimal="5001"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Northern Ireland</Description>
+					</Occurrence>
+					<Occurrence bet_id="29151535" lp_num="7500" lp_den="1" decimal="7501"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Wales</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4407" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Champions League</Title>
+			<Event start_time="2012-09-01 19:45:00" ev_id="3085838" ev_minbet="0.5" ev_maxbet="1000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="0" class="0">
+				<Description>Champions League 2012-2013</Description>
+				<Market mkt_typ="Winning Country" lp_avail="Y" sp_avail="N" mkt_id="7915021">
+					<Occurrence bet_id="46490237" lp_num="15" lp_den="8" decimal="2.875"  oc_minbet="0.5" oc_maxbet="500.0">
+						<Description>England</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+	</Class>
+</BSQCUBS>

@@ -1,0 +1,2621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BSQCUBS Version="0.04" Date="Thu May 17 10:17:07 BST 2012" MachineDate="Thu, 17 May 2012 10:17:12 +0100">
+	<Class class_id="136">
+		<Title>Basketball</Title>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-17 15:00:00" ev_id="3112872" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Ukrainian FBU Superleague</Description>
+				<Market mkt_typ="Ukrainian Superleague" lp_avail="Y" sp_avail="N" mkt_id="8025027">
+					<Occurrence bet_id="47069483" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.1" oc_maxbet="630.0">
+						<Description>BC Donetsk</Description>
+					</Occurrence>
+					<Occurrence bet_id="47069484" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>BC Azovmash</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 16:15:00" ev_id="2747897" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>German Bundesliga - Winner</Description>
+				<Market mkt_typ="German Bundesliga" lp_avail="Y" sp_avail="N" mkt_id="6634743">
+					<Occurrence bet_id="39433995" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="5" decimal="1.4"  oc_minbet="0.5" oc_maxbet="2500.0">
+						<Description>Brose Baskets Bamberg</Description>
+					</Occurrence>
+					<Occurrence bet_id="39433994" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.5" oc_maxbet="220.0">
+						<Description>Ulm</Description>
+					</Occurrence>
+					<Occurrence bet_id="39434002" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="100.0">
+						<Description>Artland Dragons Quackenbrueck</Description>
+					</Occurrence>
+					<Occurrence bet_id="39434007" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>S.Oliver Wuerzburg</Description>
+					</Occurrence>
+					<Occurrence bet_id="39434000" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Bayern Munchen</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4541" type_minbet="0.1" type_maxbet="600.0">
+			<Title>German Bundesliga</Title>
+			<Event start_time="2012-05-17 16:15:00" ev_id="3224714" ev_minbet="0.1" ev_maxbet="600.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Artland Dragons Quackenbruck v Bayern Munich</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8515707">
+					<Occurrence bet_id="49631781" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="660.0">
+						<Description>Artland Dragons Quackenbruck -4</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631782" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Bayern Munich +4</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8515738">
+					<Occurrence bet_id="49581507" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.1" oc_maxbet="1410.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581508" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="540.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8515829">
+					<Occurrence bet_id="49581918" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.1" oc_maxbet="1750.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581920" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.1" oc_maxbet="670.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581919" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8515842">
+					<Occurrence bet_id="49581924" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 153.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581921" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Under 153.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8515843">
+					<Occurrence bet_id="49581925" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Odd</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581926" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Even</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526263">
+					<Occurrence bet_id="49631635" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 38</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631630" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 38</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526264">
+					<Occurrence bet_id="49631631" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631633" runner_num="" sp_num="" sp_den="" lp_num="23" lp_den="20" decimal="2.15"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631638" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8526265">
+					<Occurrence bet_id="49631632" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Artland Dragons Quackenbruck/Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631666" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="5" decimal="3.2"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Bayern Munich/Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631656" runner_num="" sp_num="" sp_den="" lp_num="24" lp_den="5" decimal="5.8"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Bayern Munich/Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631641" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Artland Dragons Quackenbruck/Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631646" runner_num="" sp_num="" sp_den="" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw/Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631652" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw/Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631637" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Artland Dragons Quackenbruck/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631662" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Bayern Munich/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631649" runner_num="" sp_num="" sp_den="" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw/Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526266">
+					<Occurrence bet_id="49631636" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="250.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631639" runner_num="" sp_num="" sp_den="" lp_num="23" lp_den="20" decimal="2.15"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631643" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526267">
+					<Occurrence bet_id="49631640" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.5" oc_maxbet="300.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631644" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526268">
+					<Occurrence bet_id="49631645" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.5" oc_maxbet="300.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631647" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526269">
+					<Occurrence bet_id="49631648" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 38</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631651" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 38</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8526270">
+					<Occurrence bet_id="49631659" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Artland Dragons Quackenbruck by 10 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631655" runner_num="" sp_num="" sp_den="" lp_num="23" lp_den="10" decimal="3.3"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Artland Dragons Quackenbruck by 1 - 9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631650" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Bayern Munich by 6 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631653" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Bayern Munich by 1 - 5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631661" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526271">
+					<Occurrence bet_id="49631654" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="10" decimal="1.7"  oc_minbet="0.5" oc_maxbet="290.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631658" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631664" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526272">
+					<Occurrence bet_id="49631657" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="10" decimal="1.7"  oc_minbet="0.5" oc_maxbet="290.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631660" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631663" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Bayern Munich Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526273">
+					<Occurrence bet_id="49631668" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 75</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631665" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 75</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526274">
+					<Occurrence bet_id="49631670" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Bayern Munich +1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631667" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Artland Dragons Quackenbruck -1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526275">
+					<Occurrence bet_id="49631669" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631672" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526276">
+					<Occurrence bet_id="49631674" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Bayern Munich +1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631671" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Artland Dragons Quackenbruck -1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526277">
+					<Occurrence bet_id="49631676" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 76.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631673" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 76.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526278">
+					<Occurrence bet_id="49631675" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 76.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631679" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 76.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526279">
+					<Occurrence bet_id="49631677" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631678" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8526280">
+					<Occurrence bet_id="49631680" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>Artland Dragons Quackenbruck</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631682" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.5" oc_maxbet="160.0">
+						<Description>Bayern Munich</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526281">
+					<Occurrence bet_id="49631772" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Artland Dragons Quackenbruck -2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631776" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Bayern Munich +2</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526282">
+					<Occurrence bet_id="49631783" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Artland Dragons Quackenbruck -2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631784" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Bayern Munich +2</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4546" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Russian PBL</Title>
+			<Event start_time="2012-05-17 17:00:00" ev_id="3226933" ev_minbet="0.1" ev_maxbet="600.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>CSKA Moscow v BC Khimki Moscow Region</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8526283">
+					<Occurrence bet_id="49631696" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="9" decimal="1.1111111111111"  oc_minbet="0.1" oc_maxbet="6760.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631697" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8526284">
+					<Occurrence bet_id="49631701" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>BC Khimki Moscow Region +10</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631698" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>CSKA Moscow -10</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526285">
+					<Occurrence bet_id="49631699" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="450.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631702" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526286">
+					<Occurrence bet_id="49631700" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Under 151</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631705" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 151</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526287">
+					<Occurrence bet_id="49631703" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="10" decimal="1.3"  oc_minbet="0.1" oc_maxbet="670.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631706" runner_num="" sp_num="" sp_den="" lp_num="31" lp_den="10" decimal="4.1"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631709" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526288">
+					<Occurrence bet_id="49631704" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="450.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631707" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526289">
+					<Occurrence bet_id="49631708" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="10" decimal="1.3"  oc_minbet="0.1" oc_maxbet="670.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631711" runner_num="" sp_num="" sp_den="" lp_num="31" lp_den="10" decimal="4.1"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631714" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526290">
+					<Occurrence bet_id="49631710" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="450.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631712" runner_num="" sp_num="" sp_den="" lp_num="21" lp_den="10" decimal="3.1"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631716" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526291">
+					<Occurrence bet_id="49631713" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 37.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631717" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 37.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526292">
+					<Occurrence bet_id="49631715" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 37.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631719" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 37.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526293">
+					<Occurrence bet_id="49631718" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="450.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631720" runner_num="" sp_num="" sp_den="" lp_num="21" lp_den="10" decimal="3.1"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631722" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8526294">
+					<Occurrence bet_id="49631721" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.1" oc_maxbet="800.0">
+						<Description>CSKA Moscow/CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631742" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>BC Khimki Moscow Region/CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631749" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>BC Khimki Moscow Region/BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631729" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>CSKA Moscow/BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631733" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631747" runner_num="" sp_num="" sp_den="" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>BC Khimki Moscow Region/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631724" runner_num="" sp_num="" sp_den="" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>CSKA Moscow/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631741" runner_num="" sp_num="" sp_den="" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631736" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8526295">
+					<Occurrence bet_id="49631731" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="320.0">
+						<Description>CSKA Moscow by 1 - 14 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631734" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>CSKA Moscow by 15 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631723" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>BC Khimki Moscow Region by 4 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631726" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>BC Khimki Moscow Region by 1 - 3 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631739" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8526296">
+					<Occurrence bet_id="49631725" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="8" decimal="1.125"  oc_minbet="0.1" oc_maxbet="3850.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631728" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.1" oc_maxbet="90.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631732" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526297">
+					<Occurrence bet_id="49631737" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 75.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631727" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 75.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526298">
+					<Occurrence bet_id="49631730" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 75.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631738" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 75.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="CSKA Moscow Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526299">
+					<Occurrence bet_id="49631745" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 80.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631735" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 80.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526300">
+					<Occurrence bet_id="49631744" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>BC Khimki Moscow Region +5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631740" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>CSKA Moscow -5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526301">
+					<Occurrence bet_id="49631743" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>CSKA Moscow -5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631751" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>BC Khimki Moscow Region +5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526302">
+					<Occurrence bet_id="49631750" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>BC Khimki Moscow Region +2.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631746" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>CSKA Moscow -2.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526303">
+					<Occurrence bet_id="49631748" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.1" oc_maxbet="380.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631753" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526304">
+					<Occurrence bet_id="49631752" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.1" oc_maxbet="380.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631754" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526305">
+					<Occurrence bet_id="49631755" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>CSKA Moscow -2.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631760" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>BC Khimki Moscow Region +2.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8526306">
+					<Occurrence bet_id="49631756" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="3" decimal="1.3333333333333"  oc_minbet="0.1" oc_maxbet="610.0">
+						<Description>CSKA Moscow</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631758" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="4" decimal="3.25"  oc_minbet="0.1" oc_maxbet="90.0">
+						<Description>BC Khimki Moscow Region</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="BC Khimki Moscow Region Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526307">
+					<Occurrence bet_id="49631757" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 70.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631759" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 70.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8526308">
+					<Occurrence bet_id="49631762" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Even</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631761" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Odd</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-17 18:00:00" ev_id="2746103" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Turkish TBL - Winner</Description>
+				<Market mkt_typ="Turkish TBL" lp_avail="Y" sp_avail="N" mkt_id="6629548">
+					<Occurrence bet_id="39402824" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.5" oc_maxbet="680.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="39402818" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="5" decimal="2.6"  oc_minbet="0.5" oc_maxbet="470.0">
+						<Description>Anadolu Efes Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="39402825" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="39402829" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>Banvit Bandirma</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4529" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Turkish TBL</Title>
+			<Event start_time="2012-05-17 18:00:00" ev_id="3224699" ev_minbet="0.1" ev_maxbet="600.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Galatasaray Istanbul v Besiktas Istanbul</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8515656">
+					<Occurrence bet_id="49631807" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="660.0">
+						<Description>Galatasaray Istanbul -5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631815" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Besiktas Istanbul +5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8515669">
+					<Occurrence bet_id="49581275" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="5" decimal="1.4"  oc_minbet="0.1" oc_maxbet="1880.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581276" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="5" decimal="2.8"  oc_minbet="0.1" oc_maxbet="420.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8515670">
+					<Occurrence bet_id="49581277" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="2250.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581279" runner_num="" sp_num="" sp_den="" lp_num="15" lp_den="8" decimal="2.875"  oc_minbet="0.1" oc_maxbet="530.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581278" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8515671">
+					<Occurrence bet_id="49631814" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 150</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631805" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Under 150</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8515672">
+					<Occurrence bet_id="49581283" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Even</Description>
+					</Occurrence>
+					<Occurrence bet_id="49581282" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Odd</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526311">
+					<Occurrence bet_id="49631801" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="320.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631803" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="5" decimal="2.2"  oc_minbet="0.1" oc_maxbet="170.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526312">
+					<Occurrence bet_id="49631802" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="320.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631806" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631810" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526313">
+					<Occurrence bet_id="49631804" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="320.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631808" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631811" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526314">
+					<Occurrence bet_id="49631809" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="320.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631812" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="5" decimal="2.2"  oc_minbet="0.1" oc_maxbet="170.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8526315">
+					<Occurrence bet_id="49631822" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.1" oc_maxbet="130.0">
+						<Description>Galatasaray Istanbul by 10 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631819" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="5" decimal="2.8"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>Galatasaray Istanbul by 1 - 9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631813" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="5" decimal="4.6"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>Besiktas Istanbul by 6 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631817" runner_num="" sp_num="" sp_den="" lp_num="24" lp_den="5" decimal="5.8"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Besiktas Istanbul by 1 - 5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631827" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8526316">
+					<Occurrence bet_id="49631816" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.1" oc_maxbet="270.0">
+						<Description>Galatasaray Istanbul/Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631847" runner_num="" sp_num="" sp_den="" lp_num="29" lp_den="10" decimal="3.9"  oc_minbet="0.1" oc_maxbet="70.0">
+						<Description>Besiktas Istanbul/Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631840" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Besiktas Istanbul/Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631824" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="2" decimal="9.5"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Galatasaray Istanbul/Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631830" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631820" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Galatasaray Istanbul/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631836" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631843" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Besiktas Istanbul/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631833" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526317">
+					<Occurrence bet_id="49631818" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 37.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631829" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 37.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526318">
+					<Occurrence bet_id="49631821" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.1" oc_maxbet="270.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631823" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="10" decimal="2.3"  oc_minbet="0.1" oc_maxbet="150.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631826" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526319">
+					<Occurrence bet_id="49631825" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.1" oc_maxbet="270.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631828" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="10" decimal="2.3"  oc_minbet="0.1" oc_maxbet="150.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631832" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526320">
+					<Occurrence bet_id="49631837" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 37.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631831" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 37.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526321">
+					<Occurrence bet_id="49631834" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 74.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631839" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 74.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526322">
+					<Occurrence bet_id="49631835" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Galatasaray Istanbul -2.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631841" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Besiktas Istanbul +2.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526323">
+					<Occurrence bet_id="49631838" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Galatasaray Istanbul -2.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631846" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Besiktas Istanbul +2.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526324">
+					<Occurrence bet_id="49631845" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 74.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631842" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 74.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Galatasaray Istanbul Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526325">
+					<Occurrence bet_id="49631844" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 77.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631849" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 77.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8526326">
+					<Occurrence bet_id="49631848" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.1" oc_maxbet="380.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631851" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526327">
+					<Occurrence bet_id="49631853" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Besiktas Istanbul +1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631850" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Galatasaray Istanbul -1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526328">
+					<Occurrence bet_id="49631852" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Galatasaray Istanbul -1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631855" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Besiktas Istanbul +1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526329">
+					<Occurrence bet_id="49631854" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631857" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526330">
+					<Occurrence bet_id="49631856" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Galatasaray Istanbul</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631858" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Besiktas Istanbul</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Besiktas Istanbul Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526331">
+					<Occurrence bet_id="49631859" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 72.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631860" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 72.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4134" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Spanish ACB</Title>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220547" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Baskonia Vitoria v Bizkaia Bilbao Basket</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8492497">
+					<Occurrence bet_id="49477443" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="3" decimal="1.3333333333333"  oc_minbet="0.5" oc_maxbet="3000.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477447" runner_num="" sp_num="" sp_den="" lp_num="23" lp_den="10" decimal="3.3"  oc_minbet="0.5" oc_maxbet="430.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220548" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Valencia Baloncesto v Gipuzkoa BC San Sebastian</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8492498">
+					<Occurrence bet_id="49477444" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="3" decimal="1.3333333333333"  oc_minbet="0.5" oc_maxbet="3000.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477448" runner_num="" sp_num="" sp_den="" lp_num="23" lp_den="10" decimal="3.3"  oc_minbet="0.5" oc_maxbet="430.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220547" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Baskonia Vitoria v Bizkaia Bilbao Basket</Description>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8492501">
+					<Occurrence bet_id="49477431" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="11" decimal="1.3636363636364"  oc_minbet="0.5" oc_maxbet="4120.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477435" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.5" oc_maxbet="630.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477439" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220548" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Valencia Baloncesto v Gipuzkoa BC San Sebastian</Description>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8492502">
+					<Occurrence bet_id="49477432" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="11" decimal="1.3636363636364"  oc_minbet="0.5" oc_maxbet="4120.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477436" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.5" oc_maxbet="630.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477440" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220547" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Baskonia Vitoria v Bizkaia Bilbao Basket</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8492505">
+					<Occurrence bet_id="49630468" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Bizkaia Bilbao Basket +6.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49630467" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="830.0">
+						<Description>Baskonia Vitoria -6.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220548" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Valencia Baloncesto v Gipuzkoa BC San Sebastian</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8492506">
+					<Occurrence bet_id="49477452" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Valencia Baloncesto -6.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477456" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Gipuzkoa BC San Sebastian +6.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220547" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Baskonia Vitoria v Bizkaia Bilbao Basket</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8492509">
+					<Occurrence bet_id="49631686" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="390.0">
+						<Description>Under 147.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631688" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 147.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220548" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Valencia Baloncesto v Gipuzkoa BC San Sebastian</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8492510">
+					<Occurrence bet_id="49631790" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="390.0">
+						<Description>Under 146.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631792" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 146.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220547" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Baskonia Vitoria v Bizkaia Bilbao Basket</Description>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8492513">
+					<Occurrence bet_id="49477467" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Odd</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477471" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Even</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220548" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Valencia Baloncesto v Gipuzkoa BC San Sebastian</Description>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8492514">
+					<Occurrence bet_id="49477468" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Odd</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477472" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Even</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220547" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Baskonia Vitoria v Bizkaia Bilbao Basket</Description>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8525673">
+					<Occurrence bet_id="49629704" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629705" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="160.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8525674">
+					<Occurrence bet_id="49629706" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629708" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="160.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8525675">
+					<Occurrence bet_id="49629707" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.1" oc_maxbet="400.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629709" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="10" decimal="2.7"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629712" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8525676">
+					<Occurrence bet_id="49629711" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629714" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629715" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8525677">
+					<Occurrence bet_id="49629729" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="160.0">
+						<Description>Baskonia Vitoria by 10 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629724" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>Baskonia Vitoria by 1 - 9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629716" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Bizkaia Bilbao Basket by 6 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629721" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Bizkaia Bilbao Basket by 1 - 5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629733" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8525678">
+					<Occurrence bet_id="49629718" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="5" decimal="1.6"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Baskonia Vitoria/Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629746" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="5" decimal="4.6"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>Bizkaia Bilbao Basket/Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629740" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Bizkaia Bilbao Basket/Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629726" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Baskonia Vitoria/Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629731" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629722" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Baskonia Vitoria/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629744" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Bizkaia Bilbao Basket/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629738" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629735" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8525679">
+					<Occurrence bet_id="49629720" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629723" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629727" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8525680">
+					<Occurrence bet_id="49629725" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.1" oc_maxbet="400.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629728" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="10" decimal="2.7"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629732" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8525681">
+					<Occurrence bet_id="49631687" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 36.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631690" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 36.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8525682">
+					<Occurrence bet_id="49631691" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 36.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631689" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 36.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8525683">
+					<Occurrence bet_id="49631242" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 73.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631246" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 73.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8525684">
+					<Occurrence bet_id="49631247" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 73.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631244" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 73.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8525685">
+					<Occurrence bet_id="49629748" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Bizkaia Bilbao Basket +3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629743" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Baskonia Vitoria -3</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8525686">
+					<Occurrence bet_id="49629750" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Bizkaia Bilbao Basket +1.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629745" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Baskonia Vitoria -1.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Baskonia Vitoria Total Points" lp_avail="Y" sp_avail="N" mkt_id="8525687">
+					<Occurrence bet_id="49631693" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 77</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631692" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 77</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8525688">
+					<Occurrence bet_id="49629755" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Bizkaia Bilbao Basket +1.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629751" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Baskonia Vitoria -1.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8525689">
+					<Occurrence bet_id="49630471" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Baskonia Vitoria -3.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49630472" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Bizkaia Bilbao Basket +3.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8525690">
+					<Occurrence bet_id="49629754" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="450.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629757" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8525691">
+					<Occurrence bet_id="49629758" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629760" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8525692">
+					<Occurrence bet_id="49629759" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="49629761" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Bizkaia Bilbao Basket</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Bizkaia Bilbao Basket Total Points" lp_avail="Y" sp_avail="N" mkt_id="8525693">
+					<Occurrence bet_id="49631694" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 70.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631695" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 70.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3220548" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Valencia Baloncesto v Gipuzkoa BC San Sebastian</Description>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8526138">
+					<Occurrence bet_id="49631248" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="320.0">
+						<Description>Valencia Baloncesto/Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631279" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="2" decimal="4.5"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>Gipuzkoa BC San Sebastian/Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631271" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Gipuzkoa BC San Sebastian/Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631254" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Valencia Baloncesto/Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631258" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631250" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Valencia Baloncesto/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631275" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Gipuzkoa BC San Sebastian/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631268" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631262" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8526139">
+					<Occurrence bet_id="49631259" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="160.0">
+						<Description>Valencia Baloncesto by 10 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631255" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>Valencia Baloncesto by 1 - 9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631249" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Gipuzkoa BC San Sebastian by 6 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631251" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Gipuzkoa BC San Sebastian by 1 - 5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631266" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526140">
+					<Occurrence bet_id="49631252" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631257" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="160.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526141">
+					<Occurrence bet_id="49631256" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631260" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631264" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526142">
+					<Occurrence bet_id="49631261" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="7" decimal="1.5714285714286"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631267" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="160.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526143">
+					<Occurrence bet_id="49631265" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631269" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.1" oc_maxbet="140.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631272" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526144">
+					<Occurrence bet_id="49631274" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 36.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631270" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 36.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526145">
+					<Occurrence bet_id="49631273" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.1" oc_maxbet="400.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631277" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="10" decimal="2.7"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631282" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526146">
+					<Occurrence bet_id="49631276" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.1" oc_maxbet="400.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631278" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="10" decimal="2.7"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631281" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526147">
+					<Occurrence bet_id="49631280" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 36.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631284" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 36.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526148">
+					<Occurrence bet_id="49631286" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 73</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631283" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 73</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526149">
+					<Occurrence bet_id="49631285" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Valencia Baloncesto -1.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631290" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Gipuzkoa BC San Sebastian +1.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8526150">
+					<Occurrence bet_id="49631287" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.1" oc_maxbet="450.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631289" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.1" oc_maxbet="120.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526151">
+					<Occurrence bet_id="49631288" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 73</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631293" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 73</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Valencia Baloncesto Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526152">
+					<Occurrence bet_id="49631794" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 76.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631793" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 76.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526153">
+					<Occurrence bet_id="49631296" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Gipuzkoa BC San Sebastian +1.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631292" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Valencia Baloncesto -1.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526154">
+					<Occurrence bet_id="49631294" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631298" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526155">
+					<Occurrence bet_id="49631791" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Gipuzkoa BC San Sebastian +3.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631789" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Valencia Baloncesto -3.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526156">
+					<Occurrence bet_id="49631299" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Valencia Baloncesto -3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631303" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Gipuzkoa BC San Sebastian +3</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526157">
+					<Occurrence bet_id="49631301" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="300.0">
+						<Description>Valencia Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631302" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Gipuzkoa BC San Sebastian</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4143" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Italian Lega 1</Title>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224748" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Dinamo Sassari v Virtus Bologna</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8515866">
+					<Occurrence bet_id="49582180" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="9" decimal="1.4444444444444"  oc_minbet="0.5" oc_maxbet="1140.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582184" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="4" decimal="2.75"  oc_minbet="0.5" oc_maxbet="290.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224749" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Mens Sana Siena v Varese</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8515867">
+					<Occurrence bet_id="49582181" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="25" decimal="1.04"  oc_minbet="0.5" oc_maxbet="18750.0">
+						<Description>Mens Sana Siena</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582185" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="1" decimal="10"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Varese</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224748" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Dinamo Sassari v Virtus Bologna</Description>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8515870">
+					<Occurrence bet_id="49582168" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="2" decimal="1.5"  oc_minbet="0.5" oc_maxbet="1000.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582172" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="10" decimal="2.9"  oc_minbet="0.5" oc_maxbet="260.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582176" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224749" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Mens Sana Siena v Varese</Description>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8515871">
+					<Occurrence bet_id="49582169" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="22" decimal="1.0454545454545"  oc_minbet="0.5" oc_maxbet="16670.0">
+						<Description>Mens Sana Siena</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582173" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Varese</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582177" runner_num="" sp_num="" sp_den="" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224748" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Dinamo Sassari v Virtus Bologna</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8515874">
+					<Occurrence bet_id="49631868" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Dinamo Sassari -5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631874" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Virtus Bologna +5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224749" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Mens Sana Siena v Varese</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8515875">
+					<Occurrence bet_id="49582189" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="560.0">
+						<Description>Mens Sana Siena -14.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582193" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="560.0">
+						<Description>Varese +14.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224748" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Dinamo Sassari v Virtus Bologna</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8515878">
+					<Occurrence bet_id="49631872" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 154</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631866" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Under 154</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224749" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Mens Sana Siena v Varese</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8515879">
+					<Occurrence bet_id="49582197" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="340.0">
+						<Description>Under 149.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582201" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="340.0">
+						<Description>Over 149.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224748" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Dinamo Sassari v Virtus Bologna</Description>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8515882">
+					<Occurrence bet_id="49582204" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Odd</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582208" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Even</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224749" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Mens Sana Siena v Varese</Description>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8515883">
+					<Occurrence bet_id="49582205" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Odd</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582209" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Even</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="3224748" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Dinamo Sassari v Virtus Bologna</Description>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526332">
+					<Occurrence bet_id="49631863" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631865" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="5" decimal="2.2"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526333">
+					<Occurrence bet_id="49631864" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631867" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631870" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526334">
+					<Occurrence bet_id="49631869" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631871" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="5" decimal="2.2"  oc_minbet="0.5" oc_maxbet="170.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526335">
+					<Occurrence bet_id="49631873" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631876" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="5" decimal="2.4"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631878" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8526336">
+					<Occurrence bet_id="49631883" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.5" oc_maxbet="130.0">
+						<Description>Dinamo Sassari by 10 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631880" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="5" decimal="2.8"  oc_minbet="0.5" oc_maxbet="110.0">
+						<Description>Dinamo Sassari by 1 - 9 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631875" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="5" decimal="4.6"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Virtus Bologna by 6 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631877" runner_num="" sp_num="" sp_den="" lp_num="24" lp_den="5" decimal="5.8"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Virtus Bologna by 1 - 5 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631886" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8526337">
+					<Occurrence bet_id="49631879" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Dinamo Sassari/Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631904" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="5" decimal="3.8"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Virtus Bologna/Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631898" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Virtus Bologna/Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631885" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="2" decimal="9.5"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Dinamo Sassari/Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631887" runner_num="" sp_num="" sp_den="" lp_num="20" lp_den="1" decimal="21"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw/Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631895" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw/Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631901" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Virtus Bologna/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631881" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Dinamo Sassari/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631890" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Draw/Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526338">
+					<Occurrence bet_id="49631891" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 38.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631882" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 38.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526339">
+					<Occurrence bet_id="49631884" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631888" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="10" decimal="2.3"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631893" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526340">
+					<Occurrence bet_id="49631889" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="11" decimal="1.7272727272727"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631894" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="10" decimal="2.3"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631897" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526341">
+					<Occurrence bet_id="49631892" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 38.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631899" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 38.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526342">
+					<Occurrence bet_id="49631896" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 76.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631903" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 76.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526343">
+					<Occurrence bet_id="49631905" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Virtus Bologna +2.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631900" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Dinamo Sassari -2.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526344">
+					<Occurrence bet_id="49631902" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Under 76.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631907" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Over 76.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Dinamo Sassari Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526345">
+					<Occurrence bet_id="49631906" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 79.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631909" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 79.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526346">
+					<Occurrence bet_id="49631908" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Dinamo Sassari -2.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631914" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Virtus Bologna +2.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8526347">
+					<Occurrence bet_id="49631910" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.5" oc_maxbet="380.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631912" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="8" decimal="2.375"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526348">
+					<Occurrence bet_id="49631911" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Dinamo Sassari -1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631915" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Virtus Bologna +1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526349">
+					<Occurrence bet_id="49631913" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.5" oc_maxbet="300.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631916" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526350">
+					<Occurrence bet_id="49631919" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Virtus Bologna +1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631917" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.5" oc_maxbet="240.0">
+						<Description>Dinamo Sassari -1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526351">
+					<Occurrence bet_id="49631918" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.5" oc_maxbet="300.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631921" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="10" decimal="2.1"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Virtus Bologna Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526352">
+					<Occurrence bet_id="49631920" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 74.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631922" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 74.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-17 19:30:00" ev_id="2741486" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Spanish ACB - Winner</Description>
+				<Market mkt_typ="Spanish ACB" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/3 odds" mkt_id="6612688">
+					<Occurrence bet_id="39311444" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="15" decimal="1.5333333333333"  oc_minbet="0.5" oc_maxbet="4690.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311456" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.5" oc_maxbet="1250.0">
+						<Description>Real Madrid</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311457" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="2" decimal="9.5"  oc_minbet="0.5" oc_maxbet="290.0">
+						<Description>Baskonia Vitoria</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311459" runner_num="" sp_num="" sp_den="" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Valencia B.C.</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311445" runner_num="" sp_num="" sp_den="" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Bizkaia Bilbao</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311449" runner_num="" sp_num="" sp_den="" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Gipuzkoa GBC</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311458" runner_num="" sp_num="" sp_den="" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Sevilla</Description>
+					</Occurrence>
+					<Occurrence bet_id="39311443" runner_num="" sp_num="" sp_den="" lp_num="250" lp_den="1" decimal="251"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-17 19:30:00" ev_id="2745726" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Italian Lega Uno - Winner</Description>
+				<Market mkt_typ="Italian Lega Uno" lp_avail="Y" sp_avail="N" ew_desc="Each-way bets on 2 places at 1/3 odds" mkt_id="6628864">
+					<Occurrence bet_id="39398737" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="10" decimal="1.3"  oc_minbet="0.5" oc_maxbet="3330.0">
+						<Description>Mens Sana Siena</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398724" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.5" oc_maxbet="330.0">
+						<Description>Olimpia Milano</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398728" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="2" decimal="9.5"  oc_minbet="0.5" oc_maxbet="120.0">
+						<Description>Pallacanestro Cantu'</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398734" runner_num="" sp_num="" sp_den="" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="30.0">
+						<Description>Virtus Bologna</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398729" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="20.0">
+						<Description>Scavolini Pesaro</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398736" runner_num="" sp_num="" sp_den="" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Dinamo Sassari</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398727" runner_num="" sp_num="" sp_den="" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Varese</Description>
+					</Occurrence>
+					<Occurrence bet_id="39398738" runner_num="" sp_num="" sp_den="" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.5" oc_maxbet="10.0">
+						<Description>Reyer Venezia</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4134" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Spanish ACB</Title>
+			<Event start_time="2012-05-17 19:45:00" ev_id="3220549" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Barcelona v Alicante</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8492499">
+					<Occurrence bet_id="49477445" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="66" decimal="1.0151515151515"  oc_minbet="0.5" oc_maxbet="10000.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477449" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="70.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8492503">
+					<Occurrence bet_id="49477433" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="40" decimal="1.025"  oc_minbet="0.5" oc_maxbet="10000.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477437" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="90.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477441" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8492507">
+					<Occurrence bet_id="49631575" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="830.0">
+						<Description>Barcelona -16.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631580" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Alicante +16.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8492511">
+					<Occurrence bet_id="49594698" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Under 138.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49594699" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Over 138.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8492515">
+					<Occurrence bet_id="49477473" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Even</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477469" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Odd</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526242">
+					<Occurrence bet_id="49631572" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="8" decimal="1.125"  oc_minbet="0.1" oc_maxbet="1540.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631574" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631577" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526243">
+					<Occurrence bet_id="49631573" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="7" decimal="1.2857142857143"  oc_minbet="0.1" oc_maxbet="690.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631576" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.1" oc_maxbet="80.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526244">
+					<Occurrence bet_id="49631578" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 34.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631583" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 34.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526245">
+					<Occurrence bet_id="49631579" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 34.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631585" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 34.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Winning Margin" lp_avail="Y" sp_avail="N" mkt_id="8526246">
+					<Occurrence bet_id="49631592" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.1" oc_maxbet="800.0">
+						<Description>Barcelona by 11 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631588" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.1" oc_maxbet="70.0">
+						<Description>Barcelona by 1 - 10 points</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631595" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631581" runner_num="" sp_num="" sp_den="" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Alicante by 4 points or more</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631584" runner_num="" sp_num="" sp_den="" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Alicante by 1 - 3 points</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526247">
+					<Occurrence bet_id="49631582" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="8" decimal="1.125"  oc_minbet="0.1" oc_maxbet="1540.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631586" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631589" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Race To 20 Points" lp_avail="Y" sp_avail="N" mkt_id="8526248">
+					<Occurrence bet_id="49631587" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="7" decimal="1.2857142857143"  oc_minbet="0.1" oc_maxbet="690.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631590" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.1" oc_maxbet="80.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Half-Time/Full Time" lp_avail="Y" sp_avail="N" mkt_id="8526249">
+					<Occurrence bet_id="49631591" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="14" decimal="1.0714285714286"  oc_minbet="0.1" oc_maxbet="2860.0">
+						<Description>Barcelona/Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631608" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Alicante/Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631598" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631615" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Alicante/Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631596" runner_num="" sp_num="" sp_den="" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Barcelona/Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631593" runner_num="" sp_num="" sp_den="" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Barcelona/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631611" runner_num="" sp_num="" sp_den="" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Alicante/Draw</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631606" runner_num="" sp_num="" sp_den="" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Draw/Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526250">
+					<Occurrence bet_id="49631594" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.1" oc_maxbet="800.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631599" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="3" decimal="4.3333333333333"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631604" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Winner" lp_avail="Y" sp_avail="N" mkt_id="8526251">
+					<Occurrence bet_id="49631597" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.1" oc_maxbet="800.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631600" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="3" decimal="4.3333333333333"  oc_minbet="0.1" oc_maxbet="60.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631603" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.1" oc_maxbet="20.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Barcelona Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526252">
+					<Occurrence bet_id="49631610" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 77.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631602" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 77.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526253">
+					<Occurrence bet_id="49631612" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 69</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631605" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 69</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526254">
+					<Occurrence bet_id="49631607" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Barcelona -8</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631616" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Alicante +8</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526255">
+					<Occurrence bet_id="49631609" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="11" decimal="1.3636363636364"  oc_minbet="0.1" oc_maxbet="560.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631613" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Race To 10 Points" lp_avail="Y" sp_avail="N" mkt_id="8526256">
+					<Occurrence bet_id="49631614" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="11" decimal="1.3636363636364"  oc_minbet="0.1" oc_maxbet="560.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631617" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="1" decimal="3"  oc_minbet="0.1" oc_maxbet="100.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526257">
+					<Occurrence bet_id="49631620" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Alicante +8</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631618" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Barcelona -8</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Second Half : Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526258">
+					<Occurrence bet_id="49631619" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 69</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631624" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 69</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Race To 50 Points" lp_avail="Y" sp_avail="N" mkt_id="8526259">
+					<Occurrence bet_id="49631621" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="8" decimal="1.125"  oc_minbet="0.1" oc_maxbet="1540.0">
+						<Description>Barcelona</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631623" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="2" decimal="5.5"  oc_minbet="0.1" oc_maxbet="40.0">
+						<Description>Alicante</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 2 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526260">
+					<Occurrence bet_id="49631626" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Alicante +4</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631622" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Barcelona -4</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Quarter 1 : Handicap" lp_avail="Y" sp_avail="N" mkt_id="8526261">
+					<Occurrence bet_id="49631628" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Alicante +4</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631625" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Barcelona -4</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Alicante Total Points" lp_avail="Y" sp_avail="N" mkt_id="8526262">
+					<Occurrence bet_id="49631627" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 61</Description>
+					</Occurrence>
+					<Occurrence bet_id="49631629" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 61</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-17 20:00:00" ev_id="2746087" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Greek A1 - Winner</Description>
+				<Market mkt_typ="Greek A1" lp_avail="Y" sp_avail="N" mkt_id="6629497">
+					<Occurrence bet_id="39401906" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="1250.0">
+						<Description>Panathinaikos</Description>
+					</Occurrence>
+					<Occurrence bet_id="39401907" runner_num="" sp_num="" sp_den="" lp_num="20" lp_den="21" decimal="1.952380952381"  oc_minbet="0.5" oc_maxbet="1050.0">
+						<Description>Olympiacos Piraeus</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4528" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Greek A1</Title>
+			<Event start_time="2012-05-17 20:00:00" ev_id="3223009" ev_minbet="0.1" ev_maxbet="600.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Olympiacos Piraeus  v Panathinaikos</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8505796">
+					<Occurrence bet_id="49537143" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.1" oc_maxbet="750.0">
+						<Description>Panathinaikos +3.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49537142" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.1" oc_maxbet="600.0">
+						<Description>Olympiacos Piraeus -3.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8505804">
+					<Occurrence bet_id="49537160" runner_num="" sp_num="" sp_den="" lp_num="8" lp_den="13" decimal="1.6153846153846"  oc_minbet="0.1" oc_maxbet="1220.0">
+						<Description>Olympiacos Piraeus</Description>
+					</Occurrence>
+					<Occurrence bet_id="49537174" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="5" decimal="2.2"  oc_minbet="0.1" oc_maxbet="630.0">
+						<Description>Panathinaikos</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8505812">
+					<Occurrence bet_id="49537177" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="6" decimal="1.6666666666667"  oc_minbet="0.1" oc_maxbet="2250.0">
+						<Description>Olympiacos Piraeus</Description>
+					</Occurrence>
+					<Occurrence bet_id="49537184" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="4" decimal="2.25"  oc_minbet="0.1" oc_maxbet="1200.0">
+						<Description>Panathinaikos</Description>
+					</Occurrence>
+					<Occurrence bet_id="49537178" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="110.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8505813">
+					<Occurrence bet_id="49537186" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.1" oc_maxbet="390.0">
+						<Description>Over 145.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49537185" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.1" oc_maxbet="390.0">
+						<Description>Under 145.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8505816">
+					<Occurrence bet_id="49537199" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Odd</Description>
+					</Occurrence>
+					<Occurrence bet_id="49537211" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.1" oc_maxbet="1050.0">
+						<Description>Even</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="1214" type_minbet="0.1" type_maxbet="600.0">
+			<Title>NBA</Title>
+			<Event start_time="2012-05-18 00:00:00" ev_id="3225282" ev_minbet="0.1" ev_maxbet="600.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Miami Heat at Indiana Pacers</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8517155">
+					<Occurrence bet_id="49628130" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Over 181.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49628131" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Under 181.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Home Team" lp_avail="Y" sp_avail="N" mkt_id="8517157">
+					<Occurrence bet_id="49628132" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 90</Description>
+					</Occurrence>
+					<Occurrence bet_id="49628133" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 90</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Away Team" lp_avail="Y" sp_avail="N" mkt_id="8517159">
+					<Occurrence bet_id="49594237" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 91.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49594236" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 91.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - 1st Quarter" lp_avail="Y" sp_avail="N" mkt_id="8517162">
+					<Occurrence bet_id="49628135" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 45</Description>
+					</Occurrence>
+					<Occurrence bet_id="49628134" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 45</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8517181">
+					<Occurrence bet_id="49594228" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="6" decimal="1.8333333333333"  oc_minbet="0.1" oc_maxbet="1200.0">
+						<Description>Miami Heat -1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49594229" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.1" oc_maxbet="1000.0">
+						<Description>Indiana Pacers +1</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8517188">
+					<Occurrence bet_id="49589362" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="6" decimal="1.8333333333333"  oc_minbet="0.1" oc_maxbet="1200.0">
+						<Description>Miami Heat</Description>
+					</Occurrence>
+					<Occurrence bet_id="49589363" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.1" oc_maxbet="1000.0">
+						<Description>Indiana Pacers</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Quarter Handicap" lp_avail="Y" sp_avail="N" mkt_id="8517189">
+					<Occurrence bet_id="49594231" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Indiana Pacers +0.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49594230" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Miami Heat -0.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Home Team Quarter 1" lp_avail="Y" sp_avail="N" mkt_id="8517191">
+					<Occurrence bet_id="49628136" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 22</Description>
+					</Occurrence>
+					<Occurrence bet_id="49628137" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 22</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Away Team Quarter 1" lp_avail="Y" sp_avail="N" mkt_id="8517192">
+					<Occurrence bet_id="49628138" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 23</Description>
+					</Occurrence>
+					<Occurrence bet_id="49628139" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 23</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-18 00:15:00" ev_id="2567925" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>NBA 2011-12 - Winner</Description>
+				<Market mkt_typ="NBA Championship" lp_avail="Y" sp_avail="N" mkt_id="4950248">
+					<Occurrence bet_id="35834245" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="10" decimal="2.7"  oc_minbet="0.5" oc_maxbet="2940.0">
+						<Description>Miami Heat</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834251" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="4" decimal="3.25"  oc_minbet="0.5" oc_maxbet="2220.0">
+						<Description>Oklahoma City Thunder</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834257" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.5" oc_maxbet="2080.0">
+						<Description>San Antonio Spurs</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834232" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="1" decimal="13"  oc_minbet="0.5" oc_maxbet="420.0">
+						<Description>Boston Celtics</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834241" runner_num="" sp_num="" sp_den="" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.5" oc_maxbet="230.0">
+						<Description>Indiana Pacers</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834243" runner_num="" sp_num="" sp_den="" lp_num="28" lp_den="1" decimal="29"  oc_minbet="0.5" oc_maxbet="180.0">
+						<Description>Los Angeles Lakers</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834253" runner_num="" sp_num="" sp_den="" lp_num="66" lp_den="1" decimal="67"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Philadelphia 76ers</Description>
+					</Occurrence>
+					<Occurrence bet_id="35834242" runner_num="" sp_num="" sp_den="" lp_num="80" lp_den="1" decimal="81"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Los Angeles Clippers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 00:15:00" ev_id="2908381" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Eastern Conference Winner</Description>
+				<Market mkt_typ="NBA Championship" lp_avail="Y" sp_avail="N" mkt_id="7217190">
+					<Occurrence bet_id="42709263" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="11" decimal="1.3636363636364"  oc_minbet="0.5" oc_maxbet="5490.0">
+						<Description>Miami Heat</Description>
+					</Occurrence>
+					<Occurrence bet_id="42709257" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="5" decimal="4.6"  oc_minbet="0.5" oc_maxbet="560.0">
+						<Description>Boston Celtics</Description>
+					</Occurrence>
+					<Occurrence bet_id="42709262" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="1" decimal="11"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Indiana Pacers</Description>
+					</Occurrence>
+					<Occurrence bet_id="42709268" runner_num="" sp_num="" sp_den="" lp_num="25" lp_den="1" decimal="26"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Philadelphia 76ers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 00:15:00" ev_id="3182802" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>NBA Winning Conference</Description>
+				<Market mkt_typ="NBA Championship" lp_avail="Y" sp_avail="N" mkt_id="8330473">
+					<Occurrence bet_id="48659189" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="4" decimal="1.75"  oc_minbet="0.1" oc_maxbet="1330.0">
+						<Description>Western Conference</Description>
+					</Occurrence>
+					<Occurrence bet_id="48659170" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.1" oc_maxbet="1000.0">
+						<Description>Eastern Conference</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 00:15:00" ev_id="3211901" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Miami Heat v Indiana Pacers Series Winner</Description>
+				<Market mkt_typ="NBA - Series Winner" lp_avail="Y" sp_avail="N" mkt_id="8456247">
+					<Occurrence bet_id="49290450" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="7" decimal="1.2857142857143"  oc_minbet="0.1" oc_maxbet="5240.0">
+						<Description>Miami Heat</Description>
+					</Occurrence>
+					<Occurrence bet_id="49290452" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Indiana Pacers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 00:15:00" ev_id="3211904" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Miami Heat v Indiana Pacers Series Correct Score</Description>
+				<Market mkt_typ="NBA - Series Correct Score" lp_avail="Y" sp_avail="N" mkt_id="8456507">
+					<Occurrence bet_id="49291340" runner_num="" sp_num="" sp_den="" lp_num="12" lp_den="5" decimal="3.4"  oc_minbet="0.1" oc_maxbet="420.0">
+						<Description>Miami Heat 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49291338" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="5" decimal="3.6"  oc_minbet="0.1" oc_maxbet="380.0">
+						<Description>Miami Heat 4-2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49291336" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Miami Heat 4-1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49291339" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Indiana Pacers 4-2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49291341" runner_num="" sp_num="" sp_den="" lp_num="15" lp_den="2" decimal="8.5"  oc_minbet="0.1" oc_maxbet="130.0">
+						<Description>Indiana Pacers 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49291337" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.1" oc_maxbet="70.0">
+						<Description>Indiana Pacers 4-1</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="1214" type_minbet="0.1" type_maxbet="600.0">
+			<Title>NBA</Title>
+			<Event start_time="2012-05-18 02:30:00" ev_id="3225281" ev_minbet="0.1" ev_maxbet="600.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Los Angeles Clippers at San Antonio Spurs</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8517154">
+					<Occurrence bet_id="49590451" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="1100.0">
+						<Description>Los Angeles Clippers +11</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590452" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="1100.0">
+						<Description>San Antonio Spurs -11</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8517156">
+					<Occurrence bet_id="49589209" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Over 194</Description>
+					</Occurrence>
+					<Occurrence bet_id="49589210" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Under 194</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Home Team" lp_avail="Y" sp_avail="N" mkt_id="8517158">
+					<Occurrence bet_id="49590455" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 102.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590456" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 102.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Away Team" lp_avail="Y" sp_avail="N" mkt_id="8517160">
+					<Occurrence bet_id="49590458" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Under 91.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49590457" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="350.0">
+						<Description>Over 91.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="First Quarter Handicap" lp_avail="Y" sp_avail="N" mkt_id="8517161">
+					<Occurrence bet_id="49589222" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>San Antonio Spurs -3.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49589221" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Los Angeles Clippers +3.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - 1st Quarter" lp_avail="Y" sp_avail="N" mkt_id="8517163">
+					<Occurrence bet_id="49589226" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 49</Description>
+					</Occurrence>
+					<Occurrence bet_id="49589225" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 49</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Home Team Quarter 1" lp_avail="Y" sp_avail="N" mkt_id="8517164">
+					<Occurrence bet_id="49589232" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 26.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49589231" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 26.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points - Away Team Quarter 1" lp_avail="Y" sp_avail="N" mkt_id="8517167">
+					<Occurrence bet_id="49589238" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Under 22.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49589237" runner_num="" sp_num="" sp_den="" lp_num="17" lp_den="20" decimal="1.85"  oc_minbet="0.1" oc_maxbet="240.0">
+						<Description>Over 22.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8522182">
+					<Occurrence bet_id="49607883" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="10" decimal="1.1"  oc_minbet="0.1" oc_maxbet="10000.0">
+						<Description>San Antonio Spurs</Description>
+					</Occurrence>
+					<Occurrence bet_id="49607882" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.1" oc_maxbet="150.0">
+						<Description>Los Angeles Clippers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-18 02:45:00" ev_id="2908385" ev_minbet="0.5" ev_maxbet="1500.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Western Conference Winner</Description>
+				<Market mkt_typ="NBA Championship" lp_avail="Y" sp_avail="N" mkt_id="7217335">
+					<Occurrence bet_id="42710241" runner_num="" sp_num="" sp_den="" lp_num="20" lp_den="21" decimal="1.952380952381"  oc_minbet="0.5" oc_maxbet="2100.0">
+						<Description>Oklahoma City Thunder</Description>
+					</Occurrence>
+					<Occurrence bet_id="42710245" runner_num="" sp_num="" sp_den="" lp_num="21" lp_den="20" decimal="2.05"  oc_minbet="0.5" oc_maxbet="1900.0">
+						<Description>San Antonio Spurs</Description>
+					</Occurrence>
+					<Occurrence bet_id="42710236" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="1" decimal="15"  oc_minbet="0.5" oc_maxbet="140.0">
+						<Description>Los Angeles Lakers</Description>
+					</Occurrence>
+					<Occurrence bet_id="42710235" runner_num="" sp_num="" sp_den="" lp_num="40" lp_den="1" decimal="41"  oc_minbet="0.5" oc_maxbet="50.0">
+						<Description>Los Angeles Clippers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 02:45:00" ev_id="3220333" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>San Antonio Spurs v Los Angeles Clippers Series Winner</Description>
+				<Market mkt_typ="NBA - Series Winner" lp_avail="Y" sp_avail="N" mkt_id="8490471">
+					<Occurrence bet_id="49469510" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="66" decimal="1.0151515151515"  oc_minbet="0.1" oc_maxbet="10000.0">
+						<Description>San Antonio Spurs</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469511" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.1" oc_maxbet="90.0">
+						<Description>Los Angeles Clippers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 02:45:00" ev_id="3220341" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>San Antonio Spurs v Los Angeles Clippers Series Correct Score</Description>
+				<Market mkt_typ="NBA - Series Correct Score" lp_avail="Y" sp_avail="N" mkt_id="8490599">
+					<Occurrence bet_id="49469904" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="4" decimal="2.5"  oc_minbet="0.1" oc_maxbet="1000.0">
+						<Description>San Antonio Spurs 4-1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469902" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.1" oc_maxbet="920.0">
+						<Description>San Antonio Spurs 4-0</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469906" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.1" oc_maxbet="380.0">
+						<Description>San Antonio Spurs 4-2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469911" runner_num="" sp_num="" sp_den="" lp_num="6" lp_den="1" decimal="7"  oc_minbet="0.1" oc_maxbet="250.0">
+						<Description>San Antonio Spurs 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469912" runner_num="" sp_num="" sp_den="" lp_num="33" lp_den="1" decimal="34"  oc_minbet="0.1" oc_maxbet="50.0">
+						<Description>Los Angeles Clippers 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469907" runner_num="" sp_num="" sp_den="" lp_num="50" lp_den="1" decimal="51"  oc_minbet="0.1" oc_maxbet="30.0">
+						<Description>Los Angeles Clippers 4-2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49469905" runner_num="" sp_num="" sp_den="" lp_num="150" lp_den="1" decimal="151"  oc_minbet="0.1" oc_maxbet="10.0">
+						<Description>Los Angeles Clippers 4-1</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4143" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Italian Lega 1</Title>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224750" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Pallacanestro Cantu' v Scavolini Pesaro</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8515868">
+					<Occurrence bet_id="49582182" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="4" decimal="1.25"  oc_minbet="0.5" oc_maxbet="3000.0">
+						<Description>Pallacanestro Cantu'</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582186" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Scavolini Pesaro</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224751" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Olimpia Milano v Reyer Venezia</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8515869">
+					<Occurrence bet_id="49582183" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="6" decimal="1.1666666666667"  oc_minbet="0.5" oc_maxbet="4490.0">
+						<Description>Olimpia Milano</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582187" runner_num="" sp_num="" sp_den="" lp_num="15" lp_den="4" decimal="4.75"  oc_minbet="0.5" oc_maxbet="200.0">
+						<Description>Reyer Venezia</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224750" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Pallacanestro Cantu' v Scavolini Pesaro</Description>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8515872">
+					<Occurrence bet_id="49582170" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="7" decimal="1.2857142857143"  oc_minbet="0.5" oc_maxbet="3500.0">
+						<Description>Pallacanestro Cantu'</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582174" runner_num="" sp_num="" sp_den="" lp_num="14" lp_den="5" decimal="3.8"  oc_minbet="0.5" oc_maxbet="360.0">
+						<Description>Scavolini Pesaro</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582178" runner_num="" sp_num="" sp_den="" lp_num="16" lp_den="1" decimal="17"  oc_minbet="0.5" oc_maxbet="60.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224751" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Olimpia Milano v Reyer Venezia</Description>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8515873">
+					<Occurrence bet_id="49582171" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="11" decimal="1.1818181818182"  oc_minbet="0.5" oc_maxbet="4120.0">
+						<Description>Olimpia Milano</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582175" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="1" decimal="5"  oc_minbet="0.5" oc_maxbet="190.0">
+						<Description>Reyer Venezia</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582179" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="40.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224750" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Pallacanestro Cantu' v Scavolini Pesaro</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8515876">
+					<Occurrence bet_id="49582190" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Pallacanestro Cantu' -7.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582194" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Scavolini Pesaro +7.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224751" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Olimpia Milano v Reyer Venezia</Description>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8515877">
+					<Occurrence bet_id="49582191" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Olimpia Milano -9.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582195" runner_num="" sp_num="" sp_den="" lp_num="10" lp_den="11" decimal="1.9090909090909"  oc_minbet="0.5" oc_maxbet="550.0">
+						<Description>Reyer Venezia +9.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224750" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Pallacanestro Cantu' v Scavolini Pesaro</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8515880">
+					<Occurrence bet_id="49582202" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="340.0">
+						<Description>Over 144.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582198" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="340.0">
+						<Description>Under 144.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224751" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Olimpia Milano v Reyer Venezia</Description>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8515881">
+					<Occurrence bet_id="49582199" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="340.0">
+						<Description>Under 151.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582203" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="10" decimal="1.9"  oc_minbet="0.5" oc_maxbet="340.0">
+						<Description>Over 151.5</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224750" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Pallacanestro Cantu' v Scavolini Pesaro</Description>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8515884">
+					<Occurrence bet_id="49582210" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Even</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582206" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Odd</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-18 19:30:00" ev_id="3224751" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Olimpia Milano v Reyer Venezia</Description>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8515885">
+					<Occurrence bet_id="49582211" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Even</Description>
+					</Occurrence>
+					<Occurrence bet_id="49582207" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="320.0">
+						<Description>Odd</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4134" type_minbet="0.1" type_maxbet="600.0">
+			<Title>Spanish ACB</Title>
+			<Event start_time="2012-05-18 19:45:00" ev_id="3220550" ev_minbet="0.5" ev_maxbet="5000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Real Madrid v Sevilla Baloncesto</Description>
+				<Market mkt_typ="Match Winner" lp_avail="Y" sp_avail="N" mkt_id="8492500">
+					<Occurrence bet_id="49477446" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="12" decimal="1.0833333333333"  oc_minbet="0.5" oc_maxbet="10000.0">
+						<Description>Real Madrid</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477450" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.5" oc_maxbet="150.0">
+						<Description>Sevilla Baloncesto</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Match Winner 3-Way" lp_avail="Y" sp_avail="N" mkt_id="8492504">
+					<Occurrence bet_id="49477434" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="11" decimal="1.0909090909091"  oc_minbet="0.5" oc_maxbet="10000.0">
+						<Description>Real Madrid</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477438" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.5" oc_maxbet="210.0">
+						<Description>Sevilla Baloncesto</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477442" runner_num="" sp_num="" sp_den="" lp_num="18" lp_den="1" decimal="19"  oc_minbet="0.5" oc_maxbet="80.0">
+						<Description>Draw</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Handicap Winner" lp_avail="Y" sp_avail="N" mkt_id="8492508">
+					<Occurrence bet_id="49477454" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="940.0">
+						<Description>Real Madrid -11.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477458" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.5" oc_maxbet="750.0">
+						<Description>Sevilla Baloncesto +11.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points" lp_avail="Y" sp_avail="N" mkt_id="8492512">
+					<Occurrence bet_id="49477466" runner_num="" sp_num="" sp_den="" lp_num="4" lp_den="5" decimal="1.8"  oc_minbet="0.5" oc_maxbet="440.0">
+						<Description>Over 149.5</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477462" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="1" decimal="2"  oc_minbet="0.5" oc_maxbet="350.0">
+						<Description>Under 149.5</Description>
+					</Occurrence>
+				</Market>
+				<Market mkt_typ="Total Points Odd/Even" lp_avail="Y" sp_avail="N" mkt_id="8492516">
+					<Occurrence bet_id="49477474" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Even</Description>
+					</Occurrence>
+					<Occurrence bet_id="49477470" runner_num="" sp_num="" sp_den="" lp_num="19" lp_den="20" decimal="1.95"  oc_minbet="0.5" oc_maxbet="270.0">
+						<Description>Odd</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+		<Type type_id="4153" type_minbet="0.1" type_maxbet="2000.0">
+			<Title>Basketball Long-Term</Title>
+			<Event start_time="2012-05-19 01:15:00" ev_id="3214298" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Boston Celtics v Philadelphia 76ers Series Winner</Description>
+				<Market mkt_typ="NBA - Series Winner" lp_avail="Y" sp_avail="N" mkt_id="8466173">
+					<Occurrence bet_id="49341344" runner_num="" sp_num="" sp_den="" lp_num="2" lp_den="7" decimal="1.2857142857143"  oc_minbet="0.1" oc_maxbet="5240.0">
+						<Description>Boston Celtics</Description>
+					</Occurrence>
+					<Occurrence bet_id="49341345" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="4" decimal="3.75"  oc_minbet="0.1" oc_maxbet="550.0">
+						<Description>Philadelphia 76ers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-19 01:15:00" ev_id="3214299" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Boston Celtics v Philadelphia 76ers Series Correct Score</Description>
+				<Market mkt_typ="NBA - Series Correct Score" lp_avail="Y" sp_avail="N" mkt_id="8466246">
+					<Occurrence bet_id="49341819" runner_num="" sp_num="" sp_den="" lp_num="9" lp_den="4" decimal="3.25"  oc_minbet="0.1" oc_maxbet="440.0">
+						<Description>Boston Celtics 4-1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49341907" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.1" oc_maxbet="400.0">
+						<Description>Boston Celtics 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49341821" runner_num="" sp_num="" sp_den="" lp_num="3" lp_den="1" decimal="4"  oc_minbet="0.1" oc_maxbet="330.0">
+						<Description>Boston Celtics 4-2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49342058" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="1" decimal="6"  oc_minbet="0.1" oc_maxbet="200.0">
+						<Description>Philadelphia 76ers 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49341822" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="2" decimal="7.5"  oc_minbet="0.1" oc_maxbet="150.0">
+						<Description>Philadelphia 76ers 4-2</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-19 03:45:00" ev_id="3218375" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Oklahoma City Thunder v Los Angels Lakers Series Winner</Description>
+				<Market mkt_typ="NBA - Series Winner" lp_avail="Y" sp_avail="N" mkt_id="8482096">
+					<Occurrence bet_id="49424160" runner_num="" sp_num="" sp_den="" lp_num="1" lp_den="11" decimal="1.0909090909091"  oc_minbet="0.1" oc_maxbet="10000.0">
+						<Description>Oklahoma City Thunder</Description>
+					</Occurrence>
+					<Occurrence bet_id="49424161" runner_num="" sp_num="" sp_den="" lp_num="7" lp_den="1" decimal="8"  oc_minbet="0.1" oc_maxbet="210.0">
+						<Description>Los Angeles Lakers</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+			<Event start_time="2012-05-19 03:45:00" ev_id="3218376" ev_minbet="0.1" ev_maxbet="2000.0" racetype="" tracktype="" handicap=" " trifecta=" " eligibility="" distance="" going="" class="0">
+				<Description>Oklahoma City Thunder v Los Angels Lakers Series Correct Score</Description>
+				<Market mkt_typ="NBA - Series Correct Score" lp_avail="Y" sp_avail="N" mkt_id="8482097">
+					<Occurrence bet_id="49424168" runner_num="" sp_num="" sp_den="" lp_num="13" lp_den="8" decimal="2.625"  oc_minbet="0.1" oc_maxbet="620.0">
+						<Description>Oklahoma City Thunder 4-1</Description>
+					</Occurrence>
+					<Occurrence bet_id="49424166" runner_num="" sp_num="" sp_den="" lp_num="5" lp_den="2" decimal="3.5"  oc_minbet="0.1" oc_maxbet="400.0">
+						<Description>Oklahoma City Thunder 4-0</Description>
+					</Occurrence>
+					<Occurrence bet_id="49424170" runner_num="" sp_num="" sp_den="" lp_num="15" lp_den="4" decimal="4.75"  oc_minbet="0.1" oc_maxbet="270.0">
+						<Description>Oklahoma City Thunder 4-2</Description>
+					</Occurrence>
+					<Occurrence bet_id="49424172" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="2" decimal="6.5"  oc_minbet="0.1" oc_maxbet="180.0">
+						<Description>Oklahoma City Thunder 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49424173" runner_num="" sp_num="" sp_den="" lp_num="11" lp_den="1" decimal="12"  oc_minbet="0.1" oc_maxbet="90.0">
+						<Description>Los Angeles Lakers 4-3</Description>
+					</Occurrence>
+					<Occurrence bet_id="49424171" runner_num="" sp_num="" sp_den="" lp_num="22" lp_den="1" decimal="23"  oc_minbet="0.1" oc_maxbet="50.0">
+						<Description>Los Angeles Lakers 4-2</Description>
+					</Occurrence>
+				</Market>
+			</Event>
+		</Type>
+	</Class>
+</BSQCUBS>
