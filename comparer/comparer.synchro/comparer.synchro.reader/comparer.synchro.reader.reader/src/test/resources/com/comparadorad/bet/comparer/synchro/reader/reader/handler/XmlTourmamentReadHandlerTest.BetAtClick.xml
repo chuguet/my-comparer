@@ -1,0 +1,25 @@
+
+<event name="Spain ACB" id="154">
+	<match name="Caja Laboral - Real Madrid" id="458435" start_date="2012-05-29T19:45:00"
+		live_id="52764" streaming="0">
+		<bets>
+			<bet code="Bkb_Mr2" name="Match Winner" id="3440728">
+				<choice name="%1%" id="29083697" odd="1.68" />
+				<choice name="%2%" id="29083698" odd="2.05" />
+			</bet>
+			<bet code="Bkb_Han" name="Handicap Result" id="3440734">
+				<choice name="%1% -2.5" id="29132931" odd="1.90" />
+				<choice name="%2% +2.5" id="29132932" odd="1.80" />
+			</bet>
+			<bet code="Bkb_Mrs" name="Match Result" id="3440731">
+				<choice name="%1%" id="29083720" odd="1.72" />
+				<choice name="Draw" id="29083721" odd="14.00" />
+				<choice name="%2%" id="29083722" odd="2.15" />
+			</bet>
+			<bet code="Bkb_Tpt" name="Total Points" id="3440735">
+				<choice name="Under 151.5" id="29132934" odd="1.85" />
+				<choice name="Over 151.5" id="29132933" odd="1.85" />
+			</bet>
+		</bets>
+	</match>
+</event>
