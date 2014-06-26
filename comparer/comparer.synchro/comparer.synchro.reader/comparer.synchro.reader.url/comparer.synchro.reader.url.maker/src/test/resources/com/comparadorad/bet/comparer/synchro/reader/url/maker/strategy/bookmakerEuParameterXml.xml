@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml ErrorCode="0" ErrorMessage="">
+  <Leagues>
+    <index value="FOOTBALL" active="True" CatName="FOOTBALL" ButtonName="CatFOOTBALL" OnClickEvent="document.Form1.SelectedCategory.value = 'FOOTBALL'; submit();" ColumnNumber="1">
+      <league id="1" desc="NFL" idsport="NFL" order="1" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="104" desc="NFL - 1ST HALFS" idsport="NFL" order="2" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="208" desc="NFL - FUTURES" idsport="TNT" order="14" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="12450" desc="NFL - OTHER SUPERBOWL PROPS" idsport="TNT" order="14" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="12206" desc="NFL - FANTASY BET H2H" idsport="MU" order="30" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="2" desc="COLLEGE FOOTBALL" idsport="CFB" order="7" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="108" desc="NCAA (F) - 1ST HALFS" idsport="CFB" order="9" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="12072" desc="NCAA (F) - QUARTERS" idsport="CFB" order="11" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="12369" desc="NCAA (F) - ADJ-SPREAD/TOTALS" idsport="MU" order="26" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="12092" desc="NCAA (F) - TEAM TOTALS" idsport="MU" order="26" active="True" idwebrow="1" idleagueregion="1"/>
+      <league id="12145" desc="CFL - CANADIAN  FOOTBALL" idsport="CFB" order="60" active="True" idwebrow="1" idleagueregion="1"/>
+    </index>
+    <index value="BASEBALL" active="True" CatName="BASEBALL" ButtonName="CatBASEBALL" OnClickEvent="document.Form1.SelectedCategory.value = 'BASEBALL'; submit();" ColumnNumber="1">
+      <league id="5" desc="MAJOR LEAGUE BASEBALL" idsport="MLB" order="1" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12177" desc="MLB - GRAND SALAMI" idsport="MLB" order="2" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="6" desc="MLB 1ST 5 FULL INN" idsport="MLB" order="2" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="503" desc="MLB - 2ND HALFS" idsport="MLB" order="3" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="505" desc="MLB - SERIES" idsport="MLB" order="5" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12000" desc="MLB - FUTURES" idsport="TNT" order="13" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12186" desc="MLB - EXACT SERIES OUTCOME" idsport="TNT" order="13" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12127" desc="MLB - ALTERN RUNLINES" idsport="MLB" order="34" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12128" desc="MLB- 2 1/2 RUNLINES" idsport="MLB" order="34" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12122" desc="MLB - TEAM TO SCORE 1ST" idsport="MU" order="36" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12123" desc="MLB - SCORE IN 1ST INN" idsport="MU" order="36" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12124" desc="MLB - HITS+RUNS+ERRORS" idsport="MU" order="37" active="True" idwebrow="3" idleagueregion="1"/>
+      <league id="12150" desc="MLB - PROPS" idsport="MU" order="36" active="True" idwebrow="3" idleagueregion="1"/>
+    </index>
+    <index value="BASKETBALL" active="True" CatName="BASKETBALL" ButtonName="CatBASKETBALL" OnClickEvent="document.Form1.SelectedCategory.value = 'BASKETBALL'; submit();" ColumnNumber="1">
+      <league id="12139" desc="WNBA" idsport="NBA" order="30" active="True" idwebrow="2" idleagueregion="1"/>
+      <league id="12140" desc="WNBA - 1ST HALFS" idsport="NBA" order="30" active="True" idwebrow="2" idleagueregion="1"/>
+      <league id="12434" desc="WNBA - SERIES PRICES" idsport="NBA" order="31" active="True" idwebrow="2" idleagueregion="1"/>
+      <league id="12412" desc="BASKETBALL" idsport="MU" order="700" active="True" idwebrow="2" idleagueregion="1"/>
+    </index>
+    <index value="HOCKEY" active="True" CatName="HOCKEY" ButtonName="CatHOCKEY" OnClickEvent="document.Form1.SelectedCategory.value = 'HOCKEY'; submit();" ColumnNumber="1">
+      <league id="7" desc="NHL" idsport="NHL" order="1" active="True" idwebrow="5" idleagueregion="1"/>
+      <league id="12208" desc="NHL - 3 WAY LINES" idsport="SOC" order="1" active="True" idwebrow="5" idleagueregion="1"/>
+      <league id="12757" desc="ICE HOCKEY" idsport="MU" order="700" active="True" idwebrow="5" idleagueregion="1"/>
+    </index>
+    <index value="SOCCER" active="True" CatName="SOCCER" ButtonName="CatSOCCER" OnClickEvent="document.Form1.SelectedCategory.value = 'SOCCER'; submit();" ColumnNumber="1">
+      <league id="12067" desc="AUSTRIA - BUNDESLIGA" idsport="SOC" order="1" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12241" desc="ARGENTINA - PRIMERA DIVISION" idsport="SOC" order="1" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12400" desc="ARGENTINA - NACIONAL B" idsport="SOC" order="1" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12076" desc="BELGIUM - JUPILER LEAGUE" idsport="SOC" order="2" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12242" desc="BRAZIL - SERIE A" idsport="SOC" order="2" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12243" desc="BRAZIL - SERIE B" idsport="SOC" order="2" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12246" desc="CHILE - PRIMERA DIVISION" idsport="SOC" order="3" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12344" desc="CROATIA - HNL LEAGUE 1" idsport="SOC" order="3" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12253" desc="DENMARK - SAS LIGAEN" idsport="SOC" order="4" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10003" desc="ENGLAND - PREMIER LEAGUE" idsport="SOC" order="5" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12220" desc="ENGLAND - CHAMPIONSHIP" idsport="SOC" order="5" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12221" desc="ENGLAND - LEAGUE 1" idsport="SOC" order="5" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12222" desc="ENGLAND - LEAGUE 2" idsport="SOC" order="5" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12257" desc="ENGLAND - CONFERENCE" idsport="SOC" order="5" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10005" desc="FRANCE - LIGUE 1" idsport="SOC" order="6" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12236" desc="FRANCE - LIGUE 2" idsport="SOC" order="6" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10004" desc="GERMANY - BUNDESLIGA" idsport="SOC" order="7" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12086" desc="GREECE - SUPERLEAGUE" idsport="SOC" order="7" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12228" desc="GERMANY - 2ND BUNDESLIGA" idsport="SOC" order="7" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10009" desc="HOLLAND - EREDIVISIE" idsport="SOC" order="8" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12346" desc="HUNGARY - NB 1" idsport="SOC" order="8" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10002" desc="ITALY - SERIE A" idsport="SOC" order="9" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12175" desc="IRELAND - EIRCOM LEAGUE" idsport="SOC" order="9" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12226" desc="ITALY - SERIE B" idsport="SOC" order="9" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12240" desc="JAPAN - J-LEAGUE" idsport="SOC" order="10" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12376" desc="MEXICO - PRIMERA DIVISION" idsport="SOC" order="13" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12496" desc="MEXICO - LIGA DE ASCENSO" idsport="SOC" order="13" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10012" desc="NORWAY - TIPPELIGAEN" idsport="SOC" order="14" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12255" desc="NORWAY - 1. DIVISION" idsport="SOC" order="14" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12077" desc="PORTUGAL - 1 LIGA" idsport="SOC" order="16" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12389" desc="POLAND - EKSTRAKLASA" idsport="SOC" order="16" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12590" desc="POLAND - LIGA 1" idsport="SOC" order="16" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10094" desc="RUSSIA - PREMIER LEAGUE" idsport="SOC" order="18" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12347" desc="ROMANIA - LIGA 1" idsport="SOC" order="18" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10006" desc="SWEDEN ALLSVENSKAN" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10010" desc="SCOTLAND - PREMIER LEAGUE" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12085" desc="SWITZERLAND - AXPO SUPERLEAGUE" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12159" desc="SPAIN - LA LIGA" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12230" desc="SPAIN - SEGUNDA" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12232" desc="SCOTLAND - CHAMPIONSHIP" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12234" desc="SWEDEN - SUPERETTAN" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12406" desc="SLOVAKIA - CORGON LEAGUE" idsport="SOC" order="19" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12084" desc="TURKEY - SUPER LIG" idsport="SOC" order="20" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="10007" desc="USA - MLS" idsport="SOC" order="21" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12252" desc="URUGUAY  - PRIMERA DIVISION" idsport="SOC" order="21" active="True" idwebrow="6" idleagueregion="1"/>
+      <league id="12348" desc="UKRAINE - PREMIER LEAGUE" idsport="SOC" order="21" active="True" idwebrow="6" idleagueregion="1"/>
+    </index>
+    <index value="MOTOR RACING" active="True" CatName="MOTOR RACING" ButtonName="CatMOTORRACING" OnClickEvent="document.Form1.SelectedCategory.value = 'MOTOR RACING'; submit();" ColumnNumber="2">
+      <league id="12015" desc="NASCAR PICK WINNER" idsport="TNT" order="14" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="14" desc="NASCAR HEAD TO HEAD" idsport="MU" order="42" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="12016" desc="NASCAR TOP 3" idsport="PROP" order="9" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="12191" desc="NASCAR FUTURES" idsport="TNT" order="14" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="12283" desc="NASCAR TOP 5" idsport="PROP" order="9" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="12167" desc="FORMULA - 1 HEAD TO HEAD" idsport="MU" order="42" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="12306" desc="INDY CAR RACING" idsport="TNT" order="9" active="True" idwebrow="15" idleagueregion="1"/>
+      <league id="12317" desc="INDY CAR RACING HEAD TO HEAD" idsport="MU" order="42" active="True" idwebrow="15" idleagueregion="1"/>
+    </index>
+    <index value="GOLF" active="True" CatName="GOLF" ButtonName="CatGOLF" OnClickEvent="document.Form1.SelectedCategory.value = 'GOLF'; submit();" ColumnNumber="2">
+      <league id="11" desc="GOLF MATCHUPS" idsport="MU" order="3" active="True" idwebrow="16" idleagueregion="1"/>
+    </index>
+    <index value="FUTSAL" active="True" CatName="FUTSAL" ButtonName="CatFUTSAL" OnClickEvent="document.Form1.SelectedCategory.value = 'FUTSAL'; submit();" ColumnNumber="2">
+      <league id="12386" desc="FUTSAL - SPAIN" idsport="SOC" order="200" active="True" idwebrow="32" idleagueregion="1"/>
+    </index>
+    <index value="BOXING" active="True" CatName="BOXING" ButtonName="CatBOXING" OnClickEvent="document.Form1.SelectedCategory.value = 'BOXING'; submit();" ColumnNumber="2">
+      <league id="12064" desc="BOXING" idsport="MU" order="5" active="True" idwebrow="9" idleagueregion="1"/>
+    </index>
+    <index value="MARTIAL ARTS" active="True" CatName="MARTIAL ARTS" ButtonName="CatMARTIALARTS" OnClickEvent="document.Form1.SelectedCategory.value = 'MARTIAL ARTS'; submit();" ColumnNumber="3">
+      <league id="206" desc="MMA - UFC" idsport="MU" order="5" active="True" idwebrow="13" idleagueregion="1"/>
+      <league id="12636" desc="MMA - BELLATOR" idsport="MU" order="5" active="True" idwebrow="13" idleagueregion="1"/>
+    </index>
+    <index value="CRICKET" active="True" CatName="CRICKET" ButtonName="CatCRICKET" OnClickEvent="document.Form1.SelectedCategory.value = 'CRICKET'; submit();" ColumnNumber="3">
+      <league id="12007" desc="CRICKET MATCHES" idsport="MU" order="200" active="True" idwebrow="18" idleagueregion="1"/>
+      <league id="12138" desc="CRICKET FUTURES" idsport="TNT" order="3" active="True" idwebrow="18" idleagueregion="1"/>
+    </index>
+    <index value="HANDBALL" active="True" CatName="HANDBALL" ButtonName="CatHANDBALL" OnClickEvent="document.Form1.SelectedCategory.value = 'HANDBALL'; submit();" ColumnNumber="3">
+      <league id="12758" desc="HANDBALL" idsport="MU" order="700" active="True" idwebrow="21" idleagueregion="1"/>
+    </index>
+    <index value="ENTERTAINMENT" active="True" CatName="ENTERTAINMENT" ButtonName="CatENTERTAINMENT" OnClickEvent="document.Form1.SelectedCategory.value = 'ENTERTAINMENT'; submit();" ColumnNumber="3">
+      <league id="12008" desc="ENTERTAINMENT" idsport="TNT" order="5" active="True" idwebrow="14" idleagueregion="1"/>
+    </index>
+  </Leagues>
+</xml>

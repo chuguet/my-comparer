@@ -1,0 +1,65 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.urlparameter.strategy.ParameterBetfredStrategyImpl" 
+    project="comparer.synchro.reader.urlparameter" 
+    file="/comparer.synchro.reader.urlparameter/src/java/main/com/comparadorad/bet/comparer/synchro/reader/urlparameter/strategy/ParameterBetfredStrategyImpl.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="311" y="135"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.urlparameter.strategy.ParameterStrategy" 
+    project="comparer.synchro.reader.urlparameter" 
+    file="/comparer.synchro.reader.urlparameter/src/java/main/com/comparadorad/bet/comparer/synchro/reader/urlparameter/strategy/ParameterStrategy.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="665" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.urlparameter.strategy.ParameterGenericStrategyImpl" 
+    project="comparer.synchro.reader.urlparameter" 
+    file="/comparer.synchro.reader.urlparameter/src/java/main/com/comparadorad/bet/comparer/synchro/reader/urlparameter/strategy/ParameterGenericStrategyImpl.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="656" y="135"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.reader.urlparameter.strategy.ParameterPinnacleStrategyImpl" 
+    project="comparer.synchro.reader.urlparameter" 
+    file="/comparer.synchro.reader.urlparameter/src/java/main/com/comparadorad/bet/comparer/synchro/reader/urlparameter/strategy/ParameterPinnacleStrategyImpl.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="1001" y="135"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <realization id="5">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="6">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="7">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
