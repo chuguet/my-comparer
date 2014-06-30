@@ -1,0 +1,79 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.valuebet.reader.IReaderValueBet" 
+    project="comparer.synchro.valuebet.reader" 
+    file="/comparer.synchro.valuebet.reader/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/reader/IReaderValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="366" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.valuebet.reader.ReaderValueBet" 
+    project="comparer.synchro.valuebet.reader" 
+    file="/comparer.synchro.valuebet.reader/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/reader/ReaderValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="369" y="372"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.valuebet.filter.FilterValueBet" 
+    project="comparer.synchro.valuebet.reader" 
+    file="/comparer.synchro.valuebet.reader/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/filter/FilterValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="814" y="139"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.valuebet.filter.IFilterValueBet" 
+    project="comparer.synchro.valuebet.reader" 
+    file="/comparer.synchro.valuebet.reader/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/filter/IFilterValueBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="815" y="370"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.model.bet.service.IRtMatchService" project="comparer.model.bet.service" 
+    file="/comparer.model.bet.service/src/main/java/com/comparadorad/bet/comparer/model/bet/service/IRtMatchService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="372" y="676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <realization id="6">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="8">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="9" name="matchService"/>      
+      <multiplicity id="10" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

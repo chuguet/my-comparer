@@ -1,0 +1,184 @@
+/* 0 */
+{
+  "_id" : "17",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "blackList" : ["Virtual Football League;VFL Season 5336;26", "Dream Ticket Matches"],
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 10
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betboo.com/xml/openMatches.xml"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://record.betboopartners.com/"
+      }],
+    "idAfiliado" : "_H7U40lBzn13Kto_EPcZApGNd7ZgqdRLk/1",
+    "minimumTimeUpdate" : NumberLong(1000),
+    "timeZone" : "America/Detroit",
+    "priorityModa" : NumberLong(3)
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetBoo"
+      }]
+  },
+  "nameId" : "BetBoo"
+}
+
+/* 2 */
+{
+  "_id" : "27",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "blackList" : ["Top Matches Matches", "2020 Olympics Host City 2020 Olympics Host City", "Enhanced Trebles Matches"],
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://odds.betgun.com/",
+        "urlDataType" : "PARAMETERS"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betgun.com/en/index.php"
+      }],
+    "idAfiliado" : "42722",
+    "minimumTimeUpdate" : NumberLong(1000),
+    "timeZone" : "Europe/Madrid",
+    "priorityModa" : NumberLong(21)
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Betgun"
+      }]
+  },
+  "nameId" : "Betgun"
+}
+
+/* 3 */
+{
+  "_id" : "85",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "blackList" : ["Eng Ch Corn", "Live MUmag16", "Live MUmag16", "Live MUmagQF", "Live MWashQF", "Live WCarl16", "Live WStan16", "Live WWash16", "M Atlanta 16", "Wor Ch S MS", "Bund Corners", "Bun2 Corners", "Live BundCR", "Live DutchCR", "Live MWS R1", "Live Test", "Eng Prem Cor", "UEFACL Q Cor", "ScotPrem Cor", "Serie A Corn"],
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 40
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.pinnaclesports.com/pinnacleFeed.aspx"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.pinnaclesports.com/processing/clickthrgh.asp"
+      }],
+    "idAfiliado" : "a_9505b_2",
+    "minimumTimeUpdate" : NumberLong(60000),
+    "timeZone" : "Atlantic/Cape_Verde",
+    "priorityModa" : NumberLong(9)
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "PinnacleSports"
+      }]
+  },
+  "nameId" : "PinnacleSports"
+}
+
+/* 9 */
+{
+  "_id" : "19",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "blackList" : ["ATP Specials Andy Murray Specials", "ATP Specials Novak Djokovic Specials", "German Liga", "Ballon d'or", "MLB- 2 1/2 RUNLINES", "Tottenham Specials 2013-2014 Enhanced Europa League Special", "International Fantasy Matches"],
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 10
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.cdn.betclic.com/odds_en.xml"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp"
+      }],
+    "idAfiliado" : "a_13214b_935",
+    "minimumTimeUpdate" : NumberLong(1000),
+    "timeZone" : "Europe/Isle_of_Man",
+    "priorityModa" : NumberLong(9)
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetClick.com"
+      }]
+  },
+  "nameId" : "BetClick.com"
+}

@@ -1,0 +1,115 @@
+/* 0 */
+{
+  "_id" : ObjectId("52cc3a5dae5d0ab00a4c7050"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "1X2"
+    },
+    "betOdd" : {
+      "_id" : null,
+      "odds" : "6.30"
+    },
+    "hashKey" : "cfef4e5e54a31cca6f0453af5e14e5ef3723fb7e",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "20"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }
+  },
+   "probability" : {
+    "value" : 0.12
+  },
+  "expectation" : {
+    "value" : 1.00
+  }
+}
+
+/* 1 */
+{
+  "_id" : ObjectId("52cc3a5dae5d0ab00a4c7051"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "Handicap_Asiatico"
+    },
+    "betOdd" : {
+      "_id" : null,
+      "odds" : "6.00"
+    },
+    "hashKey" : "97880ce02fe2eefd486316ce1174f9aea5771a73",
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : true,
+      "homeParticipant" : false,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "2"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "761f22b2c1593d0bb87e0b606f990ba4974706de",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "4"
+      }
+    }
+  },
+   "probability" : {
+    "value" : 0.12
+  },
+  "expectation" : {
+    "value" : 1.00
+  }
+}

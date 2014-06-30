@@ -1,0 +1,58 @@
+<sequence-diagram version="1.0.9" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.comparadorad.bet.comparer.synchro.value.app.BatchValueBetApp" 
+    project="comparer.synchro.valuebet.app" 
+    file="/comparer.synchro.valuebet.app/src/main/java/com/comparadorad/bet/comparer/synchro/value/app/BatchValueBetApp.java" 
+    binary="false" label="batchValueBetApp" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="140" y="0"/>    
+    <execution id="2">      
+      <position height="204" width="226" x="5" y="143"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="7" x="115" y="242"/>    
+    </execution>  
+  </object>  
+  <object id="6" language="java" name="com.comparadorad.bet.comparer.synchro.valuebet.reader.ReaderValueBet" 
+    project="comparer.synchro.valuebet.reader" 
+    file="/comparer.synchro.valuebet.reader/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/reader/ReaderValueBet.java" 
+    binary="false" label="valueBetReader" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="297" y="0"/>    
+    <execution id="4">      
+      <position height="162" width="250" x="235" y="164"/>    
+    </execution>  
+  </object>  
+  <object id="9" language="java" name="com.comparadorad.bet.comparer.synchro.valuebet.process.ProcessValueBet" 
+    project="comparer.synchro.valuebet.process" 
+    file="/comparer.synchro.valuebet.process/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/process/ProcessValueBet.java" 
+    binary="false" label="valueBetProcess" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="588" y="0"/>    
+    <execution id="8">      
+      <position height="120" width="257" x="489" y="185"/>    
+    </execution>  
+  </object>  
+  <object id="12" language="java" name="com.comparadorad.bet.comparer.synchro.valuebet.writer.WriterValueBet" 
+    project="comparer.synchro.valuebet.writer" 
+    file="/comparer.synchro.valuebet.writer/src/main/java/com/comparadorad/bet/comparer/synchro/valuebet/writer/WriterValueBet.java" 
+    binary="false" label="valueBetWriter" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="802" y="0"/>    
+    <execution id="11">      
+      <position height="78" width="246" x="750" y="206"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="read():com.comparadorad.bet.comparer.model.bet.bean.RtMatch">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="7" 
+    operation="process(com.comparadorad.bet.comparer.model.bet.bean.RtMatch):com.comparadorad.bet.comparer.synchro.valuebet.core.bean.result.ResultValueBet">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="10" operation="write(java.util.List&lt;? extends ValueBetData&gt;):void">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="13">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>
+</sequence-diagram>

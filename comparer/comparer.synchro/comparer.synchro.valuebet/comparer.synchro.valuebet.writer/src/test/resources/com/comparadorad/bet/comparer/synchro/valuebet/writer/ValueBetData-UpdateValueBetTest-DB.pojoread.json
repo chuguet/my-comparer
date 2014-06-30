@@ -1,0 +1,794 @@
+/* 3 */
+{
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "infoMatch" : {
+    "_id" : ObjectId("52a5fe00d6d5ad027bad8c64"),
+    "name" : {
+      "_id" : null,
+      "i18nFields" : [{
+          "_id" : null,
+          "string" : "Betis vs HNK Rijeka"
+        }]
+    },
+    "competition" : {
+      "_id" : "983914387",
+      "participantNames" : ["Lech Poznan", "Dynamo Kiev", "Estoril", "Anzhi Makhachkala", "Bursaspor", "Metalurh Donetsk", "Esbjerg", "Saint-Etienne", "Sporting Braga", "Trabzonspor", "Swansea", "Motherwell", "St Gallen", "Club Brugge", "Wigan", "Udinese", "Spartak Moscow", "Tottenham", "Dnipro Dnipropetrovsk", "Apollon Limassol", "AZ", "Freiburg", "Vitesse", "Standard Liege", "Genk", "Nice", "Slask Wroclaw", "Vitoria Guimaraes", "Utrecht", "Betis", "Eintracht Frankfurt", "Stuttgart", "Feyenoord", "Lazio", "Fiorentina", "Rubin Kazan", "Besiktas", "Feyenoord Rotterdam", "Piast Gliwice", "Astra Giurgiu", "Kruoja Pakruojis", "FC Vaduz", "FC Levadia Tallinn", "Dacia Chiinu", "Linfield", "FK elik Niki", "Malmo FF", "Crvena Zvezda", "FC Pasching", "FC Narva Trans", "Rapid Wien", "FC Tiraspol", "IFK Goteborg", "FC Utrecht", "TPS Turku", "Ventspils", "lsk Wrocaw", "NK Olimpija Ljubljana", "Valletta FC", "HNK Rijeka", "Shakhtior Soligorsk", "FC Thun", "Teteks Tetovo", "Honka", "FK Vojvodina", "F Fuglafjrur", "FC Dila Gori", "St. Johnstone", "Chikhura Sachkhere", "BK Hacken", "Hdd", "Lokomotiva Zagreb", "Gandzasar Kapan", "Saint Etienne", "Sliema Wanderers", "Hajduk Split", "Strmsgodset", "Debreceni VSC", "VFB Stuttgart", "UE Santa Coloma", "Randers FC", "Vkingur", "Atromitos", "Zrinjski Mostar", "Kuban Krasnodar", "FC Milsami", "HB", "Videoton FC", "Skonto", "SP Libertas", "Breiablik", "Asteras Tripolis", "Bordeaux", "FC Santa Coloma", "FK Aktobe", "FK Senica", "Glentoran", "Petrolul Ploiesti", "FC MIKA", "MSK Zilina", "FC Astana", "FK Sduva", "Gefle IF", "Metalurg Skopje", "Slovan Liberec", "Vitesse Arnhem", "Bala Town", "Metalurg Donetsk", "PAS Giannina", "Crusaders", "Maccabi Haifa", "Hibernian", "Liepjas Metalurgs", "St Patrick's Athletic", "La Fiorita", "Beroe Stara Zagora", "Troms", "Budapesti Honved", "Hapoel Ramat Gan", "Drogheda United", "Horizont Turnovo", "Sparta Prague", "Derry City", "Vitria Guimares", "CSKA Sofia", "FK Mladost Podgorica", "Hapoel Tel Aviv", "Inter Baku", "NK Domale", "F91 Dudelange", "IFK Mariehamn", "Real Betis", "FK Rudar Pljevlja", "SC Freiburg", "FC Pyunik Yerevan", "NK iroki Brijeg", "Irtysh Pavlodar", "VMFD algiris", "FC Zrich", "Hibernians FC", "Aalborg BK", "KR Reykjavik", "KRC Genk", "Levski Sofia", "FC Torpedo Kutaisi", "Prestatyn Town", "Sturm Graz", "Dinamo Minsk", "FC Flora Tallinn", "FK Jablonec", "NK Celje", "Teuta Durres", "Lech Pozna", "FK Kuksi", "FC St. Gallen", "Jeunesse Esch", "FK Jagodina", "FK Qarabag", "IBV Vestmannaeyjar", "KF Lai", "Airbus UK", "FC Minsk", "CS Pandurii TG Jiu", "AZ Alkmaar", "AC Omonia", "Sevilla", "AS Trencin", "FK Khazar Lankaran", "Inter Turku", "FK Sarajevo", "Anorthosis Famagusta", "FC Differdange 03", "Chornomorets Odessa", "Valencia", "Rosenborg", "FC Chikhura Sachkhere", "FK Pakruojo Kruoja", "FC Dinamo Minsk", "AC Libertas", "FC Kruoja Pakruojis", "Skonto Riga", "Hibernians FC Paola", "Vojvodina Novi Sad", "FK Karabakh Agdam", "Vikingur Gota", "FK Horizont Turnovo", "Suduva Marijampole", "Airbus UK Broughton", "FK Ventspils", "NK Domzale", "Levadia Tallinn", "FC Milsami Ursidos", "Budapest Honved", "NK Niksic Celik", "Flora Tallinn", "KS Kukesi", "HB Torshavn", "JK Trans Narva", "Glentoran FC", "Torpedo Kutaisi", "Crusaders FC", "Rosenborg Trondheim", "Prestatyn Town FC", "Metalurgs Liepaja", "Pyunik FC", "Breidablik Kopavogur", "KS Teuta Durres", "Dacia Chisinau", "Khazar Lankaran", "Mladost Podgorica", "Botev Plovdiv", "St.Patricks Athletic", "VMFD Zalgiris", "Tromso IL", "Malmo", "AaB", "St Johnstone", "St Patricks", "St Etienne", "Drogheda Utd", "Pasching", "Braga", "Rapid Vienna", "FK Metalurgs Liepaja", "FK Niksic Celik", "Budapest Honved FC", "FK Suduva Marijampole", "St. Patricks Athletic", "FC Irtysh Pavlodar", "PFC Botev Plovdiv", "FC Milsami-Ursidos", "FK Kruoja Pakruojis", "AFC Astra Giurgiu", "FC Inter Turku", "Differdange FC 03", "FC Honka", "Linfield Belfast", "Skoda Xanthi FC", "Vmfd Zalgiris", "AC Sparta Prague", "HNK Hajduk Split", "IB Vestmannaeyjar", "Red Star Belgrade", "SK Sturm Graz", "Hodd", "Stromsgodset IF", "Hibernian FC", "FK Crvena Zvezda", "CS Pandurii Targu Jiu", "AC Omonia Nicosia", "NK Siroki Brijeg", "FC Slovan Liberec", "Chernomorets Odessa", "FC Dacia Chisinau", "AC Sparta Prag", "Shakhtyor Soligorsk", "Olimpija Ljubljana", "Qarabag Aghdam", "Rudar Pljevlja", "Aktobe", "FK Kukesi", "Thun", "Stromsgodset", "Debrecin VSC", "Siroki Brijeg", "Honka Espoo", "Omonia Nicosia", "Linfield FC", "SKODA Xanthi", "Saint Johnstone", "Pandurii Targu-Jiu", "Gefle", "Tromso", "NK Lokomofiva", "Zalgiris Vilnius", "Pyunik Yerevan", "Sparta Praha", "Dila Gori", "Aalborg", "Rijeka", "Chornomorest Odessa", "Differdange 03", "Breidablik", "Fc Milsami-Ursidos Orhei", "Ac Libertas", "Fk Sarajevo", "Fc Santa Coloma", "Fc Tiraspol", "Airbus Uk", "Fk Ventspils", "Vojvodina", "Hibernians", "Ifk Mariehamn", "Pyunik Fc", "Fk Teteks", "Fc Astana", "Malmo Ff", "Nk Celje", "Fk Horizont Turnovo", "Fk Suduva", "Fk Qarabag", "Fk Metalurg", "Narva Jk Trans", "Gefle If", "Rosenborg Bk", "Videoton Fc", "Mk ilina", "Ue Santa Coloma", "Tallinna Fc Levadia", "Kf Prparimi Kuks", "Tallinna Fc Flora", "Fk Aktobe", "Fc Gandzasar Kapan", "algiris Vilnius", "St. Patrick's Athletic", "Kr Reykjavik", "Fc Vaduz", "Fc Chikhura Satchkhere", "b Vestmannaeyja", "Hb Trshavn", "Fk Celik Nikic", "Budapest Honvd", "Fk Khazar Lenkoran", "Fc Inter Turku", "Vkingur Gta", "Nk Domale", "Ks Teuta Durrs", "S.P. La Fiorita", "Valletta", "Liepajas Metalurgs", "AS Trencin (n)", "FC Minsk (n)", "Rudar Pljevlja (n)", "Olimpija Ljubjana", "Horizont Turnovo (n)", "Chikhura Sachkhere (n)", "Inter Baku (n)", "Pyunik Yerevan (n)", "Gefle (n)", "Botev Plovdiv (n)", "Prestatyn Town (n)", "NK Lokomotiva", "Debrecin VSC (n)", "Standard  Liege", "Vikingur Gota (n)", "Malaga", "NK Lokomotiva Zagreb", "Chornomorets", "VfB Stuttgart", "Guimaraes", "Jablonec", "Dnipro", "FC Zurich", "Esbjerg fB", "Club Bruges", "Anorthosis", "Met Donetsk", "Liberec", "Randers", "SC Braga", "Qarabag", "St. Etienne", "Tottenham Hotspur", "Dinamo Tbilisi", "Molde", "Elfsborg", "Nordsjaelland", "FC Gori", "Partizan Belgrad", "KF Prparimi Kuks", "Astra Ploiesti", "Nmme JK Kalju", "KS Skenderbeu Korce", "Pandurii", "FH Hafnarfjordur", "Kuban", "Swansea City", "Salzburg", "Zulte Waregem", "Maccabi Tel Aviv", "Apoel Nicosia", "Grasshoppers", "Lyon", "Legia Warsaw", "FC Sheriff", "Maribor", "Din Zagreb", "Ludgorets", "PSV Eindhoven", "Sheriff", "Pacos Ferreira", "Shakhter Karagandy", "Ludogorets", "APOEL", "Dinamo Zagreb", "PAOK", "Pandurii Targu Jiu", "CF Valencia", "FC Sheriff Tiraspol", "Pacos de Ferreira", "Shakhtar Karagandy", "NK Maribor", "Anzhi", "Kuban Krasnador", "Any Champions League Team", "PAOK Thessaloniki", "Shakhtyor Karagandy", "IF Elfsborg", "Esbjerg FB", "Red Bull Salzburg", "FC Sevilla", "Estoril Praia", "FC Girondins Bordeaux", "AS Saint Etienne", "Partizan Beograd", "Betis Sevilla", "FK Baumit Jablonec", "Molde FK", "Fc Sevilla", "SV Zulte Waregem", "Besiktas JK", "St. Gallen", "Pandurii Targu Jiu (n)", "Racing Genk", "Dynamo Kyiv", "Sherrif Tiraspol", "APOEL Nicosia", "Apollon Limassol (n)", "Legia Warszawa", "Ludogorets Razgrad", "Wigan Athletic", "Zulte Waregem (n)", "FC Dynamo Kiev", "PAOK Saloniki", "Shakhter Karanganda", "FC St Gallen", "AC Fiorentina", "FC Pacos Ferreira", "Olympique Lyon", "SK Rapid Wien", "NK Maribor PIV Lasko", "PFC Ludogorets", "NK Dinamo Zagreb", "SS Lazio Roma", "Dnjepr Dnjepropetrovsk", "Dnipro Dnjepropetrowsk", "Pandurii TG Jiu", "Sheriff Tiraspol", "Legia Warschau", "Lazio Roma", "Girondins Bordeaux", "Another team", "FC Red Bull Salzburg", "Apollon Limmassol FC", "KP Legia Warszawa", "SS Lazio", "APOEL Nicosia FC", "Maccabi Tel-Aviv", "FC Girondins de Bordeaux", "Real Betis Balompie", "Olympique Lyonnais", "FK Rubin Kazan", "Zulte-Waregem", "Valencia CF", "FC Chornomorets Odessa", "PFC Ludogorets Razgrad", "FC Shakhter Karagandy", "PAOK FC", "Maccabi Haifa FC", "AZ (Alkmaar Zaanstreek)", "Sevilla FC", "FC Dnipro Dnipropetrovsk", "CS PANDURII TG JIU", "DNJEPR DNJPRPROPETROVSK", "BETIS SEVILLA", "OLYMPIQUE LYONNAIS", "SS LAZIO ROMA", "LEGIA WARSZAWA", "SWANSEA CITY", "CF VALENCIA", "SHAKHTYOR KARAGANDY", "PAOK THESSALONIKI", "APOLLON LIMASSOL", "TRABZONSPOR", "VITORIA GUIMARAES", "HNK RIJEKA", "SC FREIBURG", "FC SLOVAN LIBEREC", "RED BULL SALZBURG", "IF ELFSBORG", "APOEL NICOSIA", "MACCABI TEL AVIV", "PSV EINDHOVEN", "PFC LUDOGORETS", "SK RAPID WIEN", "FC THUN", "TOTTENHAM HOTSPUR", "TROMSO IL", "KRC GENK", "DYNAMO KIEV", "NK DINAMO ZAGREB", "CHERNOMORETS ODESSA", "FC SEVILLA", "ESTORIL PRAIA", "ANZHI MAKHACHKA", "FC SHERIFF TIRASPOL", "AZ ALKMAAR", "MACCABI HAIFA", "EINTRACHT FRANKFURT", "FC GIRONDINS BORDEAUX", "Esbjerg F.B.", "FC Rubin Kazan"],
+      "coreActiveElement" : {
+        "active" : true
+      },
+      "cfgName" : "Euro Football Europa League ",
+      "i18n" : {
+        "_id" : null,
+        "i18nFields" : [{
+            "_id" : null,
+            "string" : "Europa League "
+          }]
+      },
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-06-03T10:18:14.834Z"),
+            "user" : "HUMAN_VERIFIED",
+            "dataRef" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "19"
+            },
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "region" : {
+        "$ref" : "cfgRegion",
+        "$id" : "3"
+      },
+      "sport" : {
+        "$ref" : "cfgSport",
+        "$id" : "1"
+      }
+    },
+    "date" : ISODate("2013-12-12T20:00:00Z"),
+    "market" : 
+	{
+        "_id" : null,
+        "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+        "bets" : [{
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "ONE",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "1.40"
+            },
+            "hashKey" : "14c86127a861ecea6dfb5d999a0d7e57d629d582",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : true,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1068577777"
+              }
+            },
+            "webUrl" : {
+              "_id" : "33",
+              "url" : "http://partners.commission.bz/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Betonline"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "33"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "DRAW",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "4.30"
+            },
+            "hashKey" : "cfb5600e571d81f050294b7abe6029091addfe22",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false
+            },
+            "webUrl" : {
+              "_id" : "94",
+              "url" : "http://www.Sportsbetting.com",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Sportsbetting.com"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "94"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "8.50"
+            },
+            "hashKey" : "c903961a2a5d190ba5755df02134af8516097980",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "56",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Expekt"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "56"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "8.50"
+            },
+            "hashKey" : "136c33b863bed784fc0cb300cbe5b8412c5d95c2",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "19",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "BetClick.com"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "19"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "ONE",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "1.35"
+            },
+            "hashKey" : "974ea0f0e8a8ad10d98a4ebcd0bd451423ecedcd",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : true,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1068577777"
+              }
+            },
+            "webUrl" : {
+              "_id" : "56",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Expekt"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "56"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "7.00"
+            },
+            "hashKey" : "efd1eb2857e77d821c32ba94139860b19cb21b48",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "105",
+              "url" : "http://www.williamhill.com",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "WilliamHill"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "105"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "7.75"
+            },
+            "hashKey" : "949f6272027ffa200cb705c3a6753ac086c6c9e6",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "94",
+              "url" : "http://www.Sportsbetting.com",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Sportsbetting.com"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "94"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "DRAW",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "4.30"
+            },
+            "hashKey" : "6f0e735a1578fca35f54b8bb9346962eda11e40d",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false
+            },
+            "webUrl" : {
+              "_id" : "33",
+              "url" : "http://partners.commission.bz/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Betonline"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "33"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "DRAW",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "4.33"
+            },
+            "hashKey" : "ae7a4d73280e91f30e3935e44c62d415578d7438",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false
+            },
+            "webUrl" : {
+              "_id" : "105",
+              "url" : "http://www.williamhill.com",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "WilliamHill"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "105"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "ONE",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "1.44"
+            },
+            "hashKey" : "6607b1078df8b0be22785ded229f73a3307fa285",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : true,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1068577777"
+              }
+            },
+            "webUrl" : {
+              "_id" : "105",
+              "url" : "http://www.williamhill.com",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "WilliamHill"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "105"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "ONE",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "1.35"
+            },
+            "hashKey" : "f0df7f684d67a75055570a5c058bccf5c7fcbbc1",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : true,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1068577777"
+              }
+            },
+            "webUrl" : {
+              "_id" : "19",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "BetClick.com"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "19"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "7.75"
+            },
+            "hashKey" : "2b7c03a55cdd7ef9990a91e03d27a3aa605f4b68",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "33",
+              "url" : "http://partners.commission.bz/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Betonline"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "33"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "ONE",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "1.40"
+            },
+            "hashKey" : "c44bdf77971483a091fc207b6ada3b07c981bf39",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : true,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1068577777"
+              }
+            },
+            "webUrl" : {
+              "_id" : "94",
+              "url" : "http://www.Sportsbetting.com",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Sportsbetting.com"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "94"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "DRAW",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "4.75"
+            },
+            "hashKey" : "a07adf170fc2c40de772e27cb089018bb0a1681e",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false
+            },
+            "webUrl" : {
+              "_id" : "19",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "BetClick.com"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "19"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "ONE",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "1.40"
+            },
+            "hashKey" : "26d6890177542e7f486da9d57be6c1445eeb3af8",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : true,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1068577777"
+              }
+            },
+            "webUrl" : {
+              "_id" : "111",
+              "url" : "http://partners.commission.bz/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Sportsbetting.ag"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "111"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "DRAW",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "4.75"
+            },
+            "hashKey" : "1e50f843b3a0e4e81220ab4501ae6aabfff5d99d",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false
+            },
+            "webUrl" : {
+              "_id" : "56",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Expekt"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "56"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "7.75"
+            },
+            "hashKey" : "1ffeb5d343fdec9ed7f703ec24824e6634b52334",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "111",
+              "url" : "http://partners.commission.bz/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Sportsbetting.ag"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "111"
+            }
+          }, {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "DRAW",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "4.30"
+            },
+            "hashKey" : "28b1535afbfb3d1d0c7a571e928859e58e0449b3",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : false,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false
+            },
+            "webUrl" : {
+              "_id" : "111",
+              "url" : "http://partners.commission.bz/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Sportsbetting.ag"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "111"
+            }
+          }],
+        "betTypeEvent" : {
+          "_id" : null,
+          "nameId" : "PARTIDO_COMPLETO"
+        },
+        "isValid" : true,
+        "betType" : {
+          "$ref" : "cfgBetType",
+          "$id" : "1"
+        }
+      }
+  },
+  "bet" : {
+            "_id" : null,
+            "attribute" : {
+              "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+              "result" : "TWO",
+              "betName" : "1X2"
+            },
+            "betOdd" : {
+              "_id" : null,
+              "odds" : "8.50"
+            },
+            "hashKey" : "c903961a2a5d190ba5755df02134af8516097980",
+            "participant" : {
+              "_id" : null,
+              "awayParticipant" : true,
+              "homeParticipant" : false,
+              "under" : false,
+              "over" : false,
+              "cfgParticipant" : {
+                "$ref" : "cfgParticipant",
+                "$id" : "1051895371"
+              }
+            },
+            "webUrl" : {
+              "_id" : "56",
+              "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp",
+              "coreActiveElement" : {
+                "active" : true
+              },
+              "nameId" : "Expekt"
+            },
+            "betType" : {
+              "$ref" : "cfgBetType",
+              "$id" : "1"
+            },
+            "bookmaker" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "56"
+            }
+          },
+  "probability" : {
+    "value" : 0.12
+  },
+  "expectation" : {
+    "value" : 1.00
+  },
+  "betTypeEvent" : {
+    "_id" : null,
+    "nameId" : "PARTIDO_COMPLETO"
+  }
+}

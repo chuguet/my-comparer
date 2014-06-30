@@ -1,0 +1,63 @@
+/* 0 */
+{
+  "_id" : "56",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 10
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.cdn.betclic.com/odds_en.xml"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp"
+      }],
+    "timeZone" : "Europe/Isle_of_Man"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetClick.com"
+      }]
+  },
+  "nameId" : "BetClick.com"
+}
+
+/* 1 */
+{
+  "_id" : "20",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 10
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.cdn.betclic.com/odds_en.xml"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp"
+      }],
+    "timeZone" : "Europe/Isle_of_Man"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetClick.com"
+      }]
+  },
+  "nameId" : "BetClick.com"
+}

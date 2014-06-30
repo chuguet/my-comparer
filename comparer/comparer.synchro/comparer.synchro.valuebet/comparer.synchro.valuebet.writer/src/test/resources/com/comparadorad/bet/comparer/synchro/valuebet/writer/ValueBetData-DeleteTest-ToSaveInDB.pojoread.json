@@ -1,0 +1,51 @@
+/* 0 */
+{
+  "_id" : ObjectId("52cc3a5cae5d0ab00a4c704f"),
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "bet" : {
+    "_id" : null,
+    "attribute" : {
+      "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+      "betName" : "1X2"
+    },
+    "hashKey" : "391ec54598264231e0c1ae473d7257f97e119824",
+    "betOdd" : {
+      "_id" : null,
+      "odds" : "8.50"
+    },
+    "participant" : {
+      "_id" : null,
+      "awayParticipant" : false,
+      "homeParticipant" : true,
+      "under" : false,
+      "over" : false,
+      "cfgParticipant" : {
+        "$ref" : "cfgParticipant",
+        "$id" : "1"
+      }
+    },
+    "bookmaker" : {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }
+  },
+  "infoMatch" : {
+    "_id" : "1",
+    "market" : {
+      "_id" : null,
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    }
+  }
+}

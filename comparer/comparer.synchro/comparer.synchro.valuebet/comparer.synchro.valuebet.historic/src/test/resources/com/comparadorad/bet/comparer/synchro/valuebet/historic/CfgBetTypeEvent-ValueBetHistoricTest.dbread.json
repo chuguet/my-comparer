@@ -1,0 +1,19 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 10
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Partido Completo"
+      }]
+  },
+  "nameId" : "PARTIDO_COMPLETO"
+}

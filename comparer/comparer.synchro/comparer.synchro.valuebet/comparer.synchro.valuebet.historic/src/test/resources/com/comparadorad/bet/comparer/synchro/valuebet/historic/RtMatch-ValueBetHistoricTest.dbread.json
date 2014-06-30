@@ -1,0 +1,17 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  }
+ }
+ 
+ /* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtMatch",
+  "coreActiveElement" : {
+    "active" : true
+  }
+ }

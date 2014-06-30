@@ -1,0 +1,585 @@
+/* 0 */
+{
+  "_class" : "com.comparadorad.bet.comparer.model.valuebet.bean.ValueBetData",
+  "infoMatch" : {
+    "_id" : ObjectId("000000000000000000000001"),
+    "name" : {
+      "_id" : null,
+      "i18nFields" : [{
+          "_id" : null,
+          "string" : "Omonia Nicosia vs Anorthosis Famagusta FC"
+        }]
+    },
+	"competition" : {
+      "$ref" : "cfgCompetition",
+      "$id" : "924057997",
+	  "participantNames" : ["Omonia Nicosia", "Anorthosis Famagusta FC"],
+	  "coreActiveElement" : {
+        "active" : true
+      },
+      "cfgName" : "Euro Football Europa League ",
+      "i18n" : {
+        "_id" : null,
+        "i18nFields" : [{
+            "_id" : null,
+            "string" : "Europa League "
+          }]
+      },
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-06-03T10:18:14.834Z"),
+            "user" : "HUMAN_VERIFIED",
+            "dataRef" : {
+              "$ref" : "cfgBookmaker",
+              "$id" : "19"
+            },
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "region" : {
+        "$ref" : "cfgRegion",
+        "$id" : "3"
+      },
+      "sport" : {
+        "$ref" : "cfgSport",
+        "$id" : "1"
+      }
+    },
+    "date" : ISODate("2013-12-12T20:00:00Z"),
+    "market" :   
+    {
+      "_id" : null,
+      "bets" : [{
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "DRAW",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "3.10"
+          },
+          "hashKey" : "3174865f6c5ca5e45d5a4eeeb135030596ff9af1",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:45:43.714Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:45:43.714Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "ONE",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.15"
+          },
+          "hashKey" : "0bfd53c8b792dc3d8d1f5187dec1840bb3cdade3",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1015423117"
+            }
+          },
+          "webUrl" : {
+            "_id" : "110",
+            "url" : "http://media.uwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Uwin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:48:38.322Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:48:38.322Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "110"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "ONE",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.14"
+          },
+          "betOddhistoric" : [{
+              "_id" : null,
+              "odds" : "2.20"
+            }, {
+              "_id" : null,
+              "odds" : "2.18"
+            }, {
+              "_id" : null,
+              "odds" : "2.16"
+            }, {
+              "_id" : null,
+              "odds" : "2.14"
+            }, {
+              "_id" : null,
+              "odds" : "2.16"
+            }],
+          "hashKey" : "4e7065d8195a60291e2b4622fbb1dbd91961e03a",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1015423117"
+            }
+          },
+          "webUrl" : {
+            "_id" : "108",
+            "url" : "http://site.betredkings.com/index.cgi",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetRedKings"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.218Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.218Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "108"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "TWO",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "3.00"
+          },
+          "hashKey" : "105f6fdcd0a57a35cb6845a0f14e27b228c03ba9",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "800015327"
+            }
+          },
+          "webUrl" : {
+            "_id" : "108",
+            "url" : "http://site.betredkings.com/index.cgi",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetRedKings"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.319Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.319Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "108"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "TWO",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.90"
+          },
+          "hashKey" : "ce1428cd6e275be3d026a155c72e9c9df1917196",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "800015327"
+            }
+          },
+          "webUrl" : {
+            "_id" : "110",
+            "url" : "http://media.uwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Uwin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:48:39.236Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:48:39.236Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "110"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "ONE",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.15"
+          },
+          "hashKey" : "c5d1945c8e4c6d796d620e31f3b92a35d617267d",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : true,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "1015423117"
+            }
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:45:43.713Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:45:43.713Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "DRAW",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "4"
+          },
+          "hashKey" : "7ca3d05b2b3d58a2441d9df651726d91a41114d3",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false
+          },
+          "webUrl" : {
+            "_id" : "108",
+            "url" : "http://site.betredkings.com/index.cgi",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "BetRedKings"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.52Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.52Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "108"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "DRAW",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "3.10"
+          },
+          "hashKey" : "82952150515988fb607510a3b906081061ed08a5",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : false,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false
+          },
+          "webUrl" : {
+            "_id" : "110",
+            "url" : "http://media.uwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "Uwin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:48:38.823Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:48:38.823Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "110"
+          }
+        }, {
+          "_id" : null,
+          "attribute" : {
+            "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "TWO",
+            "betName" : "1X2"
+          },
+          "betOdd" : {
+            "_id" : null,
+            "odds" : "2.90"
+          },
+          "hashKey" : "4d42cb28470c62e62e123ead2d4b0f514f6efe5d",
+          "participant" : {
+            "_id" : null,
+            "awayParticipant" : true,
+            "homeParticipant" : false,
+            "under" : false,
+            "over" : false,
+            "cfgParticipant" : {
+              "$ref" : "cfgParticipant",
+              "$id" : "800015327"
+            }
+          },
+          "webUrl" : {
+            "_id" : "106",
+            "url" : "http://media.youwin.com/redirect.aspx",
+            "coreActiveElement" : {
+              "active" : true
+            },
+            "nameId" : "YouWin"
+          },
+          "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:45:43.716Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:45:43.716Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+          },
+          "bookmaker" : {
+            "$ref" : "cfgBookmaker",
+            "$id" : "106"
+          }
+        }],
+      "betTypeEvent" : {
+        "_id" : null,
+        "betTypeEvent" : {
+          "$ref" : "cfgBetTypeEvent",
+          "$id" : "1"
+        }
+      },
+      "hashKey" : "17ba0791499db908433b80f37c5fbc89b870084b",
+      "isValid" : true,
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-12-18T11:43:34.018Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }, {
+            "creationAction" : true,
+            "date" : ISODate("2013-12-18T11:43:34.018Z"),
+            "user" : "system",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "betType" : {
+        "$ref" : "cfgBetType",
+        "$id" : "1"
+      }
+    },
+},
+	"bet" : {
+		"_id" : null,
+        "attribute" : {
+        "_class" : "com.comparadorad.bet.comparer.model.bet.bean.Rt1X2Attribute",
+            "result" : "DRAW",
+            "betName" : "1X2"
+        },
+        "betOdd" : {
+          "_id" : null,
+          "odds" : "4.00"
+        },
+        "hashKey" : "7ca3d05b2b3d58a2441d9df651726d91a41114d3",
+        "participant" : {
+          "_id" : null,
+          "awayParticipant" : false,
+          "homeParticipant" : false,
+          "under" : false,
+          "over" : false
+        },
+        "webUrl" : {
+          "_id" : "108",
+          "url" : "http://site.betredkings.com/index.cgi",
+          "coreActiveElement" : {
+            "active" : true
+          },
+          "nameId" : "BetRedKings"
+        },
+        "historic" : {
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+            "historicList" : [{
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.52Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }, {
+                "creationAction" : true,
+                "date" : ISODate("2013-12-18T11:43:34.52Z"),
+                "user" : "system",
+                "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+              }]
+        },
+        "bookmaker" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "108"
+        }
+    },
+	"probability" : {
+		"value" : 0.27
+	},
+	"expectation" : {
+		"value" : 1.07
+	},
+	"betTypeEvent" : {
+		"_id" : 1,
+		"nameId" : "PARTIDO_COMPLETO"
+	}
+}

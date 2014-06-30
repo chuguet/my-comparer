@@ -1,0 +1,163 @@
+/* 0 */
+{
+  "_id" : "829",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "China"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-05T10:13:58.675Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "200000"
+  },
+  "cfgSport" : {
+    "$ref" : "cfgSport",
+    "$id" : "2"
+  }
+}
+/* 1 */
+{
+  "_id" : "593886791",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cleveland Cavaliers"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T11:53:41.028Z"),
+        "user" : "DATA_APP",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "7"
+  },
+  "cfgSport" : {
+    "$ref" : "cfgSport",
+    "$id" : "2"
+  }
+}
+/* 2 */
+{
+  "_id" : "824027119",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Washington Wizards"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T11:59:04.878Z"),
+        "user" : "DATA_APP",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "7"
+  },
+  "cfgSport" : {
+    "$ref" : "cfgSport",
+    "$id" : "2"
+  }
+}
+/* 3 */
+{
+  "_id" : "839725429",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Miami Heat"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:05:34.822Z"),
+        "user" : "DATA_APP",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "7"
+  },
+  "cfgSport" : {
+    "$ref" : "cfgSport",
+    "$id" : "2"
+  }
+}
+/* 4 */
+{
+  "_id" : "693494267",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Wolfsburg"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.469Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgSport" : {
+    "$ref" : "cfgSport",
+    "$id" : "1"
+  }
+}
+
