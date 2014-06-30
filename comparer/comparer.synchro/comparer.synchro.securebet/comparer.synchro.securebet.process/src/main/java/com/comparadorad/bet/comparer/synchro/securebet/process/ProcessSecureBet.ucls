@@ -1,0 +1,50 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.betsecure.process.ProcessSecureBet" 
+    project="comparer.synchro.betsecure.process" 
+    file="/comparer.synchro.betsecure.process/src/main/java/com/comparadorad/bet/comparer/synchro/betsecure/process/ProcessSecureBet.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="600" y="538"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.betsecure.core.process.AbstractCalculate" 
+    project="comparer.synchro.betsecure.core" 
+    file="/comparer.synchro.betsecure.core/src/main/java/com/comparadorad/bet/comparer/synchro/betsecure/core/process/AbstractCalculate.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="600" y="336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.synchro.betsecure.core.process.IItemCalculateProcessor" 
+    project="comparer.synchro.betsecure.core" 
+    file="/comparer.synchro.betsecure.core/src/main/java/com/comparadorad/bet/comparer/synchro/betsecure/core/process/IItemCalculateProcessor.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="600" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="4">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="5">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
