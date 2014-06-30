@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T15:37:01" NEXT_REFRESH="2013-10-16T15:57:01"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Football">
+		<LEAGUE NAME="Liga BBVA" ID="405358">
+			<EVENT NAME="Villarreal - Sevilla FC" START_TIME="2013-12-21T16:00:00"
+				OPEN_TILL="2013-12-21T16:00:00" EVENTID="9888796">
+				<BET ID="35936724" TYPEID="69" TYPENAME="Asia Handicap  0/0 "
+					PLAYER1="Villarreal(0) " PLAYER2="Sevilla FC(0)" TIP="1" QUOTE="1,40" />
+				<BET ID="35936723" TYPEID="69" TYPENAME="Asia Handicap  0/0 "
+					PLAYER1="Villarreal(0) " PLAYER2="Sevilla FC(0)" TIP="2" QUOTE="2,50" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

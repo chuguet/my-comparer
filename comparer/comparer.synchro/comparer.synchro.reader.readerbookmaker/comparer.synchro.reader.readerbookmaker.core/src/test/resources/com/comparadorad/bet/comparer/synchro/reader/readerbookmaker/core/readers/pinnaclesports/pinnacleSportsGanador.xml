@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1340746187907</PinnacleFeedTime>
+	<lastContest>13411345</lastContest>
+	<lastGame>79589123</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2013-03-07 19:05</event_datetimeGMT>
+			<gamenumber>292590755</gamenumber>
+			<sporttype>Tennis: ATP BNP Paribas</sporttype>
+			<league>Player To Win</league>
+			<contest_maximum>1000</contest_maximum>
+			<description>Player To Win 2013 BNP Paribas Open? (All In)
+			</description>
+			<participants>
+				<participant>
+					<participant_name>N. Djokovic</participant_name>
+					<contestantnum>292590757</contestantnum>
+					<rotnum>7001</rotnum>
+					<odds>
+						<moneyline_value>109</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>A. Murray</participant_name>
+					<contestantnum>292590758</contestantnum>
+					<rotnum>7002</rotnum>
+					<odds>
+						<moneyline_value>334</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>R. Federer</participant_name>
+					<contestantnum>292590759</contestantnum>
+					<rotnum>7003</rotnum>
+					<odds>
+						<moneyline_value>655</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>R. Nadal</participant_name>
+					<contestantnum>292590760</contestantnum>
+					<rotnum>7004</rotnum>
+					<odds>
+						<moneyline_value>1000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J. Del Potro</participant_name>
+					<contestantnum>292590761</contestantnum>
+					<rotnum>7005</rotnum>
+					<odds>
+						<moneyline_value>1650</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>T. Berdych</participant_name>
+					<contestantnum>292590762</contestantnum>
+					<rotnum>7006</rotnum>
+					<odds>
+						<moneyline_value>1550</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>D. Ferrer</participant_name>
+					<contestantnum>292590763</contestantnum>
+					<rotnum>7007</rotnum>
+					<odds>
+						<moneyline_value>2500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J-W. Tsonga</participant_name>
+					<contestantnum>292590764</contestantnum>
+					<rotnum>7008</rotnum>
+					<odds>
+						<moneyline_value>4500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J. Isner</participant_name>
+					<contestantnum>292590765</contestantnum>
+					<rotnum>7009</rotnum>
+					<odds>
+						<moneyline_value>12500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>M. Raonic</participant_name>
+					<contestantnum>292590766</contestantnum>
+					<rotnum>7010</rotnum>
+					<odds>
+						<moneyline_value>11500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>S. Wawrinka</participant_name>
+					<contestantnum>292590767</contestantnum>
+					<rotnum>7011</rotnum>
+					<odds>
+						<moneyline_value>16000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>K. Nishikori</participant_name>
+					<contestantnum>292590768</contestantnum>
+					<rotnum>7012</rotnum>
+					<odds>
+						<moneyline_value>11500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>R. Gasquet</participant_name>
+					<contestantnum>292590769</contestantnum>
+					<rotnum>7013</rotnum>
+					<odds>
+						<moneyline_value>14000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>B. Tomic</participant_name>
+					<contestantnum>292590770</contestantnum>
+					<rotnum>7014</rotnum>
+					<odds>
+						<moneyline_value>16120</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J. Tipsarevic</participant_name>
+					<contestantnum>292590771</contestantnum>
+					<rotnum>7015</rotnum>
+					<odds>
+						<moneyline_value>16120</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>G. Dimitrov</participant_name>
+					<contestantnum>292590772</contestantnum>
+					<rotnum>7016</rotnum>
+					<odds>
+						<moneyline_value>18805</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>N. Almagro</participant_name>
+					<contestantnum>292590773</contestantnum>
+					<rotnum>7017</rotnum>
+					<odds>
+						<moneyline_value>16120</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>T. Haas</participant_name>
+					<contestantnum>292590774</contestantnum>
+					<rotnum>7018</rotnum>
+					<odds>
+						<moneyline_value>18805</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>S. Querrey</participant_name>
+					<contestantnum>292590775</contestantnum>
+					<rotnum>7019</rotnum>
+					<odds>
+						<moneyline_value>21490</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>A. Dolgopolov</participant_name>
+					<contestantnum>292590776</contestantnum>
+					<rotnum>7020</rotnum>
+					<odds>
+						<moneyline_value>21490</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>M. Baghdatis</participant_name>
+					<contestantnum>292590777</contestantnum>
+					<rotnum>7021</rotnum>
+					<odds>
+						<moneyline_value>26861</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>N. Davydenko</participant_name>
+					<contestantnum>292590778</contestantnum>
+					<rotnum>7022</rotnum>
+					<odds>
+						<moneyline_value>26861</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J. Benneteau</participant_name>
+					<contestantnum>292590779</contestantnum>
+					<rotnum>7023</rotnum>
+					<odds>
+						<moneyline_value>26861</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>K. Anderson</participant_name>
+					<contestantnum>292590780</contestantnum>
+					<rotnum>7024</rotnum>
+					<odds>
+						<moneyline_value>26861</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>F. Verdasco</participant_name>
+					<contestantnum>292590781</contestantnum>
+					<rotnum>7025</rotnum>
+					<odds>
+						<moneyline_value>26861</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>D. Nalbandian</participant_name>
+					<contestantnum>292590782</contestantnum>
+					<rotnum>7026</rotnum>
+					<odds>
+						<moneyline_value>32234</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J. Janowicz</participant_name>
+					<contestantnum>292590783</contestantnum>
+					<rotnum>7027</rotnum>
+					<odds>
+						<moneyline_value>37604</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>E. Gulbis</participant_name>
+					<contestantnum>292904970</contestantnum>
+					<rotnum>7028</rotnum>
+					<odds>
+						<moneyline_value>8000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+	</events>
+</pinnacle_line_feed>

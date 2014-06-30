@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1340746187907</PinnacleFeedTime>
+	<lastContest>13411345</lastContest>
+	<lastGame>79589123</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2009-12-31 23:59</event_datetimeGMT>
+			<gamenumber>293001083</gamenumber>
+			<sporttype>Aussie Rules</sporttype>
+			<league>AFL</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Hawthorn Hawks</participant_name>
+					<contestantnum>1117</contestantnum>
+					<rotnum>1117</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Geelong Cats</participant_name>
+					<contestantnum>1118</contestantnum>
+					<rotnum>1118</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2009-12-31 23:59
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>2000</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>500</total_maximum>
+					<moneyline>
+						<moneyline_visiting>-186</moneyline_visiting>
+						<moneyline_home>167</moneyline_home>
+					</moneyline>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2000-02-28 23:59</event_datetimeGMT>
+			<gamenumber>290334864</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Romania 1</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Ceahlaul Piatra Neamt</participant_name>
+					<contestantnum>5704</contestantnum>
+					<rotnum>5704</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Steaua Bucuresti</participant_name>
+					<contestantnum>5705</contestantnum>
+					<rotnum>5705</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>5706</contestantnum>
+					<rotnum>5706</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2000-02-28 23:59
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>1000</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>1000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>-158</moneyline_visiting>
+						<moneyline_home>502</moneyline_home>
+						<moneyline_draw>288</moneyline_draw>
+					</moneyline>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

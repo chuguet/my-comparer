@@ -1,0 +1,36 @@
+<category name="nhl" timeGenerated="2013-10-04T08:08:15"
+	Bookmaker="Betfred">
+	<event name="Winnipeg Jets v Los Angeles Kings" eventid="2790356.20"
+		date="20131005" time="0100" meeting="" venue="">
+		
+		<bettype bet-start-date="20131005" bet-start-time="0100"
+			suspended="false" name="Money Line" inrunning="0" bettypeid="7817376.20">
+			<bet had-value="HOME" name="Winnipeg Jets" short-name="Winnipeg"
+				id="149584807.20" price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Los Angeles Kings" short-name="Los Angel"
+				id="149584808.20" price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20131005" bet-start-time="0100"
+			handicap="1.50" suspended="false" name="Puck Line -1.5" inrunning="0"
+			bettypeid="7830858.20">
+			<bet had-value="HOME" name="Winnipeg Jets" short-name="Winnipeg"
+				id="149701757.20" handicap-id="4395818.20" handicap="1.5" price="3/10"
+				priceDecimal="1.30" priceUS="-30.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Los Angeles Kings" short-name="Los Angel"
+				id="149701758.20" handicap-id="4395819.20" handicap="-1.5" price="5/2"
+				priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+		</bettype>	
+		<bettype bet-start-date="20131005" bet-start-time="0100"
+			suspended="false" name="Total Goals Over/Under 5.5" inrunning="0"
+			bettypeid="7827376.20">
+			<bet name="Over 5.5" short-name="Over 5.5" id="149666904.20"
+				price="20/21" priceDecimal="1.95" priceUS="-95.24"
+				active-price-types="CP" />
+			<bet name="Under 5.5" short-name="Under 5.5" id="149666905.20"
+				price="20/23" priceDecimal="1.87" priceUS="-86.96"
+				active-price-types="CP" />
+		</bettype>	
+	</event>
+</category>

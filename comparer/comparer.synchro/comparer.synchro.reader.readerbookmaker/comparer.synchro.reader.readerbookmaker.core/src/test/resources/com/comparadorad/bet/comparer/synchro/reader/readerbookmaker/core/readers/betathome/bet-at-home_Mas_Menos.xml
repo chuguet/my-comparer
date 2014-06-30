@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List generatedAt="2013-08-19T09:54:37">
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1109095</MatchId>
+		<Date>2013-08-19T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="106" oddType="2" betTypeGroup="7"
+			defaultName="Under/Over" groupName="Under/Over" betName="Under/Over">Total
+		</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester City</HomeTeam>
+			<AwayTeam>Newcastle United</AwayTeam>
+			<Total>2.5</Total>
+			<UnderOdds oddId="1109095_6614861_1" linkId="6614861_1">2.20
+			</UnderOdds>
+			<OverOdds oddId="1109095_6614861_2" linkId="6614861_2">1.55</OverOdds>
+		</OddsData>
+	</OddsObject>
+</List>

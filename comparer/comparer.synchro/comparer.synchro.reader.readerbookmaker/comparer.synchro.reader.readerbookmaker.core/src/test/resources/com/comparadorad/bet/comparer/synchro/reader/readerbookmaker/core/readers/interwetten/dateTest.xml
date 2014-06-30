@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T09:31:48" NEXT_REFRESH="2013-10-16T09:51:48"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Basketball">
+		<LEAGUE NAME="Eurocup " ID="405358">
+			<EVENT NAME="BC Khimki Moscow - CSU Asesoft Ploiesti"
+				START_TIME="2013-10-16T17:30:00" OPEN_TILL="2013-10-16T17:30:00"
+				EVENTID="9866356">
+				<BET ID="33419104" TYPEID="13" TYPENAME="Match" PLAYER1="BC Khimki Moscow "
+					PLAYER2="CSU Asesoft Ploiesti" TIP="1" QUOTE="1,01" />
+				<BET ID="33419103" TYPEID="13" TYPENAME="Match" PLAYER1="BC Khimki Moscow "
+					PLAYER2="CSU Asesoft Ploiesti" TIP="2" QUOTE="12,00" />
+				<BET ID="33419102" TYPEID="39" TYPENAME="Handicap USA"
+					PLAYER1="BC Khimki Moscow(-21.5) " PLAYER2="CSU Asesoft Ploiesti(+21.5)"
+					TIP="1" QUOTE="1,85" />
+				<BET ID="33419101" TYPEID="39" TYPENAME="Handicap USA"
+					PLAYER1="BC Khimki Moscow(-21.5) " PLAYER2="CSU Asesoft Ploiesti(+21.5)"
+					TIP="2" QUOTE="1,85" />
+			</EVENT>
+			<EVENT NAME="BC Nizhny Novgorod - Alba Fehervar" START_TIME="2013-10-16T17:40:00"
+				OPEN_TILL="2013-10-16T17:40:00" EVENTID="9869032">
+				<BET ID="33419835" TYPEID="13" TYPENAME="Match" PLAYER1="BC Nizhny Novgorod "
+					PLAYER2="Alba Fehervar" TIP="1" QUOTE="1,04" />
+				<BET ID="33419834" TYPEID="13" TYPENAME="Match" PLAYER1="BC Nizhny Novgorod "
+					PLAYER2="Alba Fehervar" TIP="2" QUOTE="7,50" />
+				<BET ID="33419833" TYPEID="39" TYPENAME="Handicap USA"
+					PLAYER1="BC Nizhny Novgorod(-15.5) " PLAYER2="Alba Fehervar(+15.5)"
+					TIP="1" QUOTE="1,85" />
+				<BET ID="33419832" TYPEID="39" TYPENAME="Handicap USA"
+					PLAYER1="BC Nizhny Novgorod(-15.5) " PLAYER2="Alba Fehervar(+15.5)"
+					TIP="2" QUOTE="1,85" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="Euroleague" ID="405226">
+			<EVENT NAME="Bamberg - Strasbourg IG" START_TIME="2014-01-01T20:00:00"
+				OPEN_TILL="2014-01-01T20:00:00" EVENTID="9866341">
+				<BET ID="33360747" TYPEID="13" TYPENAME="Match" PLAYER1="Bamberg "
+					PLAYER2="Strasbourg IG" TIP="1" QUOTE="1,35" />
+				<BET ID="33360746" TYPEID="13" TYPENAME="Match" PLAYER1="Bamberg "
+					PLAYER2="Strasbourg IG" TIP="2" QUOTE="2,80" />
+				<BET ID="33360745" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="Bamberg(-5.5) "
+					PLAYER2="Strasbourg IG(+5.5)" TIP="1" QUOTE="1,85" />
+				<BET ID="33360744" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="Bamberg(-5.5) "
+					PLAYER2="Strasbourg IG(+5.5)" TIP="2" QUOTE="1,85" />
+				<BET ID="33417366" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="Bamberg - Strasbourg IG" PLAYER2="Over 150.5" TIP=" "
+					QUOTE="1,85" />
+				<BET ID="33417365" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="Bamberg - Strasbourg IG" PLAYER2="Under 150.5" TIP=" "
+					QUOTE="1,85" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

@@ -1,0 +1,27 @@
+<Odds>
+	<Game id="50000307958" name="Örebro SK - Östersunds FK">
+		<Sport>Football</Sport>
+		<Region>Sweden</Region>
+		<Season>Superettan</Season>
+		<BreadCrumbs>Football - Sweden - Superettan</BreadCrumbs>
+		<GameStartTime>2013-06-02 16:00:00 CEST</GameStartTime>
+		<BettingEndTime>2013-06-02 16:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="SWE-football, Men" role="1" id="9540">Örebro
+			SK</Participant>
+		<Participant info="SWE-football, Men" role="2" id="9000005865">Östersunds
+			FK</Participant>
+		<OutcomeSet type="Result" id="50002758305" name="Örebro SK - Östersunds FK">
+			<Outcome odds="1.43" id="50131549668" name="1">
+				<Participant info="SWE-football, Men" id="9540">Örebro SK
+				</Participant>
+			</Outcome>
+			<Outcome odds="4.2" id="50131549669" name="X" />
+			<Outcome odds="7.0" id="50131549670" name="2">
+				<Participant info="SWE-football, Men" id="9000005865">Östersunds FK
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

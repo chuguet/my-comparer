@@ -1,0 +1,50 @@
+<betbrain sport="SOCCER">
+		<subevent title="Match odds" dsymbol="MATCH_ODDS" />
+		<subevent title="winner" dsymbol="PN_Z">
+			<selection name="Spain" odds="3.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6737-27052013,1" />
+			<selection name="Germany" odds="4.1500"
+				slipURL="https://www.betgun.com/en/add-bet/6738-27052013,1" />
+			<selection name="Italy" odds="6.2500"
+				slipURL="https://www.betgun.com/en/add-bet/6739-27052013,1" />
+			<selection name="Netherlands" odds="6.5000"
+				slipURL="https://www.betgun.com/en/add-bet/6740-27052013,1" />
+			<selection name="England" odds="6.7500"
+				slipURL="https://www.betgun.com/en/add-bet/6741-27052013,1" />
+			<selection name="Russia" odds="20.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6742-27052013,1" />
+			<selection name="Izrael" odds="21.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6743-27052013,1" />
+			<selection name="Norway" odds="40.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6744-27052013,1" />
+		</subevent>
+	</event>
+	<event hometeam="" awayteam="" eventName="Zwyciezca grupy A"
+		date="05/06/2013" time="18:00" datetime="2013-06-05T18:00:00+02:00">
+		<subevent title="Match odds" dsymbol="MATCH_ODDS" />
+		<subevent title="winner of the group" dsymbol="PN_ZG">
+			<selection name="Italy" odds="2.1000"
+				slipURL="https://www.betgun.com/en/add-bet/6746-27052013,1" />
+			<selection name="England" odds="2.2500"
+				slipURL="https://www.betgun.com/en/add-bet/6747-27052013,1" />
+			<selection name="Izrael" odds="10.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6748-27052013,1" />
+			<selection name="Norway" odds="17.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6749-27052013,1" />
+		</subevent>
+	</event>
+	<event hometeam="" awayteam="" eventName="Zwyciezca grupy B"
+		date="06/06/2013" time="18:00" datetime="2013-06-06T18:00:00+02:00">
+		<subevent title="Match odds" dsymbol="MATCH_ODDS" />
+		<subevent title="winner of the group" dsymbol="PN_ZG">
+			<selection name="Spain" odds="2.2500"
+				slipURL="https://www.betgun.com/en/add-bet/6751-27052013,1" />
+			<selection name="Germany" odds="3.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6752-27052013,1" />
+			<selection name="Netherlands" odds="4.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6753-27052013,1" />
+			<selection name="Russia" odds="14.0000"
+				slipURL="https://www.betgun.com/en/add-bet/6754-27052013,1" />
+		</subevent>
+	</event>
+</betbrain>

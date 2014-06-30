@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1340746187907</PinnacleFeedTime>
+	<lastContest>13411345</lastContest>
+	<lastGame>79589123</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2013-03-07 19:05</event_datetimeGMT>
+			<gamenumber>292590755</gamenumber>
+			<sporttype>Tennis: ATP BNP Paribas</sporttype>
+			<league>100* US Open: Odds To Win The Tournament</league>
+			<contest_maximum>1000</contest_maximum>
+			<description>Odds To Win US Open Championship</description>
+			<participants>
+				<participant>
+					<participant_name>N. Djokovic</participant_name>
+					<contestantnum>292590757</contestantnum>
+					<rotnum>7001</rotnum>
+					<odds>
+						<moneyline_value>109</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>A. Murray</participant_name>
+					<contestantnum>292590758</contestantnum>
+					<rotnum>7002</rotnum>
+					<odds>
+						<moneyline_value>334</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>R. Federer</participant_name>
+					<contestantnum>292590759</contestantnum>
+					<rotnum>7003</rotnum>
+					<odds>
+						<moneyline_value>655</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>R. Nadal</participant_name>
+					<contestantnum>292590760</contestantnum>
+					<rotnum>7004</rotnum>
+					<odds>
+						<moneyline_value>1000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-06-28 09:00</event_datetimeGMT>
+			<gamenumber>305032751</gamenumber>
+			<sporttype>Formula 1</sporttype>
+			<league>301* Constructors Championship</league>
+			<contest_maximum>250</contest_maximum>
+			<description>Odds to Win 2013 F1 Constructors Championship
+			</description>
+			<participants>
+				<participant>
+					<participant_name>Red Bull</participant_name>
+					<contestantnum>305032752</contestantnum>
+					<rotnum>57</rotnum>
+					<odds>
+						<moneyline_value>-400</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Ferrari</participant_name>
+					<contestantnum>305032753</contestantnum>
+					<rotnum>58</rotnum>
+					<odds>
+						<moneyline_value>390</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Lotus</participant_name>
+					<contestantnum>305032754</contestantnum>
+					<rotnum>59</rotnum>
+					<odds>
+						<moneyline_value>5000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Mercedes</participant_name>
+					<contestantnum>305032755</contestantnum>
+					<rotnum>60</rotnum>
+					<odds>
+						<moneyline_value>2000</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>The Field</participant_name>
+					<contestantnum>305032756</contestantnum>
+					<rotnum>61</rotnum>
+					<odds>
+						<moneyline_value>2500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-09-01 19:00</event_datetimeGMT>
+			<gamenumber>288122211</gamenumber>
+			<sporttype>NFL Futures</sporttype>
+			<league>Super Bowl Winner: Winner Super Bowl XLVIII</league>
+			<contest_maximum>500</contest_maximum>
+			<description>Winner Super Bowl XLVIII</description>
+			<participants>
+				<participant>
+					<participant_name>Green Bay Packers</participant_name>
+					<contestantnum>288122223</contestantnum>
+					<rotnum>6212</rotnum>
+					<odds>
+						<moneyline_value>1166</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Houston Texans</participant_name>
+					<contestantnum>288122224</contestantnum>
+					<rotnum>6213</rotnum>
+					<odds>
+						<moneyline_value>1640</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Indianapolis Colts</participant_name>
+					<contestantnum>288122225</contestantnum>
+					<rotnum>6214</rotnum>
+					<odds>
+						<moneyline_value>4072</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Jacksonville Jaguars</participant_name>
+					<contestantnum>288122226</contestantnum>
+					<rotnum>6215</rotnum>
+					<odds>
+						<moneyline_value>19176</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Kansas City Chiefs</participant_name>
+					<contestantnum>288122227</contestantnum>
+					<rotnum>6216</rotnum>
+					<odds>
+						<moneyline_value>5095</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-08-25 16:00</event_datetimeGMT>
+			<gamenumber>288614957</gamenumber>
+			<sporttype>NCAA Football Futures</sporttype>
+			<league>Odds To Win 2014 BCS National Championship</league>
+			<contest_maximum>500</contest_maximum>
+			<description>Odds To Win 2014 BCS National Championship</description>
+			<participants>
+				<participant>
+					<participant_name>Alabama</participant_name>
+					<contestantnum>288614958</contestantnum>
+					<rotnum>1801</rotnum>
+					<odds>
+						<moneyline_value>316</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>West Virginia</participant_name>
+					<contestantnum>288615002</contestantnum>
+					<rotnum>1845</rotnum>
+					<odds>
+						<moneyline_value>25377</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Wisconsin</participant_name>
+					<contestantnum>288615003</contestantnum>
+					<rotnum>1846</rotnum>
+					<odds>
+						<moneyline_value>5077</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Field</participant_name>
+					<contestantnum>288615004</contestantnum>
+					<rotnum>1847</rotnum>
+					<odds>
+						<moneyline_value>2031</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-06-28 09:35</event_datetimeGMT>
+			<gamenumber>288558831</gamenumber>
+			<sporttype>Rugby Union</sporttype>
+			<league>Super 15 Season: Win Super 15 Premiership</league>
+			<contest_maximum>1000</contest_maximum>
+			<description>To Win Grand Final 2013 Season</description>
+			<participants>
+				<participant>
+					<participant_name>Crusaders</participant_name>
+					<contestantnum>288558832</contestantnum>
+					<rotnum>1</rotnum>
+					<odds>
+						<moneyline_value>462</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Bulls</participant_name>
+					<contestantnum>288558841</contestantnum>
+					<rotnum>10</rotnum>
+					<odds>
+						<moneyline_value>305</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Cheetahs</participant_name>
+					<contestantnum>288558844</contestantnum>
+					<rotnum>13</rotnum>
+					<odds>
+						<moneyline_value>1824</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Force</participant_name>
+					<contestantnum>288558845</contestantnum>
+					<rotnum>14</rotnum>
+					<odds>
+						<moneyline_value>-1.79769313486232E+308</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Kings</participant_name>
+					<contestantnum>288558846</contestantnum>
+					<rotnum>15</rotnum>
+					<odds>
+						<moneyline_value>-1.79769313486232E+308</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-06-24 09:00</event_datetimeGMT>
+			<gamenumber>308876649</gamenumber>
+			<sporttype>Tennis: ATP Wimbledon</sporttype>
+			<league>Player To Win</league>
+			<contest_maximum>500</contest_maximum>
+			<description>Player to Win 2013 Wimbledon? (All In)</description>
+			<participants>
+				<participant>
+					<participant_name>D. Ferrer</participant_name>
+					<contestantnum>308876659</contestantnum>
+					<rotnum>3010</rotnum>
+					<odds>
+						<moneyline_value>9737</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>J. Isner</participant_name>
+					<contestantnum>308876662</contestantnum>
+					<rotnum>3013</rotnum>
+					<odds>
+						<moneyline_value>25231</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>B. Tomic</participant_name>
+					<contestantnum>308876663</contestantnum>
+					<rotnum>3014</rotnum>
+					<odds>
+						<moneyline_value>28382</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>E. Gulbis</participant_name>
+					<contestantnum>308876664</contestantnum>
+					<rotnum>3015</rotnum>
+					<odds>
+						<moneyline_value>20271</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Y-H. Lu</participant_name>
+					<contestantnum>308876674</contestantnum>
+					<rotnum>3025</rotnum>
+					<odds>
+						<moneyline_value>50435</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>A. Dolgopolov</participant_name>
+					<contestantnum>308876675</contestantnum>
+					<rotnum>3026</rotnum>
+					<odds>
+						<moneyline_value>50435</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>N. Almagro</participant_name>
+					<contestantnum>308876676</contestantnum>
+					<rotnum>3027</rotnum>
+					<odds>
+						<moneyline_value>50435</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>S. Querrey</participant_name>
+					<contestantnum>308876677</contestantnum>
+					<rotnum>3028</rotnum>
+					<odds>
+						<moneyline_value>44130</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>P. Kohlschreiber</participant_name>
+					<contestantnum>308876678</contestantnum>
+					<rotnum>3029</rotnum>
+					<odds>
+						<moneyline_value>37833</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>G. Simon</participant_name>
+					<contestantnum>308876679</contestantnum>
+					<rotnum>3030</rotnum>
+					<odds>
+						<moneyline_value>44130</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+	</events>
+</pinnacle_line_feed>

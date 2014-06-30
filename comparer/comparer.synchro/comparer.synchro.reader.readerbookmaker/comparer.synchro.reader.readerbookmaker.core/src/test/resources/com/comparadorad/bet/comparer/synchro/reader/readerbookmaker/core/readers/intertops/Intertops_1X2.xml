@@ -1,0 +1,74 @@
+<result>
+	<params legend="False" catId="-1" sportId="12" matchId="-1"
+		delta="1000" deltaUtc="2013-12-18T17:05" utc="2013-12-19T09:45"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="12" n="Soccer">
+		<cat id="62" n="United Arab Emirates Gulf League">
+			<m id="1008454" n="Banni Yas v Al Jazeera" mid="568776" dt="2013-12-19T16:00">
+				<t id="1" n="Single Match">
+					<l id="15030215" i="0" o="3.3">Draw</l>
+					<l id="15030214" i="1" o="2.7">Banni Yas</l>
+					<l id="15030213" i="2" o="2.3">Al Jazeera</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15030217" i="1" o="1.5" p="2.5">Game Total OVER 2.5</l>
+					<l id="15030216" i="2" o="2.4" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15030221" i="1" o="10">0 - 0</l>
+					<l id="15030222" i="2" o="8">0 - 1</l>
+					<l id="15030223" i="3" o="10">0 - 2</l>
+					<l id="15030224" i="4" o="17">0 - 3</l>
+					<l id="15030225" i="5" o="51">0 - 4</l>
+					<l id="15030226" i="6" o="8.5">1 - 0</l>
+					<l id="15030227" i="7" o="8">1 - 1</l>
+					<l id="15030228" i="8" o="6.5">1 - 2</l>
+					<l id="15030229" i="9" o="17">1 - 3</l>
+					<l id="15030230" i="10" o="41">1 - 4</l>
+					<l id="15030231" i="11" o="13">2 - 0</l>
+					<l id="15030232" i="12" o="8">2 - 1</l>
+					<l id="15030233" i="13" o="12">2 - 2</l>
+					<l id="15030234" i="14" o="21">2 - 3</l>
+					<l id="15030235" i="15" o="51">2 - 4</l>
+					<l id="15030236" i="16" o="23">3 - 0</l>
+					<l id="15030237" i="17" o="21">3 - 1</l>
+					<l id="15030238" i="18" o="23">3 - 2</l>
+					<l id="15030239" i="19" o="41">3 - 3</l>
+					<l id="15030240" i="20" o="67">4 - 0</l>
+					<l id="15030241" i="21" o="67">4 - 1</l>
+					<l id="15030242" i="22" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15030246" i="1" o="4.25">Banni Yas - Banni Yas</l>
+					<l id="15030247" i="2" o="22">Banni Yas - Al Jazeera</l>
+					<l id="15030248" i="3" o="13">Banni Yas - Draw</l>
+					<l id="15030249" i="4" o="5.75">Draw - Banni Yas</l>
+					<l id="15030250" i="5" o="4.25">Draw - Draw</l>
+					<l id="15030251" i="6" o="5.25">Draw - Al Jazeera</l>
+					<l id="15030252" i="7" o="25">Al Jazeera - Banni Yas</l>
+					<l id="15030253" i="8" o="14">Al Jazeera - Draw</l>
+					<l id="15030254" i="9" o="4">Al Jazeera - Al Jazeera</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15030243" i="1" o="1.48">Banni Yas or draw</l>
+					<l id="15030244" i="2" o="1.36">Al Jazeera or draw</l>
+					<l id="15030245" i="3" o="1.24">Banni Yas or Al Jazeera</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15030265" i="1" o="6.5">Banni Yas</l>
+					<l id="15030266" i="2" o="5">Al Jazeera</l>
+				</t>
+			</m>
+
+		</cat>
+	</s>
+</data>
+</result>

@@ -1,0 +1,52 @@
+<betbrain sport="BASKETBALL">
+	<event hometeam="Jsf Nanterre" awayteam="Strasbourg Ig"
+		eventName="Jsf Nanterre - Strasbourg Ig" date="04/06/2013" time="20:30"
+		datetime="2013-06-04T20:30:00+02:00">
+		<subevent title="Match odds" dsymbol="MATCH_ODDS">
+			<selection name="home" odds="2.0800"
+				slipURL="https://www.betgun.com/en/add-bet/2353-02062013,1" />
+			<selection name="away" odds="1.7000"
+				slipURL="https://www.betgun.com/en/add-bet/2353-02062013,2" />
+		</subevent>
+		<subevent title="Regular game time" dsymbol="KOSZ_R">
+			<selection name="1" odds="2.1500"
+				slipURL="https://www.betgun.com/en/add-bet/2354-02062013,1" />
+			<selection name="2" odds="1.7500"
+				slipURL="https://www.betgun.com/en/add-bet/2354-02062013,2" />
+			<selection name="x" odds="15.0000"
+				slipURL="https://www.betgun.com/en/add-bet/2354-02062013,0" />
+		</subevent>
+		<subevent title="handicap" dsymbol="KOSZ_H">
+			<selection name="home" odds="1.9000"
+				slipURL="https://www.betgun.com/en/add-bet/2355-02062013,1" value="2.5-0" />
+			<selection name="away" odds="1.9000"
+				slipURL="https://www.betgun.com/en/add-bet/2355-02062013,2" value="2.5-0" />
+			<selection name="home" odds="1.7000"
+				slipURL="https://www.betgun.com/en/add-bet/2356-02062013,1" value="4.5-0" />
+			<selection name="away" odds="2.1000"
+				slipURL="https://www.betgun.com/en/add-bet/2356-02062013,2" value="4.5-0" />
+		</subevent>
+		<subevent title="under/over" dsymbol="KOSZ_SP">
+			<selection name="Under" odds="1.8800"
+				slipURL="https://www.betgun.com/en/add-bet/2357-02062013,1" value="-153.5+" />
+			<selection name="Over" odds="1.8800"
+				slipURL="https://www.betgun.com/en/add-bet/2357-02062013,2" value="-153.5+" />
+		</subevent>
+		<subevent title="under/over" dsymbol="KOSZ_SP2">
+			<selection name="1" odds="1.8500"
+				slipURL="https://www.betgun.com/en/add-bet/2358-02062013,1" value="Jsf Nanterre -75.5+" />
+			<selection name="2" odds="1.8500"
+				slipURL="https://www.betgun.com/en/add-bet/2358-02062013,2" value="Jsf Nanterre -75.5+" />
+			<selection name="1" odds="1.8500"
+				slipURL="https://www.betgun.com/en/add-bet/2359-02062013,1" value="Strasbourg Ig -77.5+" />
+			<selection name="2" odds="1.8500"
+				slipURL="https://www.betgun.com/en/add-bet/2359-02062013,2" value="Strasbourg Ig -77.5+" />
+		</subevent>
+		<subevent title="even/odd" dsymbol="K_PN">
+			<selection name="1" odds="1.9000"
+				slipURL="https://www.betgun.com/en/add-bet/2360-02062013,1" />
+			<selection name="2" odds="1.9000"
+				slipURL="https://www.betgun.com/en/add-bet/2360-02062013,2" />
+		</subevent>
+	</event>
+</betbrain>

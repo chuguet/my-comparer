@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Football>
+	<Sport name="Football" id="1">
+		<Country id="53" name="CZ">
+			<Tournament id="206780088" name="Gambrinus Liga 2013/2014" sortName="null">
+				<StartDate type="GMT">2013-07-13 00:00:00</StartDate>
+				<Match id="207349932">
+					<Participants>
+						<Participant id="450" type="home" name="FK Teplice"/>
+						<Participant id="62544" type="away" name="Znojmo"/>
+					</Participants>
+					<StartDate type="GMT">2013-11-29 19:15:00</StartDate>
+					<MatchOdds>
+						<BettingOffer typeId="9" scopeId="2" type="Double Chance" scope="Full time excluding overtime">
+							<Odds id="48658526300901" outcome="1X">1.07</Odds>
+							<Odds id="48658530200901" outcome="12">1.18</Odds>
+							<Odds id="48658526400901" outcome="X2">2.78</Odds>
+						</BettingOffer>
+						<BettingOffer typeId="43" scopeId="2" type="Home Draw Away" scope="Full time excluding overtime">
+							<Odds id="47481723606901" outcome="X">4.00</Odds>
+							<Odds id="47481723506901" outcome="2">7.80</Odds>
+							<Odds id="47481723406901" outcome="1">1.39</Odds>
+						</BettingOffer>
+					</MatchOdds>
+				</Match>
+			</Tournament>
+		</Country>
+	</Sport>
+</Football>

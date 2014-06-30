@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="American Football" id="14">
+		<event name="NFL" id="84">
+			<match name="Philadelphia Eagles - Carolina Panthers" id="499385"
+				start_date="2012-11-27T01:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_10" name="Total Goal Lines" id="5876743">
+						<choice name="Over 6.5" id="45572553" odd="11.00" />
+						<choice name="Under 6.5" id="45572551" odd="1.01" />
+						<choice name="Over 1.5" id="45572533" odd="1.12" />
+						<choice name="Over 2.5" id="45572537" odd="1.52" />
+						<choice name="Over 3.5" id="45572541" odd="2.40" />
+						<choice name="Over 4.5" id="45572545" odd="4.25" />
+						<choice name="Over 5.5" id="45572549" odd="8.50" />
+						<choice name="Under 1.5" id="45572531" odd="5.25" />
+						<choice name="Under 2.5" id="45572535" odd="2.35" />
+						<choice name="Under 3.5" id="45572539" odd="1.50" />
+						<choice name="Under 4.5" id="45572543" odd="1.18" />
+						<choice name="Under 5.5" id="45572547" odd="1.04" />
+						<choice name="Over 0.5" id="45572529" odd="1.01" />
+						<choice name="Under 0.5" id="45572527" odd="11.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

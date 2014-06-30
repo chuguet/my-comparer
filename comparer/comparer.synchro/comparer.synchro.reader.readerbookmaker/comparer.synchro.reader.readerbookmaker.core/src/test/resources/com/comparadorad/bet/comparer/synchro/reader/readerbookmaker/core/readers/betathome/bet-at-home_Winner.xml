@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List generatedAt="2013-08-19T09:54:37">
+	<OddsObject>
+		<Sport id="5">Basketball</Sport>
+		<Category id="48">Spain</Category>
+		<Tournament id="4954">ACB Champion</Tournament>
+		<MatchId>1140470</MatchId>
+		<Date>2014-06-01T12:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="502" oddType="1" betTypeGroup="1"
+			defaultName="Long term" groupName="Long term" betName="ACB overall winner 2013/14">Outright
+		</OddsType>
+		<OddsData>
+			<Outcomes>
+				<Outcome oddId="1140470_6970749_11716961" linkId="6970749_11716961"
+					name="Real Madrid">1.95</Outcome>
+				<Outcome oddId="1140470_6970749_11716962" linkId="6970749_11716962"
+					name="Regal FC Barcelona">2.20</Outcome>
+				<Outcome oddId="1140470_6970749_11716963" linkId="6970749_11716963"
+					name="Labor Kutxa">10.00</Outcome>
+				<Outcome oddId="1140470_6970749_11716964" linkId="6970749_11716964"
+					name="Valencia Basket">20.00</Outcome>
+				<Outcome oddId="1140470_6970749_11716965" linkId="6970749_11716965"
+					name="Unicaja Malaga">20.00</Outcome>
+				<Outcome oddId="1140470_6970749_11716966" linkId="6970749_11716966"
+					name="Bilbao Basket">25.00</Outcome>
+				<Outcome oddId="1140470_6970749_11716967" linkId="6970749_11716967"
+					name="Herbalife Gran Canaria">50.00</Outcome>
+				<Outcome oddId="1140470_6970749_11716968" linkId="6970749_11716968"
+					name="Cai Zaragoza">65.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717424" linkId="6970749_11717424"
+					name="Fiatc Joventut">100.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717581" linkId="6970749_11717581"
+					name="Blusens Monbus">200.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717582" linkId="6970749_11717582"
+					name="Cajasol">150.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717584" linkId="6970749_11717584"
+					name="UCAM Murcia">250.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717585" linkId="6970749_11717585"
+					name="CB Canarias">250.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717586" linkId="6970749_11717586"
+					name="ASEFA Estudiantes">250.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717587" linkId="6970749_11717587"
+					name="Baloncesto Fuenlabrada">250.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717588" linkId="6970749_11717588"
+					name="Gipuzkoa Basket">250.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717589" linkId="6970749_11717589"
+					name="Blancos de Rueda Valladolid">450.00</Outcome>
+				<Outcome oddId="1140470_6970749_11717590" linkId="6970749_11717590"
+					name="La Bruixa D`Or">450.00</Outcome>
+			</Outcomes>
+		</OddsData>
+	</OddsObject>
+</List>

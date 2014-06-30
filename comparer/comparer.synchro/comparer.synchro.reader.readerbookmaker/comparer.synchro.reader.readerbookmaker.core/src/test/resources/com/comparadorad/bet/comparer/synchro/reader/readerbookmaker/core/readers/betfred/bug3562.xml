@@ -1,0 +1,33 @@
+<category name="baseball" timeGenerated="2013-08-23T10:46:49" Bookmaker="Betfred">
+<event name="San Diego Padres v Chicago Cubs" eventid="2696770.20"
+	date="20130824" time="0310" meeting="" venue="">
+	<bettype bet-start-date="20130824" bet-start-time="0310"
+		suspended="false" name="Money Line (Volquez, E V Jackson, E)"
+		inrunning="0" bettypeid="7253376.20">
+		<bet had-value="HOME" name="San Diego Padres" short-name="San Diego"
+			id="144774441.20" price="4/5" priceDecimal="1.80" priceUS="-80.00"
+			active-price-types="CP" />
+		<bet had-value="AWAY" name="Chicago Cubs" short-name="Chicago C"
+			id="144774442.20" price="21/20" priceDecimal="2.05" priceUS="105.00"
+			active-price-types="CP" />
+	</bettype>
+	<bettype bet-start-date="20130824" bet-start-time="0310"
+		handicap="-1.50" suspended="false" name="Run Line (Volquez, E V Jackson, E) +1.5"
+		inrunning="0" bettypeid="7253381.20">
+		<bet had-value="HOME" name="San Diego Padres" short-name="San Diego"
+			id="144774520.20" handicap-id="4196433.20" handicap="-1.5" price="13/8"
+			priceDecimal="2.63" priceUS="162.50" active-price-types="CP" />
+		<bet had-value="AWAY" name="Chicago Cubs" short-name="Chicago C"
+			id="144774521.20" handicap-id="4196434.20" handicap="1.5" price="1/2"
+			priceDecimal="1.50" priceUS="-50.00" active-price-types="CP" />
+	</bettype>
+	<bettype bet-start-date="20130824" bet-start-time="0310"
+		suspended="false" name="Total Runs Over/Under (Volquez, E V Jackson, E) 7.5"
+		inrunning="0" bettypeid="7253383.20">
+		<bet name="Over 7.5" short-name="Over 7.5" id="144774524.20"
+			price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+		<bet name="Under 7.5" short-name="Under 7.5" id="144774525.20"
+			price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+	</bettype>
+</event>
+</category>

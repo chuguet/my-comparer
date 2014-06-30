@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="505" IdSport="MLB" Description="MLB - SERIES">
+			<banner ab="True" vtm="MLB - SERIES - Jul 01" htm="" />
+			<banner ab="False" vtm="BETS ON SERIES ARE BASED ON THE" htm="FIRST 3 GAMES PLAYED ON EACH SERIES" />
+			<banner ab="False" vtm="ANY QUESTION ABOUT SERIES"
+				htm="PLEASE GO TO WEBSITE OR ASK FOR A SUPERVISOR" />
+			<game idgm="1595850" idgmtyp="2" gmdt="20130701" idlg="505"
+				gmtm="16:05:00" idspt="MLB" vpt="" hpt="" vnum="801" hnum="802"
+				evtyp="" idgp="1595841" gpd="Game" vtm="BREWERS SERIES" htm="NATIONALS SERIES"
+				stats="false">
+				<line voddst="235" hoddst="-275" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 3.35" hoddsh=" 1.36"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" />
+			</game>
+			<game idgm="1595851" idgmtyp="2" gmdt="20130701" idlg="505"
+				gmtm="16:10:00" idspt="MLB" vpt="" hpt="" vnum="803" hnum="804"
+				evtyp="" idgp="1595842" gpd="Game" vtm="GIANTS SERIES" htm="REDS SERIES"
+				stats="false">
+				<line voddst="190" hoddst="-230" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 2.90" hoddsh=" 1.43"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" />
+			</game>
+			<game idgm="1595852" idgmtyp="2" gmdt="20130701" idlg="505"
+				gmtm="16:10:00" idspt="MLB" vpt="" hpt="" vnum="805" hnum="806"
+				evtyp="" idgp="1595843" gpd="Game" vtm="D`BACKS SERIES" htm="METS SERIES"
+				stats="false">
+				<line voddst="105" hoddst="-125" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 2.05" hoddsh=" 1.80"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" />
+			</game>
+			<game idgm="1595853" idgmtyp="2" gmdt="20130701" idlg="505"
+				gmtm="10:05:00" idspt="MLB" vpt="" hpt="" vnum="807" hnum="808"
+				evtyp="" idgp="1595845" gpd="Game" vtm="TIGERS SERIES" htm="BLUE JAYS SERIES"
+				stats="false">
+				<line voddst="100" hoddst="-120" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 2.00" hoddsh=" 1.83"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" />
+			</game>
+			<game idgm="1595854" idgmtyp="2" gmdt="20130701" idlg="505"
+				gmtm="17:10:00" idspt="MLB" vpt="" hpt="" vnum="809" hnum="810"
+				evtyp="" idgp="1595846" gpd="Game" vtm="RAYS SERIES" htm="ASTROS SERIES"
+				stats="false">
+				<line voddst="-185" hoddst="165" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 1.54" hoddsh=" 2.65"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" />
+			</game>
+			<game idgm="1595855" idgmtyp="2" gmdt="20130701" idlg="505"
+				gmtm="17:10:00" idspt="MLB" vpt="" hpt="" vnum="811" hnum="812"
+				evtyp="" idgp="1595847" gpd="Game" vtm="YANKEES SERIES" htm="TWINS SERIES"
+				stats="false">
+				<line voddst="-125" hoddst="105" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 1.80" hoddsh=" 2.05"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

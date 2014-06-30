@@ -1,0 +1,14 @@
+<category name="baseball" timeGenerated="2015-08-23T10:46:49" Bookmaker="Betfred">
+	<event name="Elche Cf v Real Valladolid" eventid="2735667.20"
+		date="20150916" time="1900" meeting="" venue="">
+		<bettype bet-start-date="20130916" bet-start-time="1900"
+			suspended="false" name="Half-Time Totals Over/Under 0.5" inrunning="0"
+			bettypeid="7514229.20">
+			<bet name="Over 0.5" short-name="Over 0.5" id="147055313.20"
+				price="4/9" priceDecimal="1.44" priceUS="-44.44" active-price-types="CP" />
+			<bet name="Under 0.5" short-name="Under 0.5" id="147055314.20"
+				price="13/8" priceDecimal="2.63" priceUS="162.50"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

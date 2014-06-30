@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="12679" IdSport="MU"
+			Description="NFL-SCORE IN THE 1ST 7.30 MINUTES">
+			<banner ab="True" vtm="NFL-SCORE IN THE 1ST 7.30 MINUTES - Oct 03"
+				htm="" />
+			<game idgm="1639129" gdesc="" idgmtyp="61" gmdt="20131003" idlg="12679"
+				gmtm="17:25:00" idspt="MU" vpt="" hpt="" vnum="16301" hnum="16302"
+				evtyp="" idgp="1631408" gpd="Game" vtm="YES - 7½ MIN BUF/CLE" htm="NO - 7½ MIN BUF/CLE"
+				stats="false">
+				<line voddst="-150" hoddst="130" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 1.67" hoddsh=" 2.30"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12174" IdSport="MU" Description="NFL - TEAM TOTALS">
+			<banner ab="True" vtm="NFL - TEAM TOTALS - Oct 03" htm="" />
+			<banner ab="False" vtm="NFL - TEAM TOTAL POINTS" htm="COMPLETE GAME &amp; 1ST HALF" />
+			<game idgm="1639124" gdesc="" idgmtyp="61" gmdt="20131003" idlg="12174"
+				gmtm="17:25:00" idspt="MU" vpt="" hpt="" vnum="20001" hnum="20002"
+				evtyp="" idgp="1631408" gpd="Game" vtm="BUFFALO TOT PTS" htm="BUFFALO TOT PTS"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-17.5" ovoddst="-105" unt="17.5"
+					unoddst="-115" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst=""
+					vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh=""
+					hsprdh="" ovh="o17&amp;frac12; 1.95" unh="u17&amp;frac12; 1.87"
+					vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="False" related="False"
+					EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12206" IdSport="MU" Description="NFL - FANTASY BET H2H">
+			<banner ab="True" vtm="NFL - FANTASY BET H2H - Oct 03" htm="" />
+			<banner ab="False" vtm="NFL FANTASY MATCHUPS- WEEK 5 ONLY!"
+				htm="SEE FANTASY SPORT RULES FOR POINT SCORING" />
+			<banner ab="False" vtm="PLAYER MUST PLAY FOR ACTION" htm="***CHECK RULES BEFORE WAGERING***" />
+			<game idgm="1639471" gdesc="" idgmtyp="60" gmdt="20131003" idlg="12206"
+				gmtm="05:25:00" idspt="MU" vpt="" hpt="" vnum="6701" hnum="6702"
+				evtyp="" idgp="1639471" gpd="Game" vtm="EJ MANUEL (BUF)" htm="B HOYER (CLE)"
+				stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst=""
+					vsprdt="1.5" vsprdoddst="-115" hsprdt="-1.5" hsprdoddst="-115"
+					vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh=""
+					vsprdh="+1&amp;frac12; 1.87" hsprdh="-1&amp;frac12; 1.87" ovh=""
+					unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0"
+					btot="False" bsprd="False" bml="False" haschild="False" related="False"
+					EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12678" IdSport="MU" Description="NFL - TEAM TO SCORE FIRST">
+			<banner ab="True" vtm="NFL - TEAM TO SCORE FIRST - Oct 03"
+				htm="" />
+			<game idgm="1639128" gdesc="" idgmtyp="61" gmdt="20131003" idlg="12678"
+				gmtm="17:25:00" idspt="MU" vpt="" hpt="" vnum="15301" hnum="15302"
+				evtyp="" idgp="1631408" gpd="Game" vtm="BUFFALO SC 1ST" htm="CLEVELAND SC 1ST"
+				stats="false">
+				<line voddst="125" hoddst="-145" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 2.25" hoddsh=" 1.69"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" EmptyGame="False" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

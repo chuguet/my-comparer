@@ -1,0 +1,16 @@
+<category name="basketball" timeGenerated="2013-11-27T18:05:55"
+	Bookmaker="Betfred">
+	<event name="Los Angeles Clippers v New York Knicks" eventid="2913620.20"
+		date="20131128" time="0330" meeting="" venue="">
+		<bettype bet-start-date="20131128" bet-start-time="0330"
+			handicap="-5.50" suspended="false" name="1st Half Point Spread +5.5"
+			inrunning="0" bettypeid="8559031.20">
+			<bet had-value="HOME" name="Los Angeles Clippers" short-name="Los Angel"
+				id="155953803.20" handicap-id="4594322.20" handicap="-5.5" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet had-value="AWAY" name="New York Knicks" short-name="New York"
+				id="155953804.20" handicap-id="4594323.20" handicap="5.5" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

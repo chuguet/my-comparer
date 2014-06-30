@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FEED NAME="BettingOffers" DESCRIPTION="All current betting offers for the given kind of sports" LAST_REFRESH="2013-06-03T11:23:45" NEXT_REFRESH="2013-06-03T11:43:45" DOMAIN="www.interwetten.com" LANGUAGE="EN" xmlns="">
+		<LEAGUE NAME="MLB" ID="14233">
+			<EVENT NAME="Atlanta Braves - Pittsburgh Pirates" START_TIME="2013-06-04T01:10:00" OPEN_TILL="2013-06-04T01:10:00" EVENTID="9797126">
+				<BET ID="27747938" TYPEID="13" TYPENAME="Match" PLAYER1="Atlanta Braves " PLAYER2="Pittsburgh Pirates" TIP="1" QUOTE="1,65"/>
+				<BET ID="27747937" TYPEID="13" TYPENAME="Match" PLAYER1="Atlanta Braves " PLAYER2="Pittsburgh Pirates" TIP="2" QUOTE="2,05"/>
+				<BET ID="27747939" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Pittsburgh Pirates" PLAYER2="Over 7.5" TIP=" " QUOTE="2,10"/>
+				<BET ID="27747940" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Atlanta Braves - Pittsburgh Pirates" PLAYER2="Under 7.5" TIP=" " QUOTE="1,65"/>
+			</EVENT>
+			<EVENT NAME="Cincinnati Reds - Colorado Rockies" START_TIME="2013-06-04T01:10:00" OPEN_TILL="2013-06-04T01:10:00" EVENTID="9797127">
+				<BET ID="27747934" TYPEID="13" TYPENAME="Match" PLAYER1="Cincinnati Reds " PLAYER2="Colorado Rockies" TIP="1" QUOTE="1,60"/>
+				<BET ID="27747933" TYPEID="13" TYPENAME="Match" PLAYER1="Cincinnati Reds " PLAYER2="Colorado Rockies" TIP="2" QUOTE="2,15"/>
+				<BET ID="27747935" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Cincinnati Reds - Colorado Rockies" PLAYER2="Over 8.5" TIP=" " QUOTE="1,70"/>
+				<BET ID="27747936" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Cincinnati Reds - Colorado Rockies" PLAYER2="Under 8.5" TIP=" " QUOTE="2,00"/>
+				<BET ID="27748417" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Cincinnati Reds(-1,5) " PLAYER2="Colorado Rockies(+1,5)" TIP="1" QUOTE="2,25"/>
+				<BET ID="27748416" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Cincinnati Reds(-1,5) " PLAYER2="Colorado Rockies(+1,5)" TIP="2" QUOTE="1,55"/>
+			</EVENT>
+			<EVENT NAME="LA Angels - Houston Astros" START_TIME="2013-06-04T04:05:00" OPEN_TILL="2013-06-04T04:05:00" EVENTID="9797132">
+				<BET ID="27747950" TYPEID="13" TYPENAME="Match" PLAYER1="LA Angels " PLAYER2="Houston Astros" TIP="1" QUOTE="1,45"/>
+				<BET ID="27747949" TYPEID="13" TYPENAME="Match" PLAYER1="LA Angels " PLAYER2="Houston Astros" TIP="2" QUOTE="2,50"/>
+				<BET ID="27747951" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="LA Angels - Houston Astros" PLAYER2="Over 8.5" TIP=" " QUOTE="1,80"/>
+				<BET ID="27747952" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="LA Angels - Houston Astros" PLAYER2="Under 8.5" TIP=" " QUOTE="1,90"/>
+				<BET ID="27748423" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="LA Angels(-1,5) " PLAYER2="Houston Astros(+1,5)" TIP="1" QUOTE="1,90"/>
+				<BET ID="27748422" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="LA Angels(-1,5) " PLAYER2="Houston Astros(+1,5)" TIP="2" QUOTE="1,80"/>
+			</EVENT>
+			<EVENT NAME="LA Dodgers - San Diego Padres" START_TIME="2013-06-04T04:10:00" OPEN_TILL="2013-06-04T04:10:00" EVENTID="9797134">
+				<BET ID="27747958" TYPEID="13" TYPENAME="Match" PLAYER1="LA Dodgers " PLAYER2="San Diego Padres" TIP="1" QUOTE="1,70"/>
+				<BET ID="27747957" TYPEID="13" TYPENAME="Match" PLAYER1="LA Dodgers " PLAYER2="San Diego Padres" TIP="2" QUOTE="2,00"/>
+				<BET ID="27747959" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="LA Dodgers - San Diego Padres" PLAYER2="Over 7.5" TIP=" " QUOTE="1,80"/>
+				<BET ID="27747960" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="LA Dodgers - San Diego Padres" PLAYER2="Under 7.5" TIP=" " QUOTE="1,90"/>
+				<BET ID="27748425" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="LA Dodgers(-1,5) " PLAYER2="San Diego Padres(+1,5)" TIP="1" QUOTE="2,50"/>
+				<BET ID="27748424" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="LA Dodgers(-1,5) " PLAYER2="San Diego Padres(+1,5)" TIP="2" QUOTE="1,45"/>
+			</EVENT>
+			<EVENT NAME="Milwaukee Brewers - Oakland Athletics" START_TIME="2013-06-04T02:10:00" OPEN_TILL="2013-06-04T02:10:00" EVENTID="9797128">
+				<BET ID="27747942" TYPEID="13" TYPENAME="Match" PLAYER1="Milwaukee Brewers " PLAYER2="Oakland Athletics" TIP="1" QUOTE="1,75"/>
+				<BET ID="27747941" TYPEID="13" TYPENAME="Match" PLAYER1="Milwaukee Brewers " PLAYER2="Oakland Athletics" TIP="2" QUOTE="1,95"/>
+				<BET ID="27747943" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Milwaukee Brewers - Oakland Athletics" PLAYER2="Over 8.5" TIP=" " QUOTE="1,75"/>
+				<BET ID="27747944" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Milwaukee Brewers - Oakland Athletics" PLAYER2="Under 8.5" TIP=" " QUOTE="1,95"/>
+				<BET ID="27748419" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Milwaukee Brewers(-1,5) " PLAYER2="Oakland Athletics(+1,5)" TIP="1" QUOTE="2,50"/>
+				<BET ID="27748418" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Milwaukee Brewers(-1,5) " PLAYER2="Oakland Athletics(+1,5)" TIP="2" QUOTE="1,45"/>
+			</EVENT>
+			<EVENT NAME="New York Yankees - Cleveland Indians" START_TIME="2013-06-04T01:05:00" OPEN_TILL="2013-06-04T01:05:00" EVENTID="9797124">
+				<BET ID="27747926" TYPEID="13" TYPENAME="Match" PLAYER1="New York Yankees " PLAYER2="Cleveland Indians" TIP="1" QUOTE="1,70"/>
+				<BET ID="27747925" TYPEID="13" TYPENAME="Match" PLAYER1="New York Yankees " PLAYER2="Cleveland Indians" TIP="2" QUOTE="2,00"/>
+				<BET ID="27747927" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="New York Yankees - Cleveland Indians" PLAYER2="Over 7.5" TIP=" " QUOTE="1,70"/>
+				<BET ID="27747928" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="New York Yankees - Cleveland Indians" PLAYER2="Under 7.5" TIP=" " QUOTE="2,00"/>
+				<BET ID="27748415" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="New York Yankees(-1,5) " PLAYER2="Cleveland Indians(+1,5)" TIP="1" QUOTE="2,35"/>
+				<BET ID="27748414" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="New York Yankees(-1,5) " PLAYER2="Cleveland Indians(+1,5)" TIP="2" QUOTE="1,50"/>
+			</EVENT>
+			<EVENT NAME="Philadelphia Phillies - Miami Marlins" START_TIME="2013-06-04T01:05:00" OPEN_TILL="2013-06-04T01:05:00" EVENTID="9797125">
+				<BET ID="27747930" TYPEID="13" TYPENAME="Match" PLAYER1="Philadelphia Phillies " PLAYER2="Miami Marlins" TIP="1" QUOTE="1,50"/>
+				<BET ID="27747929" TYPEID="13" TYPENAME="Match" PLAYER1="Philadelphia Phillies " PLAYER2="Miami Marlins" TIP="2" QUOTE="2,35"/>
+				<BET ID="27747931" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Philadelphia Phillies - Miami Marlins" PLAYER2="Over 7.5" TIP=" " QUOTE="1,85"/>
+				<BET ID="27747932" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Philadelphia Phillies - Miami Marlins" PLAYER2="Under 7.5" TIP=" " QUOTE="1,85"/>
+				<BET ID="27748413" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Philadelphia Phillies(-1,5) " PLAYER2="Miami Marlins(+1,5)" TIP="1" QUOTE="2,10"/>
+				<BET ID="27748412" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Philadelphia Phillies(-1,5) " PLAYER2="Miami Marlins(+1,5)" TIP="2" QUOTE="1,65"/>
+			</EVENT>
+			<EVENT NAME="Seattle Mariners - Chicago White Sox" START_TIME="2013-06-04T04:10:00" OPEN_TILL="2013-06-04T04:10:00" EVENTID="9797133">
+				<BET ID="27747954" TYPEID="13" TYPENAME="Match" PLAYER1="Seattle Mariners " PLAYER2="Chicago White Sox" TIP="1" QUOTE="1,75"/>
+				<BET ID="27747953" TYPEID="13" TYPENAME="Match" PLAYER1="Seattle Mariners " PLAYER2="Chicago White Sox" TIP="2" QUOTE="1,95"/>
+				<BET ID="27747955" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER2="Over 7.5" TIP=" " QUOTE="1,90"/>
+				<BET ID="27747956" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Seattle Mariners - Chicago White Sox" PLAYER2="Under 7.5" TIP=" " QUOTE="1,80"/>
+				<BET ID="27748427" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Seattle Mariners(-1,5) " PLAYER2="Chicago White Sox(+1,5)" TIP="1" QUOTE="2,50"/>
+				<BET ID="27748426" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Seattle Mariners(-1,5) " PLAYER2="Chicago White Sox(+1,5)" TIP="2" QUOTE="1,45"/>
+			</EVENT>
+			<EVENT NAME="St Louis Cardinals - Arizona Diamondbacks" START_TIME="2013-06-04T02:15:00" OPEN_TILL="2013-06-04T02:15:00" EVENTID="9797129">
+				<BET ID="27747946" TYPEID="13" TYPENAME="Match" PLAYER1="St Louis Cardinals " PLAYER2="Arizona Diamondbacks" TIP="1" QUOTE="1,50"/>
+				<BET ID="27747945" TYPEID="13" TYPENAME="Match" PLAYER1="St Louis Cardinals " PLAYER2="Arizona Diamondbacks" TIP="2" QUOTE="2,35"/>
+				<BET ID="27747947" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="St Louis Cardinals - Arizona Diamondbacks" PLAYER2="Over 7.5" TIP=" " QUOTE="1,90"/>
+				<BET ID="27747948" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="St Louis Cardinals - Arizona Diamondbacks" PLAYER2="Under 7.5" TIP=" " QUOTE="1,80"/>
+				<BET ID="27748421" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="St Louis Cardinals(-1,5) " PLAYER2="Arizona Diamondbacks(+1,5)" TIP="1" QUOTE="2,15"/>
+				<BET ID="27748420" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="St Louis Cardinals(-1,5) " PLAYER2="Arizona Diamondbacks(+1,5)" TIP="2" QUOTE="1,60"/>
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

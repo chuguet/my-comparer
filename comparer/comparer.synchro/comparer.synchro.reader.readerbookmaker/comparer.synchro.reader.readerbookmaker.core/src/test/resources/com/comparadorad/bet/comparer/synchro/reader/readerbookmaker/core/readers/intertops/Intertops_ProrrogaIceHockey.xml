@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<params legend="False" catId="-1" sportId="16" matchId="-1"
+		delta="2000" deltaUtc="2013-12-18T00:23" utc="2013-12-19T09:43"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="16" n="Ice Hockey">
+		<cat id="1064" n="NHL Lines">
+			<m id="1008411" n="Nashville Predators v Tampa Bay Lightning" mid="569024"
+				rot="59" dt="2013-12-20T00:35">
+				<t id="1" n="Single Match">
+					<l id="15028862" i="1" o="2.2">Nashville Predators</l>
+					<l id="15028863" i="2" o="1.7143">Tampa Bay Lightning</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1066" n="International Friendlies">
+			<m id="1008359" n="Sweden v Russia" mid="569004" dt="2013-12-19T15:00">
+				<t id="1" n="Single Match">
+					<l id="15027987" i="0" o="5">Draw</l>
+					<l id="15027985" i="1" o="5.25">Sweden</l>
+					<l id="15027986" i="2" o="1.4">Russia</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+</data>
+</result>

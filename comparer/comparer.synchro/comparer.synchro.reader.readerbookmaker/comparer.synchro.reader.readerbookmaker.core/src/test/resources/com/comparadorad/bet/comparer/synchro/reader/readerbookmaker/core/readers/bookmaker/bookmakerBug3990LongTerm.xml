@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="12450" IdSport="TNT" Description="NFL - OTHER SUPERBOWL PROPS">
+			<banner ab="True" vtm="NFL - OTHER SUPERBOWL PROPS - Nov 30"
+				htm="" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1579340" gdesc="" idgmtyp="97" gmdt="20131130" idlg="0"
+				gmtm="12:30:40" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SUPER BOWL XLVIII - COIN TOSS" stats="false">
+				<line tmnum="10001" tmname="COIN WILL LAND HEADS" odds="-103"
+					oddsh=" 1.97" bml="False" related="False" />
+				<line tmnum="10002" tmname="COIN WILL LAND TAILS" odds="-103"
+					oddsh=" 1.97" bml="False" related="False" />
+			</game>
+		</league>
+		<league IdLeague="12068" IdSport="TNT" Description="SOCCER FUTURES">
+			<banner ab="True" vtm="SOCCER FUTURES - Oct 02" htm="" />
+			<banner ab="False" vtm="UEFA CHAMPIONS LEAGUE COUNTRY OF WINNING TEAM"
+				htm="$500 LIMIT" />
+			<!-- NO ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description 
+				PERO game.htm NO CONTIENE NI 'WINNER' NI 'ODDS TO WIN' -->
+			<game idgm="1611827" gdesc="" idgmtyp="59" gmdt="20131002" idlg="0"
+				gmtm="11:45:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm=""
+				htm="CHAMPIONS LEAGUE COUNTRY OF WINNING TEAM 2013/14" stats="false">
+				<line tmnum="91001" tmname="SPAIN" odds="145" oddsh=" 2.45"
+					bml="False" related="False" />
+				<line tmnum="91002" tmname="ENGLAND" odds="345" oddsh=" 4.45"
+					bml="False" related="False" />
+				<line tmnum="91003" tmname="GERMANY" odds="275" oddsh=" 3.75"
+					bml="False" related="False" />
+				<line tmnum="91004" tmname="ITALY" odds="1015" oddsh=" 11.15"
+					bml="False" related="False" />
+				<line tmnum="91005" tmname="FRANCE" odds="1615" oddsh=" 17.15"
+					bml="False" related="False" />
+				<line tmnum="91006" tmname="ANY OTHER COUNTRY" odds="1815"
+					oddsh=" 19.15" bml="False" related="False" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description 
+				Y game.htm CONTIENE 'ODDS TO WIN' PERO TAMBIEN CONTIENE 'GROUP' -->
+			<game idgm="1624214" gdesc="" idgmtyp="59" gmdt="20131002" idlg="0"
+				gmtm="11:45:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO WIN UEFA CHAMPIONS LEAGUE, GROUP A"
+				stats="false">
+				<line tmnum="91035" tmname="MACHESTER UNITED" odds="-175"
+					oddsh=" 1.57" bml="False" related="False" />
+				<line tmnum="91036" tmname="SHAKHTAR DONETSK" odds="345" oddsh=" 4.45"
+					bml="False" related="False" />
+				<line tmnum="91037" tmname="BAYER 04 LEVERKUSEN" odds="765"
+					oddsh=" 8.65" bml="False" related="False" />
+				<line tmnum="91038" tmname="REAL SOCIEDAD" odds="1215" oddsh=" 13.15"
+					bml="False" related="False" />
+			</game>
+			<banner ab="False" vtm="ODDS TO WIN THE UEFA CHAMPIONS LEAGUE"
+				htm="$500 LIMIT" />
+			<!-- ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description Y game.htm 
+				CONTIENE 'ODDS TO WIN' -->
+			<game idgm="1619923" gdesc="" idgmtyp="59" gmdt="20131002" idlg="0"
+				gmtm="11:45:01" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO WIN THE UEFA CHAMPIONS LEAGUE 2013/14"
+				stats="false">
+				<line tmnum="91011" tmname="BAYERN MUNCHEN" odds="395" oddsh=" 4.95"
+					bml="False" related="False" />
+				<line tmnum="91012" tmname="FC BARCELONA" odds="465" oddsh=" 5.65"
+					bml="False" related="False" />
+				<line tmnum="91013" tmname="REAL MADRID" odds="485" oddsh=" 5.85"
+					bml="False" related="False" />
+				<line tmnum="91014" tmname="MANCHESTER UNITED" odds="1417"
+					oddsh=" 15.17" bml="False" related="False" />
+				<line tmnum="91015" tmname="MANCHESTER CITY" odds="1417" oddsh=" 15.17"
+					bml="False" related="False" />
+				<line tmnum="91016" tmname="CHELSEA" odds="1417" oddsh=" 15.17"
+					bml="False" related="False" />
+				<line tmnum="91017" tmname="JUVENTUS" odds="2054" oddsh=" 21.54"
+					bml="False" related="False" />
+				<line tmnum="91018" tmname="PARIS SAINT GERMAIN" odds="1818"
+					oddsh=" 19.18" bml="False" related="False" />
+				<line tmnum="91019" tmname="ARSENAL" odds="2557" oddsh=" 26.57"
+					bml="False" related="False" />
+				<line tmnum="91020" tmname="BORUSSIA DORTMUND" odds="1818"
+					oddsh=" 19.18" bml="False" related="False" />
+				<line tmnum="91021" tmname="AC MILAN" odds="4570" oddsh=" 46.70"
+					bml="False" related="False" />
+				<line tmnum="91022" tmname="ATLETICO MADRID" odds="2054" oddsh=" 21.54"
+					bml="False" related="False" />
+				<line tmnum="91023" tmname="NAPOLI" odds="2557" oddsh=" 26.57"
+					bml="False" related="False" />
+				<line tmnum="91024" tmname="BENFICA" odds="10358" oddsh=" 104.58"
+					bml="False" related="False" />
+				<line tmnum="91025" tmname="FC PORTO" odds="10358" oddsh=" 104.58"
+					bml="False" related="False" />
+				<line tmnum="91026" tmname="BAYER LEVERKUSEN" odds="20671"
+					oddsh=" 207.71" bml="False" related="False" />
+				<line tmnum="91027" tmname="SHAKHTAR DONETSK" odds="10358"
+					oddsh=" 104.58" bml="False" related="False" />
+				<line tmnum="91028" tmname="SCHALKE 04" odds="15486" oddsh=" 155.86"
+					bml="False" related="False" />
+				<line tmnum="91029" tmname="GALATASARAY" odds="20671" oddsh=" 207.71"
+					bml="False" related="False" />
+				<line tmnum="91030" tmname="AJAX AMSTERDAM" odds="20671" oddsh=" 207.71"
+					bml="False" related="False" />
+				<line tmnum="91031" tmname="ZENIT ST PETERSBURG" odds="18903"
+					oddsh=" 190.03" bml="False" related="False" />
+				<line tmnum="91032" tmname="MARSEILLE" odds="23048" oddsh=" 231.48"
+					bml="False" related="False" />
+				<line tmnum="91033" tmname="REAL SOCIEDAD" odds="20671" oddsh=" 207.71"
+					bml="False" related="False" />
+				<line tmnum="91034" tmname="FIELD (ANY OTHER TEAM)" odds="4066"
+					oddsh=" 41.66" bml="False" related="False" />
+			</game>
+		</league>
+		<league IdLeague="12191" IdSport="TNT" Description="NASCAR FUTURES">
+			<banner ab="True" vtm="NASCAR FUTURES - Oct 06" htm="" />
+			<!-- ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description Y game.htm 
+				CONTIENE ' - WINNER' -->
+			<game idgm="1639303" gdesc="" idgmtyp="63" gmdt="20131006" idlg="0"
+				gmtm="10:15:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="2013 NASCAR SPRINT CUP CHAMPIONSHIP - WINNER"
+				stats="false">
+				<line tmnum="18420" tmname="JIMMIE JOHNSON" odds="145" oddsh=" 2.45"
+					bml="False" related="False" />
+				<line tmnum="18421" tmname="MATT KENSETH" odds="165" oddsh=" 2.65"
+					bml="False" related="False" />
+				<line tmnum="18422" tmname="KYLE BUSCH" odds="345" oddsh=" 4.45"
+					bml="False" related="False" />
+				<line tmnum="18423" tmname="ANY OTHER DRIVER" odds="805" oddsh=" 9.05"
+					bml="False" related="False" />
+			</game>
+		</league>
+		<league IdLeague="12003" IdSport="TNT" Description="GOLF PICK WINNER">
+			<banner ab="True" vtm="GOLF PICK WINNER - Oct 03" htm="" />
+			<banner ab="False" vtm="GOLF - THE PRESIDENTS CUP"
+				htm="OCT 3RD-6TH @ MUIRFIELD VILLAGE GC, DUBLIN, OH" />
+			<banner ab="False" vtm="- EUROPEAN GOLF - SEVE TROPHY -" htm="OCTOBER 3RD TO 6TH -" />
+			<banner ab="False" vtm="SAINT NOM LA BRETECHE, FRANCE" htm="" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639138" gdesc="" idgmtyp="58" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY - 3-WAY BETTING" stats="false">
+				<line tmnum="82001" tmname="CONTINENTAL EUROPE" odds="-155"
+					oddsh=" 1.65" bml="False" related="True" />
+				<line tmnum="82002" tmname="GREAT BRITAIN AND IRELAND" odds="165"
+					oddsh=" 2.65" bml="False" related="True" />
+				<line tmnum="82003" tmname="TIED" odds="1325" oddsh=" 14.25"
+					bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639139" gdesc="" idgmtyp="58" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY - CORRECT SCORE" stats="false">
+				<line tmnum="82005" tmname="CONTINENTAL EUROPE 14.5-13.5" odds="1015"
+					oddsh=" 11.15" bml="False" related="True" />
+				<line tmnum="82006" tmname="CONTINENTAL EUROPE 15-13" odds="1015"
+					oddsh=" 11.15" bml="False" related="True" />
+				<line tmnum="82007" tmname="CONTINENTAL EUROPE 15.5-12.5" odds="1215"
+					oddsh=" 13.15" bml="False" related="True" />
+				<line tmnum="82008" tmname="CONTINENTAL EUROPE 16-12" odds="1215"
+					oddsh=" 13.15" bml="False" related="True" />
+				<line tmnum="82009" tmname="CONTINENTAL EUROPE 16.5-11.5" odds="1415"
+					oddsh=" 15.15" bml="False" related="True" />
+				<line tmnum="82010" tmname="CONTINENTAL EUROPE 17-11" odds="1615"
+					oddsh=" 17.15" bml="False" related="True" />
+				<line tmnum="82011" tmname="CONTINENTAL EUROPE 17.5-10.5" odds="1925"
+					oddsh=" 20.25" bml="False" related="True" />
+				<line tmnum="82012" tmname="CONTINENTAL EUROPE 18-10" odds="2250"
+					oddsh=" 23.50" bml="False" related="True" />
+				<line tmnum="82013" tmname="GREAT BRITAIN AND IRELAND 14.5-13.5"
+					odds="1045" oddsh=" 11.45" bml="False" related="True" />
+				<line tmnum="82014" tmname="GREAT BRITAIN AND IRELAND 15-13"
+					odds="1215" oddsh=" 13.15" bml="False" related="True" />
+				<line tmnum="82015" tmname="GREAT BRITAIN AND IRELAND 15.5-12.5"
+					odds="1415" oddsh=" 15.15" bml="False" related="True" />
+				<line tmnum="82016" tmname="GREAT BRITAIN AND IRELAND 16-12"
+					odds="1615" oddsh=" 17.15" bml="False" related="True" />
+				<line tmnum="82017" tmname="GREAT BRITAIN AND IRELAND 16.5-11.5"
+					odds="1800" oddsh=" 19.00" bml="False" related="True" />
+				<line tmnum="82018" tmname="GREAT BRITAIN AND IRELAND 17-11"
+					odds="2250" oddsh=" 23.50" bml="False" related="True" />
+				<line tmnum="82019" tmname="GREAT BRITAIN AND IRELAND 17.5-10.5"
+					odds="3000" oddsh=" 31.00" bml="False" related="True" />
+				<line tmnum="82020" tmname="GREAT BRITAIN AND IRELAND 18-10"
+					odds="3750" oddsh=" 38.50" bml="False" related="True" />
+				<line tmnum="82021" tmname="TIE 14-14" odds="1125" oddsh=" 12.25"
+					bml="False" related="True" />
+				<line tmnum="82022" tmname="ANY OTHER RESULT" odds="825" oddsh=" 9.25"
+					bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639145" gdesc="" idgmtyp="58" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY / DAY 1 WINNER" stats="false">
+				<line tmnum="82033" tmname="CONTINENTAL EUROPE - DAY 1 WINNER"
+					odds="110" oddsh=" 2.10" bml="False" related="True" />
+				<line tmnum="82034" tmname="GREAT BRITAIN AND IRELAND - DAY 1 WINNER"
+					odds="145" oddsh=" 2.45" bml="False" related="True" />
+				<line tmnum="82035" tmname="TIED - DAY 1" odds="485" oddsh=" 5.85"
+					bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639146" gdesc="" idgmtyp="58" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY / DAY 1 CORRECT SCORE"
+				stats="false">
+				<line tmnum="82037" tmname="CONTINENTAL EUROPE 3-2" odds="345"
+					oddsh=" 4.45" bml="False" related="True" />
+				<line tmnum="82038" tmname="CONTINENTAL EUROPE 3.5-1.5" odds="645"
+					oddsh=" 7.45" bml="False" related="True" />
+				<line tmnum="82039" tmname="CONTINENTAL EUROPE 4-1" odds="685"
+					oddsh=" 7.85" bml="False" related="True" />
+				<line tmnum="82040" tmname="CONTINENTAL EUROPE 4.5-0.5" odds="2550"
+					oddsh=" 26.50" bml="False" related="True" />
+				<line tmnum="82041" tmname="CONTINENTAL EUROPE 5-0" odds="2550"
+					oddsh=" 26.50" bml="False" related="True" />
+				<line tmnum="82042" tmname="GREAT BRITAIN AND IRELAND 3-2"
+					odds="365" oddsh=" 4.65" bml="False" related="True" />
+				<line tmnum="82043" tmname="GREAT BRITAIN AND IRELAND 3.5-1.5"
+					odds="945" oddsh=" 10.45" bml="False" related="True" />
+				<line tmnum="82044" tmname="GREAT BRITAIN AND IRELAND 4-1"
+					odds="1215" oddsh=" 13.15" bml="False" related="True" />
+				<line tmnum="82045" tmname="GREAT BRITAIN AND IRELAND 4.5-0.5"
+					odds="3550" oddsh=" 36.50" bml="False" related="True" />
+				<line tmnum="82046" tmname="GREAT BRITAIN AND IRELAND 5-0"
+					odds="5251" oddsh=" 53.51" bml="False" related="True" />
+				<line tmnum="82047" tmname="TIED 2.5-2.5" odds="485" oddsh=" 5.85"
+					bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639157" gdesc="" idgmtyp="61" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY / TOP COMBINED POINTS SCORER"
+				stats="false">
+				<line tmnum="82121" tmname="NICOLAS COLSAERTS" odds="-145"
+					oddsh=" 1.69" bml="False" related="True" />
+				<line tmnum="82122" tmname="CHRIS WOOD" odds="125" oddsh=" 2.25"
+					bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639158" gdesc="" idgmtyp="61" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY / TOP COMBINED POINTS SCORER"
+				stats="false">
+				<line tmnum="82123" tmname="PAUL CASEY" odds="-115" oddsh=" 1.87"
+					bml="False" related="True" />
+				<line tmnum="82124" tmname="MIGUEL ANGEL JIMENEZ" odds="-105"
+					oddsh=" 1.95" bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639164" gdesc="" idgmtyp="61" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm=""
+				htm="SEVE TROPHY /TOP GREAT BRITAIN AND IRELAND POINTS" stats="false">
+				<line tmnum="82135" tmname="PAUL CASEY" odds="-120" oddsh=" 1.83"
+					bml="False" related="True" />
+				<line tmnum="82136" tmname="CHRIS WOOD" odds="100" oddsh=" 2.00"
+					bml="False" related="True" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1639169" gdesc="" idgmtyp="61" gmdt="20131003" idlg="0"
+				gmtm="01:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="SEVE TROPHY / TOP CONTINENTAL EUROPE SCORER"
+				stats="false">
+				<line tmnum="82145" tmname="JOOST LUITEN" odds="100" oddsh=" 2.00"
+					bml="False" related="True" />
+				<line tmnum="82146" tmname="THOMAS BJORN" odds="-120" oddsh=" 1.83"
+					bml="False" related="True" />
+			</game>
+		</league>
+		<league IdLeague="12138" IdSport="TNT" Description="CRICKET FUTURES">
+			<banner ab="True" vtm="CRICKET FUTURES - Oct 22" htm="" />
+			<!-- NO ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description 
+				PERO game.htm NO CONTIENE NI 'WINNER' NI 'ODDS TO WIN' -->
+			<game idgm="1637776" gdesc="" idgmtyp="58" gmdt="20131022" idlg="0"
+				gmtm="18:46:50" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="THE ASHES SERIES 2013" stats="false">
+				<line tmnum="81001" tmname="ENGLAND" odds="125" oddsh=" 2.25"
+					bml="False" related="True" />
+				<line tmnum="81002" tmname="AUSTRALIA" odds="145" oddsh=" 2.45"
+					bml="False" related="True" />
+				<line tmnum="81003" tmname="DRAWN SERIES" odds="425" oddsh=" 5.25"
+					bml="False" related="True" />
+			</game>
+			<banner ab="True" vtm="CRICKET FUTURES - Jan 01" htm="" />
+			<!-- NO ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description 
+				PERO game.htm NO CONTIENE NI 'WINNER' NI 'ODDS TO WIN' -->
+			<game idgm="1637778" gdesc="" idgmtyp="58" gmdt="20140101" idlg="0"
+				gmtm="02:11:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="TWENTY 20 WORLD CUP 2014" stats="false">
+				<line tmnum="81201" tmname="INDIA" odds="325" oddsh=" 4.25"
+					bml="False" related="True" />
+				<line tmnum="81202" tmname="AUSTRALIA" odds="565" oddsh=" 6.65"
+					bml="False" related="True" />
+				<line tmnum="81203" tmname="SOUTH AFRICA" odds="685" oddsh=" 7.85"
+					bml="False" related="True" />
+				<line tmnum="81204" tmname="PAKISTAN" odds="805" oddsh=" 9.05"
+					bml="False" related="True" />
+				<line tmnum="81205" tmname="WEST INDIES" odds="685" oddsh=" 7.85"
+					bml="False" related="True" />
+				<line tmnum="81206" tmname="SRI LANKA" odds="805" oddsh=" 9.05"
+					bml="False" related="True" />
+				<line tmnum="81207" tmname="ENGLAND" odds="625" oddsh=" 7.25"
+					bml="False" related="True" />
+				<line tmnum="81208" tmname="NEW ZEALAND" odds="1015" oddsh=" 11.15"
+					bml="False" related="True" />
+				<line tmnum="81209" tmname="ANY OTHER TEAM" odds="2550" oddsh=" 26.50"
+					bml="False" related="True" />
+			</game>
+			<!-- ES LARGO PLAZO/GANADOR - PONE 'FUTURES' EN LEAGUE.Description Y game.htm 
+				CONTIENE NI ' - WINNER' -->
+			<game idgm="1637779" gdesc="" idgmtyp="58" gmdt="20140101" idlg="0"
+				gmtm="02:11:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="WORLD CUP 2015 - WINNER" stats="false">
+				<line tmnum="81301" tmname="AUSTRALIA" odds="525" oddsh=" 6.25"
+					bml="False" related="True" />
+				<line tmnum="81302" tmname="INDIA" odds="525" oddsh=" 6.25"
+					bml="False" related="True" />
+				<line tmnum="81303" tmname="SOUTH AFRICA" odds="525" oddsh=" 6.25"
+					bml="False" related="True" />
+				<line tmnum="81304" tmname="ENGLAND" odds="425" oddsh=" 5.25"
+					bml="False" related="True" />
+				<line tmnum="81305" tmname="SRI LANKA" odds="605" oddsh=" 7.05"
+					bml="False" related="True" />
+				<line tmnum="81306" tmname="PAKISTAN" odds="725" oddsh=" 8.25"
+					bml="False" related="True" />
+				<line tmnum="81307" tmname="WEST INDIES" odds="1415" oddsh=" 15.15"
+					bml="False" related="True" />
+				<line tmnum="81308" tmname="NEW ZEALAND" odds="1015" oddsh=" 11.15"
+					bml="False" related="True" />
+				<line tmnum="81309" tmname="BANGLADESH" odds="5250" oddsh=" 53.50"
+					bml="False" related="True" />
+			</game>
+		</league>
+		<league IdLeague="12008" IdSport="TNT" Description="ENTERTAINMENT">
+			<banner ab="True" vtm="ENTERTAINMENT - Oct 05" htm="" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1623464" gdesc="" idgmtyp="56" gmdt="20131005" idlg="0"
+				gmtm="19:33:57" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="THE VOICE USA - SEASON 5 - WINNER WILL BE?"
+				stats="false">
+				<line tmnum="99017" tmname="MALE" odds="125" oddsh=" 2.25" bml="False"
+					related="False" />
+				<line tmnum="99018" tmname="FEMALE" odds="-125" oddsh=" 1.80"
+					bml="False" related="False" />
+				<line tmnum="99019" tmname="GROUP" odds="1616" oddsh=" 17.16"
+					bml="False" related="False" />
+			</game>
+			<banner ab="True" vtm="ENTERTAINMENT - Oct 20" htm="" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1623078" gdesc="" idgmtyp="56" gmdt="20131020" idlg="0"
+				gmtm="06:09:53" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO 2013 WSOP --- MAIN EVENT WINNER"
+				stats="false">
+				<line tmnum="99001" tmname="JC TRAN" odds="265" oddsh=" 3.65"
+					bml="False" related="False" />
+				<line tmnum="99002" tmname="AMIR LEHAVOT" odds="525" oddsh=" 6.25"
+					bml="False" related="False" />
+				<line tmnum="99003" tmname="MARC-ETIENNE MCLAUGHLIN" odds="725"
+					oddsh=" 8.25" bml="False" related="False" />
+				<line tmnum="99004" tmname="JAY FARBER" odds="725" oddsh=" 8.25"
+					bml="False" related="False" />
+				<line tmnum="99005" tmname="RYAN RIESS" odds="605" oddsh=" 7.05"
+					bml="False" related="False" />
+				<line tmnum="99006" tmname="SYLVAIN LOOSLI" odds="785" oddsh=" 8.85"
+					bml="False" related="False" />
+				<line tmnum="99007" tmname="MICHIEL BRUMMELHUIS" odds="1298"
+					oddsh=" 13.98" bml="False" related="False" />
+				<line tmnum="99008" tmname="MARK NEWHOUSE" odds="1415" oddsh=" 15.15"
+					bml="False" related="False" />
+				<line tmnum="99009" tmname="DAVID BENEFIELD" odds="1415" oddsh=" 15.15"
+					bml="False" related="False" />
+			</game>
+		</league>
+		<league IdLeague="12195" IdSport="TNT" Description="NFL- PLAYER PROPS">
+			<banner ab="True" vtm="NFL- PLAYER PROPS - Jun 30" htm="" />
+			<banner ab="False"
+				vtm="- ODDS TO WIN 2013-2014 NFL OFFENSIVE &amp; DEFENSIVE" htm="ROOKIE OF THE YEAR -" />
+			<banner ab="False" vtm="- ALL BETS ARE ACTION -" htm="$500 LIMIT" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1579297" idgmtyp="29" gmdt="20130630" idlg="0"
+				gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO WIN NFL OFFENSIVE ROOKIE OF THE YEAR "
+				stats="false">
+				<line tmnum="70001" tmname="CORDARRELLE PATTERSON " odds="1100"
+					oddsh=" 12.00" bml="False" related="False" />
+				<line tmnum="70002" tmname="DEANDRE HOPKINS " odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70003" tmname="DENARD ROBINSON " odds="1500"
+					oddsh=" 16.00" bml="False" related="False" />
+				<line tmnum="70004" tmname="EDDIE LACY " odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70005" tmname="EJ MANUEL " odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70006" tmname="ERIC FISHER " odds="2200" oddsh=" 23.00"
+					bml="False" related="False" />
+				<line tmnum="70007" tmname="GENO SMITH " odds="900" oddsh=" 10.00"
+					bml="False" related="False" />
+				<line tmnum="70008" tmname="GIOVANI BERNARD " odds="1800"
+					oddsh=" 19.00" bml="False" related="False" />
+				<line tmnum="70009" tmname="JOHNATHAN FRANKLIN " odds="1800"
+					oddsh=" 19.00" bml="False" related="False" />
+				<line tmnum="70010" tmname="JUSTIN HUNTER " odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70011" tmname="KEENAN ALLEN " odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70012" tmname="LEVEON BELL " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70013" tmname="LUKE JOECKEL " odds="2200" oddsh=" 23.00"
+					bml="False" related="False" />
+				<line tmnum="70014" tmname="MONTEE BALL " odds="500" oddsh=" 6.00"
+					bml="False" related="False" />
+				<line tmnum="70015" tmname="ROBERT WOODS " odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70016" tmname="STEDMAN BAILEY " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70017" tmname="TAVON AUSTIN " odds="500" oddsh=" 6.00"
+					bml="False" related="False" />
+				<line tmnum="70018" tmname="TYLER EIFERT " odds="1000" oddsh=" 11.00"
+					bml="False" related="False" />
+				<line tmnum="70019" tmname="ZACH ERTZ " odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70020" tmname="THE FIELD (ANY OTHER PLAYER)" odds="500"
+					oddsh=" 6.00" bml="False" related="False" />
+			</game>
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1579298" idgmtyp="29" gmdt="20130630" idlg="0"
+				gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO WIN NFL DEFENSIVE ROOKIE OF THE YEAR"
+				stats="false">
+				<line tmnum="70025" tmname="ALEC OGLETREE " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70026" tmname="ARTHUR BROWN " odds="1000" oddsh=" 11.00"
+					bml="False" related="False" />
+				<line tmnum="70027" tmname="BARKEVIOUS MINGO " odds="1500"
+					oddsh=" 16.00" bml="False" related="False" />
+				<line tmnum="70028" tmname="DATONE JONES " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70029" tmname="DEE MILLINER " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70030" tmname="DESMOND TRUFANT " odds="1500"
+					oddsh=" 16.00" bml="False" related="False" />
+				<line tmnum="70031" tmname="DION JORDAN " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70032" tmname="D J HAYDEN " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70033" tmname="ERIC REID " odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70034" tmname="EZEKIEL ANSAH " odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70035" tmname="JARVIS JONES " odds="700" oddsh=" 8.00"
+					bml="False" related="False" />
+				<line tmnum="70036" tmname="JOHN JENKINS " odds="1600" oddsh=" 17.00"
+					bml="False" related="False" />
+				<line tmnum="70037" tmname="KEVIN MINTER " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70038" tmname="KENNY VACCARO " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70039" tmname="MANTI TEO " odds="1300" oddsh=" 14.00"
+					bml="False" related="False" />
+				<line tmnum="70040" tmname="MARGUS HUNT " odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70041" tmname="MATT ELAM " odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70042" tmname="ROBERT ALFORD " odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70043" tmname="SHARRIF FLOYD " odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70044" tmname="SHELDON RICHARDSON " odds="2000"
+					oddsh=" 21.00" bml="False" related="False" />
+				<line tmnum="70045" tmname="STAR LOTULELEI " odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70046" tmname="SYLVESTER WILLIAMS " odds="1200"
+					oddsh=" 13.00" bml="False" related="False" />
+				<line tmnum="70047" tmname="XAVIER RHODES " odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70048" tmname="THE FIELD (ANY OTHER PLAYER)" odds="650"
+					oddsh=" 7.50" bml="False" related="False" />
+			</game>
+			<banner ab="False" vtm="-ODDS TO WIN THE 2013 NFL REGULAR SEASON MOST"
+				htm="VALUABLE PLAYER (MVP)-" />
+			<banner ab="False" vtm="--ALL BETS ARE ACTION ---- $500 LIMIT"
+				htm="MVP MUST BE AWARDED FOR ACTION." />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1583283" idgmtyp="29" gmdt="20130630" idlg="0"
+				gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO WIN THE 2013 REGULAR SEASON NFL MVP"
+				stats="false">
+				<line tmnum="70050" tmname="AARON RODGERS" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70051" tmname="ADRIAN PETERSON" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70052" tmname="ANDREW LUCK" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70053" tmname="ANDY DALTON" odds="5000" oddsh=" 51.00"
+					bml="False" related="False" />
+				<line tmnum="70054" tmname="ARIAN FOSTER" odds="3000" oddsh=" 31.00"
+					bml="False" related="False" />
+				<line tmnum="70055" tmname="BEN ROETHLISBERGER" odds="2000"
+					oddsh=" 21.00" bml="False" related="False" />
+				<line tmnum="70056" tmname="CAM NEWTON" odds="3000" oddsh=" 31.00"
+					bml="False" related="False" />
+				<line tmnum="70057" tmname="CALVIN JOHNSON" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70058" tmname="CHRIS JOHNSON" odds="2200" oddsh=" 23.00"
+					bml="False" related="False" />
+				<line tmnum="70059" tmname="COLIN KAEPERNICK" odds="700" oddsh=" 8.00"
+					bml="False" related="False" />
+				<line tmnum="70060" tmname="DREW BREES" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70061" tmname="ELI MANNING" odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70062" tmname="JAY CUTLER" odds="5000" oddsh=" 51.00"
+					bml="False" related="False" />
+				<line tmnum="70063" tmname="JOE FLACCO" odds="4000" oddsh=" 41.00"
+					bml="False" related="False" />
+				<line tmnum="70064" tmname="JOSH FREEMAN" odds="5000" oddsh=" 51.00"
+					bml="False" related="False" />
+				<line tmnum="70065" tmname="MARSHAWN LYNCH" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70066" tmname="MATTHEW STAFFORD" odds="2000"
+					oddsh=" 21.00" bml="False" related="False" />
+				<line tmnum="70067" tmname="MATT RYAN" odds="1300" oddsh=" 14.00"
+					bml="False" related="False" />
+				<line tmnum="70068" tmname="MATT SCHAUB" odds="3000" oddsh=" 31.00"
+					bml="False" related="False" />
+				<line tmnum="70069" tmname="MICHAEL VICK" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70070" tmname="PEYTON MANNING" odds="500" oddsh=" 6.00"
+					bml="False" related="False" />
+				<line tmnum="70071" tmname="RAY RICE" odds="5000" oddsh=" 51.00"
+					bml="False" related="False" />
+				<line tmnum="70072" tmname="ROBERT GRIFFIN III" odds="1800"
+					oddsh=" 19.00" bml="False" related="False" />
+				<line tmnum="70073" tmname="RUSSELL WILSON" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70074" tmname="STEVEN JACKSON" odds="4000" oddsh=" 41.00"
+					bml="False" related="False" />
+				<line tmnum="70075" tmname="TOM BRADY" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70076" tmname="TONY ROMO" odds="2500" oddsh=" 26.00"
+					bml="False" related="False" />
+				<line tmnum="70077" tmname="WES WELKER" odds="4000" oddsh=" 41.00"
+					bml="False" related="False" />
+				<line tmnum="70078" tmname="THE FIELD ( ANY OTHER PLAYER )"
+					odds="800" oddsh=" 9.00" bml="False" related="False" />
+			</game>
+			<banner ab="False" vtm="- PLAYER TO RECORD MOST PASS RECEIVING YARDS IN "
+				htm="2013 NFL REGULAR SEASON --- REGULAR SEASON ONLY -" />
+			<banner ab="False" vtm="--ALL BETS ARE ACTION--" htm="$500 LIMIT" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1584088" idgmtyp="29" gmdt="20130630" idlg="0"
+				gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm=""
+				htm="PLAYER TO RECORD MOST RECEIVING YRDS IN REG SEASON" stats="false">
+				<line tmnum="70081" tmname="AJ GREEN" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70082" tmname="ANDRE JOHNSON" odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70083" tmname="ANQUAN BOLDIN" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70085" tmname="BRANDON MARSHALL" odds="650" oddsh=" 7.50"
+					bml="False" related="False" />
+				<line tmnum="70086" tmname="CALVIN JOHNSON" odds="385" oddsh=" 4.85"
+					bml="False" related="False" />
+				<line tmnum="70087" tmname="DANNY AMENDOLA" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70088" tmname="DEMARYIUS THOMAS" odds="1200"
+					oddsh=" 13.00" bml="False" related="False" />
+				<line tmnum="70089" tmname="DESEAN JACKSON" odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70090" tmname="DEZ BRYANT" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70091" tmname="DWAYNE BOWE" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70093" tmname="JULIO JONES" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70094" tmname="LARRY FITZGERALD" odds="1500"
+					oddsh=" 16.00" bml="False" related="False" />
+				<line tmnum="70095" tmname="MARQUES COLSTON" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70097" tmname="MILES AUSTIN" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70098" tmname="PERCY HARVIN" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70099" tmname="RANDALL COBB" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70101" tmname="RODDY WHITE" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70103" tmname="STEVE SMITH" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70104" tmname="VICTOR CRUZ" odds="1300" oddsh=" 14.00"
+					bml="False" related="False" />
+				<line tmnum="70105" tmname="VINCENT JACKSON" odds="1600" oddsh=" 17.00"
+					bml="False" related="False" />
+				<line tmnum="70106" tmname="WES WELKER" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70107" tmname="THE FIELD (ANY OTHER PLAYER)" odds="800"
+					oddsh=" 9.00" bml="False" related="False" />
+			</game>
+			<banner ab="False" vtm="- PLAYER TO RECORD MOST PASSING YARDS IN 2013"
+				htm="NFL REGULAR SEASON --- REGULAR SEASON ONLY -" />
+			<banner ab="False" vtm="--ALL BETS ARE ACTION--" htm="$500 LIMIT" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1584106" idgmtyp="29" gmdt="20130630" idlg="0"
+				gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm=""
+				htm="PLAYER TO RECORD MOST PASSING YARDS IN REG SEASON" stats="false">
+				<line tmnum="70111" tmname="AARON RODGERS" odds="650" oddsh=" 7.50"
+					bml="False" related="False" />
+				<line tmnum="70112" tmname="ANDREW LUCK" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70113" tmname="ANDY DALTON" odds="2500" oddsh=" 26.00"
+					bml="False" related="False" />
+				<line tmnum="70114" tmname="BEN ROETHLISBERGER" odds="2000"
+					oddsh=" 21.00" bml="False" related="False" />
+				<line tmnum="70115" tmname="CAM NEWTON" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70116" tmname="COLIN KAEPERNICK" odds="2500"
+					oddsh=" 26.00" bml="False" related="False" />
+				<line tmnum="70117" tmname="DREW BREES" odds="350" oddsh=" 4.50"
+					bml="False" related="False" />
+				<line tmnum="70118" tmname="ELI MANNING" odds="1000" oddsh=" 11.00"
+					bml="False" related="False" />
+				<line tmnum="70119" tmname="JAY CUTLER" odds="2200" oddsh=" 23.00"
+					bml="False" related="False" />
+				<line tmnum="70120" tmname="JOE FLACCO" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70122" tmname="MATT RYAN" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70123" tmname="MATT SCHAUB" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70124" tmname="MATTHEW STAFFORD" odds="650" oddsh=" 7.50"
+					bml="False" related="False" />
+				<line tmnum="70126" tmname="PEYTON MANNING" odds="500" oddsh=" 6.00"
+					bml="False" related="False" />
+				<line tmnum="70127" tmname="PHILIP RIVERS" odds="3000" oddsh=" 31.00"
+					bml="False" related="False" />
+				<line tmnum="70128" tmname="ROBERT GRIFFIN III" odds="2000"
+					oddsh=" 21.00" bml="False" related="False" />
+				<line tmnum="70129" tmname="RUSSELL WILSON" odds="2200" oddsh=" 23.00"
+					bml="False" related="False" />
+				<line tmnum="70130" tmname="SAM BRADFORD" odds="2500" oddsh=" 26.00"
+					bml="False" related="False" />
+				<line tmnum="70131" tmname="TOM BRADY" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70132" tmname="TONY ROMO" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70133" tmname="THE FIELD (ANY OTHER PLAYER)" odds="1200"
+					oddsh=" 13.00" bml="False" related="False" />
+			</game>
+			<banner ab="False" vtm="- PLAYER TO RECORD MOST RUSHING YARDS IN 2013"
+				htm="NFL REGULAR SEASON --- REGULAR SEASON ONLY -" />
+			<banner ab="False" vtm="--ALL BETS ARE ACTION--" htm="$500 LIMIT" />
+			<!-- NO ES LARGO PLAZO/GANADOR - NO PONE 'FUTURES' EN LEAGUE.Description -->
+			<game idgm="1584135" idgmtyp="29" gmdt="20130630" idlg="0"
+				gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm=""
+				htm="PLAYER TO RECORD MOST RUSHING YARDS IN REG SEASON" stats="false">
+				<line tmnum="70137" tmname="ADRIAN PETERSON" odds="250" oddsh=" 3.50"
+					bml="False" related="False" />
+				<line tmnum="70138" tmname="ALFRED MORRIS" odds="1000" oddsh=" 11.00"
+					bml="False" related="False" />
+				<line tmnum="70139" tmname="ARIAN FOSTER" odds="800" oddsh=" 9.00"
+					bml="False" related="False" />
+				<line tmnum="70140" tmname="CHRIS JOHNSON" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70141" tmname="CJ SPILLER" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70142" tmname="DARREN MCFADDEN" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70143" tmname="DAVID WILSON" odds="2200" oddsh=" 23.00"
+					bml="False" related="False" />
+				<line tmnum="70144" tmname="DEMARCO MURRAY" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70145" tmname="DOUG MARTIN" odds="1000" oddsh=" 11.00"
+					bml="False" related="False" />
+				<line tmnum="70146" tmname="EDDIE LACY" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70147" tmname="FRANK GORE" odds="2000" oddsh=" 21.00"
+					bml="False" related="False" />
+				<line tmnum="70148" tmname="JAMAAL CHARLES" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70149" tmname="LAMAR MILLER" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70150" tmname="LESEAN MCCOY" odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70151" tmname="MARSHAWN LYNCH" odds="650" oddsh=" 7.50"
+					bml="False" related="False" />
+				<line tmnum="70152" tmname="MAURICE JONES DREW" odds="1500"
+					oddsh=" 16.00" bml="False" related="False" />
+				<line tmnum="70153" tmname="MATT FORTE" odds="1500" oddsh=" 16.00"
+					bml="False" related="False" />
+				<line tmnum="70154" tmname="RAY RICE" odds="1800" oddsh=" 19.00"
+					bml="False" related="False" />
+				<line tmnum="70155" tmname="MONTEE BALL" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70156" tmname="STEVEN JACKSON" odds="1200" oddsh=" 13.00"
+					bml="False" related="False" />
+				<line tmnum="70157" tmname="TRENT RICHARDSON" odds="1000"
+					oddsh=" 11.00" bml="False" related="False" />
+				<line tmnum="70158" tmname="THE FIELD (ANY OTHER PLAYER)" odds="800"
+					oddsh=" 9.00" bml="False" related="False" />
+			</game>
+		</league>
+		<league IdLeague="12068" IdSport="TNT" Description="SOCCER FUTURES">
+			<banner ab="True" vtm="SOCCER FUTURES - Aug 17" htm="" />
+			<game idgm="1599735" gdesc="" idgmtyp="3" gmdt="20130817" idlg="0"
+				gmtm="07:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="TO WIN - ENGLAND PREMIER LEAGUE 2013/14"
+				stats="false">
+				<line tmnum="88081" tmname="MANCHESTER UNITED" odds="185"
+					oddsh=" 2.85" bml="False" related="True" />
+				<line tmnum="88082" tmname="MANCHESTER CITY" odds="200" oddsh=" 3.00"
+					bml="False" related="True" />
+				<line tmnum="88083" tmname="CHELSEA FC" odds="200" oddsh=" 3.00"
+					bml="False" related="True" />
+				<line tmnum="88092" tmname="ASTON VILLA" odds="10000" oddsh=" 101.00"
+					bml="False" related="True" />
+				<line tmnum="88093" tmname="WEST HAM UNITED" odds="12500"
+					oddsh=" 126.00" bml="False" related="True" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

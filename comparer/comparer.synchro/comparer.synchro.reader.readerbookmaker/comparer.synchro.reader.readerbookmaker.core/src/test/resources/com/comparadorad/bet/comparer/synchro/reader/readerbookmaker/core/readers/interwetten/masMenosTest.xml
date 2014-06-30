@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T15:37:01" NEXT_REFRESH="2013-10-16T15:57:01"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Football">
+		<LEAGUE NAME="Argentina 1st League" ID="405358">
+			<!-- TYPEID="88" PARTIDO COMPLETO (valor 156.5) -->
+			<EVENT NAME="CA Tigre - Arsenal Sarandi" START_TIME="2013-10-16T17:30:00"
+				OPEN_TILL="2013-10-16T17:30:00" EVENTID="9866356">
+				<BET ID="33462734" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="CA Tigre - Arsenal Sarandi" PLAYER2="Over 156.5" TIP=" "
+					QUOTE="1,75" />
+				<BET ID="33462733" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="CA Tigre - Arsenal Sarandi" PLAYER2="Under 156.5" TIP=" "
+					QUOTE="1,85" />
+			</EVENT>
+			<!-- TYPEID="37" PARTIDO COMPLETO (valor 2.5, hay que calcularlo) -->
+			<EVENT NAME="Argentinos Jrs. - Estudiantes LP" START_TIME="2013-10-18T23:10:00"
+				OPEN_TILL="2013-10-18T23:10:00" EVENTID="9856084">
+				<BET ID="33398775" TYPEID="37" TYPENAME="Over/Under"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0-2" TIP=" "
+					QUOTE="1,40" />
+				<BET ID="33398774" TYPEID="37" TYPENAME="Over/Under"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3 or more" TIP=" "
+					QUOTE="2,50" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="Norway Eliteserien (60´)" ID="405093">
+			<!-- TYPEID="9909057" PARTIDO COMPLETO (valor 6.5, hay que calcularlo) -->
+			<EVENT NAME="Rosenborg IHK - Lillehammer" START_TIME="2013-10-17T18:00:00"
+				OPEN_TILL="2013-10-17T18:00:00" EVENTID="9857456">
+				<BET ID="33403798" TYPEID="9909057" TYPENAME="over/under EH 0-6"
+					PLAYER1="Rosenborg IHK - Lillehammer" PLAYER2="0-6" TIP=" " QUOTE="1,70" />
+				<BET ID="33403797" TYPEID="9909057" TYPENAME="over/under EH 0-6"
+					PLAYER1="Rosenborg IHK - Lillehammer" PLAYER2="7 or more" TIP=" "
+					QUOTE="1,80" />
+			</EVENT>
+			<!-- TYPEID="9909057" PARTIDO COMPLETO (valor 7.5, hay que calcularlo) -->
+			<EVENT NAME="Valerenga - Stjernen" START_TIME="2013-10-17T18:30:00"
+				OPEN_TILL="2013-10-17T18:30:00" EVENTID="9857458">
+				<BET ID="33403853" TYPEID="9909043" TYPENAME="over/under EH II"
+					PLAYER1="Valerenga - Stjernen" PLAYER2="0-7" TIP=" " QUOTE="1,85" />
+				<BET ID="33403852" TYPEID="9909043" TYPENAME="over/under EH II"
+					PLAYER1="Valerenga - Stjernen" PLAYER2="8 or more" TIP=" " QUOTE="1,80" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="Austria EHL (60´)" ID="4083">
+			<!-- TYPEID="9909057" PARTIDO COMPLETO (valor 5.5, hay que calcularlo) -->
+			<EVENT NAME="Bozen - Villach" START_TIME="2013-10-18T19:45:00"
+				OPEN_TILL="2013-10-18T19:45:00" EVENTID="9854364">
+				<BET ID="33395895" TYPEID="9905356" TYPENAME="Over/Under IceHockey Europe"
+					PLAYER1="Bozen - Villach" PLAYER2="0-5" TIP=" " QUOTE="2,00" />
+				<BET ID="33395894" TYPEID="9905356" TYPENAME="Over/Under IceHockey Europe"
+					PLAYER1="Bozen - Villach" PLAYER2="6 or more" TIP=" " QUOTE="1,65" />
+			</EVENT>
+			<EVENT NAME="DEG Metro Stars - Ingolstadt" START_TIME="2013-10-18T19:30:00"
+				OPEN_TILL="2013-10-18T19:30:00" EVENTID="9854376">
+				<!-- TYPEID="9953954" PRIMERA PARTE (valor 0.5, hay que calcularlo) -->
+				<BET ID="33361160" TYPEID="9953954" TYPENAME="Over/Under1 Periode"
+					PLAYER1="DEG Metro Stars - Ingolstadt" PLAYER2="1 or more" TIP=" "
+					QUOTE="1,17" />
+				<BET ID="33361161" TYPEID="9953954" TYPENAME="Over/Under1 Periode"
+					PLAYER1="DEG Metro Stars - Ingolstadt" PLAYER2="NO goal" TIP=" "
+					QUOTE="3,80" />
+				<!-- TYPEID="9953954" SEGUNDA PARTE (valor 1.5, hay que calcularlo) -->
+				<BET ID="33361159" TYPEID="9953955" TYPENAME="over/Under2 Periode"
+					PLAYER1="DEG Metro Stars - Ingolstadt" PLAYER2="0-1" TIP=" " QUOTE="1,90" />
+				<BET ID="33361158" TYPEID="9953955" TYPENAME="over/Under2 Periode"
+					PLAYER1="DEG Metro Stars - Ingolstadt" PLAYER2="2 or more" TIP=" "
+					QUOTE="1,70" />
+				<!-- TYPEID="9953954" TERCERA PARTE (valor 2.5, hay que calcularlo) -->
+				<BET ID="33361157" TYPEID="9953956" TYPENAME="Over/Under3 Periode"
+					PLAYER1="DEG Metro Stars - Ingolstadt" PLAYER2="0-2" TIP=" " QUOTE="1,25" />
+				<BET ID="33361156" TYPEID="9953956" TYPENAME="Over/Under3 Periode"
+					PLAYER1="DEG Metro Stars - Ingolstadt" PLAYER2="3 or more" TIP=" "
+					QUOTE="3,20" />
+			</EVENT>
+			<EVENT NAME="Estudiantes LP - Quilmes" START_TIME="2013-10-28T22:00:00"
+				OPEN_TILL="2013-10-28T22:00:00" EVENTID="9857428">
+				<!-- TYPEID="9930764" PARTIDO COMPLETO (valor 3.5, hay que calcularlo) -->
+				<BET ID="33736839" TYPEID="9930764" TYPENAME="Wieviele Tore 4"
+					PLAYER1="Estudiantes LP - Quilmes" PLAYER2="0-3" TIP=" " QUOTE="1,13" />
+				<BET ID="33736838" TYPEID="9930764" TYPENAME="Wieviele Tore 4"
+					PLAYER1="Estudiantes LP - Quilmes" PLAYER2="4 or more" TIP=" "
+					QUOTE="4,50" />
+					<!-- TYPEID="9944288" PARTIDO COMPLETO (valor 4.5, hay que calcularlo) -->
+				<BET ID="33736837" TYPEID="9944288" TYPENAME="Wieviele Tore 5"
+					PLAYER1="Estudiantes LP - Quilmes" PLAYER2="0-4" TIP=" " QUOTE="1,02" />
+				<BET ID="33736836" TYPEID="9944288" TYPENAME="Wieviele Tore 5"
+					PLAYER1="Estudiantes LP - Quilmes" PLAYER2="5 or more" TIP=" "
+					QUOTE="9,00" />
+				<!-- TYPEID="9944289" PARTIDO COMPLETO (valor 0.5, hay que calcularlo) -->
+				<BET ID="33736848" TYPEID="9944289" TYPENAME="Wieviele Tore 1"
+					PLAYER1="Estudiantes LP - Quilmes" PLAYER2="1 or more" TIP=" "
+					QUOTE="1,03" />
+				<BET ID="33736849" TYPEID="9944289" TYPENAME="Wieviele Tore 1"
+					PLAYER1="Estudiantes LP - Quilmes" PLAYER2="NO goal" TIP=" " QUOTE="8,50" />
+			</EVENT>
+
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

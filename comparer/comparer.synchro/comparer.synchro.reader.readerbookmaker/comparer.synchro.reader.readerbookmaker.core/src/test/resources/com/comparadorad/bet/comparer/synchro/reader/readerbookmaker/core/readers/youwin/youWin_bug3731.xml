@@ -1,0 +1,16 @@
+<odds last_modified="2013/02/27 12:00:15" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="Spain" regionid="1139.1">
+			<group name="Liga Española" groupid="8111.1">
+				<event name="Real Madrid vs Atletico Madrid" eventid="506079.1"
+					betend="2013/05/17 21:30:00">
+					<bet name="Over and under runs Over/Under 7,5" betid="6791399.1">
+					   <selection name="Under 7,5 (D. Hand/ T. Lincecum)" priceup="3" pricedown="4"  odd="1.75" selectionid="31831662.1"/>
+					   <selection name="Over 7,5 (D. Hand/ T. Lincecum)" priceup="111" pricedown="100" odd="2.11" selectionid="31831661.1"/>
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>	

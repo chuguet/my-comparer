@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<!-- PARTIDO DE PARTIDO COMPLETO (game.gpd="Game") -->
+		<league IdLeague="1" IdSport="NFL" Description="NFL">
+			<banner ab="True" vtm="NFL - Oct 03" htm="" />
+			<banner ab="False" vtm="NFL - WEEK 5 - THURSDAY, OCTOBER 3RD"
+				htm="" />
+			<game idgm="1631408" gdesc="" idgmtyp="85" gmdt="20131003" idlg="1"
+				gmtm="17:25:00" idspt="NFL" vpt="" hpt="" vnum="301" hnum="302"
+				evtyp="" idgp="1631408" gpd="Game" vtm="BUFFALO" htm="CLEVELAND"
+				stats="true">
+				<line voddst="162" hoddst="-190" ovt="-40.5" ovoddst="-110"
+					unt="40.5" unoddst="-110" vsprdt="3.5" vsprdoddst="-110" hsprdt="-3.5"
+					hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=" 2.62"
+					hoddsh=" 1.53" vsprdh="+3&amp;frac12; 1.91" hsprdh="-3&amp;frac12; 1.91"
+					ovh="o40&amp;frac12; 1.91" unh="u40&amp;frac12; 1.91" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="True" related="True" EmptyGame="False" />
+			</game>
+		</league>
+		<!-- PARTIDO DE PRIMERA PARTE (game.gpd="First Half") -->
+		<league IdLeague="104" IdSport="NFL" Description="NFL - 1ST HALFS">
+			<banner ab="True" vtm="NFL - 1ST HALFS First Half Lines - Oct 06"
+				htm="" />
+			<game idgm="1639367" gdesc="" idgmtyp="31" gmdt="20131006" idlg="104"
+				gmtm="10:00:00" idspt="NFL" vpt="" hpt="" vnum="1413" hnum="1414"
+				evtyp="" idgp="1631410" gpd="First Half" vtm="1H KANSAS CITY" htm="1H TENNESSEE"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-19.5" ovoddst="-115" unt="19.5"
+					unoddst="-105" vsprdt="-0.5" vsprdoddst="-105" hsprdt="0.5"
+					hsprdoddst="-115" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="-&amp;frac12; 1.95" hsprdh="+&amp;frac12; 1.87"
+					ovh="o19&amp;frac12; 1.87" unh="u19&amp;frac12; 1.95" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="False" EmptyGame="False" />
+			</game>
+		</league>
+		<!-- PARTIDO DE PRIMERA PARTE (game.gpd="SECOND HALF") -->
+		<league IdLeague="104" IdSport="NFL" Description="NFL - 2ND HALFS">
+			<banner ab="True" vtm="NFL - 2ND HALFS Second Half Lines - Oct 06"
+				htm="" />
+			<game idgm="1639368" gdesc="" idgmtyp="31" gmdt="20131006" idlg="104"
+				gmtm="10:00:00" idspt="NFL" vpt="" hpt="" vnum="1413" hnum="1414"
+				evtyp="" idgp="1631410" gpd="SECOND HALF" vtm="2H NEW ORLEANS" htm="2H CHICAGO"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-19.5" ovoddst="-115" unt="19.5"
+					unoddst="-105" vsprdt="-0.5" vsprdoddst="-105" hsprdt="0.5"
+					hsprdoddst="-115" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="-&amp;frac12; 1.95" hsprdh="+&amp;frac12; 1.87"
+					ovh="o19&amp;frac12; 1.87" unh="u19&amp;frac12; 1.95" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="False" EmptyGame="False" />
+			</game>
+		</league>
+		<!-- PARTIDOS DE QUARTAS PARTES (game.gpd="First Quarter") (game.gpd="Second 
+			Quarter") (game.gpd="Third Quarter") (game.gpd="Fourth Quarter") -->
+		<league IdLeague="12070" IdSport="NFL" Description="NFL - QUARTERS">
+			<banner ab="True" vtm="NFL - QUARTERS First Quarter Lines - Oct 03"
+				htm="" />
+			<banner ab="False" vtm="NFL - QUARTER LINES" htm="" />
+			<game idgm="1638914" gdesc="" idgmtyp="97" gmdt="20131003" idlg="12070"
+				gmtm="17:25:00" idspt="NFL" vpt="" hpt="" vnum="3301" hnum="3302"
+				evtyp="" idgp="1631408" gpd="First Quarter" vtm="1Q BALTIMORE" htm="1Q MIAMI"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-7.5" ovoddst="110" unt="7.5"
+					unoddst="-130" vsprdt="0.5" vsprdoddst="-125" hsprdt="-0.5"
+					hsprdoddst="105" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="+&amp;frac12; 1.80" hsprdh="-&amp;frac12; 2.05"
+					ovh="o7&amp;frac12; 2.10" unh="u7&amp;frac12; 1.77" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="False" EmptyGame="False" />
+			</game>
+			<banner ab="True" vtm="NFL - QUARTERS Second Quarter Lines - Oct 03"
+				htm="" />
+			<game idgm="1638915" gdesc="" idgmtyp="97" gmdt="20131003" idlg="12070"
+				gmtm="17:25:00" idspt="NFL" vpt="" hpt="" vnum="4301" hnum="4302"
+				evtyp="" idgp="1631408" gpd="Second Quarter" vtm="2Q JACKSONVILLE"
+				htm="2Q ST. LOUIS" stats="false">
+				<line voddst="" hoddst="" ovt="-13" ovoddst="100" unt="13"
+					unoddst="-120" vsprdt="0.5" vsprdoddst="-110" hsprdt="-0.5"
+					hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="+&amp;frac12; 1.91" hsprdh="-&amp;frac12; 1.91"
+					ovh="o13 2.00" unh="u13 1.83" vsph="" hsph="" voddshr="0" vsprdhr="0"
+					ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False"
+					related="False" EmptyGame="False" />
+			</game>
+			<banner ab="True" vtm="NFL - QUARTERS Third Quarter Lines - Oct 03"
+				htm="" />
+			<game idgm="1638916" gdesc="" idgmtyp="97" gmdt="20131003" idlg="12070"
+				gmtm="17:25:00" idspt="NFL" vpt="" hpt="" vnum="5301" hnum="5302"
+				evtyp="" idgp="1631408" gpd="Third Quarter" vtm="3Q NEW ENGLAND"
+				htm="CINCINNATI" stats="false">
+				<line voddst="" hoddst="" ovt="-7.5" ovoddst="105" unt="7.5"
+					unoddst="-125" vsprdt="0.5" vsprdoddst="-135" hsprdt="-0.5"
+					hsprdoddst="115" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="+&amp;frac12; 1.74" hsprdh="-&amp;frac12; 2.15"
+					ovh="o7&amp;frac12; 2.05" unh="u7&amp;frac12; 1.80" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="False" EmptyGame="False" />
+			</game>
+			<banner ab="True" vtm="NFL - QUARTERS Fourth Quarter Lines - Oct 03"
+				htm="" />
+			<banner ab="False" vtm="THE FOURTH QUARTER DOES NOT INCLUDED OVERTIME"
+				htm="" />
+			<game idgm="1638917" gdesc="" idgmtyp="97" gmdt="20131003" idlg="12070"
+				gmtm="17:25:00" idspt="NFL" vpt="" hpt="" vnum="6301" hnum="6302"
+				evtyp="" idgp="1631408" gpd="Fourth Quarter" vtm="4Q SEATTLE" htm="4Q INDIANAPOLIS"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-10.5" ovoddst="100" unt="10.5"
+					unoddst="-120" vsprdt="0.5" vsprdoddst="-125" hsprdt="-0.5"
+					hsprdoddst="105" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="+&amp;frac12; 1.80" hsprdh="-&amp;frac12; 2.05"
+					ovh="o10&amp;frac12; 2.00" unh="u10&amp;frac12; 1.83" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="False" EmptyGame="False" />
+			</game>
+		</league>
+		<!-- PARTIDOS DE BEISBOL LAS CINCO PRIMERAS ENTRADAS (game.gpd="First Half" 
+			PERO!!! lo vamos a tener que interpretar como CINCO PRIMERAS ENTRADAS y no 
+			como PRIMERA PARTE ya que se trata de beisbol. Los nombres de los participantes 
+			vienen con sólo 3 letras) -->
+		<league IdLeague="6" IdSport="MLB" Description="MLB 1ST 5 FULL INN">
+			<banner ab="True" vtm="MLB 1ST 5 FULL INN First Half Lines - Oct 03"
+				htm="" />
+			<banner ab="False"
+				vtm="N. L. ANY QUESTIONS ABOUT 1ST HALF RULES PLEASE GO" htm="TO THE WEBSITE OR ASK FOR A WAGERING SUPERVISOR" />
+			<game idgm="1639082" gdesc="" idgmtyp="72" gmdt="20131003" idlg="6"
+				gmtm="14:05:00" idspt="MLB" vpt="A BURNETT -R" hpt="A WAINWRIGHT -R"
+				vnum="1905" hnum="1906" evtyp="" idgp="1638344" gpd="First Half"
+				vtm="1H PIT GM1" htm="1H STL GM1" stats="false">
+				<line voddst="135" hoddst="-160" ovt="-3.5" ovoddst="110" unt="3.5"
+					unoddst="-130" vsprdt="0.5" vsprdoddst="-110" hsprdt="-0.5"
+					hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=" 2.35"
+					hoddsh=" 1.63" vsprdh="+&amp;frac12; 1.91" hsprdh="-&amp;frac12; 1.91"
+					ovh="o3&amp;frac12; 2.10" unh="u3&amp;frac12; 1.77" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="True" EmptyGame="False" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

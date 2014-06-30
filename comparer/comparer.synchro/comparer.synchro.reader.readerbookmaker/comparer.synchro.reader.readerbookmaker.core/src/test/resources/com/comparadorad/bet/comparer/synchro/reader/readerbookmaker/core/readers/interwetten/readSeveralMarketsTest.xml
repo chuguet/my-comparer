@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FEED NAME="BettingOffers" DESCRIPTION="All current betting offers for the given kind of sports" LAST_REFRESH="2013-06-03T11:23:45" NEXT_REFRESH="2013-06-03T11:43:45" DOMAIN="www.interwetten.com" LANGUAGE="EN" xmlns="">
+	<KINDOFSPORT NAME="Baseball">
+		<LEAGUE NAME="MLB" ID="14233">
+			<EVENT NAME="Cincinnati Reds - Colorado Rockies" START_TIME="2013-06-04T01:10:00" OPEN_TILL="2013-06-04T01:10:00" EVENTID="9797127">
+				<BET ID="27747934" TYPEID="13" TYPENAME="Match" PLAYER1="Cincinnati Reds " PLAYER2="Colorado Rockies" TIP="1" QUOTE="1,60"/>
+				<BET ID="27747933" TYPEID="13" TYPENAME="Match" PLAYER1="Cincinnati Reds " PLAYER2="Colorado Rockies" TIP="2" QUOTE="2,15"/>
+				<BET ID="27747935" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Cincinnati Reds - Colorado Rockies" PLAYER2="Over 8.5" TIP=" " QUOTE="1,70"/>
+				<BET ID="27747936" TYPEID="88" TYPENAME="Over/Under USA" PLAYER1="Cincinnati Reds - Colorado Rockies" PLAYER2="Under 8.5" TIP=" " QUOTE="2,00"/>
+				<BET ID="27748417" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Cincinnati Reds(-1,5) " PLAYER2="Colorado Rockies(+1,5)" TIP="1" QUOTE="2,25"/>
+				<BET ID="27748416" TYPEID="92" TYPENAME="Handicap USA 1,5" PLAYER1="Cincinnati Reds(-1,5) " PLAYER2="Colorado Rockies(+1,5)" TIP="2" QUOTE="1,55"/>
+			</EVENT>
+			<EVENT NAME="Belgium - Serbia" START_TIME="2013-06-07T20:30:00" OPEN_TILL="2013-06-07T20:30:00" EVENTID="9802813">
+				<BET ID="27752339" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Belgium " PLAYER2="Serbia" TIP="1" QUOTE="2,05"/>
+				<BET ID="27752337" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Belgium " PLAYER2="Serbia" TIP="2" QUOTE="5,50"/>
+				<BET ID="27752338" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Belgium " PLAYER2="Serbia" TIP="X" QUOTE="2,15"/>
+				<BET ID="27380572" TYPEID="13" TYPENAME="Match" PLAYER1="Belgium " PLAYER2="Serbia" TIP="1" QUOTE="1,55"/>
+				<BET ID="27380570" TYPEID="13" TYPENAME="Match" PLAYER1="Belgium " PLAYER2="Serbia" TIP="2" QUOTE="5,60"/>
+				<BET ID="27380571" TYPEID="13" TYPENAME="Match" PLAYER1="Belgium " PLAYER2="Serbia" TIP="X" QUOTE="3,90"/>
+				<BET ID="27380569" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="Belgium " PLAYER2="Serbia" TIP="1" QUOTE="2,50"/>
+				<BET ID="27380567" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="Belgium " PLAYER2="Serbia" TIP="2" QUOTE="2,30"/>
+				<BET ID="27380568" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="Belgium " PLAYER2="Serbia" TIP="X" QUOTE="3,50"/>
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

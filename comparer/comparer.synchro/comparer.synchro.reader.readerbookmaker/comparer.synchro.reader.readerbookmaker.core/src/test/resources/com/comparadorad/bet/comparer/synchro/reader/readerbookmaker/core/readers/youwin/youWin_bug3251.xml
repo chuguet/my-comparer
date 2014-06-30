@@ -1,0 +1,20 @@
+<odds last_modified="2013/02/27 12:00:15" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="Spain" regionid="1139.1">
+			<group name="Liga Española" groupid="8111.1">
+				<event name="Real Madrid vs Atletico Madrid" eventid="506079.1"
+					betend="2013/05/17 21:30:00">
+					<bet name="Match betting" betid="5037981.1">
+						<selection name="Real Madrid" priceup="13" pricedown="25"
+							odd="1.52" selectionid="25282131.1" />
+						<selection name="Draw" priceup="161" pricedown="50" odd="4.22"
+							selectionid="25282132.1" />
+						<selection name="Atletico Madrid" priceup="239"
+							pricedown="50" odd="5.78" selectionid="25282133.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>	

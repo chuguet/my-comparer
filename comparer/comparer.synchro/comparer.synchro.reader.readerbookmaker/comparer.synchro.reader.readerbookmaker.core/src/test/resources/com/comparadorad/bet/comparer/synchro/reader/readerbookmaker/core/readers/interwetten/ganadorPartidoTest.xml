@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-06-03T11:23:45" NEXT_REFRESH="2013-06-03T11:43:45"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN" xmlns="">
+	<KINDOFSPORT NAME="Baseball">
+		<LEAGUE NAME="NFL" ID="13472">
+			<!-- TYPEID="13" PARTIDO COMPLETO -->
+			<EVENT NAME="Arizona Cardinals - Seattle Seahawks" START_TIME="2013-10-18T02:25:00"
+				OPEN_TILL="2013-10-18T02:25:00" EVENTID="9853934">
+				<BET ID="33395443" TYPEID="13" TYPENAME="Match" PLAYER1="Arizona Cardinals "
+					PLAYER2="Seattle Seahawks" TIP="1" QUOTE="2,75" />
+				<BET ID="33395442" TYPEID="13" TYPENAME="Match" PLAYER1="Arizona Cardinals "
+					PLAYER2="Seattle Seahawks" TIP="2" QUOTE="1,37" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

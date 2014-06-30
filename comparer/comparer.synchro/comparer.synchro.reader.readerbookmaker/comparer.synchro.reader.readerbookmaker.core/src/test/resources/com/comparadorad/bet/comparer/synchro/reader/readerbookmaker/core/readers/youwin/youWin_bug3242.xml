@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odds last_modified="2013/02/27 12:00:15" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="Spain" regionid="1139.1">
+			<group name="Liga Española" groupid="8111.1">
+				<event name="New York Knicks v Indiana Pacers" eventid="520628.1"
+					betend="2013/05/17 02:05:00">
+					<bet name="Handicap (No Draw) -5.0" betid="5562013.1">
+						<selection name="New York Knicks -5.0" priceup="1"
+							pricedown="2" odd="1.50" selectionid="27228556.1" />
+						<selection name="Indiana Pacers +5.0" priceup="27"
+							pricedown="20" odd="2.35" selectionid="27228557.1" />
+					</bet>
+				</event>
+				<event name="Mallorca v Real Betis" eventid="522260.1"
+					betend="2013/05/20 22:00:00">
+					<bet name="Handicap -1" betid="5620881.1">
+						<selection name="Mallorca -1" priceup="71" pricedown="20"
+							odd="4.55" selectionid="27457501.1" />
+						<selection name="Draw (Mallorca -1)" priceup="59"
+							pricedown="20" odd="3.95" selectionid="27457507.1" />
+						<selection name="Real Betis +1" priceup="27" pricedown="50"
+							odd="1.54" selectionid="27457513.1" />
+					</bet>
+				</event>
+				<event name="Getafe CF vs Valencia CF" eventid="493738.1"
+					betend="2013/05/18 18:00:00">
+					<bet name="Total goals Over/Under 2.5" betid="5499436.1">
+						<selection name="Under 2.5" priceup="28" pricedown="25"
+							odd="2.12" selectionid="27009612.1" />
+						<selection name="Over 2.5" priceup="16" pricedown="25"
+							odd="1.64" selectionid="27009611.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>	

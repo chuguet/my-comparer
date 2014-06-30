@@ -1,0 +1,61 @@
+<odds last_modified="2013/10/08 12:00:13" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="American Football" sportid="24.1">
+		<region name="NFL" regionid="2477.1">
+			<group name="Week 13 Game Lines" groupid="17395.1">
+				<event name="Arizona Cardinals @ Philadelphia Eagles" eventid="636402.1"
+					betend="2013/12/01 19:00:00">
+					<bet name="Money Line" betid="8798431.1">
+						<selection name="Philadelphia Eagles" priceup="20"
+							pricedown="37" odd="1.54" selectionid="39606234.1" />
+						<selection name="Arizona Cardinals" priceup="8"
+							pricedown="5" odd="2.60" selectionid="39606235.1" />
+					</bet>
+					<bet name="Point Spread" betid="8798432.1">
+						<selection name="Philadelphia Eagles -3.5" priceup="1"
+							pricedown="1" odd="2.00" selectionid="39606236.1" />
+						<selection name="Arizona Cardinals +3.5" priceup="5"
+							pricedown="6" odd="1.83" selectionid="39606237.1" />
+					</bet>
+					<bet name="Total Points" betid="8798437.1">
+						<selection name="Over 48.5" priceup="10" pricedown="11"
+							odd="1.91" selectionid="39606246.1" />
+						<selection name="Under 48.5" priceup="10" pricedown="11"
+							odd="1.91" selectionid="39606247.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+	<sport name="Ice Hockey" sportid="3159.1">
+		<region name="NHL" regionid="5872.1">
+			<group name="Game Lines" groupid="17123.1">
+				<event name="Anaheim Ducks @ Dallas Stars" eventid="632627.1"
+					betend="2013/11/27 02:00:00">
+					<bet name="Draw no bet" betid="8786374.1">
+						<selection name="Dallas Stars" priceup="9" pricedown="10"
+							odd="1.90" selectionid="39538853.1" />
+						<selection name="Anaheim Ducks" priceup="4" pricedown="5"
+							odd="1.80" selectionid="39538856.1" />
+					</bet>
+					<bet name="European handicaps +1:0" betid="8786415.1">
+						<selection name="Dallas Stars +1" priceup="1" pricedown="2"
+							odd="1.50" selectionid="39538960.1" />
+						<selection name="Draw -1" priceup="11" pricedown="2"
+							odd="6.50" selectionid="39538961.1" />
+						<selection name="Anaheim Ducks -1" priceup="43"
+							pricedown="20" odd="3.15" selectionid="39538962.1" />
+					</bet>
+					<bet name="Puck Line" betid="8815852.1">
+						<selection name="Dallas Stars -1.5" priceup="13"
+							pricedown="5" odd="3.60" selectionid="39667882.1" />
+						<selection name="Anaheim Ducks +1.5" priceup="5"
+							pricedown="16" odd="1.31" selectionid="39667883.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+
+	</sport>
+
+</odds>

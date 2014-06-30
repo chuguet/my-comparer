@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-18T11:32:25" NEXT_REFRESH="2013-10-18T11:52:25"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Football">
+		<LEAGUE NAME="Argentina 1st League" ID="105121">
+			<EVENT NAME="Argentinos Jrs. - Estudiantes LP" START_TIME="2013-10-18T23:30:00"
+				OPEN_TILL="2013-10-18T23:30:00" EVENTID="9856084">
+				<BET ID="33401031" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="1" QUOTE="3,25" />
+				<BET ID="33401029" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="2" QUOTE="3,10" />
+				<BET ID="33401030" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="X" QUOTE="2,00" />
+				<BET ID="33398759" TYPEID="13" TYPENAME="Match" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="1" QUOTE="2,80" />
+				<BET ID="33398761" TYPEID="13" TYPENAME="Match" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="2" QUOTE="2,50" />
+				<BET ID="33398760" TYPEID="13" TYPENAME="Match" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="X" QUOTE="3,00" />
+				<BET ID="33401028" TYPEID="17" TYPENAME="First Goal"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="Argentinos Jrs."
+					TIP=" " QUOTE="1,95" />
+				<BET ID="33401027" TYPEID="17" TYPENAME="First Goal"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="Estudiantes LP"
+					TIP=" " QUOTE="1,85" />
+				<BET ID="33401033" TYPEID="20" TYPENAME="Double Chance"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1X" TIP=" "
+					QUOTE="1,44" />
+				<BET ID="33401032" TYPEID="20" TYPENAME="Double Chance"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="X2" TIP=" "
+					QUOTE="1,41" />
+				<BET ID="33401026" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="G/G" TIP=" "
+					QUOTE="4,20" />
+				<BET ID="33401024" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="G/H" TIP=" "
+					QUOTE="20,00" />
+				<BET ID="33401025" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="G/X" TIP=" "
+					QUOTE="13,00" />
+				<BET ID="33401020" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="H/G" TIP=" "
+					QUOTE="20,00" />
+				<BET ID="33401018" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="H/H" TIP=" "
+					QUOTE="4,20" />
+				<BET ID="33401019" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="H/X" TIP=" "
+					QUOTE="13,00" />
+				<BET ID="33401023" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="X/G" TIP=" "
+					QUOTE="5,00" />
+				<BET ID="33401021" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="X/H" TIP=" "
+					QUOTE="5,00" />
+				<BET ID="33401022" TYPEID="22" TYPENAME="Halftime/Fulltime "
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="X/X" TIP=" "
+					QUOTE="4,50" />
+				<BET ID="33401004" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0:0" TIP=" "
+					QUOTE="8,00" />
+				<BET ID="33401017" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0:1" TIP=" "
+					QUOTE="6,50" />
+				<BET ID="33401016" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0:2" TIP=" "
+					QUOTE="9,00" />
+				<BET ID="33401014" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0:3" TIP=" "
+					QUOTE="22,00" />
+				<BET ID="33401011" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0:4" TIP=" "
+					QUOTE="60,00" />
+				<BET ID="33401007" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0:5" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400999" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1:0" TIP=" "
+					QUOTE="6,50" />
+				<BET ID="33401003" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1:1" TIP=" "
+					QUOTE="6,00" />
+				<BET ID="33401015" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1:2" TIP=" "
+					QUOTE="8,50" />
+				<BET ID="33401013" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1:3" TIP=" "
+					QUOTE="20,00" />
+				<BET ID="33401010" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1:4" TIP=" "
+					QUOTE="45,00" />
+				<BET ID="33401006" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1:5" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400998" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="2:0" TIP=" "
+					QUOTE="9,00" />
+				<BET ID="33400997" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="2:1" TIP=" "
+					QUOTE="8,50" />
+				<BET ID="33401002" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="2:2" TIP=" "
+					QUOTE="12,00" />
+				<BET ID="33401012" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="2:3" TIP=" "
+					QUOTE="28,00" />
+				<BET ID="33401009" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="2:4" TIP=" "
+					QUOTE="70,00" />
+				<BET ID="33401005" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="2:5" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400996" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3:0" TIP=" "
+					QUOTE="22,00" />
+				<BET ID="33400995" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3:1" TIP=" "
+					QUOTE="20,00" />
+				<BET ID="33400994" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3:2" TIP=" "
+					QUOTE="28,00" />
+				<BET ID="33401001" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3:3" TIP=" "
+					QUOTE="50,00" />
+				<BET ID="33401008" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3:4" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400993" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="4:0" TIP=" "
+					QUOTE="60,00" />
+				<BET ID="33400992" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="4:1" TIP=" "
+					QUOTE="45,00" />
+				<BET ID="33400991" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="4:2" TIP=" "
+					QUOTE="70,00" />
+				<BET ID="33400990" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="4:3" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33401000" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="4:4" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400989" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="5:0" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400988" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="5:1" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33400987" TYPEID="33" TYPENAME="ResultBet"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="5:2" TIP=" "
+					QUOTE="100,00" />
+				<BET ID="33398775" TYPEID="37" TYPENAME="Over/Under"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0-2" TIP=" "
+					QUOTE="1,40" />
+				<BET ID="33398774" TYPEID="37" TYPENAME="Over/Under"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="3 or more" TIP=" "
+					QUOTE="2,50" />
+				<BET ID="33401035" TYPEID="69" TYPENAME="Asia Handicap  0/0 "
+					PLAYER1="Argentinos Jrs.(0) " PLAYER2="Estudiantes LP(0)" TIP="1"
+					QUOTE="1,80" />
+				<BET ID="33401034" TYPEID="69" TYPENAME="Asia Handicap  0/0 "
+					PLAYER1="Argentinos Jrs.(0) " PLAYER2="Estudiantes LP(0)" TIP="2"
+					QUOTE="1,80" />
+				<BET ID="33401038" TYPEID="9905353" TYPENAME="Handicap 1:0"
+					PLAYER1="Argentinos Jrs. " PLAYER2="Estudiantes LP" TIP="1" QUOTE="1,44" />
+				<BET ID="33401036" TYPEID="9905353" TYPENAME="Handicap 1:0"
+					PLAYER1="Argentinos Jrs. " PLAYER2="Estudiantes LP" TIP="2" QUOTE="5,00" />
+				<BET ID="33401037" TYPEID="9905353" TYPENAME="Handicap 1:0"
+					PLAYER1="Argentinos Jrs. " PLAYER2="Estudiantes LP" TIP="X" QUOTE="4,20" />
+				<BET ID="33398766" TYPEID="9905377" TYPENAME="Goals"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="Five or more goals"
+					TIP=" " QUOTE="10,00" />
+				<BET ID="33398767" TYPEID="9905377" TYPENAME="Goals"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="Four goals"
+					TIP=" " QUOTE="8,50" />
+				<BET ID="33398771" TYPEID="9905377" TYPENAME="Goals"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="No goal" TIP=" "
+					QUOTE="7,50" />
+				<BET ID="33398770" TYPEID="9905377" TYPENAME="Goals"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="One goal" TIP=" "
+					QUOTE="3,25" />
+				<BET ID="33398768" TYPEID="9905377" TYPENAME="Goals"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="Three goals"
+					TIP=" " QUOTE="4,50" />
+				<BET ID="33398769" TYPEID="9905377" TYPENAME="Goals"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="Two goals" TIP=" "
+					QUOTE="3,00" />
+				<BET ID="33398765" TYPEID="9930764" TYPENAME="Wieviele Tore 4"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0-3" TIP=" "
+					QUOTE="1,11" />
+				<BET ID="33398764" TYPEID="9930764" TYPENAME="Wieviele Tore 4"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="4 or more" TIP=" "
+					QUOTE="5,00" />
+				<BET ID="33398763" TYPEID="9944288" TYPENAME="Wieviele Tore 5"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="0-4" TIP=" "
+					QUOTE="1,01" />
+				<BET ID="33398762" TYPEID="9944288" TYPENAME="Wieviele Tore 5"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="5 or more" TIP=" "
+					QUOTE="10,00" />
+				<BET ID="33398772" TYPEID="9944289" TYPENAME="Wieviele Tore 1"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="1 or more" TIP=" "
+					QUOTE="1,05" />
+				<BET ID="33398773" TYPEID="9944289" TYPENAME="Wieviele Tore 1"
+					PLAYER1="Argentinos Jrs. - Estudiantes LP" PLAYER2="NO goal" TIP=" "
+					QUOTE="7,50" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

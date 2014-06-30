@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="12000" IdSport="TNT" Description="MLB - FUTURES">
+			<banner ab="True" vtm="MLB - FUTURES - Oct 09" htm="" />
+			<banner ab="False" vtm="2013 NATIONAL LEAGUE PENNANT" htm="" />
+			<game idgm="1525254" gdesc="" idgmtyp="61" gmdt="20131009" idlg="0"
+				gmtm="17:08:01" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp=""
+				idgp="0" gpd="" vtm="" htm="ODDS TO WIN 2013 NATIONAL LEAGUE PENNANT"
+				stats="false">
+				<line tmnum="11046" tmname="ARIZONA DIAMONDBACKS" odds=""
+					oddsh="" bml="False" related="True" />
+				<line tmnum="11047" tmname="ATLANTA BRAVES" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11048" tmname="CHICAGO CUBS" odds="" oddsh="" bml="False"
+					related="True" />
+				<line tmnum="11049" tmname="CINCINNATI REDS" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11050" tmname="COLORADO ROCKIES" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11051" tmname="LOS ANGELES DODGERS" odds="-155"
+					oddsh=" 1.65" bml="False" related="True" />
+				<line tmnum="11052" tmname="MIAMI MARLINS" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11053" tmname="MILWAUKEE BREWERS" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11054" tmname="NEW YORK METS" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11055" tmname="PHILADELPHIA PHILLIES" odds=""
+					oddsh="" bml="False" related="True" />
+				<line tmnum="11056" tmname="PITTSBURGH PIRATES" odds="467"
+					oddsh=" 5.67" bml="False" related="True" />
+				<line tmnum="11057" tmname="SAN DIEGO PADRES" odds="" oddsh=""
+					bml="False" related="True" />
+				<line tmnum="11058" tmname="SAN FRANCISCO GIANTS" odds=""
+					oddsh="" bml="False" related="True" />
+				<line tmnum="11059" tmname="ST LOUIS CARDINALS" odds="217"
+					oddsh=" 3.17" bml="False" related="True" />
+				<line tmnum="11060" tmname="WASHINGTON NATIONALS" odds=""
+					oddsh="" bml="False" related="True" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

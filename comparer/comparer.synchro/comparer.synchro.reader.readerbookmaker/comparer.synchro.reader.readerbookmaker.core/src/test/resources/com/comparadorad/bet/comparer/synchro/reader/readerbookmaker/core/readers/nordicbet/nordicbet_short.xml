@@ -1,0 +1,47 @@
+<Odds>
+	<Game id="50000272038" name="South Africa - Central African Republic">
+		<Sport>Football</Sport>
+		<Region>International</Region>
+		<Season>CAF Qualifiers</Season>
+		<BreadCrumbs>Football - World Cup 2014 - CAF Qualifiers</BreadCrumbs>
+		<GameStartTime>2013-03-23 19:15:00 CET</GameStartTime>
+		<BettingEndTime>2013-03-23 19:15:00 CET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="WC 2014" role="1" id="10000041667">Vicenza</Participant>
+		<Participant info="WC 2014" role="2" id="10000041695">Ternana</Participant>
+		<OutcomeSet type="Under/Over Match" id="50002257835"
+			name="Vicenza - Ternana (under/over: 4.5)">
+			<Outcome odds="11.0" id="50100188545" name="over">
+				<Participant info="Italy" id="3349">Ternana</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.01" id="50100188549" name="under">
+				<Participant info="ITA soccer" id="9000002914">Vicenza</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50002257833"
+			name="Vicenza - Ternana (under/over: 3.5)">
+			<Outcome odds="4.6" id="50100188541" name="over">
+				<Participant info="Italy" id="3349">Ternana</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.15" id="50100188546" name="under">
+				<Participant info="ITA soccer" id="9000002914">Vicenza</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50002257832"
+			name="Vicenza - Ternana (under/over: 1.5)">
+			<Outcome odds="1.38" id="50100188537" name="over">
+				<Participant info="Italy" id="3349">Ternana</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="2.8" id="50100188540" name="under">
+				<Participant info="ITA soccer" id="9000002914">Vicenza</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

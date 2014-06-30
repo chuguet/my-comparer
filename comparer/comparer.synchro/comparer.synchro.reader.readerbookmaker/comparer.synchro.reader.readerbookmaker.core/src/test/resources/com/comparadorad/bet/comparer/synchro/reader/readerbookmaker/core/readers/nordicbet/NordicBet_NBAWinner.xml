@@ -1,0 +1,157 @@
+<Odds>
+	<Game id="50000350943" name="Winner of NBA Season 2013/14 (Inc. Play-offs)">
+		<Sport>Basketball</Sport>
+		<Region>United States of America</Region>
+		<Season>NBA Season Bets</Season>
+		<BreadCrumbs>Basketball - USA - NBA Season Bets</BreadCrumbs>
+		<GameStartTime>2013-10-30 03:00:00 EET</GameStartTime>
+		<BettingEndTime>2013-10-30 03:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="NBA" id="317">New Jersey Nets</Participant>
+		<Participant info="NBA" role="participant" id="10000017487">Oklahoma
+			City Thunder</Participant>
+		<Participant info="NBA" role="participant" id="300">Atlanta
+			Hawks</Participant>
+		<Participant info="NBA" role="participant" id="301">Boston
+			Celtics</Participant>
+		<Participant info="NBA" role="participant" id="303">Chicago
+			Bulls</Participant>
+		<Participant info="NBA" role="participant" id="304">Cleveland
+			Cavaliers</Participant>
+		<Participant info="NBA" role="participant" id="305">Dallas
+			Mavericks</Participant>
+		<Participant info="NBA" role="participant" id="306">Denver
+			Nuggets</Participant>
+		<Participant info="NBA" role="participant" id="307">Detroit
+			Pistons</Participant>
+		<Participant info="NBA" role="participant" id="308">Golden State
+			Warriors</Participant>
+		<Participant info="NBA" role="participant" id="309">Houston
+			Rockets</Participant>
+		<Participant info="NBA" role="participant" id="310">Indiana
+			Pacers</Participant>
+		<Participant info="NBA" role="participant" id="311">Los Angeles
+			Clippers</Participant>
+		<Participant info="NBA" role="participant" id="312">Los Angeles
+			Lakers</Participant>
+		<Participant info="NBA" role="participant" id="313">Memphis
+			Grizzlies</Participant>
+		<Participant info="NBA" role="participant" id="314">Miami Heat
+		</Participant>
+		<Participant info="NBA" role="participant" id="315">Milwaukee
+			Bucks</Participant>
+		<Participant info="NBA" role="participant" id="316">Minnesota
+			Timberwolves</Participant>
+		<Participant info="NBA" role="participant" id="318">New York
+			Knicks</Participant>
+		<Participant info="NBA" role="participant" id="319">Orlando
+			Magic</Participant>
+		<Participant info="NBA" role="participant" id="320">Philadelphia
+			76ers</Participant>
+		<Participant info="NBA" role="participant" id="321">Phoenix Suns
+		</Participant>
+		<Participant info="NBA" role="participant" id="322">Portland
+			Trail Blazers</Participant>
+		<Participant info="NBA" role="participant" id="323">Sacramento
+			Kings</Participant>
+		<Participant info="NBA" role="participant" id="324">San Antonio
+			Spurs</Participant>
+		<Participant info="NBA" role="participant" id="326">Toronto
+			Raptors</Participant>
+		<Participant info="NBA" role="participant" id="327">Utah Jazz
+		</Participant>
+		<Participant info="NBA" role="participant" id="328">Washington
+			Wizards</Participant>
+		<Participant info="NBA" role="participant" id="329">Charlotte
+			Bobcats</Participant>
+		<Participant info="NBA" role="participant" id="50000020622">Brooklyn
+			Nets</Participant>
+		<Participant info="NBA" role="participant" id="50000032461">New Orleans
+			Pelicans</Participant>
+		<OutcomeSet type="Custom Side Bet" id="50003162861"
+			name="Winner of NBA Season 2013/14 (Inc. Play-offs) (Winner of NBA Season 2013/14 (Inc. Play-offs))">
+			<Outcome odds="3.0" id="50164395085" name="Miami Heat" />
+			<Outcome odds="1.4" id="50164395084" name="Any Other Team" />
+		</OutcomeSet>
+		<OutcomeSet type="Result Winner" id="50003162854"
+			name="Winner of NBA Season 2013/14 (Inc. Play-offs)">
+			<Outcome odds="120.0" id="50164394917" name="Atlanta Hawks">...</Outcome>
+			<Outcome odds="150.0" id="50164394918" name="Boston Celtics">...</Outcome>
+			<Outcome odds="11.0" id="50164394919" name="Chicago Bulls">...</Outcome>
+			<Outcome odds="80.0" id="50164394920" name="Cleveland Cavaliers">...</Outcome>
+			<Outcome odds="50.0" id="50164394921" name="Dallas Mavericks">...</Outcome>
+			<Outcome odds="40.0" id="50164394922" name="Denver Nuggets">...</Outcome>
+			<Outcome odds="120.0" id="50164394923" name="Detroit Pistons">...</Outcome>
+			<Outcome odds="23.0" id="50164394915" name="Golden State Warriors">...</Outcome>
+			<Outcome odds="11.0" id="50164394916" name="Houston Rockets">...</Outcome>
+			<Outcome odds="13.0" id="50164394900" name="Indiana Pacers">...</Outcome>
+			<Outcome odds="13.0" id="50164394899" name="Los Angeles Clippers">...</Outcome>
+			<Outcome odds="45.0" id="50164394898" name="Los Angeles Lakers">...</Outcome>
+			<Outcome odds="25.0" id="50164394897" name="Memphis Grizzlies">
+				<Participant info="NBA" id="313">Memphis Grizzlies
+				</Participant>
+			</Outcome>
+			<Outcome odds="3.0" id="50164394903" name="Miami Heat">
+				<Participant info="NBA" id="314">Miami Heat</Participant>
+			</Outcome>
+			<Outcome odds="250.0" id="50164394902" name="Milwaukee Bucks">
+				<Participant info="NBA" id="315">Milwaukee Bucks</Participant>
+			</Outcome>
+			<Outcome odds="100.0" id="50164394901" name="Minnesota Timberwolves">
+				<Participant info="NBA" id="316">Minnesota Timberwolves
+				</Participant>
+			</Outcome>
+			<Outcome odds="25.0" id="50164394896" name="New York Knicks">
+				<Participant info="NBA" id="318">New York Knicks</Participant>
+			</Outcome>
+			<Outcome odds="300.0" id="50164394895" name="Orlando Magic">
+				<Participant info="NBA" id="319">Orlando Magic</Participant>
+			</Outcome>
+			<Outcome odds="400.0" id="50164394908" name="Philadelphia 76ers">
+				<Participant info="NBA" id="320">Philadelphia 76ers
+				</Participant>
+			</Outcome>
+			<Outcome odds="400.0" id="50164394909" name="Phoenix Suns">
+				<Participant info="NBA" id="321">Phoenix Suns</Participant>
+			</Outcome>
+			<Outcome odds="125.0" id="50164394906" name="Portland Trail Blazers">
+				<Participant info="NBA" id="322">Portland Trail Blazers
+				</Participant>
+			</Outcome>
+			<Outcome odds="250.0" id="50164394907" name="Sacramento Kings">
+				<Participant info="NBA" id="323">Sacramento Kings
+				</Participant>
+			</Outcome>
+			<Outcome odds="12.0" id="50164394912" name="San Antonio Spurs">
+				<Participant info="NBA" id="324">San Antonio Spurs
+				</Participant>
+			</Outcome>
+			<Outcome odds="300.0" id="50164394910" name="Toronto Raptors">
+				<Participant info="NBA" id="326">Toronto Raptors</Participant>
+			</Outcome>
+			<Outcome odds="150.0" id="50164394911" name="Utah Jazz">
+				<Participant info="NBA" id="327">Utah Jazz</Participant>
+			</Outcome>
+			<Outcome odds="125.0" id="50164394913" name="Washington Wizards">
+				<Participant info="NBA" id="328">Washington Wizards
+				</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50164394914" name="Charlotte Bobcats">
+				<Participant info="NBA" id="329">Charlotte Bobcats
+				</Participant>
+			</Outcome>
+			<Outcome odds="12.0" id="50164394905" name="Brooklyn Nets">
+				<Participant info="NBA" id="50000020622">Brooklyn Nets</Participant>
+			</Outcome>
+			<Outcome odds="125.0" id="50164394904" name="New Orleans Pelicans">
+				<Participant info="NBA" id="50000032461">New Orleans Pelicans
+				</Participant>
+			</Outcome>
+			<Outcome odds="7.0" id="50164394924" name="Oklahoma City Thunder">
+				<Participant info="NBA" id="10000017487">Oklahoma City Thunder
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

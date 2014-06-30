@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odds last_modified="2013/02/27 12:00:15" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="Spain" regionid="1139.1">
+			<group name="Liga Española" groupid="8111.1">
+				<event name="Shandong Luneng Taishan FC vs Jiangsu Shuntian"
+					eventid="531936.1" betend="2013/06/22 13:35:00">
+					<bet name="1st Half Totals 0.5" betid="6067623.1">
+						<selection name="Under 0.5" priceup="23" pricedown="10"
+							odd="3.30" selectionid="29102844.1" />
+						<selection name="Over 0.5" priceup="1" pricedown="4"
+							odd="1.25" selectionid="29102843.1" />
+					</bet>
+					<bet name="1st Half Totals 1.5" betid="6067634.1">
+						<selection name="Under 1.5" priceup="1" pricedown="2"
+							odd="1.50" selectionid="29102902.1" />
+						<selection name="Over 1.5" priceup="27" pricedown="20"
+							odd="2.35" selectionid="29102899.1" />
+					</bet>
+					<bet name="1st Half Totals 2.5" betid="6067619.1">
+						<selection name="Under 2.5" priceup="1" pricedown="10"
+							odd="1.10" selectionid="29102840.1" />
+						<selection name="Over 2.5" priceup="17" pricedown="4"
+							odd="5.25" selectionid="29102838.1" />
+					</bet>
+				</event>
+
+			</group>
+		</region>
+	</sport>
+</odds>	

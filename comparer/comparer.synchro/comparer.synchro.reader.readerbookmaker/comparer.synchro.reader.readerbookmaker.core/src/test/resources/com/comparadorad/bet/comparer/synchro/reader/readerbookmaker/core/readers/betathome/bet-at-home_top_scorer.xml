@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List generatedAt="2013-08-19T09:54:37">
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="264">Italy</Category>
+		<Tournament id="4501">Serie A Top Goal scorer</Tournament>
+		<MatchId>1128768</MatchId>
+		<Date>2013-08-24T18:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="101" oddType="1" betTypeGroup="1"
+			defaultName="Long term" groupName="Long term" betName="Italy Serie A top scorer 2013/14">Outright</OddsType>
+		<OddsData>
+			<Outcomes>
+				<Outcome oddId="1128768_6822135_11454571" linkId="6822135_11454571"
+					name="Mario Balotelli">2.90</Outcome>
+				<Outcome oddId="1128768_6822135_11454572" linkId="6822135_11454572"
+					name="Mario Gomez">4.75</Outcome>
+				<Outcome oddId="1128768_6822135_11454573" linkId="6822135_11454573"
+					name="Antonio Di Natale">6.35</Outcome>
+				<Outcome oddId="1128768_6822135_11454575" linkId="6822135_11454575"
+					name="Miroslav Klose">9.50</Outcome>				
+			</Outcomes>
+		</OddsData>
+	</OddsObject>
+</List>

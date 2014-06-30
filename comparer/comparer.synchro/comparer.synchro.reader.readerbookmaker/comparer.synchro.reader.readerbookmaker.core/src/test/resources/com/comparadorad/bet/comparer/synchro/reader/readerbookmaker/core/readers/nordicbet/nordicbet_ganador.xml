@@ -1,0 +1,37 @@
+<Odds>
+	<Game id="50000312799" name="Winner Group A">
+		<Sport>Football</Sport>
+		<Region>International</Region>
+		<Season>Champions League</Season>
+		<BreadCrumbs>Football - CAF - Champions League</BreadCrumbs>
+		<GameStartTime>2013-07-20 12:00:00 CEST</GameStartTime>
+		<BettingEndTime>2013-07-20 12:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="Football" role="participant" id="10000020674">Al Ahly
+			Cairo</Participant>
+		<Participant info="Egyptian soccer" role="participant" id="10000022082">
+			El Zamalek</Participant>
+		<Participant info="RSA, soccer" role="participant" id="30000000376">Orlando
+			Pirates</Participant>
+		<Participant info="Congo" role="participant" id="50000024896">AC
+			Léopards</Participant>
+		<OutcomeSet type="Result Winner" id="50002670572" name="Winner Group A">
+			<Outcome odds="12.5" id="50125715041" name="AC Léopards">
+				<Participant info="Congo" id="50000024896">AC Léopards</Participant>
+			</Outcome>
+			<Outcome odds="2.0" id="50125715042" name="Al Ahly Cairo">
+				<Participant info="Football" id="10000020674">Al Ahly Cairo
+				</Participant>
+			</Outcome>
+			<Outcome odds="3.0" id="50125715043" name="El Zamalek">
+				<Participant info="Egyptian soccer" id="10000022082">El Zamalek
+				</Participant>
+			</Outcome>
+			<Outcome odds="6.0" id="50125715044" name="Orlando Pirates">
+				<Participant info="RSA, soccer" id="30000000376">Orlando Pirates
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

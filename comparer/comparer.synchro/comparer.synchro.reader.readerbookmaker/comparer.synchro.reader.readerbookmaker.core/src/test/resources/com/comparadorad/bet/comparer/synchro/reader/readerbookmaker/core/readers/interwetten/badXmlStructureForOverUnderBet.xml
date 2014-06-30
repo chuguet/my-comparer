@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-18T11:28:16" NEXT_REFRESH="2013-10-18T11:48:16"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Baseball">
+		<LEAGUE NAME="MLB" ID="14233">
+			<!-- Interwetten ha puesto mal la estructura del tipo de apuesta mas/menos 
+				(esta duplicado pero con quotas distinas). El test correspondiente verifica 
+				que leemos bien los demas mercados -->
+			<EVENT NAME="St Louis Cardinals - LA Dodgers" START_TIME="2013-10-19T02:30:00"
+				OPEN_TILL="2013-10-19T02:30:00" EVENTID="9870083">
+				<BET ID="33496120" TYPEID="13" TYPENAME="Match" PLAYER1="St Louis Cardinals "
+					PLAYER2="LA Dodgers" TIP="1" QUOTE="1,95" />
+				<BET ID="33496119" TYPEID="13" TYPENAME="Match" PLAYER1="St Louis Cardinals "
+					PLAYER2="LA Dodgers" TIP="2" QUOTE="1,75" />
+				<BET ID="33496116" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="St Louis Cardinals - LA Dodgers" PLAYER2="Over 5.5" TIP=" "
+					QUOTE="1,75" />
+				<BET ID="33538666" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="St Louis Cardinals - LA Dodgers" PLAYER2="Over 5.5" TIP=" "
+					QUOTE="1,79" />
+				<BET ID="33538667" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="St Louis Cardinals - LA Dodgers" PLAYER2="Under 5.5" TIP=" "
+					QUOTE="1,92" />
+				<BET ID="33496115" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="St Louis Cardinals - LA Dodgers" PLAYER2="Under 5.5" TIP=" "
+					QUOTE="1,95" />
+				<BET ID="33496118" TYPEID="92" TYPENAME="Handicap USA 1,5"
+					PLAYER1="St Louis Cardinals(+1,5) " PLAYER2="LA Dodgers(-1,5)" TIP="1"
+					QUOTE="1,60" />
+				<BET ID="33496117" TYPEID="92" TYPENAME="Handicap USA 1,5"
+					PLAYER1="St Louis Cardinals(+1,5) " PLAYER2="LA Dodgers(-1,5)" TIP="2"
+					QUOTE="2,15" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

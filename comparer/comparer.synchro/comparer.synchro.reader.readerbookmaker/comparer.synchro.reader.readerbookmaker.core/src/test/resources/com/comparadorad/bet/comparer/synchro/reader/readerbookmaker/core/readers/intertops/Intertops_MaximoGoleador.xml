@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<params legend="False" catId="-1" sportId="12" matchId="-1"
+		delta="1000" deltaUtc="2013-12-18T17:05" utc="2013-12-19T09:45"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="12" n="Soccer">
+
+		<cat id="934" n="German 1st Bundesliga">
+			<m id="948339" n="German Bundesliga 2013/14: Top Goalscorer" dt="2013-12-20T19:30">
+				<t id="3" n="FreeForm">
+					<l id="13923058" i="1" o="2.4">Robert Lewandowski</l>
+					<l id="14063613" i="2" o="4.5">Stefan Kiessling</l>
+					<l id="14063615" i="3" o="5.5">Mario Mandzukic</l>
+					<l id="14063619" i="5" o="17">Thomas Mueller</l>
+					<l id="14063621" i="6" o="21">Marco Reus</l>
+					<l id="14063623" i="7" o="10">Vedad Ibisevic</l>
+					<l id="14063629" i="10" o="101">Mario Goetze</l>
+					<l id="14063631" i="11" o="11">Pierre-Emerich Aubameyang</l>
+					<l id="14063637" i="14" o="41">Son Heung-Min</l>
+					<l id="14063645" i="18" o="151">Rafael van der Vaart</l>
+					<l id="14063649" i="20" o="101">Adam Szalai</l>
+					<l id="14063651" i="21" o="11">Adrian Ramos</l>
+					<l id="14063653" i="22" o="67">Anthony Modeste</l>
+					<l id="14063659" i="25" o="101">Henrikh Mkhitaryan</l>
+					<l id="14063661" i="26" o="21">Max Kruse</l>
+					<l id="14063665" i="28" o="34">Arjen Robben</l>
+					<l id="14063685" i="38" o="29">Franck Ribery</l>
+					<l id="14063695" i="43" o="41">Ivica Olic</l>
+					<l id="14177732" i="50" o="81">Nicolai Muller</l>
+					<l id="14177734" i="51" o="34">Roberto Firmino</l>
+					<l id="14358668" i="52" o="41">Kevin Volland</l>
+					<l id="14358670" i="53" o="67">Sidney Sam</l>
+					<l id="14524289" i="54" o="13">Pierre-Michel Lasogga</l>
+					<l id="14524291" i="55" o="34">Raffael</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+</data>
+</result>

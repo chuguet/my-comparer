@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="12195" IdSport="TNT" Description="NFL- PLAYER PROPS">
+			<banner ab="True" vtm="NFL- PLAYER PROPS - Jun 30" htm=""/>
+			<banner ab="False" vtm="- ODDS TO WIN 2013-2014 NFL OFFENSIVE &amp; DEFENSIVE" htm="ROOKIE OF THE YEAR -"/>
+			<banner ab="False" vtm="- ALL BETS ARE ACTION -" htm="$500 LIMIT"/>
+			<game idgm="1579297" idgmtyp="29" gmdt="20130630" idlg="0" gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="ODDS TO WIN NFL OFFENSIVE ROOKIE OF THE YEAR " stats="false">
+				<line tmnum="70001" tmname="CORDARRELLE PATTERSON " odds="1100" oddsh=" 12.00" bml="False" related="False"/>
+				<line tmnum="70002" tmname="DEANDRE HOPKINS " odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70003" tmname="DENARD ROBINSON " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70004" tmname="EDDIE LACY " odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70005" tmname="EJ MANUEL " odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70006" tmname="ERIC FISHER " odds="2200" oddsh=" 23.00" bml="False" related="False"/>
+				<line tmnum="70007" tmname="GENO SMITH " odds="900" oddsh=" 10.00" bml="False" related="False"/>
+				<line tmnum="70008" tmname="GIOVANI BERNARD " odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70009" tmname="JOHNATHAN FRANKLIN " odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70010" tmname="JUSTIN HUNTER " odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70011" tmname="KEENAN ALLEN " odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70012" tmname="LEVEON BELL " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70013" tmname="LUKE JOECKEL " odds="2200" oddsh=" 23.00" bml="False" related="False"/>
+				<line tmnum="70014" tmname="MONTEE BALL " odds="500" oddsh=" 6.00" bml="False" related="False"/>
+				<line tmnum="70015" tmname="ROBERT WOODS " odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70016" tmname="STEDMAN BAILEY " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70017" tmname="TAVON AUSTIN " odds="500" oddsh=" 6.00" bml="False" related="False"/>
+				<line tmnum="70018" tmname="TYLER EIFERT " odds="1000" oddsh=" 11.00" bml="False" related="False"/>
+				<line tmnum="70019" tmname="ZACH ERTZ " odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70020" tmname="THE FIELD (ANY OTHER PLAYER)" odds="500" oddsh=" 6.00" bml="False" related="False"/>
+			</game>
+			<game idgm="1579298" idgmtyp="29" gmdt="20130630" idlg="0" gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="ODDS TO WIN NFL DEFENSIVE ROOKIE OF THE YEAR" stats="false">
+				<line tmnum="70025" tmname="ALEC OGLETREE " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70026" tmname="ARTHUR BROWN " odds="1000" oddsh=" 11.00" bml="False" related="False"/>
+				<line tmnum="70027" tmname="BARKEVIOUS MINGO " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70028" tmname="DATONE JONES " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70029" tmname="DEE MILLINER " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70030" tmname="DESMOND TRUFANT " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70031" tmname="DION JORDAN " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70032" tmname="D J HAYDEN " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70033" tmname="ERIC REID " odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70034" tmname="EZEKIEL ANSAH " odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70035" tmname="JARVIS JONES " odds="700" oddsh=" 8.00" bml="False" related="False"/>
+				<line tmnum="70036" tmname="JOHN JENKINS " odds="1600" oddsh=" 17.00" bml="False" related="False"/>
+				<line tmnum="70037" tmname="KEVIN MINTER " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70038" tmname="KENNY VACCARO " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70039" tmname="MANTI TEO " odds="1300" oddsh=" 14.00" bml="False" related="False"/>
+				<line tmnum="70040" tmname="MARGUS HUNT " odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70041" tmname="MATT ELAM " odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70042" tmname="ROBERT ALFORD " odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70043" tmname="SHARRIF FLOYD " odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70044" tmname="SHELDON RICHARDSON " odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70045" tmname="STAR LOTULELEI " odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70046" tmname="SYLVESTER WILLIAMS " odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70047" tmname="XAVIER RHODES " odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70048" tmname="THE FIELD (ANY OTHER PLAYER)" odds="650" oddsh=" 7.50" bml="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="-ODDS TO WIN THE 2013 NFL REGULAR SEASON MOST" htm="VALUABLE PLAYER (MVP)-"/>
+			<banner ab="False" vtm="--ALL BETS ARE ACTION ---- $500 LIMIT" htm="MVP MUST BE AWARDED FOR ACTION."/>
+			<game idgm="1583283" idgmtyp="29" gmdt="20130630" idlg="0" gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="ODDS TO WIN THE 2013 REGULAR SEASON NFL MVP" stats="false">
+				<line tmnum="70050" tmname="AARON RODGERS" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70051" tmname="ADRIAN PETERSON" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70052" tmname="ANDREW LUCK" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70053" tmname="ANDY DALTON" odds="5000" oddsh=" 51.00" bml="False" related="False"/>
+				<line tmnum="70054" tmname="ARIAN FOSTER" odds="3000" oddsh=" 31.00" bml="False" related="False"/>
+				<line tmnum="70055" tmname="BEN ROETHLISBERGER" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70056" tmname="CAM NEWTON" odds="3000" oddsh=" 31.00" bml="False" related="False"/>
+				<line tmnum="70057" tmname="CALVIN JOHNSON" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70058" tmname="CHRIS JOHNSON" odds="2200" oddsh=" 23.00" bml="False" related="False"/>
+				<line tmnum="70059" tmname="COLIN KAEPERNICK" odds="700" oddsh=" 8.00" bml="False" related="False"/>
+				<line tmnum="70060" tmname="DREW BREES" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70061" tmname="ELI MANNING" odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70062" tmname="JAY CUTLER" odds="5000" oddsh=" 51.00" bml="False" related="False"/>
+				<line tmnum="70063" tmname="JOE FLACCO" odds="4000" oddsh=" 41.00" bml="False" related="False"/>
+				<line tmnum="70064" tmname="JOSH FREEMAN" odds="5000" oddsh=" 51.00" bml="False" related="False"/>
+				<line tmnum="70065" tmname="MARSHAWN LYNCH" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70066" tmname="MATTHEW STAFFORD" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70067" tmname="MATT RYAN" odds="1300" oddsh=" 14.00" bml="False" related="False"/>
+				<line tmnum="70068" tmname="MATT SCHAUB" odds="3000" oddsh=" 31.00" bml="False" related="False"/>
+				<line tmnum="70069" tmname="MICHAEL VICK" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70070" tmname="PEYTON MANNING" odds="500" oddsh=" 6.00" bml="False" related="False"/>
+				<line tmnum="70071" tmname="RAY RICE" odds="5000" oddsh=" 51.00" bml="False" related="False"/>
+				<line tmnum="70072" tmname="ROBERT GRIFFIN III" odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70073" tmname="RUSSELL WILSON" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70074" tmname="STEVEN JACKSON" odds="4000" oddsh=" 41.00" bml="False" related="False"/>
+				<line tmnum="70075" tmname="TOM BRADY" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70076" tmname="TONY ROMO" odds="2500" oddsh=" 26.00" bml="False" related="False"/>
+				<line tmnum="70077" tmname="WES WELKER" odds="4000" oddsh=" 41.00" bml="False" related="False"/>
+				<line tmnum="70078" tmname="THE FIELD ( ANY OTHER PLAYER )" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="- PLAYER TO RECORD MOST PASS RECEIVING YARDS IN " htm="2013 NFL REGULAR SEASON --- REGULAR SEASON ONLY -"/>
+			<banner ab="False" vtm="--ALL BETS ARE ACTION--" htm="$500 LIMIT"/>
+			<game idgm="1584088" idgmtyp="29" gmdt="20130630" idlg="0" gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="PLAYER TO RECORD MOST RECEIVING YRDS IN REG SEASON" stats="false">
+				<line tmnum="70081" tmname="AJ GREEN" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70082" tmname="ANDRE JOHNSON" odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70083" tmname="ANQUAN BOLDIN" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70085" tmname="BRANDON MARSHALL" odds="650" oddsh=" 7.50" bml="False" related="False"/>
+				<line tmnum="70086" tmname="CALVIN JOHNSON" odds="385" oddsh=" 4.85" bml="False" related="False"/>
+				<line tmnum="70087" tmname="DANNY AMENDOLA" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70088" tmname="DEMARYIUS THOMAS" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70089" tmname="DESEAN JACKSON" odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70090" tmname="DEZ BRYANT" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70091" tmname="DWAYNE BOWE" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70093" tmname="JULIO JONES" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70094" tmname="LARRY FITZGERALD" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70095" tmname="MARQUES COLSTON" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70097" tmname="MILES AUSTIN" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70098" tmname="PERCY HARVIN" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70099" tmname="RANDALL COBB" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70101" tmname="RODDY WHITE" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70103" tmname="STEVE SMITH" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70104" tmname="VICTOR CRUZ" odds="1300" oddsh=" 14.00" bml="False" related="False"/>
+				<line tmnum="70105" tmname="VINCENT JACKSON" odds="1600" oddsh=" 17.00" bml="False" related="False"/>
+				<line tmnum="70106" tmname="WES WELKER" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70107" tmname="THE FIELD (ANY OTHER PLAYER)" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="- PLAYER TO RECORD MOST PASSING YARDS IN 2013" htm="NFL REGULAR SEASON --- REGULAR SEASON ONLY -"/>
+			<banner ab="False" vtm="--ALL BETS ARE ACTION--" htm="$500 LIMIT"/>
+			<game idgm="1584106" idgmtyp="29" gmdt="20130630" idlg="0" gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="PLAYER TO RECORD MOST PASSING YARDS IN REG SEASON" stats="false">
+				<line tmnum="70111" tmname="AARON RODGERS" odds="650" oddsh=" 7.50" bml="False" related="False"/>
+				<line tmnum="70112" tmname="ANDREW LUCK" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70113" tmname="ANDY DALTON" odds="2500" oddsh=" 26.00" bml="False" related="False"/>
+				<line tmnum="70114" tmname="BEN ROETHLISBERGER" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70115" tmname="CAM NEWTON" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70116" tmname="COLIN KAEPERNICK" odds="2500" oddsh=" 26.00" bml="False" related="False"/>
+				<line tmnum="70117" tmname="DREW BREES" odds="350" oddsh=" 4.50" bml="False" related="False"/>
+				<line tmnum="70118" tmname="ELI MANNING" odds="1000" oddsh=" 11.00" bml="False" related="False"/>
+				<line tmnum="70119" tmname="JAY CUTLER" odds="2200" oddsh=" 23.00" bml="False" related="False"/>
+				<line tmnum="70120" tmname="JOE FLACCO" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70122" tmname="MATT RYAN" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70123" tmname="MATT SCHAUB" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70124" tmname="MATTHEW STAFFORD" odds="650" oddsh=" 7.50" bml="False" related="False"/>
+				<line tmnum="70126" tmname="PEYTON MANNING" odds="500" oddsh=" 6.00" bml="False" related="False"/>
+				<line tmnum="70127" tmname="PHILIP RIVERS" odds="3000" oddsh=" 31.00" bml="False" related="False"/>
+				<line tmnum="70128" tmname="ROBERT GRIFFIN III" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70129" tmname="RUSSELL WILSON" odds="2200" oddsh=" 23.00" bml="False" related="False"/>
+				<line tmnum="70130" tmname="SAM BRADFORD" odds="2500" oddsh=" 26.00" bml="False" related="False"/>
+				<line tmnum="70131" tmname="TOM BRADY" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70132" tmname="TONY ROMO" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70133" tmname="THE FIELD (ANY OTHER PLAYER)" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="- PLAYER TO RECORD MOST RUSHING YARDS IN 2013" htm="NFL REGULAR SEASON --- REGULAR SEASON ONLY -"/>
+			<banner ab="False" vtm="--ALL BETS ARE ACTION--" htm="$500 LIMIT"/>
+			<game idgm="1584135" idgmtyp="29" gmdt="20130630" idlg="0" gmtm="20:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="PLAYER TO RECORD MOST RUSHING YARDS IN REG SEASON" stats="false">
+				<line tmnum="70137" tmname="ADRIAN PETERSON" odds="250" oddsh=" 3.50" bml="False" related="False"/>
+				<line tmnum="70138" tmname="ALFRED MORRIS" odds="1000" oddsh=" 11.00" bml="False" related="False"/>
+				<line tmnum="70139" tmname="ARIAN FOSTER" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+				<line tmnum="70140" tmname="CHRIS JOHNSON" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70141" tmname="CJ SPILLER" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70142" tmname="DARREN MCFADDEN" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70143" tmname="DAVID WILSON" odds="2200" oddsh=" 23.00" bml="False" related="False"/>
+				<line tmnum="70144" tmname="DEMARCO MURRAY" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70145" tmname="DOUG MARTIN" odds="1000" oddsh=" 11.00" bml="False" related="False"/>
+				<line tmnum="70146" tmname="EDDIE LACY" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70147" tmname="FRANK GORE" odds="2000" oddsh=" 21.00" bml="False" related="False"/>
+				<line tmnum="70148" tmname="JAMAAL CHARLES" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70149" tmname="LAMAR MILLER" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70150" tmname="LESEAN MCCOY" odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70151" tmname="MARSHAWN LYNCH" odds="650" oddsh=" 7.50" bml="False" related="False"/>
+				<line tmnum="70152" tmname="MAURICE JONES DREW" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70153" tmname="MATT FORTE" odds="1500" oddsh=" 16.00" bml="False" related="False"/>
+				<line tmnum="70154" tmname="RAY RICE" odds="1800" oddsh=" 19.00" bml="False" related="False"/>
+				<line tmnum="70155" tmname="MONTEE BALL" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70156" tmname="STEVEN JACKSON" odds="1200" oddsh=" 13.00" bml="False" related="False"/>
+				<line tmnum="70157" tmname="TRENT RICHARDSON" odds="1000" oddsh=" 11.00" bml="False" related="False"/>
+				<line tmnum="70158" tmname="THE FIELD (ANY OTHER PLAYER)" odds="800" oddsh=" 9.00" bml="False" related="False"/>
+			</game>
+		</league>
+		<league IdLeague="12618" IdSport="MU" Description="NFL - PLAYER FUTURES">
+			<banner ab="True" vtm="NFL - PLAYER FUTURES - Jun 30" htm=""/>
+			<banner ab="False" vtm="// 2013 NFL PLAYER VS PLAYER REGULAR SEASON //" htm="MOST TOUCHDOWN PASSES THROWN IN REGULAR SEASON"/>
+			<banner ab="False" vtm="// BOTH PLAYERS MUST PLAY IN TEAMS FIRST REGULAR" htm="SEASON GAME FOR ACTION //"/>
+			<banner ab="False" vtm="*** FINAL STATS BY NFL.COM ***" htm="$250 LIMIT"/>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS DREW BREES"/>
+			<game idgm="1588811" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17801" hnum="17802" evtyp="" idgp="1588811" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="D BREES MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-1" vsprdoddst="-120" hsprdt="1" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-1 1.83" hsprdh="+1 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS PEYTON MANNING"/>
+			<game idgm="1588812" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17803" hnum="17804" evtyp="" idgp="1588812" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="P MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-2" vsprdoddst="-120" hsprdt="2" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-2 1.83" hsprdh="+2 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS TOM BRADY"/>
+			<game idgm="1588813" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17805" hnum="17806" evtyp="" idgp="1588813" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="T BRADY MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-3.5" vsprdoddst="-135" hsprdt="3.5" hsprdoddst="-105" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-3&amp;frac12; 1.74" hsprdh="+3&amp;frac12; 1.95" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS MATT RYAN"/>
+			<game idgm="1588815" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17807" hnum="17808" evtyp="" idgp="1588815" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="M RYAN MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-7" vsprdoddst="-110" hsprdt="7" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-7 1.91" hsprdh="+7 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS MATTHEW STAFFORD"/>
+			<game idgm="1588818" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17809" hnum="17810" evtyp="" idgp="1588818" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="M STAFFORD MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-6.5" vsprdoddst="-110" hsprdt="6.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-6&amp;frac12; 1.91" hsprdh="+6&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS ANDREW LUCK"/>
+			<game idgm="1588819" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17811" hnum="17812" evtyp="" idgp="1588819" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="A LUCK MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-10.5" vsprdoddst="-110" hsprdt="10.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-10&amp;frac12; 1.91" hsprdh="+10&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS TONY ROMO"/>
+			<game idgm="1588821" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17815" hnum="17816" evtyp="" idgp="1588821" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="T ROMO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8.5" vsprdoddst="-125" hsprdt="8.5" hsprdoddst="-115" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8&amp;frac12; 1.80" hsprdh="+8&amp;frac12; 1.87" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="AARON RODGERS VS ELI MANNING"/>
+			<game idgm="1588822" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17817" hnum="17818" evtyp="" idgp="1588822" gpd="Game" vtm="A RODGERS MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8" vsprdoddst="-110" hsprdt="8" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8 1.91" hsprdh="+8 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS PEYTON MANNING"/>
+			<game idgm="1588825" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17823" hnum="17824" evtyp="" idgp="1588825" gpd="Game" vtm="D BREES MOST TD PASSES" htm="P MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-1" vsprdoddst="-120" hsprdt="1" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-1 1.83" hsprdh="+1 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS TOM BRADY"/>
+			<game idgm="1588826" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17825" hnum="17826" evtyp="" idgp="1588826" gpd="Game" vtm="D BREES MOST TD PASSES" htm="T BRADY MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-3" vsprdoddst="-145" hsprdt="3" hsprdoddst="105" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-3 1.69" hsprdh="+3 2.05" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS MATT RYAN"/>
+			<game idgm="1588827" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17827" hnum="17828" evtyp="" idgp="1588827" gpd="Game" vtm="D BREES MOST TD PASSES" htm="M RYAN MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-5.5" vsprdoddst="-110" hsprdt="5.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-5&amp;frac12; 1.91" hsprdh="+5&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS MATTHEW STAFFORD"/>
+			<game idgm="1588828" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17829" hnum="17830" evtyp="" idgp="1588828" gpd="Game" vtm="D BREES MOST TD PASSES" htm="M STAFFORD MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-5" vsprdoddst="-120" hsprdt="5" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-5 1.83" hsprdh="+5 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS ANDREW LUCK"/>
+			<game idgm="1588829" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17831" hnum="17832" evtyp="" idgp="1588829" gpd="Game" vtm="D BREES MOST TD PASSES" htm="A LUCK MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-9.5" vsprdoddst="-120" hsprdt="9.5" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-9&amp;frac12; 1.83" hsprdh="+9&amp;frac12; 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS TONY ROMO"/>
+			<game idgm="1588831" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17835" hnum="17836" evtyp="" idgp="1588831" gpd="Game" vtm="D BREES MOST TD PASSES" htm="T ROMO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8.5" vsprdoddst="-110" hsprdt="8.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8&amp;frac12; 1.91" hsprdh="+8&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="DREW BREES VS ELI MANNING"/>
+			<game idgm="1588832" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17837" hnum="17838" evtyp="" idgp="1588832" gpd="Game" vtm="D BREES MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8" vsprdoddst="-120" hsprdt="8" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8 1.83" hsprdh="+8 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TOM BRADY VS MATT RYAN"/>
+			<game idgm="1588835" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17843" hnum="17844" evtyp="" idgp="1588835" gpd="Game" vtm="T BRADY MOST TD PASSES" htm="M RYAN MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-3" vsprdoddst="125" hsprdt="3" hsprdoddst="-165" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-3 2.25" hsprdh="+3 1.61" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TOM BRADY VS MATTHEW STAFFORD"/>
+			<game idgm="1588836" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17845" hnum="17846" evtyp="" idgp="1588836" gpd="Game" vtm="T BRADY MOST TD PASSES" htm="M STAFFORD MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-2" vsprdoddst="110" hsprdt="2" hsprdoddst="-150" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-2 2.10" hsprdh="+2 1.67" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TOM BRADY VS ANDREW LUCK"/>
+			<game idgm="1588837" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17847" hnum="17848" evtyp="" idgp="1588837" gpd="Game" vtm="T BRADY MOST TD PASSES" htm="A LUCK MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8.5" vsprdoddst="125" hsprdt="8.5" hsprdoddst="-165" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8&amp;frac12; 2.25" hsprdh="+8&amp;frac12; 1.61" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TOM BRADY VS TONY ROMO"/>
+			<game idgm="1588839" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17851" hnum="17852" evtyp="" idgp="1588839" gpd="Game" vtm="T BRADY MOST TD PASSES" htm="T ROMO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-6.5" vsprdoddst="125" hsprdt="6.5" hsprdoddst="-165" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-6&amp;frac12; 2.25" hsprdh="+6&amp;frac12; 1.61" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TOM BRADY VS ELI MANNING"/>
+			<game idgm="1588840" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17853" hnum="17854" evtyp="" idgp="1588840" gpd="Game" vtm="T BRADY MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-6" vsprdoddst="130" hsprdt="6" hsprdoddst="-170" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-6 2.30" hsprdh="+6 1.59" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS MATTHEW STAFFORD"/>
+			<game idgm="1588843" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17859" hnum="17860" evtyp="" idgp="1588843" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="M STAFFORD MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="1" vsprdoddst="-120" hsprdt="-1" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+1 1.83" hsprdh="-1 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS ANDREW LUCK"/>
+			<game idgm="1588844" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17861" hnum="17862" evtyp="" idgp="1588844" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="A LUCK MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-3" vsprdoddst="-120" hsprdt="3" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-3 1.83" hsprdh="+3 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS RUSSEL WILSON"/>
+			<game idgm="1588845" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17863" hnum="17864" evtyp="" idgp="1588845" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="R WILSON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-9.5" vsprdoddst="-110" hsprdt="9.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-9&amp;frac12; 1.91" hsprdh="+9&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS TONY ROMO"/>
+			<game idgm="1588846" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17865" hnum="17866" evtyp="" idgp="1588846" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="T ROMO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-2.5" vsprdoddst="-120" hsprdt="2.5" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-2&amp;frac12; 1.83" hsprdh="+2&amp;frac12; 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS ELI MANNING"/>
+			<game idgm="1588847" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17867" hnum="17868" evtyp="" idgp="1588847" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-2" vsprdoddst="-120" hsprdt="2" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-2 1.83" hsprdh="+2 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS ANDY DALTON"/>
+			<game idgm="1588848" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17869" hnum="17870" evtyp="" idgp="1588848" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="A DALTON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8" vsprdoddst="-110" hsprdt="8" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8 1.91" hsprdh="+8 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="MATT RYAN VS JOE FLACCO"/>
+			<game idgm="1588849" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17871" hnum="17872" evtyp="" idgp="1588849" gpd="Game" vtm="M RYAN MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-7.5" vsprdoddst="-110" hsprdt="7.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-7&amp;frac12; 1.91" hsprdh="+7&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="M STAFFORD VS ANDREW LUCK"/>
+			<game idgm="1588850" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17873" hnum="17874" evtyp="" idgp="1588850" gpd="Game" vtm="M STAFFORD MOST TD PASSES" htm="A LUCK MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-6.5" vsprdoddst="-110" hsprdt="6.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-6&amp;frac12; 1.91" hsprdh="+6&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="M STAFFORD VS RUSSEL WILSON"/>
+			<game idgm="1588851" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17875" hnum="17876" evtyp="" idgp="1588851" gpd="Game" vtm="M STAFFORD MOST TD PASSES" htm="R WILSON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-10.5" vsprdoddst="-110" hsprdt="10.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-10&amp;frac12; 1.91" hsprdh="+10&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="M STAFFORD VS TONY ROMO"/>
+			<game idgm="1588852" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17877" hnum="17878" evtyp="" idgp="1588852" gpd="Game" vtm="M STAFFORD MOST TD PASSES" htm="T ROMO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-4" vsprdoddst="-110" hsprdt="4" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-4 1.91" hsprdh="+4 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="M STAFFORD VS ELI MANNING"/>
+			<game idgm="1588853" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17879" hnum="17880" evtyp="" idgp="1588853" gpd="Game" vtm="M STAFFORD MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-4" vsprdoddst="-110" hsprdt="4" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-4 1.91" hsprdh="+4 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="M STAFFORD VS ANY DALTON"/>
+			<game idgm="1588854" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17881" hnum="17882" evtyp="" idgp="1588854" gpd="Game" vtm="M STAFFORD MOST TD PASSES" htm="A DALTON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8.5" vsprdoddst="-110" hsprdt="8.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8&amp;frac12; 1.91" hsprdh="+8&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="M STAFFORD VS JOE FLACCO"/>
+			<game idgm="1588855" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17883" hnum="17884" evtyp="" idgp="1588855" gpd="Game" vtm="M STAFFORD MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-8.5" vsprdoddst="-110" hsprdt="8.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-8&amp;frac12; 1.91" hsprdh="+8&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ANDREW LUCK VS RUSSEL WILSON"/>
+			<game idgm="1588856" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17885" hnum="17886" evtyp="" idgp="1588856" gpd="Game" vtm="A LUCK MOST TD PASSES" htm="R WILSON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-5" vsprdoddst="-110" hsprdt="5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-5 1.91" hsprdh="+5 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ANDREW LUCK VS TONY ROMO"/>
+			<game idgm="1588857" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17887" hnum="17888" evtyp="" idgp="1588857" gpd="Game" vtm="A LUCK MOST TD PASSES" htm="T ROMO MOST PASSING YARDS" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="1.5" vsprdoddst="-120" hsprdt="-1.5" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+1&amp;frac12; 1.83" hsprdh="-1&amp;frac12; 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ANDREW LUCK VS ELI MANNING"/>
+			<game idgm="1588858" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17889" hnum="17890" evtyp="" idgp="1588858" gpd="Game" vtm="A LUCK MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="1.5" vsprdoddst="-120" hsprdt="-1.5" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+1&amp;frac12; 1.83" hsprdh="-1&amp;frac12; 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ANDREW LUCK VS ANDY DALTON"/>
+			<game idgm="1588859" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17891" hnum="17892" evtyp="" idgp="1588859" gpd="Game" vtm="A LUCK MOST TD PASSES" htm="A DALTON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-3" vsprdoddst="-120" hsprdt="3" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-3 1.83" hsprdh="+3 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ANDREW LUCK VS JOE FLACCO"/>
+			<game idgm="1588860" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17893" hnum="17894" evtyp="" idgp="1588860" gpd="Game" vtm="A LUCK MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-3" vsprdoddst="-120" hsprdt="3" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-3 1.83" hsprdh="+3 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="RUSSEL WILSON VS TONY ROMO"/>
+			<game idgm="1588861" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17895" hnum="17896" evtyp="" idgp="1588861" gpd="Game" vtm="R WILSON MOST TD PASSES" htm="T ROMO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="6.5" vsprdoddst="-130" hsprdt="-6.5" hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+6&amp;frac12; 1.77" hsprdh="-6&amp;frac12; 1.91" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="RUSSEL WILSON VS ELI MANNING"/>
+			<game idgm="1588862" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17897" hnum="17898" evtyp="" idgp="1588862" gpd="Game" vtm="R WILSON MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="6.5" vsprdoddst="-130" hsprdt="-6.5" hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+6&amp;frac12; 1.77" hsprdh="-6&amp;frac12; 1.91" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="RUSSEL WILSON VS ANDY DALTON"/>
+			<game idgm="1588863" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17899" hnum="17900" evtyp="" idgp="1588863" gpd="Game" vtm="R WILSON MOST TD PASSES" htm="A DALTON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="2" vsprdoddst="-130" hsprdt="-2" hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+2 1.77" hsprdh="-2 1.91" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="RUSSEL WILSON VS JOE FLACCO"/>
+			<game idgm="1588864" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17901" hnum="17902" evtyp="" idgp="1588864" gpd="Game" vtm="R WILSON MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="2" vsprdoddst="-130" hsprdt="-2" hsprdoddst="-110" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+2 1.77" hsprdh="-2 1.91" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TONY ROMO VS ELI MANNING"/>
+			<game idgm="1588865" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17903" hnum="17904" evtyp="" idgp="1588865" gpd="Game" vtm="T ROMO MOST TD PASSES" htm="E MANNING MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-0.5" vsprdoddst="-120" hsprdt="0.5" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-&amp;frac12; 1.83" hsprdh="+&amp;frac12; 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TONY ROMO VS ANDY DALTON"/>
+			<game idgm="1588866" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17905" hnum="17906" evtyp="" idgp="1588866" gpd="Game" vtm="T ROMO MOST TD PASSES" htm="A DALTON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-5" vsprdoddst="-110" hsprdt="5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-5 1.91" hsprdh="+5 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="TONY ROMO VS J FLACCO"/>
+			<game idgm="1588867" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17907" hnum="17908" evtyp="" idgp="1588867" gpd="Game" vtm="T ROMO MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-4.5" vsprdoddst="-110" hsprdt="4.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-4&amp;frac12; 1.91" hsprdh="+4&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ELI MANNING VS ANDY DALTON"/>
+			<game idgm="1588868" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17909" hnum="17910" evtyp="" idgp="1588868" gpd="Game" vtm="E MANNING MOST TD PASSES" htm="A DALTON MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-5" vsprdoddst="-110" hsprdt="5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-5 1.91" hsprdh="+5 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ELI MANNING VS J FLACCO"/>
+			<game idgm="1588869" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17911" hnum="17912" evtyp="" idgp="1588869" gpd="Game" vtm="E MANNING MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="-4.5" vsprdoddst="-110" hsprdt="4.5" hsprdoddst="-130" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="-4&amp;frac12; 1.91" hsprdh="+4&amp;frac12; 1.77" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="False" vtm="PLAYER WITH MORE TOUCHDOWN PASSES IN RS" htm="ANDY DALTON VS J FLACCO"/>
+			<game idgm="1588870" idgmtyp="27" gmdt="20130630" idlg="12618" gmtm="20:00:00" idspt="MU" vpt="" hpt="" vnum="17913" hnum="17914" evtyp="" idgp="1588870" gpd="Game" vtm="A DALTON MOST TD PASSES" htm="J FLACCO MOST TD PASSES" stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst="" vsprdt="1" vsprdoddst="-120" hsprdt="-1" hsprdoddst="-120" vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+1 1.83" hsprdh="-1 1.83" ovh="" unh="" vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+		</league>
+		<league IdLeague="12234" IdSport="SOC" Description="SWEDEN - SUPERETTAN">
+			<banner ab="True" vtm="SWEDEN - SUPERETTAN - Jun 27" htm=""/>
+			<game idgm="1592461" idgmtyp="9" gmdt="20130627" idlg="12234" gmtm="10:00:00" idspt="SOC" vpt="" hpt="" vnum="30005" hnum="30006" evtyp="" idgp="1592461" gpd="Game" vtm="IK BRAGE" htm="VARBERGS BOIS" stats="false">
+				<line voddst="325" hoddst="-153" ovt="-3" ovoddst="-120" unt="3" unoddst="-120" vsprdt="" vsprdoddst="250" hsprdt="" hsprdoddst="" vspt="0" vspoddst="250" hspt="" hspoddst="" voddsh=" 4.25" hoddsh=" 1.65" vsprdh="" hsprdh="" ovh="o3 1.83" unh="u3 1.83" vsph=" 3.50" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="True" vtm="SWEDEN - SUPERETTAN - Jun 28" htm=""/>
+			<game idgm="1592462" idgmtyp="9" gmdt="20130628" idlg="12234" gmtm="10:15:00" idspt="SOC" vpt="" hpt="" vnum="30009" hnum="30010" evtyp="" idgp="1592462" gpd="Game" vtm="ASSYRISKA FF" htm="DEGERFORS IF" stats="false">
+				<line voddst="165" hoddst="125" ovt="-2.5" ovoddst="-120" unt="2.5" unoddst="-120" vsprdt="" vsprdoddst="215" hsprdt="" hsprdoddst="" vspt="0" vspoddst="215" hspt="" hspoddst="" voddsh=" 2.65" hoddsh=" 2.25" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.83" unh="u2&amp;frac12; 1.83" vsph=" 3.15" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="True" vtm="SWEDEN - SUPERETTAN - Jun 29" htm=""/>
+			<game idgm="1592463" idgmtyp="9" gmdt="20130629" idlg="12234" gmtm="07:00:00" idspt="SOC" vpt="" hpt="" vnum="30013" hnum="30014" evtyp="" idgp="1592463" gpd="Game" vtm="LANDSKRONA BOIS" htm="GIF SUNDSVALL" stats="false">
+				<line voddst="485" hoddst="-222" ovt="-2.5" ovoddst="-140" unt="2.5" unoddst="100" vsprdt="" vsprdoddst="275" hsprdt="" hsprdoddst="" vspt="0" vspoddst="275" hspt="" hspoddst="" voddsh=" 5.85" hoddsh=" 1.45" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.71" unh="u2&amp;frac12; 2.00" vsph=" 3.75" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<game idgm="1592465" idgmtyp="9" gmdt="20130629" idlg="12234" gmtm="07:00:00" idspt="SOC" vpt="" hpt="" vnum="30021" hnum="30022" evtyp="" idgp="1592465" gpd="Game" vtm="HAMMARBY IF" htm="OSTERSUNDS FK" stats="false">
+				<line voddst="125" hoddst="165" ovt="-2.5" ovoddst="-110" unt="2.5" unoddst="-130" vsprdt="" vsprdoddst="215" hsprdt="" hsprdoddst="" vspt="0" vspoddst="215" hspt="" hspoddst="" voddsh=" 2.25" hoddsh=" 2.65" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.91" unh="u2&amp;frac12; 1.77" vsph=" 3.15" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<game idgm="1592466" idgmtyp="9" gmdt="20130629" idlg="12234" gmtm="07:00:00" idspt="SOC" vpt="" hpt="" vnum="30025" hnum="30026" evtyp="" idgp="1592466" gpd="Game" vtm="FALKENBERGS FF" htm="ANGELHOLMS FF" stats="false">
+				<line voddst="125" hoddst="165" ovt="-2.5" ovoddst="-135" unt="2.5" unoddst="-105" vsprdt="" vsprdoddst="215" hsprdt="" hsprdoddst="" vspt="0" vspoddst="215" hspt="" hspoddst="" voddsh=" 2.25" hoddsh=" 2.65" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.74" unh="u2&amp;frac12; 1.95" vsph=" 3.15" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+		</league>
+		<league IdLeague="12428" IdSport="SOC" Description="SINGAPORE - S LEAGUE">
+			<banner ab="True" vtm="SINGAPORE - S LEAGUE - Jun 27" htm=""/>
+			<game idgm="1592471" idgmtyp="9" gmdt="20130627" idlg="12428" gmtm="04:30:00" idspt="SOC" vpt="" hpt="" vnum="29509" hnum="29510" evtyp="" idgp="1592471" gpd="Game" vtm="TANJONG PAGAR UTD" htm="HOME UNITED" stats="false">
+				<line voddst="245" hoddst="-121" ovt="-2.5" ovoddst="-165" unt="2.5" unoddst="125" vsprdt="" vsprdoddst="240" hsprdt="" hsprdoddst="" vspt="0" vspoddst="240" hspt="" hspoddst="" voddsh=" 3.45" hoddsh=" 1.83" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.61" unh="u2&amp;frac12; 2.25" vsph=" 3.40" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<game idgm="1592472" idgmtyp="9" gmdt="20130627" idlg="12428" gmtm="04:30:00" idspt="SOC" vpt="" hpt="" vnum="29513" hnum="29514" evtyp="" idgp="1592472" gpd="Game" vtm="BALESTIER KHALSA FC" htm="YOUNG LIONS" stats="false">
+				<line voddst="-200" hoddst="375" ovt="-2.5" ovoddst="-160" unt="2.5" unoddst="120" vsprdt="" vsprdoddst="290" hsprdt="" hsprdoddst="" vspt="0" vspoddst="290" hspt="" hspoddst="" voddsh=" 1.50" hoddsh=" 4.75" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.63" unh="u2&amp;frac12; 2.20" vsph=" 3.90" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<banner ab="True" vtm="SINGAPORE - S LEAGUE - Jun 28" htm=""/>
+			<game idgm="1592473" idgmtyp="9" gmdt="20130628" idlg="12428" gmtm="04:30:00" idspt="SOC" vpt="" hpt="" vnum="29517" hnum="29518" evtyp="" idgp="1592473" gpd="Game" vtm="WARRIORS FC" htm="TAMPINES ROVERS" stats="false">
+				<line voddst="425" hoddst="-225" ovt="" ovoddst="" unt="" unoddst="" vsprdt="" vsprdoddst="300" hsprdt="" hsprdoddst="" vspt="0" vspoddst="300" hspt="" hspoddst="" voddsh=" 5.25" hoddsh=" 1.44" vsprdh="" hsprdh="" ovh="" unh="" vsph=" 4.00" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+			<game idgm="1592474" idgmtyp="9" gmdt="20130628" idlg="12428" gmtm="05:15:00" idspt="SOC" vpt="" hpt="" vnum="29521" hnum="29522" evtyp="" idgp="1592474" gpd="Game" vtm="ALBIREX NIIGATA" htm="DPMM FC" stats="false">
+				<line voddst="125" hoddst="155" ovt="" ovoddst="" unt="" unoddst="" vsprdt="" vsprdoddst="240" hsprdt="" hsprdoddst="" vspt="0" vspoddst="240" hspt="" hspoddst="" voddsh=" 2.25" hoddsh=" 2.55" vsprdh="" hsprdh="" ovh="" unh="" vsph=" 3.40" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="False"/>
+			</game>
+		</league>
+		<league IdLeague="10007" IdSport="SOC" Description="USA - MLS">
+			<banner ab="True" vtm="USA - MLS - Jun 29" htm=""/>
+			<game idgm="1592436" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="10:00:00" idspt="SOC" vpt="" hpt="" vnum="26069" hnum="26070" evtyp="" idgp="1592436" gpd="Game" vtm="REAL SALT LAKE" htm="TORONTO FC" stats="false">
+				<line voddst="115" hoddst="195" ovt="-2.5" ovoddst="100" unt="2.5" unoddst="-130" vsprdt="" vsprdoddst="220" hsprdt="" hsprdoddst="" vspt="0" vspoddst="220" hspt="" hspoddst="" voddsh=" 2.15" hoddsh=" 2.95" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 2.00" unh="u2&amp;frac12; 1.77" vsph=" 3.20" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<game idgm="1592437" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="14:30:00" idspt="SOC" vpt="" hpt="" vnum="26073" hnum="26074" evtyp="" idgp="1592437" gpd="Game" vtm="FC DALLAS" htm="PHILADELPHIA UNION" stats="false">
+				<line voddst="225" hoddst="110" ovt="-2.5" ovoddst="-130" unt="2.5" unoddst="100" vsprdt="" vsprdoddst="215" hsprdt="" hsprdoddst="" vspt="0" vspoddst="215" hspt="" hspoddst="" voddsh=" 3.25" hoddsh=" 2.10" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.77" unh="u2&amp;frac12; 2.00" vsph=" 3.15" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<game idgm="1592438" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="16:00:00" idspt="SOC" vpt="" hpt="" vnum="26077" hnum="26078" evtyp="" idgp="1592438" gpd="Game" vtm="COLORADO RAPIDS" htm="MONTREAL IMPACT" stats="false">
+				<line voddst="340" hoddst="-150" ovt="-2.5" ovoddst="-105" unt="2.5" unoddst="-125" vsprdt="" vsprdoddst="250" hsprdt="" hsprdoddst="" vspt="0" vspoddst="250" hspt="" hspoddst="" voddsh=" 4.40" hoddsh=" 1.67" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.95" unh="u2&amp;frac12; 1.80" vsph=" 3.50" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<game idgm="1592439" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="16:00:00" idspt="SOC" vpt="" hpt="" vnum="26081" hnum="26082" evtyp="" idgp="1592439" gpd="Game" vtm="VANCOUVER WHITECAPS FC" htm="DC UNITED" stats="false">
+				<line voddst="180" hoddst="135" ovt="-2.5" ovoddst="-105" unt="2.5" unoddst="-125" vsprdt="" vsprdoddst="200" hsprdt="" hsprdoddst="" vspt="0" vspoddst="200" hspt="" hspoddst="" voddsh=" 2.80" hoddsh=" 2.35" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.95" unh="u2&amp;frac12; 1.80" vsph=" 3.00" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<game idgm="1592440" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="17:30:00" idspt="SOC" vpt="" hpt="" vnum="26085" hnum="26086" evtyp="" idgp="1592440" gpd="Game" vtm="COLUMBUS CREW" htm="KC SPORTING" stats="false">
+				<line voddst="400" hoddst="-155" ovt="-2.5" ovoddst="110" unt="2.5" unoddst="-140" vsprdt="" vsprdoddst="240" hsprdt="" hsprdoddst="" vspt="0" vspoddst="240" hspt="" hspoddst="" voddsh=" 5.00" hoddsh=" 1.65" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 2.10" unh="u2&amp;frac12; 1.71" vsph=" 3.40" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<game idgm="1592441" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="19:30:00" idspt="SOC" vpt="" hpt="" vnum="26089" hnum="26090" evtyp="" idgp="1592441" gpd="Game" vtm="NE REVOLUTION" htm="CHIVAS USA" stats="false">
+				<line voddst="110" hoddst="225" ovt="-2.5" ovoddst="100" unt="2.5" unoddst="-130" vsprdt="" vsprdoddst="210" hsprdt="" hsprdoddst="" vspt="0" vspoddst="210" hspt="" hspoddst="" voddsh=" 2.10" hoddsh=" 3.25" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 2.00" unh="u2&amp;frac12; 1.77" vsph=" 3.10" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<game idgm="1592442" idgmtyp="3" gmdt="20130629" idlg="10007" gmtm="19:30:00" idspt="SOC" vpt="" hpt="" vnum="26093" hnum="26094" evtyp="" idgp="1592442" gpd="Game" vtm="LA GALAXY" htm="SJ EARTHQUAKES" stats="false">
+				<line voddst="170" hoddst="155" ovt="-2.5" ovoddst="-125" unt="2.5" unoddst="-105" vsprdt="" vsprdoddst="195" hsprdt="" hsprdoddst="" vspt="0" vspoddst="195" hspt="" hspoddst="" voddsh=" 2.70" hoddsh=" 2.55" vsprdh="" hsprdh="" ovh="o2&amp;frac12; 1.80" unh="u2&amp;frac12; 1.95" vsph=" 2.95" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+			<banner ab="True" vtm="USA - MLS - Jun 30" htm=""/>
+			<game idgm="1592443" idgmtyp="3" gmdt="20130630" idlg="10007" gmtm="11:00:00" idspt="SOC" vpt="" hpt="" vnum="26097" hnum="26098" evtyp="" idgp="1592443" gpd="Game" vtm="HOUSTON DYNAMO" htm="NY RED BULLS" stats="false">
+				<line voddst="300" hoddst="-125" ovt="" ovoddst="" unt="" unoddst="" vsprdt="" vsprdoddst="215" hsprdt="" hsprdoddst="" vspt="0" vspoddst="215" hspt="" hspoddst="" voddsh=" 4.00" hoddsh=" 1.80" vsprdh="" hsprdh="" ovh="" unh="" vsph=" 3.15" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True" related="True"/>
+			</game>
+		</league>
+		</Leagues>
+</xml>

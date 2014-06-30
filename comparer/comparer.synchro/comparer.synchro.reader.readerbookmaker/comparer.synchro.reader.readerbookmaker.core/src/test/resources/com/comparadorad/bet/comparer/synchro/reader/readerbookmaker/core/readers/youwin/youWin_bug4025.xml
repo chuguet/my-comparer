@@ -1,0 +1,15 @@
+<odds last_modified="2013/10/08 12:00:13" date_format="YYYY/MM/DD" timezone="Europe/Malta">
+	<sport name="Football" sportid="28.1">
+		<region name="Spain" regionid="2614.1">
+			<group name="La Liga 2013-14" groupid="13041.1">
+				<event name="Spain - La Liga 2013-14" eventid="527355.1" betend="2013/10/19 16:00:00">
+					<bet name="Top Goalscorer" betid="6885219.1">
+						<selection name="Lionel Messi" priceup="4" pricedown="7" odd="1.57" selectionid="32205851.1"/>
+						<selection name="Cristiano Ronaldo" priceup="13" pricedown="8" odd="2.63" selectionid="32205852.1"/>
+						<selection name="Diego Costa" priceup="15" pricedown="2" odd="8.50" selectionid="33324040.1"/>
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>

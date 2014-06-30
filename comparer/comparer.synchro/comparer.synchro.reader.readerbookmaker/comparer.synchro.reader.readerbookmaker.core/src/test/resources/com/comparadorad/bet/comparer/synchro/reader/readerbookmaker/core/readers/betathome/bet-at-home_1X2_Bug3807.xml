@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List generatedAt="2013-08-19T09:54:38">
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="261">England</Category>
+		<Tournament id="4565">Premier League</Tournament>
+		<MatchId>1157002</MatchId>
+		<Date>2013-09-07T18:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="107" oddType="3" betTypeGroup="8"
+			defaultName="Who leads at halftime?" groupName="1st halftime"
+			betName="Who leads at halftime?">Halftime3W</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester City</HomeTeam>
+			<AwayTeam>Newcastle United</AwayTeam>
+			<HomeOdds oddId="1157002_7157900_1" linkId="7157900_1">1.85</HomeOdds>
+			<DrawOdds oddId="1157002_7157900_0" linkId="7157900_0">2.35</DrawOdds>
+			<AwayOdds oddId="1157002_7157900_2" linkId="7157900_2">5.30</AwayOdds>
+		</OddsData>
+	</OddsObject>
+</List>

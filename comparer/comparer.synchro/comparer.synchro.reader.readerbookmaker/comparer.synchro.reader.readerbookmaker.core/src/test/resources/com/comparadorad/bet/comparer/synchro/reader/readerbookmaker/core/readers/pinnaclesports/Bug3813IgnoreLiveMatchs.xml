@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1377516330774</PinnacleFeedTime>
+	<lastContest>19111157</lastContest>
+	<lastGame>108511138</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2013-09-02 12:00</event_datetimeGMT>
+			<gamenumber>320602437</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Live EPL U21</league>
+			<IsLive>Yes</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Newcastle United U21</participant_name>
+					<contestantnum>44601</contestantnum>
+					<rotnum>44601</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>West Ham United U21</participant_name>
+					<contestantnum>44602</contestantnum>
+					<rotnum>44602</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>44603</contestantnum>
+					<rotnum>44603</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-09-02 14:00
+					</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>1000</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>1000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>853</moneyline_visiting>
+						<moneyline_home>-463</moneyline_home>
+						<moneyline_draw>557</moneyline_draw>
+					</moneyline>
+					<spread>
+						<spread_visiting>1.75</spread_visiting>
+						<spread_adjust_visiting>105</spread_adjust_visiting>
+						<spread_home>-1.75</spread_home>
+						<spread_adjust_home>-118</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>5</total_points>
+						<over_adjust>-112</over_adjust>
+						<under_adjust>-101</under_adjust>
+					</total>
+				</period>
+				<period>
+					<period_number>1</period_number>
+					<period_description>1st Half</period_description>
+					<periodcutoff_datetimeGMT>2013-09-02 14:00
+					</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>500</spread_maximum>
+					<moneyline_maximum>250</moneyline_maximum>
+					<total_maximum>500</total_maximum>
+					<moneyline>
+						<moneyline_visiting>2261</moneyline_visiting>
+						<moneyline_home>-1584</moneyline_home>
+						<moneyline_draw>930</moneyline_draw>
+					</moneyline>
+					<spread>
+						<spread_visiting>2</spread_visiting>
+						<spread_adjust_visiting>-111</spread_adjust_visiting>
+						<spread_home>-2</spread_home>
+						<spread_adjust_home>100</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>3.25</total_points>
+						<over_adjust>111</over_adjust>
+						<under_adjust>-128</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-09-04 15:45</event_datetimeGMT>
+			<gamenumber>320211131</gamenumber>
+			<sporttype>Basketball</sporttype>
+			<league>Live EuroB</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Spain</participant_name>
+					<contestantnum>9563</contestantnum>
+					<rotnum>9563</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Croatia</participant_name>
+					<contestantnum>9564</contestantnum>
+					<rotnum>9564</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-09-04 17:45
+					</periodcutoff_datetimeGMT>
+					<period_status>H</period_status>
+					<period_update>offline</period_update>
+					<spread_maximum>3000</spread_maximum>
+					<moneyline_maximum>2000</moneyline_maximum>
+					<total_maximum>1500</total_maximum>
+					<spread>
+						<spread_visiting>0</spread_visiting>
+						<spread_adjust_visiting>-108</spread_adjust_visiting>
+						<spread_home>0</spread_home>
+						<spread_adjust_home>-108</spread_adjust_home>
+					</spread>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-09-04 16:59</event_datetimeGMT>
+			<gamenumber>317787391</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Bundesliga 3</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Wacker Burghausen</participant_name>
+					<contestantnum>3357</contestantnum>
+					<rotnum>3357</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>SV Elversberg</participant_name>
+					<contestantnum>3358</contestantnum>
+					<rotnum>3358</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>3359</contestantnum>
+					<rotnum>3359</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-09-04 16:59
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>500</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>500</total_maximum>
+					<spread>
+						<spread_visiting>0.5</spread_visiting>
+						<spread_adjust_visiting>-115</spread_adjust_visiting>
+						<spread_home>-0.5</spread_home>
+						<spread_adjust_home>103</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>2.5</total_points>
+						<over_adjust>103</over_adjust>
+						<under_adjust>-118</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

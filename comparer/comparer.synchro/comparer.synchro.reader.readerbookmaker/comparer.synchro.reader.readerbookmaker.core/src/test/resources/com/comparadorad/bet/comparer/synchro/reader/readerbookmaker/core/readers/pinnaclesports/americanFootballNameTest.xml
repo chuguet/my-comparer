@@ -1,0 +1,51 @@
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1377516330774</PinnacleFeedTime>
+	<lastContest>19111157</lastContest>
+	<lastGame>108511138</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2013-09-12 23:30</event_datetimeGMT>
+			<gamenumber>321689668</gamenumber>
+			<sporttype>Football</sporttype>
+			<league>NCAA</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Tulane</participant_name>
+					<contestantnum>105</contestantnum>
+					<rotnum>105</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Louisiana Tech</participant_name>
+					<contestantnum>106</contestantnum>
+					<rotnum>106</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-09-12 23:30
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>2000</spread_maximum>
+					<moneyline_maximum>1000</moneyline_maximum>
+					<total_maximum>500</total_maximum>
+					<moneyline>
+						<moneyline_visiting>258</moneyline_visiting>
+						<moneyline_home>-300</moneyline_home>
+					</moneyline>
+					<spread>
+						<spread_visiting>7.5</spread_visiting>
+						<spread_adjust_visiting>-106</spread_adjust_visiting>
+						<spread_home>-7.5</spread_home>
+						<spread_adjust_home>-106</spread_adjust_home>
+					</spread>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

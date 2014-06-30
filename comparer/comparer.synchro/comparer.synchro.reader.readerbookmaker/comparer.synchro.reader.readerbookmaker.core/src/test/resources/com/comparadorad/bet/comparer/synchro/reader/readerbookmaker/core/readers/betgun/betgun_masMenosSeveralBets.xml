@@ -1,0 +1,30 @@
+<betbrain sport="ICE HOCKEY">
+	<event hometeam="Los Angeles Kings" awayteam="Chicago Blackhawks"
+		eventName="Los Angeles Kings-Chicago Blackhawks" date="05/06/2013"
+		time="03:00" datetime="2013-06-05T03:00:00+02:00">
+		<subevent title="under/over" dsymbol="PN_LB">
+			<selection name="under" odds="3.8000"
+				slipURL="https://www.betgun.com/en/add-bet/2776-01072013,1" value="-1.5+" />
+			<selection name="over" odds="1.2300"
+				slipURL="https://www.betgun.com/en/add-bet/2776-01072013,2" value="-1.5+" />
+			<selection name="under" odds="2.0000"
+				slipURL="https://www.betgun.com/en/add-bet/2777-01072013,1" value="-2.5+" />
+			<selection name="over" odds="1.7500"
+				slipURL="https://www.betgun.com/en/add-bet/2777-01072013,2" value="-2.5+" />
+			<selection name="under" odds="1.3500"
+				slipURL="https://www.betgun.com/en/add-bet/2778-01072013,1" value="-3.5+" />
+			<selection name="over" odds="3.0000"
+				slipURL="https://www.betgun.com/en/add-bet/2778-01072013,2" value="-3.5+" />
+			<selection name="under" odds="1.1200"
+				slipURL="https://www.betgun.com/en/add-bet/2779-01072013,1" value="-4.5+" />
+			<selection name="over" odds="5.5000"
+				slipURL="https://www.betgun.com/en/add-bet/2779-01072013,2" value="-4.5+" />
+		</subevent>
+		<subevent title="under/over" dsymbol="PN_LB">
+			<selection name="under" odds="3.8000"
+				slipURL="https://www.betgun.com/en/add-bet/2776-01072013,1" value="-7.5+" />
+			<selection name="over" odds="1.2300"
+				slipURL="https://www.betgun.com/en/add-bet/2776-01072013,2" value="-7.5+" />
+		</subevent>
+	</event>
+</betbrain>

@@ -1,0 +1,30 @@
+<odds last_modified="2013/10/08 12:00:13" date_format="YYYY/MM/DD" timezone="Europe/Malta">
+	<sport name="Football" sportid="28.1">
+		<region name="Spain" regionid="168.1">
+			<group name="Segunda Division" groupid="11466.1">
+				<event name="Alcorcon AD vs Numancia CD" eventid="597275.1" betend="2013/10/13 21:00:00">
+					<bet name="European handicaps +1:0" betid="7973707.1">
+						<selection name="Alcorcon AD +1" priceup="1" pricedown="5" odd="1.20" selectionid="36481326.1"/>
+						<selection name="Draw -1" priceup="4" pricedown="1" odd="5.00" selectionid="36481327.1"/>
+						<selection name="Numancia CD -1" priceup="31" pricedown="4" odd="8.75" selectionid="36481339.1"/>
+					</bet>
+					<bet name="European handicaps +2:0" betid="7973722.1">
+						<selection name="Alcorcon AD +2" priceup="1" pricedown="25" odd="1.04" selectionid="36481390.1"/>
+						<selection name="Draw -2" priceup="27" pricedown="4" odd="7.75" selectionid="36481391.1"/>
+						<selection name="Numancia CD -2" priceup="19" pricedown="1" odd="20.00" selectionid="36481394.1"/>
+					</bet>
+					<bet name="European handicaps 0:1" betid="7973703.1">
+						<selection name="Alcorcon AD -1" priceup="12" pricedown="5" odd="3.40" selectionid="36481319.1"/>
+						<selection name="Draw -1" priceup="12" pricedown="5" odd="3.40" selectionid="36481320.1"/>
+						<selection name="Numancia CD +1" priceup="4" pricedown="5" odd="1.80" selectionid="36481323.1"/>
+					</bet>
+					<bet name="European handicaps 0:2" betid="7973716.1">
+						<selection name="Alcorcon AD -2" priceup="27" pricedown="4" odd="7.75" selectionid="36481353.1"/>
+						<selection name="Draw -2" priceup="77" pricedown="20" odd="4.85" selectionid="36481359.1"/>
+						<selection name="Numancia CD +2" priceup="1" pricedown="4" odd="1.25" selectionid="36481369.1"/>
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>

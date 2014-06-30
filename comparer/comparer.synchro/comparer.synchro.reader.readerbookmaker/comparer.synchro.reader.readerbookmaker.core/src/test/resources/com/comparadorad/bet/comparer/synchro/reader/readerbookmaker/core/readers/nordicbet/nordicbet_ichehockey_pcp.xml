@@ -1,0 +1,27 @@
+<Odds>
+	<Game id="50000403168" name="Los Angeles Kings - St. Louis Blues">
+		<Sport>Ice Hockey</Sport>
+		<Region>North America</Region>
+		<Season>Regular Season</Season>
+		<BreadCrumbs>Ice Hockey - NHL - Regular Season</BreadCrumbs>
+		<GameStartTime>2013-12-03 04:30:00 +0100</GameStartTime>
+		<BettingEndTime>2013-12-03 04:30:00 +0100</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="Icehockey - NHL" role="1" id="9000001505">Los
+			Angeles Kings</Participant>
+		<Participant info="Icehockey - NHL" role="2" id="9000002926">St. Louis
+			Blues</Participant>
+		<OutcomeSet id="50004162587"
+			name="New York Rangers - Winnipeg Jets (Total goals - 3rd period) (under/over: 2.5)">
+			<Outcome odds="3.95" id="50215146427" name="over">
+				<Participant info="Icehockey - NHL" id="50000000102">Winnipeg Jets
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.2" id="50215146430" name="under">
+				<Participant info="Icehockey - NHL" id="9000002733">New York Rangers
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

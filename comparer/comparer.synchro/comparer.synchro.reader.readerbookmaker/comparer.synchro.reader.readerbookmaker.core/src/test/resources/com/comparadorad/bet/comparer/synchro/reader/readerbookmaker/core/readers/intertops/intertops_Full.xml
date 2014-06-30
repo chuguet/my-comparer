@@ -1,0 +1,2756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<params legend="False" catId="-1" sportId="-1" matchId="-1"
+		delta="1000" deltaUtc="2013-12-18T16:53" utc="2013-12-19T09:33"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="1" n="American Football">
+		<cat id="1016" n="College Football Lines">
+			<m id="1006012" n="Wisconsin v South Carolina" mid="567672" rot="251"
+				dt="2014-01-01T18:00">
+				<t id="2" n="Moving Line">
+					<l id="14970734" i="1" o="1.9091" p="-1">Wisconsin (-1)</l>
+					<l id="14970735" i="2" o="1.9091" p="1">South Carolina (+1)</l>
+				</t>
+			</m>
+			<m id="1006002" n="Virginia Tech v UCLA" mid="567667" rot="241"
+				dt="2013-12-31T19:00">
+				<t id="2" n="Moving Line">
+					<l id="14970644" i="1" o="1.9091" p="7">Virginia Tech (+7)</l>
+					<l id="14970645" i="2" o="1.9091" p="-7">UCLA (-7)</l>
+				</t>
+			</m>
+			<m id="1005962" n="Colorado State v Washington State" mid="567647"
+				rot="201" dt="2013-12-21T19:00">
+				<t id="1" n="Single Match">
+					<l id="14970271" i="1" o="2.65">Colorado State</l>
+					<l id="14970272" i="2" o="1.5263">Washington State</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="14970273" i="1" o="1.9091" p="4.5">Colorado State (+4.5)</l>
+					<l id="14970274" i="2" o="1.9091" p="-4.5">Washington State (-4.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="14970275" i="1" o="1.9091" p="66">Game Total OVER 66</l>
+					<l id="14970276" i="2" o="1.9091" p="66">Game Total UNDER 66</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1018" n="NFL Football Lines">
+			<m id="1007801" n="Tampa Bay Buccaneers v St Louis Rams" mid="568816"
+				rot="107" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009608" i="1" o="2.85">Tampa Bay Buccaneers</l>
+					<l id="15009609" i="2" o="1.4444">St Louis Rams</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009610" i="1" o="1.9091" p="5">Tampa Bay Buccaneers (+5)</l>
+					<l id="15009611" i="2" o="1.9091" p="-5">St Louis Rams (-5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009612" i="1" o="1.9091" p="43">Game Total OVER 43</l>
+					<l id="15009613" i="2" o="1.9091" p="43">Game Total UNDER 43</l>
+				</t>
+			</m>
+			<m id="1007807" n="Indianapolis Colts v Kansas City Chiefs" mid="568819"
+				rot="113" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009662" i="1" o="3.3">Indianapolis Colts</l>
+					<l id="15009663" i="2" o="1.3704">Kansas City Chiefs</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009664" i="1" o="1.9091" p="6.5">Indianapolis Colts (+6.5)</l>
+					<l id="15009665" i="2" o="1.9091" p="-6.5">Kansas City Chiefs (-6.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009666" i="1" o="1.9091" p="45">Game Total OVER 45</l>
+					<l id="15009667" i="2" o="1.9091" p="45">Game Total UNDER 45</l>
+				</t>
+			</m>
+			<m id="1007809" n="Minnesota Vikings v Cincinnati Bengals" mid="568820"
+				rot="115" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009680" i="1" o="3.8">Minnesota Vikings</l>
+					<l id="15009681" i="2" o="1.2857">Cincinnati Bengals</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009682" i="1" o="1.8696" p="7.5">Minnesota Vikings (+7.5)</l>
+					<l id="15009683" i="2" o="1.9524" p="-7.5">Cincinnati Bengals (-7.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009684" i="1" o="1.9091" p="47.5">Game Total OVER 47.5</l>
+					<l id="15009685" i="2" o="1.9091" p="47.5">Game Total UNDER 47.5</l>
+				</t>
+			</m>
+			<m id="1007795" n="Miami Dolphins v Buffalo Bills" mid="568813"
+				rot="101" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009554" i="1" o="1.7143">Miami Dolphins</l>
+					<l id="15009555" i="2" o="2.2">Buffalo Bills</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009556" i="1" o="1.8696" p="-2.5">Miami Dolphins (-2.5)</l>
+					<l id="15009557" i="2" o="1.9524" p="2.5">Buffalo Bills (+2.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009558" i="1" o="1.9091" p="43">Game Total OVER 43</l>
+					<l id="15009559" i="2" o="1.9091" p="43">Game Total UNDER 43</l>
+				</t>
+			</m>
+			<m id="1007815" n="Arizona Cardinals v Seattle Seahawks" mid="568823"
+				rot="121" dt="2013-12-22T21:05">
+				<t id="1" n="Single Match">
+					<l id="15009734" i="1" o="5">Arizona Cardinals</l>
+					<l id="15009735" i="2" o="1.1887">Seattle Seahawks</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009736" i="1" o="1.9091" p="10">Arizona Cardinals (+10)</l>
+					<l id="15009737" i="2" o="1.9091" p="-10">Seattle Seahawks (-10)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009738" i="1" o="1.9091" p="43">Game Total OVER 43</l>
+					<l id="15009739" i="2" o="1.9091" p="43">Game Total UNDER 43</l>
+				</t>
+			</m>
+			<m id="1007803" n="Chicago Bears v Philadelphia Eagles" mid="568817"
+				rot="109" dt="2013-12-23T01:30">
+				<t id="1" n="Single Match">
+					<l id="15009626" i="1" o="2.3">Chicago Bears</l>
+					<l id="15009627" i="2" o="1.6667">Philadelphia Eagles</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009628" i="1" o="1.8696" p="3">Chicago Bears (+3)</l>
+					<l id="15009629" i="2" o="1.9524" p="-3">Philadelphia Eagles (-3)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009630" i="1" o="1.9091" p="55.5">Game Total OVER 55.5</l>
+					<l id="15009631" i="2" o="1.9091" p="55.5">Game Total UNDER 55.5</l>
+				</t>
+			</m>
+			<m id="1007819" n="Oakland Raiders v San Diego Chargers" mid="568825"
+				rot="125" dt="2013-12-22T21:25">
+				<t id="1" n="Single Match">
+					<l id="15009770" i="1" o="4.75">Oakland Raiders</l>
+					<l id="15009771" i="2" o="1.2">San Diego Chargers</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009772" i="1" o="1.8696" p="10">Oakland Raiders (+10)</l>
+					<l id="15009773" i="2" o="1.9524" p="-10">San Diego Chargers (-10)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009774" i="1" o="1.9091" p="50.5">Game Total OVER 50.5</l>
+					<l id="15009775" i="2" o="1.9091" p="50.5">Game Total UNDER 50.5</l>
+				</t>
+			</m>
+			<m id="1007811" n="Denver Broncos v Houston Texans" mid="568821"
+				rot="117" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009698" i="1" o="1.1887">Denver Broncos</l>
+					<l id="15009699" i="2" o="5">Houston Texans</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009700" i="1" o="1.9524" p="-10.5">Denver Broncos (-10.5)</l>
+					<l id="15009701" i="2" o="1.8696" p="10.5">Houston Texans (+10.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009702" i="1" o="1.8696" p="52.5">Game Total OVER 52.5</l>
+					<l id="15009703" i="2" o="1.9524" p="52.5">Game Total UNDER 52.5</l>
+				</t>
+			</m>
+			<m id="1007797" n="New Orleans Saints v Carolina Panthers" mid="568814"
+				rot="103" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009572" i="1" o="2.45">New Orleans Saints</l>
+					<l id="15009573" i="2" o="1.6061">Carolina Panthers</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009574" i="1" o="1.9524" p="3">New Orleans Saints (+3)</l>
+					<l id="15009575" i="2" o="1.8696" p="-3">Carolina Panthers (-3)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009576" i="1" o="1.9091" p="46.5">Game Total OVER 46.5</l>
+					<l id="15009577" i="2" o="1.9091" p="46.5">Game Total UNDER 46.5</l>
+				</t>
+			</m>
+			<m id="1007805" n="Cleveland Browns v New York Jets" mid="568818"
+				rot="111" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009644" i="1" o="2.15">Cleveland Browns</l>
+					<l id="15009645" i="2" o="1.7407">New York Jets</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009646" i="1" o="1.9091" p="2.5">Cleveland Browns (+2.5)</l>
+					<l id="15009647" i="2" o="1.9091" p="-2.5">New York Jets (-2.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009648" i="1" o="1.9091" p="40.5">Game Total OVER 40.5</l>
+					<l id="15009649" i="2" o="1.9091" p="40.5">Game Total UNDER 40.5</l>
+				</t>
+			</m>
+			<m id="1007823" n="New England Patriots v Baltimore Ravens" mid="568827"
+				rot="129" dt="2013-12-22T21:25">
+				<t id="1" n="Single Match">
+					<l id="15009806" i="1" o="2.15">New England Patriots</l>
+					<l id="15009807" i="2" o="1.7407">Baltimore Ravens</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009808" i="1" o="1.9091" p="2.5">New England Patriots (+2.5)
+					</l>
+					<l id="15009809" i="2" o="1.9091" p="-2.5">Baltimore Ravens (-2.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009810" i="1" o="1.9091" p="44.5">Game Total OVER 44.5</l>
+					<l id="15009811" i="2" o="1.9091" p="44.5">Game Total UNDER 44.5</l>
+				</t>
+			</m>
+			<m id="1007825" n="Atlanta Falcons v San Francisco 49ers" mid="568828"
+				rot="131" dt="2013-12-24T01:40">
+				<t id="1" n="Single Match">
+					<l id="15009824" i="1" o="5.85">Atlanta Falcons</l>
+					<l id="15009825" i="2" o="1.1471">San Francisco 49ers</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009826" i="1" o="1.9091" p="12">Atlanta Falcons (+12)</l>
+					<l id="15009827" i="2" o="1.9091" p="-12">San Francisco 49ers (-12)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009828" i="1" o="1.9091" p="45">Game Total OVER 45</l>
+					<l id="15009829" i="2" o="1.9091" p="45">Game Total UNDER 45</l>
+				</t>
+			</m>
+			<m id="1007817" n="New York Giants v Detroit Lions" mid="568824"
+				rot="123" dt="2013-12-22T21:05">
+				<t id="1" n="Single Match">
+					<l id="15009752" i="1" o="4.65">New York Giants</l>
+					<l id="15009753" i="2" o="1.2083">Detroit Lions</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009754" i="1" o="1.9091" p="9.5">New York Giants (+9.5)</l>
+					<l id="15009755" i="2" o="1.9091" p="-9.5">Detroit Lions (-9.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009756" i="1" o="1.9091" p="49">Game Total OVER 49</l>
+					<l id="15009757" i="2" o="1.9091" p="49">Game Total UNDER 49</l>
+				</t>
+			</m>
+			<m id="1007799" n="Dallas Cowboys v Washington Redskins" mid="568815"
+				rot="105" dt="2013-12-22T18:00">
+				<t id="1" n="Single Match">
+					<l id="15009590" i="1" o="1.6897">Dallas Cowboys</l>
+					<l id="15009591" i="2" o="2.25">Washington Redskins</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15009592" i="1" o="1.8333" p="-2.5">Dallas Cowboys (-2.5)</l>
+					<l id="15009593" i="2" o="2" p="2.5">Washington Redskins (+2.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15009594" i="1" o="1.9091" p="53.5">Game Total OVER 53.5</l>
+					<l id="15009595" i="2" o="1.9091" p="53.5">Game Total UNDER 53.5</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1636" n="NFL">
+			<m id="940646" n="NFL 2013/14: To win the NFC East Division" dt="2013-12-22T18:00">
+				<t id="3" n="FreeForm">
+					<l id="13782462" i="1" o="1.53">Philadelphia Eagles</l>
+					<l id="13782464" i="2" o="2.2">Dallas Cowboys</l>
+				</t>
+			</m>
+			<m id="940649" n="NFL 2013/14: To win the NFC South Division" dt="2013-12-22T18:00">
+				<t id="3" n="FreeForm">
+					<l id="13782486" i="2" o="2.1">New Orleans Saints</l>
+					<l id="13782490" i="4" o="1.666">Carolina Panthers</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="5" n="Basketball">
+		<cat id="736" n="Euroleague">
+			<m id="1008366" n="JSF Nanterre v Fenerbahce Ulker" mid="568859"
+				rot="31863" dt="2013-12-19T20:00">
+				<t id="1" n="Single Match">
+					<l id="15028064" i="1" o="3.1">JSF Nanterre</l>
+					<l id="15028065" i="2" o="1.3571">Fenerbahce Ulker</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028066" i="1" o="1.8696" p="6">JSF Nanterre (+6)</l>
+					<l id="15028067" i="2" o="1.8696" p="-6">Fenerbahce Ulker (-6)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15028068" i="1" o="1.8696" p="153">Game Total OVER 153</l>
+					<l id="15028069" i="2" o="1.8696" p="153">Game Total UNDER 153</l>
+				</t>
+			</m>
+			<m id="1008367" n="Regal FC Barcelona v BK Budivelnik" mid="568858"
+				rot="31861" dt="2013-12-19T20:00">
+				<t id="1" n="Single Match">
+					<l id="15028082" i="1" o="1.04">Regal FC Barcelona</l>
+					<l id="15028083" i="2" o="11">BK Budivelnik</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028084" i="1" o="1.8696" p="-16">Regal FC Barcelona (-16)</l>
+					<l id="15028085" i="2" o="1.8696" p="16">BK Budivelnik (+16)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15028086" i="1" o="1.8696" p="155.5">Game Total OVER 155.5</l>
+					<l id="15028087" i="2" o="1.8696" p="155.5">Game Total UNDER 155.5</l>
+				</t>
+			</m>
+			<m id="1008371" n="Stelmet Zielona Gora v Olympiakos Piraeus" mid="568863"
+				rot="31851" dt="2013-12-19T17:45">
+				<t id="1" n="Single Match">
+					<l id="15028154" i="1" o="3.1">Stelmet Zielona Gora</l>
+					<l id="15028155" i="2" o="1.3571">Olympiakos Piraeus</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028156" i="1" o="1.8696" p="6">Stelmet Zielona Gora (+6)</l>
+					<l id="15028157" i="2" o="1.8696" p="-6">Olympiakos Piraeus (-6)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15028158" i="1" o="1.8696" p="155.5">Game Total OVER 155.5</l>
+					<l id="15028159" i="2" o="1.8696" p="155.5">Game Total UNDER 155.5</l>
+				</t>
+			</m>
+			<m id="1008374" n="Panathinaikos v Maccabi Electra" mid="568866"
+				rot="31859" dt="2013-12-19T19:45">
+				<t id="1" n="Single Match">
+					<l id="15028208" i="1" o="1.3333">Panathinaikos</l>
+					<l id="15028209" i="2" o="3.25">Maccabi Electra</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028210" i="1" o="1.8696" p="-6.5">Panathinaikos (-6.5)</l>
+					<l id="15028211" i="2" o="1.8696" p="6.5">Maccabi Electra (+6.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15028212" i="1" o="1.8696" p="149">Game Total OVER 149</l>
+					<l id="15028213" i="2" o="1.8696" p="149">Game Total UNDER 149</l>
+				</t>
+			</m>
+			<m id="1008368" n="Anadolu Efes Spor Kulübü v Real Madrid" mid="568860"
+				rot="31853" dt="2013-12-19T18:00">
+				<t id="1" n="Single Match">
+					<l id="15028100" i="1" o="3.5">Anadolu Efes Spor Kulübü</l>
+					<l id="15028101" i="2" o="1.2857">Real Madrid</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028102" i="1" o="1.8696" p="7">Anadolu Efes Spor Kulübü
+						(+7)</l>
+					<l id="15028103" i="2" o="1.8696" p="-7">Real Madrid (-7)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15028104" i="1" o="1.8696" p="154.5">Game Total OVER 154.5</l>
+					<l id="15028105" i="2" o="1.8696" p="154.5">Game Total UNDER 154.5</l>
+				</t>
+			</m>
+			<m id="1008365" n="Partizan Belgrade v CSKA Moscow" mid="568857"
+				rot="31857" dt="2013-12-19T19:45">
+				<t id="1" n="Single Match">
+					<l id="15028046" i="1" o="2.7">Partizan Belgrade</l>
+					<l id="15028047" i="2" o="1.45">CSKA Moscow</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028048" i="1" o="1.8696" p="5">Partizan Belgrade (+5)</l>
+					<l id="15028049" i="2" o="1.8696" p="-5">CSKA Moscow (-5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15028050" i="1" o="1.8696" p="140">Game Total OVER 140</l>
+					<l id="15028051" i="2" o="1.8696" p="140">Game Total UNDER 140</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="6" n="Boxing/UFC">
+		<cat id="1516" n="UFC 168">
+			<m id="1006310" n="Anderson Silva v Chris Weidman" mid="567812"
+				rot="24401" dt="2013-12-29T04:55">
+				<t id="1" n="Single Match">
+					<l id="14981968" i="1" o="1.625">Anderson Silva</l>
+					<l id="14981969" i="2" o="2.25">Chris Weidman</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1629" n="Boxing">
+			<m id="1007970" n="Nuri Seferi v Steve Herelius" mid="568893" rot="1003"
+				dt="2013-12-20T20:01">
+				<t id="1" n="Single Match">
+					<l id="15017321" i="0" o="21">Draw</l>
+					<l id="15017319" i="1" o="1.25">Nuri Seferi</l>
+					<l id="15017320" i="2" o="4">Steve Herelius</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15017322" i="1" o="1.22">Nuri Seferi D.N.B</l>
+					<l id="15017323" i="2" o="3.9">Steve Herelius D.N.B</l>
+				</t>
+			</m>
+			<m id="1007968" n="Christian Hammer v Kevin Johnson" mid="568892"
+				rot="1001" dt="2013-12-20T21:01">
+				<t id="1" n="Single Match">
+					<l id="15017295" i="0" o="21">Draw</l>
+					<l id="15017293" i="1" o="2.2">Christian Hammer</l>
+					<l id="15017294" i="2" o="1.666">Kevin Johnson</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15017296" i="1" o="2.15">Christian Hammer D.N.B</l>
+					<l id="15017297" i="2" o="1.62">Kevin Johnson D.N.B</l>
+				</t>
+			</m>
+			<m id="1007651" n="Stuart Hall v Vusi Malinga" mid="568415" rot="1009"
+				dt="2013-12-21T17:30">
+				<t id="1" n="Single Match">
+					<l id="15007224" i="0" o="19">Draw</l>
+					<l id="15007222" i="1" o="2.6">Stuart Hall</l>
+					<l id="15007223" i="2" o="1.5">Vusi Malinga</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15007225" i="1" o="2.5">Stuart Hall D.N.B</l>
+					<l id="15007226" i="2" o="1.45">Vusi Malinga D.N.B</l>
+				</t>
+			</m>
+			<m id="1007650" n="Kiko Martinez v Jeffrey Mathebula" mid="568414"
+				rot="1007" dt="2013-12-21T18:00">
+				<t id="1" n="Single Match">
+					<l id="15007217" i="0" o="19">Draw</l>
+					<l id="15007215" i="1" o="1.5">Kiko Martinez</l>
+					<l id="15007216" i="2" o="2.6">Jeffrey Mathebula</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15007218" i="1" o="1.45">Kiko Martinez D.N.B</l>
+					<l id="15007219" i="2" o="2.5">Jeffrey Mathebula D.N.B</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="8" n="Cricket">
+		<cat id="2293" n="The Ashes">
+			<m id="1000476" n="Australia v England" mid="564301" rot="1005"
+				dt="2013-12-25T23:30">
+				<t id="1" n="Single Match">
+					<l id="14870875" i="0" o="3.75">Draw</l>
+					<l id="14870873" i="1" o="1.73">Australia</l>
+					<l id="14870874" i="2" o="4.2">England</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="31" n="Darts">
+		<cat id="1616" n="PDC World Championships">
+			<m id="901797" n="PDC World Championship 2014 To Win Outright" dt="2013-12-19T19:00">
+				<t id="3" n="FreeForm">
+					<l id="13131897" i="1" o="1.8">Phil Taylor</l>
+					<l id="13131899" i="2" o="5.5">Adrian Lewis</l>
+					<l id="13131901" i="3" o="29">James Wade</l>
+					<l id="13131903" i="4" o="34">Gary Anderson</l>
+					<l id="13131907" i="6" o="81">Wes Newton</l>
+					<l id="13131909" i="7" o="21">Raymond van Barneveld</l>
+					<l id="13131911" i="8" o="251">Mark Webster</l>
+					<l id="13131913" i="9" o="101">Paul Nicholson</l>
+					<l id="13131915" i="10" o="67">Mervyn King</l>
+					<l id="13131917" i="11" o="51">Andy Hamilton</l>
+					<l id="13131921" i="13" o="51">Justin Pipe</l>
+					<l id="13131925" i="15" o="201">Kevin Painter</l>
+					<l id="13131929" i="17" o="34">Kim Huybrechts</l>
+					<l id="13131931" i="18" o="201">Richie Burnett</l>
+					<l id="13131933" i="19" o="251">John Part</l>
+					<l id="13131935" i="20" o="126">Ian White</l>
+					<l id="13131939" i="22" o="301">Vincent van der Voort</l>
+					<l id="13131941" i="23" o="51">Peter Wright</l>
+					<l id="13131949" i="27" o="26">Simon Whitlock</l>
+					<l id="13131951" i="28" o="41">Robert Thornton</l>
+					<l id="13131955" i="30" o="126">Brendan Dolan</l>
+					<l id="13131957" i="31" o="301">Andy Smith</l>
+					<l id="13131961" i="33" o="4">Michael van Gerwen</l>
+					<l id="14070525" i="38" o="126">Jamie Caven</l>
+				</t>
+			</m>
+			<m id="1008430" n="Justin Pipe v  Devon Petersen" mid="569034"
+				m=" Justin Pipe v  Devon Petersen" dt="2013-12-27T12:30">
+				<t id="1" n="Single Match">
+					<l id="15029041" i="1" o="1.2">Justin Pipe</l>
+					<l id="15029042" i="2" o="4">Devon Petersen</l>
+				</t>
+			</m>
+			<m id="1008429" n="Adrian Lewis v  Vincent Van Der Voort" mid="569033"
+				m=" Adrian Lewis v  Vincent Van Der Voort" dt="2013-12-23T21:00">
+				<t id="1" n="Single Match">
+					<l id="15029035" i="1" o="1.07">Adrian Lewis</l>
+					<l id="15029036" i="2" o="7">Vincent Van Der Voort</l>
+				</t>
+			</m>
+			<m id="1008428" n="Phil Taylor v  Michael Smith" mid="569032"
+				m=" Phil Taylor v  Michael Smith" dt="2013-12-20T21:00">
+				<t id="1" n="Single Match">
+					<l id="15029029" i="1" o="1.01">Phil Taylor</l>
+					<l id="15029030" i="2" o="11">Michael Smith</l>
+				</t>
+			</m>
+			<m id="1008330" n="Michael Van Gerwen v  Kevin Mcdine" mid="568996"
+				m=" Michael Van Gerwen v  Kevin Mcdine" dt="2013-12-22T21:00">
+				<t id="1" n="Single Match">
+					<l id="15026729" i="1" o="1.06">Michael Van Gerwen</l>
+					<l id="15026730" i="2" o="7.5">Kevin Mcdine</l>
+				</t>
+			</m>
+			<m id="1007659" n="Peter Wright v  Per Laursen" mid="568423"
+				m=" Peter Wright v  Per Laursen" dt="2013-12-20T19:00">
+				<t id="1" n="Single Match">
+					<l id="15007284" i="1" o="1.13">Peter Wright</l>
+					<l id="15007285" i="2" o="5">Per Laursen</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="13" n="Golf">
+		<cat id="1657" n="Royal Trophy">
+			<m id="1008030" n="Royal Trophy: To Win Outright" dt="2013-12-20T03:00">
+				<t id="3" n="FreeForm">
+					<l id="15019825" i="1" o="1.85">Asia</l>
+					<l id="15019827" i="2" o="1.85">Europe</l>
+				</t>
+			</m>
+			<m id="1008053" n="Royal Trophy Top European" dt="2013-12-20T03:00">
+				<t id="3" n="FreeForm">
+					<l id="15020778" i="1" o="5.5" otp="1.9">Nicolas Colsaerts</l>
+					<l id="15020780" i="2" o="5.5" otp="1.9">Bernd Wiesberger</l>
+					<l id="15020782" i="3" o="7" otp="2.2">Alvaro Quiros</l>
+					<l id="15020784" i="4" o="7.5" otp="2.3">Thorbjorn Olesen</l>
+					<l id="15020786" i="5" o="8" otp="2.4">David Howell</l>
+					<l id="15020788" i="6" o="7.5" otp="2.3">Paul Lawrie</l>
+					<l id="15020790" i="7" o="8" otp="2.4">Stephen Gallacher</l>
+					<l id="15020792" i="8" o="11" otp="3">Marc Warren</l>
+					<l id="15020794" i="9" o="17" otp="4.2">Jose Maria Olazabal</l>
+				</t>
+			</m>
+			<m id="1008057" n="Royal Trophy Top Combined Points Scorer" dt="2013-12-20T03:00">
+				<t id="3" n="FreeForm">
+					<l id="15020998" i="2" o="8" otp="2.4">Kiradech Aphibarnrat</l>
+					<l id="15021000" i="3" o="9" otp="2.6">Nicolas Colsaerts</l>
+					<l id="15021002" i="4" o="9" otp="2.6">Ryo Ishikawa</l>
+					<l id="15021004" i="5" o="9" otp="2.6">Bernd Wiesberger</l>
+					<l id="15021006" i="6" o="9" otp="2.6">Thongchai Jaidee</l>
+					<l id="15021008" i="7" o="13" otp="3.4">Alvaro Quiros</l>
+					<l id="15021010" i="8" o="15" otp="3.8">David Howell</l>
+					<l id="15021012" i="9" o="15" otp="3.8">Thorbjorn Olesen</l>
+					<l id="15021014" i="10" o="15" otp="3.8">Hyung Sung Kim</l>
+					<l id="15021016" i="11" o="17" otp="4.2">Stephen Gallacher</l>
+					<l id="15021018" i="12" o="17" otp="4.2">Paul Lawrie</l>
+					<l id="15021020" i="13" o="15" otp="3.8">Kyung Tae Kim</l>
+					<l id="15021022" i="14" o="21" otp="5">Marc Warren</l>
+					<l id="15021024" i="15" o="26" otp="6">Ashun Wu</l>
+					<l id="15021026" i="16" o="26" otp="6">Hiroyuki Fujita</l>
+					<l id="15021028" i="17" o="26" otp="6">Wen-Chong Liang</l>
+					<l id="15021030" i="18" o="34" otp="7.6">Jose Maria Olazabal</l>
+				</t>
+			</m>
+			<m id="1008039" n="Royal Trophy Top Asian" dt="2013-12-20T03:00">
+				<t id="3" n="FreeForm">
+					<l id="15020220" i="2" o="3.75" otp="1.55">Kiradech Aphibarnrat</l>
+					<l id="15020222" i="3" o="5" otp="1.8">Ryo Ishikawa</l>
+					<l id="15020224" i="4" o="5" otp="1.8">Thongchai Jaidee</l>
+					<l id="15020226" i="5" o="8" otp="2.4">Hyung Sung Kim</l>
+					<l id="15020228" i="6" o="8" otp="2.4">Kyung Tae Kim</l>
+					<l id="15020230" i="7" o="13" otp="3.4">Hiroyuki Fujita</l>
+					<l id="15020232" i="8" o="11" otp="3">Wen-Chong Liang</l>
+					<l id="15020234" i="9" o="13" otp="3.4">Ashun Wu</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="16" n="Ice Hockey">
+		<cat id="1064" n="NHL Lines">
+			<m id="1008411" n="Nashville Predators v Tampa Bay Lightning" mid="569024"
+				rot="59" dt="2013-12-20T00:35">
+				<t id="1" n="Single Match">
+					<l id="15028862" i="1" o="2.2">Nashville Predators</l>
+					<l id="15028863" i="2" o="1.7143">Tampa Bay Lightning</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028864" i="1" o="1.4" p="1.5">Nashville Predators (+1.5)</l>
+					<l id="15028865" i="2" o="3.1" p="-1.5">Tampa Bay Lightning (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008423" n="San Jose Sharks v Los Angeles Kings" mid="569030"
+				rot="71" dt="2013-12-20T03:35">
+				<t id="1" n="Single Match">
+					<l id="15028970" i="1" o="2.05">San Jose Sharks</l>
+					<l id="15028971" i="2" o="1.8">Los Angeles Kings</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028972" i="1" o="1.3636" p="1.5">San Jose Sharks (+1.5)</l>
+					<l id="15028973" i="2" o="3.35" p="-1.5">Los Angeles Kings (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008421" n="Edmonton Oilers v Colorado Avalanche" mid="569029"
+				rot="69" dt="2013-12-20T02:35">
+				<t id="1" n="Single Match">
+					<l id="15028952" i="1" o="2.65">Edmonton Oilers</l>
+					<l id="15028953" i="2" o="1.5263">Colorado Avalanche</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028954" i="1" o="1.5714" p="1.5">Edmonton Oilers (+1.5)</l>
+					<l id="15028955" i="2" o="2.55" p="-1.5">Colorado Avalanche (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008419" n="Vancouver Canucks v Dallas Stars" mid="569028"
+				rot="67" dt="2013-12-20T01:35">
+				<t id="1" n="Single Match">
+					<l id="15028934" i="1" o="1.9091">Vancouver Canucks</l>
+					<l id="15028935" i="2" o="1.9091">Dallas Stars</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028936" i="1" o="1.3125" p="1.5">Vancouver Canucks (+1.5)</l>
+					<l id="15028937" i="2" o="3.6" p="-1.5">Dallas Stars (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008417" n="Montreal Canadiens v St Louis Blues" mid="569027"
+				rot="65" dt="2013-12-20T01:05">
+				<t id="1" n="Single Match">
+					<l id="15028916" i="1" o="2.3">Montreal Canadiens</l>
+					<l id="15028917" i="2" o="1.6667">St Louis Blues</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028918" i="1" o="1.4167" p="1.5">Montreal Canadiens (+1.5)</l>
+					<l id="15028919" i="2" o="3" p="-1.5">St Louis Blues (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008415" n="Florida Panthers v Ottawa Senators" mid="569026"
+				rot="63" dt="2013-12-20T00:35">
+				<t id="1" n="Single Match">
+					<l id="15028898" i="1" o="2.2">Florida Panthers</l>
+					<l id="15028899" i="2" o="1.7143">Ottawa Senators</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028900" i="1" o="1.4" p="1.5">Florida Panthers (+1.5)</l>
+					<l id="15028901" i="2" o="3.1" p="-1.5">Ottawa Senators (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008413" n="Calgary Flames v Detroit Red Wings" mid="569025"
+				rot="61" dt="2013-12-20T00:35">
+				<t id="1" n="Single Match">
+					<l id="15028880" i="1" o="2.25">Calgary Flames</l>
+					<l id="15028881" i="2" o="1.6897">Detroit Red Wings</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028882" i="1" o="1.4" p="1.5">Calgary Flames (+1.5)</l>
+					<l id="15028883" i="2" o="3.1" p="-1.5">Detroit Red Wings (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008409" n="Columbus Blue Jackets v Philadelphia Flyers"
+				mid="569023" rot="57" dt="2013-12-20T00:05">
+				<t id="1" n="Single Match">
+					<l id="15028844" i="1" o="2.3">Columbus Blue Jackets</l>
+					<l id="15028845" i="2" o="1.6667">Philadelphia Flyers</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028846" i="1" o="1.4444" p="1.5">Columbus Blue Jackets (+1.5)
+					</l>
+					<l id="15028847" i="2" o="2.85" p="-1.5">Philadelphia Flyers (-1.5)</l>
+				</t>
+			</m>
+			<m id="1008407" n="Boston Bruins v Buffalo Sabres" mid="569022"
+				rot="55" dt="2013-12-20T00:05">
+				<t id="1" n="Single Match">
+					<l id="15028826" i="1" o="1.5556">Boston Bruins</l>
+					<l id="15028827" i="2" o="2.6">Buffalo Sabres</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028828" i="1" o="2.7" p="-1.5">Boston Bruins (-1.5)</l>
+					<l id="15028829" i="2" o="1.5" p="1.5">Buffalo Sabres (+1.5)</l>
+				</t>
+			</m>
+			<m id="1008405" n="Phoenix Coyotes v Toronto Maple Leafs" mid="569021"
+				rot="53" dt="2013-12-20T00:05">
+				<t id="1" n="Single Match">
+					<l id="15028808" i="1" o="1.9091">Phoenix Coyotes</l>
+					<l id="15028809" i="2" o="1.9091">Toronto Maple Leafs</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15028810" i="1" o="1.3226" p="1.5">Phoenix Coyotes (+1.5)</l>
+					<l id="15028811" i="2" o="3.55" p="-1.5">Toronto Maple Leafs (-1.5)</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1066" n="International Friendlies">
+			<m id="1008359" n="Sweden v Russia" mid="569004" dt="2013-12-19T15:00">
+				<t id="1" n="Single Match">
+					<l id="15027987" i="0" o="5">Draw</l>
+					<l id="15027985" i="1" o="5.25">Sweden</l>
+					<l id="15027986" i="2" o="1.4">Russia</l>
+				</t>
+				<t id="2" n="Moving Line">
+					<l id="15027988" i="1" o="2" p="1.5">Sweden (+1.5)</l>
+					<l id="15027989" i="2" o="1.7" p="-1.5">Russia (-1.5)</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15027990" i="1" o="2.1" p="5.5">Game Total OVER 5.5</l>
+					<l id="15027991" i="2" o="1.65" p="5.5">Game Total UNDER 5.5</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1699" n="European Trophy">
+			<m id="1008432" n="JYP Jyväskylä v Djurgardens IF" mid="569036"
+				dt="2013-12-19T16:00">
+				<t id="1" n="Single Match">
+					<l id="15029068" i="0" o="4.2">Draw</l>
+					<l id="15029066" i="1" o="1.8">JYP Jyväskylä</l>
+					<l id="15029067" i="2" o="3.3">Djurgardens IF</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029071" i="1" o="2.4" p="5.5">Game Total OVER 5.5</l>
+					<l id="15029072" i="2" o="1.5" p="5.5">Game Total UNDER 5.5</l>
+				</t>
+			</m>
+			<m id="1008431" n="Färjestads BK v Frölunda HC" mid="569035"
+				dt="2013-12-19T19:30">
+				<t id="1" n="Single Match">
+					<l id="15029049" i="0" o="4">Draw</l>
+					<l id="15029047" i="1" o="2.1">Färjestads BK</l>
+					<l id="15029048" i="2" o="2.65">Frölunda HC</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029052" i="1" o="2.55" p="5.5">Game Total OVER 5.5</l>
+					<l id="15029053" i="2" o="1.45" p="5.5">Game Total UNDER 5.5</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+	<s id="0" n="Misc">
+		<cat id="0" n="Misc" />
+	</s>
+	<s id="12" n="Soccer">
+		<cat id="62" n="United Arab Emirates Gulf League">
+			<m id="1008454" n="Banni Yas v Al Jazeera" mid="568776" dt="2013-12-19T16:00">
+				<t id="1" n="Single Match">
+					<l id="15030215" i="0" o="3.3">Draw</l>
+					<l id="15030214" i="1" o="2.7">Banni Yas</l>
+					<l id="15030213" i="2" o="2.3">Al Jazeera</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15030217" i="1" o="1.5" p="2.5">Game Total OVER 2.5</l>
+					<l id="15030216" i="2" o="2.4" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15030221" i="1" o="10">0 - 0</l>
+					<l id="15030222" i="2" o="8">0 - 1</l>
+					<l id="15030223" i="3" o="10">0 - 2</l>
+					<l id="15030224" i="4" o="17">0 - 3</l>
+					<l id="15030225" i="5" o="51">0 - 4</l>
+					<l id="15030226" i="6" o="8.5">1 - 0</l>
+					<l id="15030227" i="7" o="8">1 - 1</l>
+					<l id="15030228" i="8" o="6.5">1 - 2</l>
+					<l id="15030229" i="9" o="17">1 - 3</l>
+					<l id="15030230" i="10" o="41">1 - 4</l>
+					<l id="15030231" i="11" o="13">2 - 0</l>
+					<l id="15030232" i="12" o="8">2 - 1</l>
+					<l id="15030233" i="13" o="12">2 - 2</l>
+					<l id="15030234" i="14" o="21">2 - 3</l>
+					<l id="15030235" i="15" o="51">2 - 4</l>
+					<l id="15030236" i="16" o="23">3 - 0</l>
+					<l id="15030237" i="17" o="21">3 - 1</l>
+					<l id="15030238" i="18" o="23">3 - 2</l>
+					<l id="15030239" i="19" o="41">3 - 3</l>
+					<l id="15030240" i="20" o="67">4 - 0</l>
+					<l id="15030241" i="21" o="67">4 - 1</l>
+					<l id="15030242" i="22" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15030246" i="1" o="4.25">Banni Yas - Banni Yas</l>
+					<l id="15030247" i="2" o="22">Banni Yas - Al Jazeera</l>
+					<l id="15030248" i="3" o="13">Banni Yas - Draw</l>
+					<l id="15030249" i="4" o="5.75">Draw - Banni Yas</l>
+					<l id="15030250" i="5" o="4.25">Draw - Draw</l>
+					<l id="15030251" i="6" o="5.25">Draw - Al Jazeera</l>
+					<l id="15030252" i="7" o="25">Al Jazeera - Banni Yas</l>
+					<l id="15030253" i="8" o="14">Al Jazeera - Draw</l>
+					<l id="15030254" i="9" o="4">Al Jazeera - Al Jazeera</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15030218" i="1" o="3.2">Banni Yas</l>
+					<l id="15030219" i="2" o="2.75">Al Jazeera</l>
+					<l id="15030220" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15030243" i="1" o="1.48">Banni Yas or draw</l>
+					<l id="15030244" i="2" o="1.36">Al Jazeera or draw</l>
+					<l id="15030245" i="3" o="1.24">Banni Yas or Al Jazeera</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15030265" i="1" o="6.5">Banni Yas</l>
+					<l id="15030266" i="2" o="5">Al Jazeera</l>
+				</t>
+			</m>
+			<m id="1008452" n="AL Wahda v AL Dhafra" mid="568774" dt="2013-12-19T12:50">
+				<t id="1" n="Single Match">
+					<l id="15030103" i="0" o="3.5">Draw</l>
+					<l id="15030102" i="1" o="2.05">AL Wahda</l>
+					<l id="15030101" i="2" o="3">AL Dhafra</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15030105" i="1" o="1.4" p="2.5">Game Total OVER 2.5</l>
+					<l id="15030104" i="2" o="2.75" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15030109" i="1" o="12">0 - 0</l>
+					<l id="15030110" i="2" o="9.5">0 - 1</l>
+					<l id="15030111" i="3" o="15">0 - 2</l>
+					<l id="15030112" i="4" o="26">0 - 3</l>
+					<l id="15030113" i="5" o="51">0 - 4</l>
+					<l id="15030114" i="6" o="8">1 - 0</l>
+					<l id="15030115" i="7" o="8.5">1 - 1</l>
+					<l id="15030116" i="8" o="8">1 - 2</l>
+					<l id="15030117" i="9" o="19">1 - 3</l>
+					<l id="15030118" i="10" o="67">1 - 4</l>
+					<l id="15030119" i="11" o="9.5">2 - 0</l>
+					<l id="15030120" i="12" o="6">2 - 1</l>
+					<l id="15030121" i="13" o="11">2 - 2</l>
+					<l id="15030122" i="14" o="21">2 - 3</l>
+					<l id="15030123" i="15" o="51">2 - 4</l>
+					<l id="15030124" i="16" o="13">3 - 0</l>
+					<l id="15030125" i="17" o="13">3 - 1</l>
+					<l id="15030126" i="18" o="19">3 - 2</l>
+					<l id="15030127" i="19" o="51">3 - 3</l>
+					<l id="15030128" i="20" o="34">4 - 0</l>
+					<l id="15030129" i="21" o="29">4 - 1</l>
+					<l id="15030130" i="22" o="34">4 - 2</l>
+					<l id="15030131" i="23" o="67">5 - 0</l>
+					<l id="15030132" i="24" o="67">5 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15030136" i="1" o="3.4">AL Wahda - AL Wahda</l>
+					<l id="15030137" i="2" o="28">AL Wahda - AL Dhafra</l>
+					<l id="15030138" i="3" o="15">AL Wahda - Draw</l>
+					<l id="15030139" i="4" o="4.75">Draw - AL Wahda</l>
+					<l id="15030140" i="5" o="4.5">Draw - Draw</l>
+					<l id="15030141" i="6" o="6">Draw - AL Dhafra</l>
+					<l id="15030142" i="7" o="25">AL Dhafra - AL Wahda</l>
+					<l id="15030143" i="8" o="14">AL Dhafra - Draw</l>
+					<l id="15030144" i="9" o="5">AL Dhafra - AL Dhafra</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15030106" i="1" o="2.6">AL Wahda</l>
+					<l id="15030107" i="2" o="3.4">AL Dhafra</l>
+					<l id="15030108" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15030133" i="1" o="1.29">AL Wahda or draw</l>
+					<l id="15030134" i="2" o="1.62">AL Dhafra or draw</l>
+					<l id="15030135" i="3" o="1.22">AL Wahda or AL Dhafra</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15030155" i="1" o="4">AL Wahda</l>
+					<l id="15030156" i="2" o="8">AL Dhafra</l>
+				</t>
+			</m>
+			<m id="1008453" n="Al Nasr v Ajman Club" mid="568775" dt="2013-12-19T16:00">
+				<t id="1" n="Single Match">
+					<l id="15030159" i="0" o="3.3">Draw</l>
+					<l id="15030158" i="1" o="2.25">Al Nasr</l>
+					<l id="15030157" i="2" o="2.75">Ajman Club</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15030161" i="1" o="1.4" p="2.5">Game Total OVER 2.5</l>
+					<l id="15030160" i="2" o="2.75" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15030165" i="1" o="11">0 - 0</l>
+					<l id="15030166" i="2" o="9">0 - 1</l>
+					<l id="15030167" i="3" o="15">0 - 2</l>
+					<l id="15030168" i="4" o="21">0 - 3</l>
+					<l id="15030169" i="5" o="51">0 - 4</l>
+					<l id="15030170" i="6" o="8.5">1 - 0</l>
+					<l id="15030171" i="7" o="8.5">1 - 1</l>
+					<l id="15030172" i="8" o="7">1 - 2</l>
+					<l id="15030173" i="9" o="19">1 - 3</l>
+					<l id="15030174" i="10" o="67">1 - 4</l>
+					<l id="15030175" i="11" o="11">2 - 0</l>
+					<l id="15030176" i="12" o="6">2 - 1</l>
+					<l id="15030177" i="13" o="11">2 - 2</l>
+					<l id="15030178" i="14" o="21">2 - 3</l>
+					<l id="15030179" i="15" o="51">2 - 4</l>
+					<l id="15030180" i="16" o="15">3 - 0</l>
+					<l id="15030181" i="17" o="15">3 - 1</l>
+					<l id="15030182" i="18" o="19">3 - 2</l>
+					<l id="15030183" i="19" o="34">3 - 3</l>
+					<l id="15030184" i="20" o="51">4 - 0</l>
+					<l id="15030185" i="21" o="34">4 - 1</l>
+					<l id="15030186" i="22" o="51">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15030192" i="1" o="3.8">Al Nasr - Al Nasr</l>
+					<l id="15030193" i="2" o="28">Al Nasr - Ajman Club</l>
+					<l id="15030194" i="3" o="14">Al Nasr - Draw</l>
+					<l id="15030195" i="4" o="5.25">Draw - Al Nasr</l>
+					<l id="15030196" i="5" o="4.25">Draw - Draw</l>
+					<l id="15030197" i="6" o="5.75">Draw - Ajman Club</l>
+					<l id="15030198" i="7" o="22">Ajman Club - Al Nasr</l>
+					<l id="15030199" i="8" o="13">Ajman Club - Draw</l>
+					<l id="15030200" i="9" o="4.5">Ajman Club - Ajman Club</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15030162" i="1" o="2.75">Al Nasr</l>
+					<l id="15030163" i="2" o="3.2">Ajman Club</l>
+					<l id="15030164" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15030189" i="1" o="1.34">Al Nasr or draw</l>
+					<l id="15030190" i="2" o="1.5">Ajman Club or draw</l>
+					<l id="15030191" i="3" o="1.24">Al Nasr or Ajman Club</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15030211" i="1" o="5">Al Nasr</l>
+					<l id="15030212" i="2" o="6.5">Ajman Club</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="110" n="Saudi Arabian Professional League">
+			<m id="1008451" n="Najran SC v AL Nasr FC" mid="569040" dt="2013-12-19T16:45">
+				<t id="1" n="Single Match">
+					<l id="15030048" i="0" o="3.75">Draw</l>
+					<l id="15030047" i="1" o="5">Najran SC</l>
+					<l id="15030046" i="2" o="1.55">AL Nasr FC</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15030052" i="1" o="1.65" p="2.5">Game Total OVER 2.5</l>
+					<l id="15030053" i="2" o="2.1" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15030054" i="1" o="12">0 - 0</l>
+					<l id="15030055" i="2" o="6.5">0 - 1</l>
+					<l id="15030056" i="3" o="6.5">0 - 2</l>
+					<l id="15030057" i="4" o="9.5">0 - 3</l>
+					<l id="15030058" i="5" o="23">0 - 4</l>
+					<l id="15030059" i="6" o="41">0 - 5</l>
+					<l id="15030060" i="7" o="81">0 - 6</l>
+					<l id="15030061" i="8" o="11">1 - 0</l>
+					<l id="15030062" i="9" o="7.5">1 - 1</l>
+					<l id="15030063" i="10" o="7.5">1 - 2</l>
+					<l id="15030064" i="11" o="10">1 - 3</l>
+					<l id="15030065" i="12" o="23">1 - 4</l>
+					<l id="15030066" i="13" o="51">1 - 5</l>
+					<l id="15030067" i="14" o="81">1 - 6</l>
+					<l id="15030068" i="15" o="26">2 - 0</l>
+					<l id="15030069" i="16" o="17">2 - 1</l>
+					<l id="15030070" i="17" o="17">2 - 2</l>
+					<l id="15030071" i="18" o="26">2 - 3</l>
+					<l id="15030072" i="19" o="51">2 - 4</l>
+					<l id="15030073" i="20" o="81">3 - 0</l>
+					<l id="15030074" i="21" o="51">3 - 1</l>
+					<l id="15030075" i="22" o="41">3 - 2</l>
+					<l id="15030076" i="23" o="67">3 - 3</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15030080" i="1" o="9">Najran SC - Najran SC</l>
+					<l id="15030081" i="2" o="25">Najran SC - AL Nasr FC</l>
+					<l id="15030082" i="3" o="14">Najran SC - Draw</l>
+					<l id="15030083" i="4" o="9">Draw - Najran SC</l>
+					<l id="15030084" i="5" o="5">Draw - Draw</l>
+					<l id="15030085" i="6" o="4.25">Draw - AL Nasr FC</l>
+					<l id="15030086" i="7" o="40">AL Nasr FC - Najran SC</l>
+					<l id="15030087" i="8" o="15">AL Nasr FC - Draw</l>
+					<l id="15030088" i="9" o="2.35">AL Nasr FC - AL Nasr FC</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15030049" i="1" o="5">Najran SC</l>
+					<l id="15030050" i="2" o="2.05">AL Nasr FC</l>
+					<l id="15030051" i="3" o="2.2">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15030077" i="1" o="2.14">Najran SC or draw</l>
+					<l id="15030078" i="2" o="1.1">AL Nasr FC or draw</l>
+					<l id="15030079" i="3" o="1.18">Najran SC or AL Nasr FC</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15030099" i="1" o="14">Najran SC</l>
+					<l id="15030100" i="2" o="2.55">AL Nasr FC</l>
+				</t>
+			</m>
+			<m id="1008450" n="AL Ettifaq v AL Raed" mid="569039" dt="2013-12-19T16:45">
+				<t id="1" n="Single Match">
+					<l id="15029996" i="0" o="3.3">Draw</l>
+					<l id="15029995" i="1" o="1.8">AL Ettifaq</l>
+					<l id="15029994" i="2" o="4">AL Raed</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15030000" i="1" o="1.9" p="2.5">Game Total OVER 2.5</l>
+					<l id="15030001" i="2" o="1.8" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15030002" i="1" o="9">0 - 0</l>
+					<l id="15030003" i="2" o="10">0 - 1</l>
+					<l id="15030004" i="3" o="17">0 - 2</l>
+					<l id="15030005" i="4" o="67">0 - 3</l>
+					<l id="15030006" i="5" o="6.5">1 - 0</l>
+					<l id="15030007" i="6" o="7">1 - 1</l>
+					<l id="15030008" i="7" o="15">1 - 2</l>
+					<l id="15030009" i="8" o="34">1 - 3</l>
+					<l id="15030010" i="9" o="7">2 - 0</l>
+					<l id="15030011" i="10" o="8">2 - 1</l>
+					<l id="15030012" i="11" o="15">2 - 2</l>
+					<l id="15030013" i="12" o="34">2 - 3</l>
+					<l id="15030014" i="13" o="15">3 - 0</l>
+					<l id="15030015" i="14" o="13">3 - 1</l>
+					<l id="15030016" i="15" o="26">3 - 2</l>
+					<l id="15030017" i="16" o="51">3 - 3</l>
+					<l id="15030018" i="17" o="41">4 - 0</l>
+					<l id="15030019" i="18" o="34">4 - 1</l>
+					<l id="15030020" i="19" o="51">4 - 2</l>
+					<l id="15030021" i="20" o="81">5 - 0</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15030025" i="1" o="2.9">AL Ettifaq - AL Ettifaq</l>
+					<l id="15030026" i="2" o="35">AL Ettifaq - AL Raed</l>
+					<l id="15030027" i="3" o="15">AL Ettifaq - Draw</l>
+					<l id="15030028" i="4" o="4.5">Draw - AL Ettifaq</l>
+					<l id="15030029" i="5" o="4.5">Draw - Draw</l>
+					<l id="15030030" i="6" o="7">Draw - AL Raed</l>
+					<l id="15030031" i="7" o="25">AL Raed - AL Ettifaq</l>
+					<l id="15030032" i="8" o="14">AL Raed - Draw</l>
+					<l id="15030033" i="9" o="6.25">AL Raed - AL Raed</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029997" i="1" o="2.35">AL Ettifaq</l>
+					<l id="15029998" i="2" o="4.3">AL Raed</l>
+					<l id="15029999" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15030022" i="1" o="1.16">AL Ettifaq or draw</l>
+					<l id="15030023" i="2" o="1.81">AL Raed or draw</l>
+					<l id="15030024" i="3" o="1.24">AL Ettifaq or AL Raed</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15030044" i="1" o="3.5">AL Ettifaq</l>
+					<l id="15030045" i="2" o="11">AL Raed</l>
+				</t>
+			</m>
+			<m id="1008449" n="AL Ahli Jeddah v Al Faisaly" mid="569038"
+				dt="2013-12-19T16:45">
+				<t id="1" n="Single Match">
+					<l id="15029942" i="0" o="4.2">Draw</l>
+					<l id="15029941" i="1" o="1.4">AL Ahli Jeddah</l>
+					<l id="15029940" i="2" o="6.25">Al Faisaly</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029946" i="1" o="1.7" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029947" i="2" o="2" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029948" i="1" o="13">0 - 0</l>
+					<l id="15029949" i="2" o="12">0 - 1</l>
+					<l id="15029950" i="3" o="34">0 - 2</l>
+					<l id="15029951" i="4" o="6.5">1 - 0</l>
+					<l id="15029952" i="5" o="7.5">1 - 1</l>
+					<l id="15029953" i="6" o="23">1 - 2</l>
+					<l id="15029954" i="7" o="81">1 - 3</l>
+					<l id="15029955" i="8" o="6">2 - 0</l>
+					<l id="15029956" i="9" o="8">2 - 1</l>
+					<l id="15029957" i="10" o="26">2 - 2</l>
+					<l id="15029958" i="11" o="67">2 - 3</l>
+					<l id="15029959" i="12" o="9">3 - 0</l>
+					<l id="15029960" i="13" o="10">3 - 1</l>
+					<l id="15029961" i="14" o="29">3 - 2</l>
+					<l id="15029962" i="15" o="67">3 - 3</l>
+					<l id="15029963" i="16" o="17">4 - 0</l>
+					<l id="15029964" i="17" o="19">4 - 1</l>
+					<l id="15029965" i="18" o="51">4 - 2</l>
+					<l id="15029966" i="19" o="29">5 - 0</l>
+					<l id="15029967" i="20" o="41">5 - 1</l>
+					<l id="15029968" i="21" o="67">6 - 0</l>
+					<l id="15029969" i="22" o="67">6 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029973" i="1" o="2.1">AL Ahli Jeddah - AL Ahli Jeddah</l>
+					<l id="15029974" i="2" o="40">AL Ahli Jeddah - Al Faisaly</l>
+					<l id="15029975" i="3" o="16">AL Ahli Jeddah - Draw</l>
+					<l id="15029976" i="4" o="4.25">Draw - AL Ahli Jeddah</l>
+					<l id="15029977" i="5" o="5.5">Draw - Draw</l>
+					<l id="15029978" i="6" o="12">Draw - Al Faisaly</l>
+					<l id="15029979" i="7" o="25">Al Faisaly - AL Ahli Jeddah</l>
+					<l id="15029980" i="8" o="15">Al Faisaly - Draw</l>
+					<l id="15029981" i="9" o="12">Al Faisaly - Al Faisaly</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029943" i="1" o="1.85">AL Ahli Jeddah</l>
+					<l id="15029944" i="2" o="5.5">Al Faisaly</l>
+					<l id="15029945" i="3" o="2.3">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029970" i="1" o="1.05">AL Ahli Jeddah or draw</l>
+					<l id="15029971" i="2" o="2.51">Al Faisaly or draw</l>
+					<l id="15029972" i="3" o="1.14">AL Ahli Jeddah or Al Faisaly</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029992" i="1" o="2.2">AL Ahli Jeddah</l>
+					<l id="15029993" i="2" o="18">Al Faisaly</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="321" n="Chilean Primera Div. Liguilla Pre-Libertadores">
+			<m id="1008433" n="Deportes Iquique v Universidad de Chile" mid="569037"
+				dt="2013-12-20T01:00">
+				<t id="1" n="Single Match">
+					<l id="15029087" i="0" o="3.25">Draw</l>
+					<l id="15029086" i="1" o="3.2">Deportes Iquique</l>
+					<l id="15029085" i="2" o="2.05">Universidad de Chile</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029089" i="1" o="1.65" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029088" i="2" o="2.1" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029093" i="1" o="8.5">0 - 0</l>
+					<l id="15029094" i="2" o="7">0 - 1</l>
+					<l id="15029095" i="3" o="8.5">0 - 2</l>
+					<l id="15029096" i="4" o="15">0 - 3</l>
+					<l id="15029097" i="5" o="41">0 - 4</l>
+					<l id="15029098" i="6" o="81">0 - 5</l>
+					<l id="15029099" i="7" o="9.5">1 - 0</l>
+					<l id="15029100" i="8" o="7">1 - 1</l>
+					<l id="15029101" i="9" o="7">1 - 2</l>
+					<l id="15029102" i="10" o="15">1 - 3</l>
+					<l id="15029103" i="11" o="34">1 - 4</l>
+					<l id="15029104" i="12" o="81">1 - 5</l>
+					<l id="15029105" i="13" o="17">2 - 0</l>
+					<l id="15029106" i="14" o="10">2 - 1</l>
+					<l id="15029107" i="15" o="11">2 - 2</l>
+					<l id="15029108" i="16" o="23">2 - 3</l>
+					<l id="15029109" i="17" o="41">2 - 4</l>
+					<l id="15029110" i="18" o="41">3 - 0</l>
+					<l id="15029111" i="19" o="29">3 - 1</l>
+					<l id="15029112" i="20" o="29">3 - 2</l>
+					<l id="15029113" i="21" o="41">3 - 3</l>
+					<l id="15029114" i="22" o="81">4 - 1</l>
+					<l id="15029115" i="23" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029119" i="1" o="4.75">Deportes Iquique - Deportes Iquique</l>
+					<l id="15029120" i="2" o="22">Deportes Iquique - Universidad de Chile
+					</l>
+					<l id="15029121" i="3" o="15">Deportes Iquique - Draw</l>
+					<l id="15029122" i="4" o="6.5">Draw - Deportes Iquique</l>
+					<l id="15029123" i="5" o="4.75">Draw - Draw</l>
+					<l id="15029124" i="6" o="4.75">Draw - Universidad de Chile</l>
+					<l id="15029125" i="7" o="25">Universidad de Chile - Deportes Iquique
+					</l>
+					<l id="15029126" i="8" o="16">Universidad de Chile - Draw</l>
+					<l id="15029127" i="9" o="3.65">Universidad de Chile - Universidad de
+						Chile</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029090" i="1" o="3.5">Deportes Iquique</l>
+					<l id="15029091" i="2" o="2.6">Universidad de Chile</l>
+					<l id="15029092" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029116" i="1" o="1.61">Deportes Iquique or draw</l>
+					<l id="15029117" i="2" o="1.26">Universidad de Chile or draw</l>
+					<l id="15029118" i="3" o="1.25">Deportes Iquique or Universidad de Chile
+					</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029128" i="1" o="10">Deportes Iquique</l>
+					<l id="15029129" i="2" o="4">Universidad de Chile</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="561" n="Iranian Pro League">
+			<m id="1008448" n="Persepolis v Saipa Karaj" mid="568652" dt="2013-12-19T12:50">
+				<t id="1" n="Single Match">
+					<l id="15029890" i="0" o="3.5">Draw</l>
+					<l id="15029889" i="1" o="1.53">Persepolis</l>
+					<l id="15029888" i="2" o="5.75">Saipa Karaj</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029892" i="1" o="2.3" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029891" i="2" o="1.55" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029896" i="1" o="8">0 - 0</l>
+					<l id="15029897" i="2" o="9">0 - 1</l>
+					<l id="15029898" i="3" o="26">0 - 2</l>
+					<l id="15029899" i="4" o="5">1 - 0</l>
+					<l id="15029900" i="5" o="5.5">1 - 1</l>
+					<l id="15029901" i="6" o="23">1 - 2</l>
+					<l id="15029902" i="7" o="81">1 - 3</l>
+					<l id="15029903" i="8" o="5">2 - 0</l>
+					<l id="15029904" i="9" o="9">2 - 1</l>
+					<l id="15029905" i="10" o="17">2 - 2</l>
+					<l id="15029906" i="11" o="67">2 - 3</l>
+					<l id="15029907" i="12" o="10">3 - 0</l>
+					<l id="15029908" i="13" o="11">3 - 1</l>
+					<l id="15029909" i="14" o="34">3 - 2</l>
+					<l id="15029910" i="15" o="81">3 - 3</l>
+					<l id="15029911" i="16" o="23">4 - 0</l>
+					<l id="15029912" i="17" o="26">4 - 1</l>
+					<l id="15029913" i="18" o="51">4 - 2</l>
+					<l id="15029914" i="19" o="41">5 - 0</l>
+					<l id="15029915" i="20" o="51">5 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029919" i="1" o="2.25">Persepolis - Persepolis</l>
+					<l id="15029920" i="2" o="40">Persepolis - Saipa Karaj</l>
+					<l id="15029921" i="3" o="16">Persepolis - Draw</l>
+					<l id="15029922" i="4" o="4.25">Draw - Persepolis</l>
+					<l id="15029923" i="5" o="5">Draw - Draw</l>
+					<l id="15029924" i="6" o="10">Draw - Saipa Karaj</l>
+					<l id="15029925" i="7" o="25">Saipa Karaj - Persepolis</l>
+					<l id="15029926" i="8" o="14">Saipa Karaj - Draw</l>
+					<l id="15029927" i="9" o="10">Saipa Karaj - Saipa Karaj</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029893" i="1" o="2">Persepolis</l>
+					<l id="15029894" i="2" o="5">Saipa Karaj</l>
+					<l id="15029895" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029916" i="1" o="1.06">Persepolis or draw</l>
+					<l id="15029917" i="2" o="2.18">Saipa Karaj or draw</l>
+					<l id="15029918" i="3" o="1.21">Persepolis or Saipa Karaj</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029938" i="1" o="2.5">Persepolis</l>
+					<l id="15029939" i="2" o="16">Saipa Karaj</l>
+				</t>
+			</m>
+			<m id="1008447" n="Zob Ahan v Mes Kerman" mid="568651" dt="2013-12-19T11:30">
+				<t id="1" n="Single Match">
+					<l id="15029837" i="0" o="2.9">Draw</l>
+					<l id="15029836" i="1" o="2.3">Zob Ahan</l>
+					<l id="15029835" i="2" o="3">Mes Kerman</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029839" i="1" o="2.3" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029838" i="2" o="1.55" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029843" i="1" o="6">0 - 0</l>
+					<l id="15029844" i="2" o="7.5">0 - 1</l>
+					<l id="15029845" i="3" o="11">0 - 2</l>
+					<l id="15029846" i="4" o="34">0 - 3</l>
+					<l id="15029847" i="5" o="81">0 - 4</l>
+					<l id="15029848" i="6" o="6.5">1 - 0</l>
+					<l id="15029849" i="7" o="5.5">1 - 1</l>
+					<l id="15029850" i="8" o="12">1 - 2</l>
+					<l id="15029851" i="9" o="26">1 - 3</l>
+					<l id="15029852" i="10" o="8">2 - 0</l>
+					<l id="15029853" i="11" o="9">2 - 1</l>
+					<l id="15029854" i="12" o="13">2 - 2</l>
+					<l id="15029855" i="13" o="29">2 - 3</l>
+					<l id="15029856" i="14" o="81">2 - 4</l>
+					<l id="15029857" i="15" o="23">3 - 0</l>
+					<l id="15029858" i="16" o="23">3 - 1</l>
+					<l id="15029859" i="17" o="26">3 - 2</l>
+					<l id="15029860" i="18" o="51">3 - 3</l>
+					<l id="15029861" i="19" o="67">4 - 0</l>
+					<l id="15029862" i="20" o="51">4 - 1</l>
+					<l id="15029863" i="21" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029867" i="1" o="4">Zob Ahan - Zob Ahan</l>
+					<l id="15029868" i="2" o="25">Zob Ahan - Mes Kerman</l>
+					<l id="15029869" i="3" o="14">Zob Ahan - Draw</l>
+					<l id="15029870" i="4" o="5.25">Draw - Zob Ahan</l>
+					<l id="15029871" i="5" o="4.25">Draw - Draw</l>
+					<l id="15029872" i="6" o="5.75">Draw - Mes Kerman</l>
+					<l id="15029873" i="7" o="22">Mes Kerman - Zob Ahan</l>
+					<l id="15029874" i="8" o="13">Mes Kerman - Draw</l>
+					<l id="15029875" i="9" o="4.25">Mes Kerman - Mes Kerman</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029840" i="1" o="2.75">Zob Ahan</l>
+					<l id="15029841" i="2" o="3.4">Mes Kerman</l>
+					<l id="15029842" i="3" o="1.9">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029864" i="1" o="1.28">Zob Ahan or draw</l>
+					<l id="15029865" i="2" o="1.47">Mes Kerman or draw</l>
+					<l id="15029866" i="3" o="1.3">Zob Ahan or Mes Kerman</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029886" i="1" o="5">Zob Ahan</l>
+					<l id="15029887" i="2" o="8">Mes Kerman</l>
+				</t>
+			</m>
+			<m id="1008446" n="Fajr Sepasi v Gostaresh Foolad" mid="568650"
+				dt="2013-12-19T11:30">
+				<t id="1" n="Single Match">
+					<l id="15029784" i="0" o="2.9">Draw</l>
+					<l id="15029783" i="1" o="2.4">Fajr Sepasi</l>
+					<l id="15029782" i="2" o="2.9">Gostaresh Foolad</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029786" i="1" o="2.35" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029785" i="2" o="1.53" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029790" i="1" o="6">0 - 0</l>
+					<l id="15029791" i="2" o="7">0 - 1</l>
+					<l id="15029792" i="3" o="11">0 - 2</l>
+					<l id="15029793" i="4" o="29">0 - 3</l>
+					<l id="15029794" i="5" o="81">0 - 4</l>
+					<l id="15029795" i="6" o="6.5">1 - 0</l>
+					<l id="15029796" i="7" o="5.5">1 - 1</l>
+					<l id="15029797" i="8" o="12">1 - 2</l>
+					<l id="15029798" i="9" o="26">1 - 3</l>
+					<l id="15029799" i="10" o="9">2 - 0</l>
+					<l id="15029800" i="11" o="9.5">2 - 1</l>
+					<l id="15029801" i="12" o="13">2 - 2</l>
+					<l id="15029802" i="13" o="29">2 - 3</l>
+					<l id="15029803" i="14" o="81">2 - 4</l>
+					<l id="15029804" i="15" o="26">3 - 0</l>
+					<l id="15029805" i="16" o="23">3 - 1</l>
+					<l id="15029806" i="17" o="26">3 - 2</l>
+					<l id="15029807" i="18" o="51">3 - 3</l>
+					<l id="15029808" i="19" o="67">4 - 0</l>
+					<l id="15029809" i="20" o="67">4 - 1</l>
+					<l id="15029810" i="21" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029814" i="1" o="4.25">Fajr Sepasi - Fajr Sepasi</l>
+					<l id="15029815" i="2" o="25">Fajr Sepasi - Gostaresh Foolad</l>
+					<l id="15029816" i="3" o="13">Fajr Sepasi - Draw</l>
+					<l id="15029817" i="4" o="5.5">Draw - Fajr Sepasi</l>
+					<l id="15029818" i="5" o="4">Draw - Draw</l>
+					<l id="15029819" i="6" o="5.5">Draw - Gostaresh Foolad</l>
+					<l id="15029820" i="7" o="20">Gostaresh Foolad - Fajr Sepasi</l>
+					<l id="15029821" i="8" o="12">Gostaresh Foolad - Draw</l>
+					<l id="15029822" i="9" o="4.5">Gostaresh Foolad - Gostaresh Foolad</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029787" i="1" o="2.88">Fajr Sepasi</l>
+					<l id="15029788" i="2" o="3.3">Gostaresh Foolad</l>
+					<l id="15029789" i="3" o="1.9">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029811" i="1" o="1.31">Fajr Sepasi or draw</l>
+					<l id="15029812" i="2" o="1.45">Gostaresh Foolad or draw</l>
+					<l id="15029813" i="3" o="1.31">Fajr Sepasi or Gostaresh Foolad</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029833" i="1" o="6">Fajr Sepasi</l>
+					<l id="15029834" i="2" o="8">Gostaresh Foolad</l>
+				</t>
+			</m>
+			<m id="1008445" n="Esteghlal Khuzestan v Malavan" mid="568649"
+				dt="2013-12-19T11:30">
+				<t id="1" n="Single Match">
+					<l id="15029730" i="0" o="3">Draw</l>
+					<l id="15029729" i="1" o="2.45">Esteghlal Khuzestan</l>
+					<l id="15029728" i="2" o="2.7">Malavan</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029732" i="1" o="2.3" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029731" i="2" o="1.55" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029736" i="1" o="6.5">0 - 0</l>
+					<l id="15029737" i="2" o="7">0 - 1</l>
+					<l id="15029738" i="3" o="10">0 - 2</l>
+					<l id="15029739" i="4" o="29">0 - 3</l>
+					<l id="15029740" i="5" o="81">0 - 4</l>
+					<l id="15029741" i="6" o="6.5">1 - 0</l>
+					<l id="15029742" i="7" o="6">1 - 1</l>
+					<l id="15029743" i="8" o="11">1 - 2</l>
+					<l id="15029744" i="9" o="26">1 - 3</l>
+					<l id="15029745" i="10" o="81">1 - 4</l>
+					<l id="15029746" i="11" o="9">2 - 0</l>
+					<l id="15029747" i="12" o="9.5">2 - 1</l>
+					<l id="15029748" i="13" o="13">2 - 2</l>
+					<l id="15029749" i="14" o="29">2 - 3</l>
+					<l id="15029750" i="15" o="81">2 - 4</l>
+					<l id="15029751" i="16" o="26">3 - 0</l>
+					<l id="15029752" i="17" o="23">3 - 1</l>
+					<l id="15029753" i="18" o="29">3 - 2</l>
+					<l id="15029754" i="19" o="51">3 - 3</l>
+					<l id="15029755" i="20" o="67">4 - 0</l>
+					<l id="15029756" i="21" o="81">4 - 1</l>
+					<l id="15029757" i="22" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029761" i="1" o="4.25">Esteghlal Khuzestan - Esteghlal
+						Khuzestan</l>
+					<l id="15029762" i="2" o="25">Esteghlal Khuzestan - Malavan</l>
+					<l id="15029763" i="3" o="13">Esteghlal Khuzestan - Draw</l>
+					<l id="15029764" i="4" o="5.5">Draw - Esteghlal Khuzestan</l>
+					<l id="15029765" i="5" o="4">Draw - Draw</l>
+					<l id="15029766" i="6" o="5.5">Draw - Malavan</l>
+					<l id="15029767" i="7" o="20">Malavan - Esteghlal Khuzestan</l>
+					<l id="15029768" i="8" o="12">Malavan - Draw</l>
+					<l id="15029769" i="9" o="4.5">Malavan - Malavan</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029733" i="1" o="2.88">Esteghlal Khuzestan</l>
+					<l id="15029734" i="2" o="3.2">Malavan</l>
+					<l id="15029735" i="3" o="1.95">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029758" i="1" o="1.35">Esteghlal Khuzestan or draw</l>
+					<l id="15029759" i="2" o="1.42">Malavan or draw</l>
+					<l id="15029760" i="3" o="1.28">Esteghlal Khuzestan or Malavan</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029780" i="1" o="6.25">Esteghlal Khuzestan</l>
+					<l id="15029781" i="2" o="6.5">Malavan</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="923" n="English Premier League">
+			<m id="1007853" n="Southampton v Tottenham Hotspur" mid="568535"
+				dt="2013-12-22T13:30">
+				<t id="1" n="Single Match">
+					<l id="15011321" i="0" o="3.2">Draw</l>
+					<l id="15011320" i="1" o="2.45">Southampton</l>
+					<l id="15011319" i="2" o="2.75">Tottenham Hotspur</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15011323" i="1" o="2" p="2.5">Game Total OVER 2.5</l>
+					<l id="15011322" i="2" o="1.8" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15011334" i="1" o="8">0 - 0</l>
+					<l id="15011335" i="2" o="7.5">0 - 1</l>
+					<l id="15011336" i="3" o="12">0 - 2</l>
+					<l id="15011337" i="4" o="29">0 - 3</l>
+					<l id="15011338" i="5" o="81">0 - 4</l>
+					<l id="15011339" i="6" o="7.5">1 - 0</l>
+					<l id="15011340" i="7" o="6.5">1 - 1</l>
+					<l id="15011341" i="8" o="10">1 - 2</l>
+					<l id="15011342" i="9" o="26">1 - 3</l>
+					<l id="15011343" i="10" o="81">1 - 4</l>
+					<l id="15011344" i="11" o="10">2 - 0</l>
+					<l id="15011345" i="12" o="9">2 - 1</l>
+					<l id="15011346" i="13" o="13">2 - 2</l>
+					<l id="15011347" i="14" o="29">2 - 3</l>
+					<l id="15011348" i="15" o="81">2 - 4</l>
+					<l id="15011349" i="16" o="26">3 - 0</l>
+					<l id="15011350" i="17" o="21">3 - 1</l>
+					<l id="15011351" i="18" o="26">3 - 2</l>
+					<l id="15011352" i="19" o="51">3 - 3</l>
+					<l id="15011353" i="20" o="67">4 - 0</l>
+					<l id="15011354" i="21" o="67">4 - 1</l>
+					<l id="15011355" i="22" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15011359" i="1" o="4">Southampton - Southampton</l>
+					<l id="15011360" i="2" o="25">Southampton - Tottenham Hotspur</l>
+					<l id="15011361" i="3" o="14">Southampton - Draw</l>
+					<l id="15011362" i="4" o="5.5">Draw - Southampton</l>
+					<l id="15011363" i="5" o="4">Draw - Draw</l>
+					<l id="15011364" i="6" o="5.75">Draw - Tottenham Hotspur</l>
+					<l id="15011365" i="7" o="20">Tottenham Hotspur - Southampton</l>
+					<l id="15011366" i="8" o="13">Tottenham Hotspur - Draw</l>
+					<l id="15011367" i="9" o="4.65">Tottenham Hotspur - Tottenham Hotspur
+					</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15011327" i="1" o="2.88">Southampton</l>
+					<l id="15011328" i="2" o="3.2">Tottenham Hotspur</l>
+					<l id="15011329" i="3" o="2.05">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15011356" i="1" o="1.44">Southampton or draw</l>
+					<l id="15011357" i="2" o="1.5">Tottenham Hotspur or draw</l>
+					<l id="15011358" i="3" o="1.33">Southampton or Tottenham Hotspur</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15011378" i="1" o="6.25">Southampton</l>
+					<l id="15011379" i="2" o="6.5">Tottenham Hotspur</l>
+				</t>
+				<t id="27" n="Time of First Goal">
+					<l id="15011368" i="1" o="4.5">0 - 10 Minutes</l>
+					<l id="15011369" i="2" o="4.3">11 - 20 Minutes</l>
+					<l id="15011370" i="3" o="5.5">21 - 30 Minutes</l>
+					<l id="15011371" i="4" o="7.5">31 - 40 Minutes</l>
+					<l id="15011372" i="5" o="8">41 - 50 Minutes</l>
+					<l id="15011373" i="6" o="8">51 - 60 Minutes</l>
+					<l id="15011374" i="7" o="10">61 - 70 Minutes</l>
+					<l id="15011375" i="8" o="12">71 - 80 Minutes</l>
+					<l id="15011376" i="9" o="14">81 - Final Whistle</l>
+					<l id="15011377" i="10" o="8">No Goals Scored</l>
+				</t>
+				<t id="33" n="Handicap">
+					<l id="15011324" i="0" o="4" p="1">Draw</l>
+					<l id="15011325" i="1" o="1.44" p="1">Southampton (+1)</l>
+					<l id="15011326" i="2" o="5" p="-1">Tottenham Hotspur (-1)</l>
+				</t>
+				<t id="36" n="Over/Under 1.5">
+					<l id="15011380" i="1" o="0" p="1.5">Game Total OVER 1.5</l>
+					<l id="15011381" i="2" o="0" p="1.5">Game Total UNDER 1.5</l>
+				</t>
+				<t id="37" n="Over/Under 3.5">
+					<l id="15011382" i="1" o="0" p="3.5">Game Total OVER 3.5</l>
+					<l id="15011383" i="2" o="0" p="3.5">Game Total UNDER 3.5</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="934" n="German 1st Bundesliga">
+			<m id="1007882" n="1. FC Nürnberg v FC Schalke 04" mid="568592"
+				dt="2013-12-21T17:30">
+				<t id="1" n="Single Match">
+					<l id="15012953" i="0" o="3.5">Draw</l>
+					<l id="15012952" i="1" o="3.35">1. FC Nürnberg</l>
+					<l id="15012951" i="2" o="2">FC Schalke 04</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15012955" i="1" o="1.75" p="2.5">Game Total OVER 2.5</l>
+					<l id="15012954" i="2" o="2.05" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15012966" i="1" o="10">0 - 0</l>
+					<l id="15012967" i="2" o="7">0 - 1</l>
+					<l id="15012968" i="3" o="8.5">0 - 2</l>
+					<l id="15012969" i="4" o="15">0 - 3</l>
+					<l id="15012970" i="5" o="41">0 - 4</l>
+					<l id="15012971" i="6" o="81">0 - 5</l>
+					<l id="15012972" i="7" o="9.5">1 - 0</l>
+					<l id="15012973" i="8" o="7.5">1 - 1</l>
+					<l id="15012974" i="9" o="7.5">1 - 2</l>
+					<l id="15012975" i="10" o="15">1 - 3</l>
+					<l id="15012976" i="11" o="34">1 - 4</l>
+					<l id="15012977" i="12" o="81">1 - 5</l>
+					<l id="15012978" i="13" o="15">2 - 0</l>
+					<l id="15012979" i="14" o="10">2 - 1</l>
+					<l id="15012980" i="15" o="13">2 - 2</l>
+					<l id="15012981" i="16" o="23">2 - 3</l>
+					<l id="15012982" i="17" o="41">2 - 4</l>
+					<l id="15012983" i="18" o="34">3 - 0</l>
+					<l id="15012984" i="19" o="29">3 - 1</l>
+					<l id="15012985" i="20" o="29">3 - 2</l>
+					<l id="15012986" i="21" o="51">3 - 3</l>
+					<l id="15012987" i="22" o="81">4 - 1</l>
+					<l id="15012988" i="23" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15012992" i="1" o="4.75">1. FC Nürnberg - 1. FC Nürnberg</l>
+					<l id="15012993" i="2" o="22">1. FC Nürnberg - FC Schalke 04</l>
+					<l id="15012994" i="3" o="15">1. FC Nürnberg - Draw</l>
+					<l id="15012995" i="4" o="6.5">Draw - 1. FC Nürnberg</l>
+					<l id="15012996" i="5" o="5">Draw - Draw</l>
+					<l id="15012997" i="6" o="4.75">Draw - FC Schalke 04</l>
+					<l id="15012998" i="7" o="25">FC Schalke 04 - 1. FC Nürnberg</l>
+					<l id="15012999" i="8" o="16">FC Schalke 04 - Draw</l>
+					<l id="15013000" i="9" o="3.45">FC Schalke 04 - FC Schalke 04</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15012959" i="1" o="3.6">1. FC Nürnberg</l>
+					<l id="15012960" i="2" o="2.6">FC Schalke 04</l>
+					<l id="15012961" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15012989" i="1" o="1.71">1. FC Nürnberg or draw</l>
+					<l id="15012990" i="2" o="1.27">FC Schalke 04 or draw</l>
+					<l id="15012991" i="3" o="1.25">1. FC Nürnberg or FC Schalke 04</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15013011" i="1" o="10">1. FC Nürnberg</l>
+					<l id="15013012" i="2" o="4">FC Schalke 04</l>
+				</t>
+				<t id="27" n="Time of First Goal">
+					<l id="15013001" i="1" o="4.5">0 - 10 Minutes</l>
+					<l id="15013002" i="2" o="4.3">11 - 20 Minutes</l>
+					<l id="15013003" i="3" o="5.5">21 - 30 Minutes</l>
+					<l id="15013004" i="4" o="7.5">31 - 40 Minutes</l>
+					<l id="15013005" i="5" o="8">41 - 50 Minutes</l>
+					<l id="15013006" i="6" o="8">51 - 60 Minutes</l>
+					<l id="15013007" i="7" o="10">61 - 70 Minutes</l>
+					<l id="15013008" i="8" o="12">71 - 80 Minutes</l>
+					<l id="15013009" i="9" o="14">81 - Final Whistle</l>
+					<l id="15013010" i="10" o="10">No Goals Scored</l>
+				</t>
+				<t id="33" n="Handicap">
+					<l id="15012956" i="0" o="3.9" p="1">Draw</l>
+					<l id="15012957" i="1" o="1.71" p="1">1. FC Nürnberg (+1)</l>
+					<l id="15012958" i="2" o="3.5" p="-1">FC Schalke 04 (-1)</l>
+				</t>
+				<t id="36" n="Over/Under 1.5">
+					<l id="15013013" i="1" o="0" p="1.5">Game Total OVER 1.5</l>
+					<l id="15013014" i="2" o="0" p="1.5">Game Total UNDER 1.5</l>
+				</t>
+				<t id="37" n="Over/Under 3.5">
+					<l id="15013015" i="1" o="0" p="3.5">Game Total OVER 3.5</l>
+					<l id="15013016" i="2" o="0" p="3.5">Game Total UNDER 3.5</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="940" n="Belgian Pro League">
+			<m id="1007936" n="KV RS Waasland v Lierse SK" mid="568473"
+				dt="2013-12-21T19:00">
+				<t id="1" n="Single Match">
+					<l id="15015900" i="0" o="3.3">Draw</l>
+					<l id="15015899" i="1" o="2.2">KV RS Waasland</l>
+					<l id="15015898" i="2" o="2.9">Lierse SK</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15015902" i="1" o="1.95" p="2.5">Game Total OVER 2.5</l>
+					<l id="15015901" i="2" o="1.75" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15015906" i="1" o="9">0 - 0</l>
+					<l id="15015907" i="2" o="8">0 - 1</l>
+					<l id="15015908" i="3" o="12">0 - 2</l>
+					<l id="15015909" i="4" o="29">0 - 3</l>
+					<l id="15015910" i="5" o="81">0 - 4</l>
+					<l id="15015911" i="6" o="6.5">1 - 0</l>
+					<l id="15015912" i="7" o="7">1 - 1</l>
+					<l id="15015913" i="8" o="11">1 - 2</l>
+					<l id="15015914" i="9" o="26">1 - 3</l>
+					<l id="15015915" i="10" o="8">2 - 0</l>
+					<l id="15015916" i="11" o="8.5">2 - 1</l>
+					<l id="15015917" i="12" o="15">2 - 2</l>
+					<l id="15015918" i="13" o="29">2 - 3</l>
+					<l id="15015919" i="14" o="81">2 - 4</l>
+					<l id="15015920" i="15" o="21">3 - 0</l>
+					<l id="15015921" i="16" o="19">3 - 1</l>
+					<l id="15015922" i="17" o="26">3 - 2</l>
+					<l id="15015923" i="18" o="51">3 - 3</l>
+					<l id="15015924" i="19" o="67">4 - 0</l>
+					<l id="15015925" i="20" o="51">4 - 1</l>
+					<l id="15015926" i="21" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15015930" i="1" o="3.75">KV RS Waasland - KV RS Waasland</l>
+					<l id="15015931" i="2" o="25">KV RS Waasland - Lierse SK</l>
+					<l id="15015932" i="3" o="15">KV RS Waasland - Draw</l>
+					<l id="15015933" i="4" o="5.25">Draw - KV RS Waasland</l>
+					<l id="15015934" i="5" o="4.75">Draw - Draw</l>
+					<l id="15015935" i="6" o="6">Draw - Lierse SK</l>
+					<l id="15015936" i="7" o="22">Lierse SK - KV RS Waasland</l>
+					<l id="15015937" i="8" o="14">Lierse SK - Draw</l>
+					<l id="15015938" i="9" o="4.75">Lierse SK - Lierse SK</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15015903" i="1" o="2.7">KV RS Waasland</l>
+					<l id="15015904" i="2" o="3.3">Lierse SK</l>
+					<l id="15015905" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15015927" i="1" o="1.32">KV RS Waasland or draw</l>
+					<l id="15015928" i="2" o="1.54">Lierse SK or draw</l>
+					<l id="15015929" i="3" o="1.25">KV RS Waasland or Lierse SK</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15015939" i="1" o="4.5">KV RS Waasland</l>
+					<l id="15015940" i="2" o="8">Lierse SK</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="941" n="Dutch Eredivisie">
+			<m id="1008170" n="Heracles Almelo v Vitesse Arnheim" mid="568627"
+				dt="2013-12-21T18:45">
+				<t id="1" n="Single Match">
+					<l id="15022573" i="0" o="3.5">Draw</l>
+					<l id="15022572" i="1" o="4.3">Heracles Almelo</l>
+					<l id="15022571" i="2" o="1.7">Vitesse Arnheim</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15022575" i="1" o="1.45" p="2.5">Game Total OVER 2.5</l>
+					<l id="15022574" i="2" o="2.55" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15022579" i="1" o="12">0 - 0</l>
+					<l id="15022580" i="2" o="7.5">0 - 1</l>
+					<l id="15022581" i="3" o="8">0 - 2</l>
+					<l id="15022582" i="4" o="10">0 - 3</l>
+					<l id="15022583" i="5" o="26">0 - 4</l>
+					<l id="15022584" i="6" o="51">0 - 5</l>
+					<l id="15022585" i="7" o="12">1 - 0</l>
+					<l id="15022586" i="8" o="8">1 - 1</l>
+					<l id="15022587" i="9" o="6.5">1 - 2</l>
+					<l id="15022588" i="10" o="10">1 - 3</l>
+					<l id="15022589" i="11" o="26">1 - 4</l>
+					<l id="15022590" i="12" o="51">1 - 5</l>
+					<l id="15022591" i="13" o="23">2 - 0</l>
+					<l id="15022592" i="14" o="12">2 - 1</l>
+					<l id="15022593" i="15" o="12">2 - 2</l>
+					<l id="15022594" i="16" o="21">2 - 3</l>
+					<l id="15022595" i="17" o="41">2 - 4</l>
+					<l id="15022596" i="18" o="51">3 - 0</l>
+					<l id="15022597" i="19" o="29">3 - 1</l>
+					<l id="15022598" i="20" o="26">3 - 2</l>
+					<l id="15022599" i="21" o="51">3 - 3</l>
+					<l id="15022600" i="22" o="81">4 - 1</l>
+					<l id="15022601" i="23" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15022605" i="1" o="6.5">Heracles Almelo - Heracles Almelo</l>
+					<l id="15022606" i="2" o="22">Heracles Almelo - Vitesse Arnheim</l>
+					<l id="15022607" i="3" o="15">Heracles Almelo - Draw</l>
+					<l id="15022608" i="4" o="7">Draw - Heracles Almelo</l>
+					<l id="15022609" i="5" o="5.5">Draw - Draw</l>
+					<l id="15022610" i="6" o="4.5">Draw - Vitesse Arnheim</l>
+					<l id="15022611" i="7" o="32">Vitesse Arnheim - Heracles Almelo</l>
+					<l id="15022612" i="8" o="16">Vitesse Arnheim - Draw</l>
+					<l id="15022613" i="9" o="2.6">Vitesse Arnheim - Vitesse Arnheim</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15022576" i="1" o="4.33">Heracles Almelo</l>
+					<l id="15022577" i="2" o="2.25">Vitesse Arnheim</l>
+					<l id="15022578" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15022602" i="1" o="1.93">Heracles Almelo or draw</l>
+					<l id="15022603" i="2" o="1.14">Vitesse Arnheim or draw</l>
+					<l id="15022604" i="3" o="1.22">Heracles Almelo or Vitesse Arnheim</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15022624" i="1" o="11">Heracles Almelo</l>
+					<l id="15022625" i="2" o="3">Vitesse Arnheim</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="944" n="Spanish Primera Division">
+			<m id="1007908" n="RCD Espanyol v Real Valladolid" mid="568740"
+				dt="2013-12-22T11:00">
+				<t id="1" n="Single Match">
+					<l id="15014384" i="0" o="3.4">Draw</l>
+					<l id="15014383" i="1" o="1.8">RCD Espanyol</l>
+					<l id="15014382" i="2" o="4.2">Real Valladolid</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15014386" i="1" o="2.1" p="2.5">Game Total OVER 2.5</l>
+					<l id="15014385" i="2" o="1.7" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15014393" i="1" o="8.5">0 - 0</l>
+					<l id="15014394" i="2" o="9">0 - 1</l>
+					<l id="15014395" i="3" o="17">0 - 2</l>
+					<l id="15014396" i="4" o="67">0 - 3</l>
+					<l id="15014397" i="5" o="6">1 - 0</l>
+					<l id="15014398" i="6" o="6.5">1 - 1</l>
+					<l id="15014399" i="7" o="15">1 - 2</l>
+					<l id="15014400" i="8" o="41">1 - 3</l>
+					<l id="15014401" i="9" o="6.5">2 - 0</l>
+					<l id="15014402" i="10" o="8.5">2 - 1</l>
+					<l id="15014403" i="11" o="15">2 - 2</l>
+					<l id="15014404" i="12" o="34">2 - 3</l>
+					<l id="15014405" i="13" o="15">3 - 0</l>
+					<l id="15014406" i="14" o="13">3 - 1</l>
+					<l id="15014407" i="15" o="26">3 - 2</l>
+					<l id="15014408" i="16" o="67">3 - 3</l>
+					<l id="15014409" i="17" o="41">4 - 0</l>
+					<l id="15014410" i="18" o="34">4 - 1</l>
+					<l id="15014411" i="19" o="51">4 - 2</l>
+					<l id="15014412" i="20" o="81">5 - 0</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15014416" i="1" o="2.8">RCD Espanyol - RCD Espanyol</l>
+					<l id="15014417" i="2" o="28">RCD Espanyol - Real Valladolid</l>
+					<l id="15014418" i="3" o="16">RCD Espanyol - Draw</l>
+					<l id="15014419" i="4" o="4.25">Draw - RCD Espanyol</l>
+					<l id="15014420" i="5" o="4.75">Draw - Draw</l>
+					<l id="15014421" i="6" o="7.5">Draw - Real Valladolid</l>
+					<l id="15014422" i="7" o="20">Real Valladolid - RCD Espanyol</l>
+					<l id="15014423" i="8" o="14">Real Valladolid - Draw</l>
+					<l id="15014424" i="9" o="6.25">Real Valladolid - Real Valladolid</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15014390" i="1" o="2.35">RCD Espanyol</l>
+					<l id="15014391" i="2" o="4.5">Real Valladolid</l>
+					<l id="15014392" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15014413" i="1" o="1.18">RCD Espanyol or draw</l>
+					<l id="15014414" i="2" o="1.91">Real Valladolid or draw</l>
+					<l id="15014415" i="3" o="1.26">RCD Espanyol or Real Valladolid</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15014435" i="1" o="3.5">RCD Espanyol</l>
+					<l id="15014436" i="2" o="11">Real Valladolid</l>
+				</t>
+				<t id="27" n="Time of First Goal">
+					<l id="15014425" i="1" o="4.5">0 - 10 Minutes</l>
+					<l id="15014426" i="2" o="4.3">11 - 20 Minutes</l>
+					<l id="15014427" i="3" o="5.5">21 - 30 Minutes</l>
+					<l id="15014428" i="4" o="7.5">31 - 40 Minutes</l>
+					<l id="15014429" i="5" o="8">41 - 50 Minutes</l>
+					<l id="15014430" i="6" o="8">51 - 60 Minutes</l>
+					<l id="15014431" i="7" o="10">61 - 70 Minutes</l>
+					<l id="15014432" i="8" o="12">71 - 80 Minutes</l>
+					<l id="15014433" i="9" o="14">81 - Final Whistle</l>
+					<l id="15014434" i="10" o="8.5">No Goals Scored</l>
+				</t>
+				<t id="33" n="Handicap">
+					<l id="15014387" i="0" o="3.5" p="-1">Draw</l>
+					<l id="15014388" i="1" o="3.1" p="-1">RCD Espanyol (-1)</l>
+					<l id="15014389" i="2" o="1.91" p="1">Real Valladolid (+1)</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="975" n="Dutch KNVB Beker">
+			<m id="1008434" n="Ijsselmeervogels v Ajax Amsterdam" mid="568641"
+				dt="2013-12-19T19:45">
+				<t id="1" n="Single Match">
+					<l id="15029132" i="0" o="11">Draw</l>
+					<l id="15029131" i="1" o="23">Ijsselmeervogels</l>
+					<l id="15029130" i="2" o="1.03">Ajax Amsterdam</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029134" i="1" o="1.12" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029133" i="2" o="5.5" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029162" i="1" o="7.44">Ijsselmeervogels or draw</l>
+					<l id="15029163" i="2" o="1">Ajax Amsterdam or draw</l>
+					<l id="15029164" i="3" o="1">Ijsselmeervogels or Ajax Amsterdam</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="979" n="Spanish Copa del Rey">
+			<m id="1007925" n="Rayo Vallecano v Real Valladolid" mid="568731"
+				dt="2013-12-19T18:30">
+				<t id="1" n="Single Match">
+					<l id="15015339" i="0" o="3.3">Draw</l>
+					<l id="15015338" i="1" o="1.95">Rayo Vallecano</l>
+					<l id="15015337" i="2" o="3.5">Real Valladolid</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15015341" i="1" o="1.85" p="2.5">Game Total OVER 2.5</l>
+					<l id="15015340" i="2" o="1.85" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15015348" i="1" o="8.5">0 - 0</l>
+					<l id="15015349" i="2" o="9">0 - 1</l>
+					<l id="15015350" i="3" o="17">0 - 2</l>
+					<l id="15015351" i="4" o="51">0 - 3</l>
+					<l id="15015352" i="5" o="6.5">1 - 0</l>
+					<l id="15015353" i="6" o="6.5">1 - 1</l>
+					<l id="15015354" i="7" o="13">1 - 2</l>
+					<l id="15015355" i="8" o="34">1 - 3</l>
+					<l id="15015356" i="9" o="7">2 - 0</l>
+					<l id="15015357" i="10" o="8">2 - 1</l>
+					<l id="15015358" i="11" o="13">2 - 2</l>
+					<l id="15015359" i="12" o="34">2 - 3</l>
+					<l id="15015360" i="13" o="81">2 - 4</l>
+					<l id="15015361" i="14" o="17">3 - 0</l>
+					<l id="15015362" i="15" o="15">3 - 1</l>
+					<l id="15015363" i="16" o="26">3 - 2</l>
+					<l id="15015364" i="17" o="51">3 - 3</l>
+					<l id="15015365" i="18" o="41">4 - 0</l>
+					<l id="15015366" i="19" o="34">4 - 1</l>
+					<l id="15015367" i="20" o="51">4 - 2</l>
+					<l id="15015368" i="21" o="81">5 - 0</l>
+					<l id="15015369" i="22" o="81">5 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15015373" i="1" o="3.15">Rayo Vallecano - Rayo Vallecano</l>
+					<l id="15015374" i="2" o="25">Rayo Vallecano - Real Valladolid</l>
+					<l id="15015375" i="3" o="16">Rayo Vallecano - Draw</l>
+					<l id="15015376" i="4" o="4.75">Draw - Rayo Vallecano</l>
+					<l id="15015377" i="5" o="4.75">Draw - Draw</l>
+					<l id="15015378" i="6" o="6">Draw - Real Valladolid</l>
+					<l id="15015379" i="7" o="22">Real Valladolid - Rayo Vallecano</l>
+					<l id="15015380" i="8" o="15">Real Valladolid - Draw</l>
+					<l id="15015381" i="9" o="5.25">Real Valladolid - Real Valladolid</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15015345" i="1" o="2.55">Rayo Vallecano</l>
+					<l id="15015346" i="2" o="3.75">Real Valladolid</l>
+					<l id="15015347" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15015370" i="1" o="1.23">Rayo Vallecano or draw</l>
+					<l id="15015371" i="2" o="1.7">Real Valladolid or draw</l>
+					<l id="15015372" i="3" o="1.25">Rayo Vallecano or Real Valladolid</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15015392" i="1" o="3.9">Rayo Vallecano</l>
+					<l id="15015393" i="2" o="11">Real Valladolid</l>
+				</t>
+				<t id="27" n="Time of First Goal">
+					<l id="15015382" i="1" o="4.5">0 - 10 Minutes</l>
+					<l id="15015383" i="2" o="4.3">11 - 20 Minutes</l>
+					<l id="15015384" i="3" o="5.5">21 - 30 Minutes</l>
+					<l id="15015385" i="4" o="7.5">31 - 40 Minutes</l>
+					<l id="15015386" i="5" o="8">41 - 50 Minutes</l>
+					<l id="15015387" i="6" o="8">51 - 60 Minutes</l>
+					<l id="15015388" i="7" o="10">61 - 70 Minutes</l>
+					<l id="15015389" i="8" o="12">71 - 80 Minutes</l>
+					<l id="15015390" i="9" o="14">81 - Final Whistle</l>
+					<l id="15015391" i="10" o="8.5">No Goals Scored</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1505" n="French Ligue 2">
+			<m id="1008002" n="RC Lens v FC Istres" mid="568556" dt="2013-12-19T19:45">
+				<t id="1" n="Single Match">
+					<l id="15018106" i="0" o="3.75">Draw</l>
+					<l id="15018105" i="1" o="1.53">RC Lens</l>
+					<l id="15018104" i="2" o="5.5">FC Istres</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15018108" i="1" o="1.9" p="2.5">Game Total OVER 2.5</l>
+					<l id="15018107" i="2" o="1.8" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15018112" i="1" o="10">0 - 0</l>
+					<l id="15018113" i="2" o="10">0 - 1</l>
+					<l id="15018114" i="3" o="26">0 - 2</l>
+					<l id="15018115" i="4" o="81">0 - 3</l>
+					<l id="15018116" i="5" o="6">1 - 0</l>
+					<l id="15018117" i="6" o="6.5">1 - 1</l>
+					<l id="15018118" i="7" o="17">1 - 2</l>
+					<l id="15018119" i="8" o="51">1 - 3</l>
+					<l id="15018120" i="9" o="6">2 - 0</l>
+					<l id="15018121" i="10" o="8.5">2 - 1</l>
+					<l id="15018122" i="11" o="15">2 - 2</l>
+					<l id="15018123" i="12" o="41">2 - 3</l>
+					<l id="15018124" i="13" o="12">3 - 0</l>
+					<l id="15018125" i="14" o="11">3 - 1</l>
+					<l id="15018126" i="15" o="29">3 - 2</l>
+					<l id="15018127" i="16" o="67">3 - 3</l>
+					<l id="15018128" i="17" o="26">4 - 0</l>
+					<l id="15018129" i="18" o="26">4 - 1</l>
+					<l id="15018130" i="19" o="51">4 - 2</l>
+					<l id="15018131" i="20" o="67">5 - 0</l>
+					<l id="15018132" i="21" o="51">5 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15018136" i="1" o="2.25">RC Lens - RC Lens</l>
+					<l id="15018137" i="2" o="40">RC Lens - FC Istres</l>
+					<l id="15018138" i="3" o="16">RC Lens - Draw</l>
+					<l id="15018139" i="4" o="4.25">Draw - RC Lens</l>
+					<l id="15018140" i="5" o="5">Draw - Draw</l>
+					<l id="15018141" i="6" o="10">Draw - FC Istres</l>
+					<l id="15018142" i="7" o="25">FC Istres - RC Lens</l>
+					<l id="15018143" i="8" o="14">FC Istres - Draw</l>
+					<l id="15018144" i="9" o="10">FC Istres - FC Istres</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15018109" i="1" o="2">RC Lens</l>
+					<l id="15018110" i="2" o="5.5">FC Istres</l>
+					<l id="15018111" i="3" o="2.2">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15018133" i="1" o="1.09">RC Lens or draw</l>
+					<l id="15018134" i="2" o="2.23">FC Istres or draw</l>
+					<l id="15018135" i="3" o="1.2">RC Lens or FC Istres</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15018155" i="1" o="2.5">RC Lens</l>
+					<l id="15018156" i="2" o="16">FC Istres</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1506" n="Greek Super League">
+			<m id="1008166" n="Panionios v Veria FC" mid="568604" dt="2013-12-19T15:15">
+				<t id="1" n="Single Match">
+					<l id="15022358" i="0" o="3">Draw</l>
+					<l id="15022357" i="1" o="2.1">Panionios</l>
+					<l id="15022356" i="2" o="3.4">Veria FC</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15022360" i="1" o="2.3" p="2.5">Game Total OVER 2.5</l>
+					<l id="15022359" i="2" o="1.55" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15022364" i="1" o="6">0 - 0</l>
+					<l id="15022365" i="2" o="8">0 - 1</l>
+					<l id="15022366" i="3" o="13">0 - 2</l>
+					<l id="15022367" i="4" o="41">0 - 3</l>
+					<l id="15022369" i="6" o="5.5">1 - 0</l>
+					<l id="15022370" i="7" o="5.5">1 - 1</l>
+					<l id="15022371" i="8" o="12">1 - 2</l>
+					<l id="15022372" i="9" o="34">1 - 3</l>
+					<l id="15022373" i="10" o="7">2 - 0</l>
+					<l id="15022374" i="11" o="8.5">2 - 1</l>
+					<l id="15022375" i="12" o="15">2 - 2</l>
+					<l id="15022376" i="13" o="34">2 - 3</l>
+					<l id="15022378" i="15" o="21">3 - 0</l>
+					<l id="15022379" i="16" o="19">3 - 1</l>
+					<l id="15022380" i="17" o="29">3 - 2</l>
+					<l id="15022381" i="18" o="51">3 - 3</l>
+					<l id="15022382" i="19" o="51">4 - 0</l>
+					<l id="15022383" i="20" o="41">4 - 1</l>
+					<l id="15022384" i="21" o="51">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15022388" i="1" o="3.6">Panionios - Panionios</l>
+					<l id="15022389" i="2" o="28">Panionios - Veria FC</l>
+					<l id="15022390" i="3" o="14">Panionios - Draw</l>
+					<l id="15022391" i="4" o="5">Draw - Panionios</l>
+					<l id="15022392" i="5" o="4.25">Draw - Draw</l>
+					<l id="15022393" i="6" o="5.75">Draw - Veria FC</l>
+					<l id="15022394" i="7" o="25">Veria FC - Panionios</l>
+					<l id="15022395" i="8" o="13">Veria FC - Draw</l>
+					<l id="15022396" i="9" o="4.75">Veria FC - Veria FC</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15022361" i="1" o="2.62">Panionios</l>
+					<l id="15022362" i="2" o="3.75">Veria FC</l>
+					<l id="15022363" i="3" o="1.95">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15022385" i="1" o="1.24">Panionios or draw</l>
+					<l id="15022386" i="2" o="1.59">Veria FC or draw</l>
+					<l id="15022387" i="3" o="1.3">Panionios or Veria FC</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15022407" i="1" o="4.1">Panionios</l>
+					<l id="15022408" i="2" o="11">Veria FC</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1621" n="Dutch Eerste Divisie">
+			<m id="1008439" n="Jong Ajax v MVV Maastricht" mid="568619"
+				dt="2013-12-21T15:30">
+				<t id="1" n="Single Match">
+					<l id="15029409" i="0" o="3.2">Draw</l>
+					<l id="15029408" i="1" o="2.75">Jong Ajax</l>
+					<l id="15029407" i="2" o="2.3">MVV Maastricht</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029411" i="1" o="1.6" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029410" i="2" o="2.2" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029415" i="1" o="9">0 - 0</l>
+					<l id="15029416" i="2" o="8">0 - 1</l>
+					<l id="15029417" i="3" o="10">0 - 2</l>
+					<l id="15029418" i="4" o="17">0 - 3</l>
+					<l id="15029419" i="5" o="51">0 - 4</l>
+					<l id="15029420" i="6" o="8.5">1 - 0</l>
+					<l id="15029421" i="7" o="7">1 - 1</l>
+					<l id="15029422" i="8" o="7">1 - 2</l>
+					<l id="15029423" i="9" o="17">1 - 3</l>
+					<l id="15029424" i="10" o="41">1 - 4</l>
+					<l id="15029425" i="11" o="13">2 - 0</l>
+					<l id="15029426" i="12" o="8">2 - 1</l>
+					<l id="15029427" i="13" o="11">2 - 2</l>
+					<l id="15029428" i="14" o="21">2 - 3</l>
+					<l id="15029429" i="15" o="51">2 - 4</l>
+					<l id="15029430" i="16" o="23">3 - 0</l>
+					<l id="15029431" i="17" o="21">3 - 1</l>
+					<l id="15029432" i="18" o="23">3 - 2</l>
+					<l id="15029433" i="19" o="34">3 - 3</l>
+					<l id="15029434" i="20" o="67">4 - 0</l>
+					<l id="15029435" i="21" o="51">4 - 1</l>
+					<l id="15029436" i="22" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029440" i="1" o="4.25">Jong Ajax - Jong Ajax</l>
+					<l id="15029441" i="2" o="22">Jong Ajax - MVV Maastricht</l>
+					<l id="15029442" i="3" o="13">Jong Ajax - Draw</l>
+					<l id="15029443" i="4" o="5.75">Draw - Jong Ajax</l>
+					<l id="15029444" i="5" o="4.25">Draw - Draw</l>
+					<l id="15029445" i="6" o="5.25">Draw - MVV Maastricht</l>
+					<l id="15029446" i="7" o="25">MVV Maastricht - Jong Ajax</l>
+					<l id="15029447" i="8" o="14">MVV Maastricht - Draw</l>
+					<l id="15029448" i="9" o="4">MVV Maastricht - MVV Maastricht</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029412" i="1" o="3.2">Jong Ajax</l>
+					<l id="15029413" i="2" o="2.75">MVV Maastricht</l>
+					<l id="15029414" i="3" o="2.05">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029437" i="1" o="1.48">Jong Ajax or draw</l>
+					<l id="15029438" i="2" o="1.34">MVV Maastricht or draw</l>
+					<l id="15029439" i="3" o="1.25">Jong Ajax or MVV Maastricht</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029449" i="1" o="6.5">Jong Ajax</l>
+					<l id="15029450" i="2" o="5">MVV Maastricht</l>
+				</t>
+			</m>
+			<m id="1008444" n="FC Volendam v Fortuna Sittard" mid="568623"
+				dt="2013-12-22T13:30">
+				<t id="1" n="Single Match">
+					<l id="15029674" i="0" o="3.6">Draw</l>
+					<l id="15029673" i="1" o="1.8">FC Volendam</l>
+					<l id="15029672" i="2" o="3.6">Fortuna Sittard</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029676" i="1" o="1.6" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029675" i="2" o="2.2" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029680" i="1" o="12">0 - 0</l>
+					<l id="15029681" i="2" o="10">0 - 1</l>
+					<l id="15029682" i="3" o="19">0 - 2</l>
+					<l id="15029683" i="4" o="41">0 - 3</l>
+					<l id="15029684" i="5" o="81">0 - 4</l>
+					<l id="15029685" i="6" o="7">1 - 0</l>
+					<l id="15029686" i="7" o="7.5">1 - 1</l>
+					<l id="15029687" i="8" o="11">1 - 2</l>
+					<l id="15029688" i="9" o="29">1 - 3</l>
+					<l id="15029689" i="10" o="81">1 - 4</l>
+					<l id="15029690" i="11" o="7.5">2 - 0</l>
+					<l id="15029691" i="12" o="7">2 - 1</l>
+					<l id="15029692" i="13" o="13">2 - 2</l>
+					<l id="15029693" i="14" o="29">2 - 3</l>
+					<l id="15029694" i="15" o="81">2 - 4</l>
+					<l id="15029695" i="16" o="13">3 - 0</l>
+					<l id="15029696" i="17" o="11">3 - 1</l>
+					<l id="15029697" i="18" o="23">3 - 2</l>
+					<l id="15029698" i="19" o="51">3 - 3</l>
+					<l id="15029699" i="20" o="34">4 - 0</l>
+					<l id="15029700" i="21" o="29">4 - 1</l>
+					<l id="15029701" i="22" o="41">4 - 2</l>
+					<l id="15029702" i="23" o="67">5 - 0</l>
+					<l id="15029703" i="24" o="81">5 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029707" i="1" o="2.9">FC Volendam - FC Volendam</l>
+					<l id="15029708" i="2" o="35">FC Volendam - Fortuna Sittard</l>
+					<l id="15029709" i="3" o="15">FC Volendam - Draw</l>
+					<l id="15029710" i="4" o="4.5">Draw - FC Volendam</l>
+					<l id="15029711" i="5" o="4.5">Draw - Draw</l>
+					<l id="15029712" i="6" o="7">Draw - Fortuna Sittard</l>
+					<l id="15029713" i="7" o="25">Fortuna Sittard - FC Volendam</l>
+					<l id="15029714" i="8" o="14">Fortuna Sittard - Draw</l>
+					<l id="15029715" i="9" o="6.25">Fortuna Sittard - Fortuna Sittard</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029677" i="1" o="2.35">FC Volendam</l>
+					<l id="15029678" i="2" o="4">Fortuna Sittard</l>
+					<l id="15029679" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029704" i="1" o="1.2">FC Volendam or draw</l>
+					<l id="15029705" i="2" o="1.8">Fortuna Sittard or draw</l>
+					<l id="15029706" i="3" o="1.2">FC Volendam or Fortuna Sittard</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029726" i="1" o="3.5">FC Volendam</l>
+					<l id="15029727" i="2" o="11">Fortuna Sittard</l>
+				</t>
+			</m>
+			<m id="1008443" n="FC Den Bosch v FC Emmen" mid="568624" dt="2013-12-22T13:30">
+				<t id="1" n="Single Match">
+					<l id="15029618" i="0" o="3.5">Draw</l>
+					<l id="15029617" i="1" o="1.9">FC Den Bosch</l>
+					<l id="15029616" i="2" o="3.4">FC Emmen</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029620" i="1" o="1.5" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029619" i="2" o="2.4" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029624" i="1" o="11">0 - 0</l>
+					<l id="15029625" i="2" o="10">0 - 1</l>
+					<l id="15029626" i="3" o="17">0 - 2</l>
+					<l id="15029627" i="4" o="34">0 - 3</l>
+					<l id="15029628" i="5" o="81">0 - 4</l>
+					<l id="15029629" i="6" o="7.5">1 - 0</l>
+					<l id="15029630" i="7" o="8">1 - 1</l>
+					<l id="15029631" i="8" o="9">1 - 2</l>
+					<l id="15029632" i="9" o="26">1 - 3</l>
+					<l id="15029633" i="10" o="81">1 - 4</l>
+					<l id="15029634" i="11" o="8">2 - 0</l>
+					<l id="15029635" i="12" o="6.5">2 - 1</l>
+					<l id="15029636" i="13" o="12">2 - 2</l>
+					<l id="15029637" i="14" o="26">2 - 3</l>
+					<l id="15029638" i="15" o="81">2 - 4</l>
+					<l id="15029639" i="16" o="13">3 - 0</l>
+					<l id="15029640" i="17" o="12">3 - 1</l>
+					<l id="15029641" i="18" o="21">3 - 2</l>
+					<l id="15029642" i="19" o="51">3 - 3</l>
+					<l id="15029643" i="20" o="34">4 - 0</l>
+					<l id="15029644" i="21" o="26">4 - 1</l>
+					<l id="15029645" i="22" o="41">4 - 2</l>
+					<l id="15029646" i="23" o="81">5 - 0</l>
+					<l id="15029647" i="24" o="81">5 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029651" i="1" o="3.1">FC Den Bosch - FC Den Bosch</l>
+					<l id="15029652" i="2" o="30">FC Den Bosch - FC Emmen</l>
+					<l id="15029653" i="3" o="15">FC Den Bosch - Draw</l>
+					<l id="15029654" i="4" o="4.75">Draw - FC Den Bosch</l>
+					<l id="15029655" i="5" o="4.5">Draw - Draw</l>
+					<l id="15029656" i="6" o="6.5">Draw - FC Emmen</l>
+					<l id="15029657" i="7" o="25">FC Emmen - FC Den Bosch</l>
+					<l id="15029658" i="8" o="14">FC Emmen - Draw</l>
+					<l id="15029659" i="9" o="5.5">FC Emmen - FC Emmen</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029621" i="1" o="2.5">FC Den Bosch</l>
+					<l id="15029622" i="2" o="3.75">FC Emmen</l>
+					<l id="15029623" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029648" i="1" o="1.23">FC Den Bosch or draw</l>
+					<l id="15029649" i="2" o="1.72">FC Emmen or draw</l>
+					<l id="15029650" i="3" o="1.22">FC Den Bosch or FC Emmen</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029670" i="1" o="3.8">FC Den Bosch</l>
+					<l id="15029671" i="2" o="11">FC Emmen</l>
+				</t>
+			</m>
+			<m id="1008442" n="Willem II v SBV Excelsior" mid="568622"
+				dt="2013-12-21T17:45">
+				<t id="1" n="Single Match">
+					<l id="15029564" i="0" o="3.6">Draw</l>
+					<l id="15029563" i="1" o="1.6">Willem II</l>
+					<l id="15029562" i="2" o="4.75">SBV Excelsior</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029566" i="1" o="1.65" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029565" i="2" o="2.1" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029570" i="1" o="11">0 - 0</l>
+					<l id="15029571" i="2" o="11">0 - 1</l>
+					<l id="15029572" i="3" o="26">0 - 2</l>
+					<l id="15029573" i="4" o="67">0 - 3</l>
+					<l id="15029574" i="5" o="7">1 - 0</l>
+					<l id="15029575" i="6" o="7.5">1 - 1</l>
+					<l id="15029576" i="7" o="15">1 - 2</l>
+					<l id="15029577" i="8" o="41">1 - 3</l>
+					<l id="15029578" i="9" o="7">2 - 0</l>
+					<l id="15029579" i="10" o="7.5">2 - 1</l>
+					<l id="15029580" i="11" o="13">2 - 2</l>
+					<l id="15029581" i="12" o="41">2 - 3</l>
+					<l id="15029582" i="13" o="11">3 - 0</l>
+					<l id="15029583" i="14" o="10">3 - 1</l>
+					<l id="15029584" i="15" o="26">3 - 2</l>
+					<l id="15029585" i="16" o="67">3 - 3</l>
+					<l id="15029586" i="17" o="26">4 - 0</l>
+					<l id="15029587" i="18" o="26">4 - 1</l>
+					<l id="15029588" i="19" o="51">4 - 2</l>
+					<l id="15029589" i="20" o="51">5 - 0</l>
+					<l id="15029590" i="21" o="51">5 - 1</l>
+					<l id="15029591" i="22" o="81">6 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029595" i="1" o="2.5">Willem II - Willem II</l>
+					<l id="15029596" i="2" o="40">Willem II - SBV Excelsior</l>
+					<l id="15029597" i="3" o="15">Willem II - Draw</l>
+					<l id="15029598" i="4" o="4.25">Draw - Willem II</l>
+					<l id="15029599" i="5" o="4.75">Draw - Draw</l>
+					<l id="15029600" i="6" o="8.5">Draw - SBV Excelsior</l>
+					<l id="15029601" i="7" o="25">SBV Excelsior - Willem II</l>
+					<l id="15029602" i="8" o="14">SBV Excelsior - Draw</l>
+					<l id="15029603" i="9" o="8">SBV Excelsior - SBV Excelsior</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029567" i="1" o="2.1">Willem II</l>
+					<l id="15029568" i="2" o="4.75">SBV Excelsior</l>
+					<l id="15029569" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029592" i="1" o="1.11">Willem II or draw</l>
+					<l id="15029593" i="2" o="2.05">SBV Excelsior or draw</l>
+					<l id="15029594" i="3" o="1.2">Willem II or SBV Excelsior</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029614" i="1" o="2.7">Willem II</l>
+					<l id="15029615" i="2" o="12">SBV Excelsior</l>
+				</t>
+			</m>
+			<m id="1008441" n="Jong Twente v Achilles 29" mid="568621"
+				dt="2013-12-21T17:45">
+				<t id="1" n="Single Match">
+					<l id="15029509" i="0" o="4">Draw</l>
+					<l id="15029508" i="1" o="1.47">Jong Twente</l>
+					<l id="15029507" i="2" o="5.5">Achilles 29</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029511" i="1" o="1.53" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029510" i="2" o="2.35" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029515" i="1" o="13">0 - 0</l>
+					<l id="15029516" i="2" o="12">0 - 1</l>
+					<l id="15029517" i="3" o="34">0 - 2</l>
+					<l id="15029518" i="4" o="67">0 - 3</l>
+					<l id="15029519" i="5" o="7">1 - 0</l>
+					<l id="15029520" i="6" o="8">1 - 1</l>
+					<l id="15029521" i="7" o="19">1 - 2</l>
+					<l id="15029522" i="8" o="51">1 - 3</l>
+					<l id="15029523" i="9" o="6.5">2 - 0</l>
+					<l id="15029524" i="10" o="7">2 - 1</l>
+					<l id="15029525" i="11" o="19">2 - 2</l>
+					<l id="15029526" i="12" o="41">2 - 3</l>
+					<l id="15029527" i="13" o="8">3 - 0</l>
+					<l id="15029528" i="14" o="9">3 - 1</l>
+					<l id="15029529" i="15" o="26">3 - 2</l>
+					<l id="15029530" i="16" o="51">3 - 3</l>
+					<l id="15029531" i="17" o="17">4 - 0</l>
+					<l id="15029532" i="18" o="19">4 - 1</l>
+					<l id="15029533" i="19" o="41">4 - 2</l>
+					<l id="15029534" i="20" o="29">5 - 0</l>
+					<l id="15029535" i="21" o="41">5 - 1</l>
+					<l id="15029536" i="22" o="67">6 - 0</l>
+					<l id="15029537" i="23" o="67">6 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029541" i="1" o="2.2">Jong Twente - Jong Twente</l>
+					<l id="15029542" i="2" o="40">Jong Twente - Achilles 29</l>
+					<l id="15029543" i="3" o="16">Jong Twente - Draw</l>
+					<l id="15029544" i="4" o="4.25">Draw - Jong Twente</l>
+					<l id="15029545" i="5" o="5.25">Draw - Draw</l>
+					<l id="15029546" i="6" o="11">Draw - Achilles 29</l>
+					<l id="15029547" i="7" o="25">Achilles 29 - Jong Twente</l>
+					<l id="15029548" i="8" o="15">Achilles 29 - Draw</l>
+					<l id="15029549" i="9" o="11">Achilles 29 - Achilles 29</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029512" i="1" o="1.9">Jong Twente</l>
+					<l id="15029513" i="2" o="5.5">Achilles 29</l>
+					<l id="15029514" i="3" o="2.25">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029538" i="1" o="1.07">Jong Twente or draw</l>
+					<l id="15029539" i="2" o="2.32">Achilles 29 or draw</l>
+					<l id="15029540" i="3" o="1.16">Jong Twente or Achilles 29</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029560" i="1" o="2.25">Jong Twente</l>
+					<l id="15029561" i="2" o="16">Achilles 29</l>
+				</t>
+			</m>
+			<m id="1008440" n="De Graafschap v Helmond Sport" mid="568620"
+				dt="2013-12-21T17:45">
+				<t id="1" n="Single Match">
+					<l id="15029453" i="0" o="4">Draw</l>
+					<l id="15029452" i="1" o="1.57">De Graafschap</l>
+					<l id="15029451" i="2" o="4.5">Helmond Sport</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029455" i="1" o="1.4" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029454" i="2" o="2.75" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029459" i="1" o="15">0 - 0</l>
+					<l id="15029460" i="2" o="12">0 - 1</l>
+					<l id="15029461" i="3" o="29">0 - 2</l>
+					<l id="15029462" i="4" o="51">0 - 3</l>
+					<l id="15029463" i="5" o="7.5">1 - 0</l>
+					<l id="15029464" i="6" o="8.5">1 - 1</l>
+					<l id="15029465" i="7" o="13">1 - 2</l>
+					<l id="15029466" i="8" o="34">1 - 3</l>
+					<l id="15029467" i="9" o="7.5">2 - 0</l>
+					<l id="15029468" i="10" o="6.5">2 - 1</l>
+					<l id="15029469" i="11" o="15">2 - 2</l>
+					<l id="15029470" i="12" o="34">2 - 3</l>
+					<l id="15029471" i="13" o="81">2 - 4</l>
+					<l id="15029472" i="14" o="8">3 - 0</l>
+					<l id="15029473" i="15" o="8.5">3 - 1</l>
+					<l id="15029474" i="16" o="23">3 - 2</l>
+					<l id="15029475" i="17" o="51">3 - 3</l>
+					<l id="15029476" i="18" o="19">4 - 0</l>
+					<l id="15029477" i="19" o="19">4 - 1</l>
+					<l id="15029478" i="20" o="41">4 - 2</l>
+					<l id="15029479" i="21" o="34">5 - 0</l>
+					<l id="15029480" i="22" o="41">5 - 1</l>
+					<l id="15029481" i="23" o="81">6 - 0</l>
+					<l id="15029482" i="24" o="81">6 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029486" i="1" o="2.35">De Graafschap - De Graafschap</l>
+					<l id="15029487" i="2" o="40">De Graafschap - Helmond Sport</l>
+					<l id="15029488" i="3" o="15">De Graafschap - Draw</l>
+					<l id="15029489" i="4" o="4.25">Draw - De Graafschap</l>
+					<l id="15029490" i="5" o="5">Draw - Draw</l>
+					<l id="15029491" i="6" o="9">Draw - Helmond Sport</l>
+					<l id="15029492" i="7" o="25">Helmond Sport - De Graafschap</l>
+					<l id="15029493" i="8" o="14">Helmond Sport - Draw</l>
+					<l id="15029494" i="9" o="9">Helmond Sport - Helmond Sport</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029456" i="1" o="2.05">De Graafschap</l>
+					<l id="15029457" i="2" o="4.75">Helmond Sport</l>
+					<l id="15029458" i="3" o="2.25">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029483" i="1" o="1.13">De Graafschap or draw</l>
+					<l id="15029484" i="2" o="2.12">Helmond Sport or draw</l>
+					<l id="15029485" i="3" o="1.16">De Graafschap or Helmond Sport</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029505" i="1" o="2.63">De Graafschap</l>
+					<l id="15029506" i="2" o="12">Helmond Sport</l>
+				</t>
+			</m>
+			<m id="1008438" n="VVV Venlo v Sparta Rotterdam" mid="568616"
+				dt="2013-12-20T19:00">
+				<t id="1" n="Single Match">
+					<l id="15029355" i="0" o="3.25">Draw</l>
+					<l id="15029354" i="1" o="2.25">VVV Venlo</l>
+					<l id="15029353" i="2" o="2.8">Sparta Rotterdam</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029357" i="1" o="1.65" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029356" i="2" o="2.1" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029361" i="1" o="9">0 - 0</l>
+					<l id="15029362" i="2" o="8.5">0 - 1</l>
+					<l id="15029363" i="3" o="13">0 - 2</l>
+					<l id="15029364" i="4" o="26">0 - 3</l>
+					<l id="15029365" i="5" o="67">0 - 4</l>
+					<l id="15029366" i="6" o="7.5">1 - 0</l>
+					<l id="15029367" i="7" o="7">1 - 1</l>
+					<l id="15029368" i="8" o="9.5">1 - 2</l>
+					<l id="15029369" i="9" o="23">1 - 3</l>
+					<l id="15029370" i="10" o="81">1 - 4</l>
+					<l id="15029371" i="11" o="10">2 - 0</l>
+					<l id="15029372" i="12" o="7">2 - 1</l>
+					<l id="15029373" i="13" o="11">2 - 2</l>
+					<l id="15029374" i="14" o="26">2 - 3</l>
+					<l id="15029375" i="15" o="67">2 - 4</l>
+					<l id="15029376" i="16" o="17">3 - 0</l>
+					<l id="15029377" i="17" o="17">3 - 1</l>
+					<l id="15029378" i="18" o="23">3 - 2</l>
+					<l id="15029379" i="19" o="41">3 - 3</l>
+					<l id="15029380" i="20" o="51">4 - 0</l>
+					<l id="15029381" i="21" o="41">4 - 1</l>
+					<l id="15029382" i="22" o="51">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029386" i="1" o="3.8">VVV Venlo - VVV Venlo</l>
+					<l id="15029387" i="2" o="28">VVV Venlo - Sparta Rotterdam</l>
+					<l id="15029388" i="3" o="14">VVV Venlo - Draw</l>
+					<l id="15029389" i="4" o="5.25">Draw - VVV Venlo</l>
+					<l id="15029390" i="5" o="4.25">Draw - Draw</l>
+					<l id="15029391" i="6" o="5.75">Draw - Sparta Rotterdam</l>
+					<l id="15029392" i="7" o="22">Sparta Rotterdam - VVV Venlo</l>
+					<l id="15029393" i="8" o="13">Sparta Rotterdam - Draw</l>
+					<l id="15029394" i="9" o="4.5">Sparta Rotterdam - Sparta Rotterdam</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029358" i="1" o="2.75">VVV Venlo</l>
+					<l id="15029359" i="2" o="3.25">Sparta Rotterdam</l>
+					<l id="15029360" i="3" o="2.1">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029383" i="1" o="1.33">VVV Venlo or draw</l>
+					<l id="15029384" i="2" o="1.5">Sparta Rotterdam or draw</l>
+					<l id="15029385" i="3" o="1.25">VVV Venlo or Sparta Rotterdam</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029405" i="1" o="5">VVV Venlo</l>
+					<l id="15029406" i="2" o="7">Sparta Rotterdam</l>
+				</t>
+			</m>
+			<m id="1008437" n="FC Oss v Jong PSV Eindhoven" mid="568617"
+				dt="2013-12-20T19:00">
+				<t id="1" n="Single Match">
+					<l id="15029301" i="0" o="3.4">Draw</l>
+					<l id="15029300" i="1" o="2.5">FC Oss</l>
+					<l id="15029299" i="2" o="2.4">Jong PSV Eindhoven</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029303" i="1" o="1.57" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029302" i="2" o="2.25" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029307" i="1" o="10">0 - 0</l>
+					<l id="15029308" i="2" o="8">0 - 1</l>
+					<l id="15029309" i="3" o="11">0 - 2</l>
+					<l id="15029310" i="4" o="21">0 - 3</l>
+					<l id="15029311" i="5" o="51">0 - 4</l>
+					<l id="15029312" i="6" o="8.5">1 - 0</l>
+					<l id="15029313" i="7" o="8">1 - 1</l>
+					<l id="15029314" i="8" o="7">1 - 2</l>
+					<l id="15029315" i="9" o="17">1 - 3</l>
+					<l id="15029316" i="10" o="51">1 - 4</l>
+					<l id="15029317" i="11" o="11">2 - 0</l>
+					<l id="15029318" i="12" o="7">2 - 1</l>
+					<l id="15029319" i="13" o="12">2 - 2</l>
+					<l id="15029320" i="14" o="21">2 - 3</l>
+					<l id="15029321" i="15" o="67">2 - 4</l>
+					<l id="15029322" i="16" o="21">3 - 0</l>
+					<l id="15029323" i="17" o="19">3 - 1</l>
+					<l id="15029324" i="18" o="23">3 - 2</l>
+					<l id="15029325" i="19" o="51">3 - 3</l>
+					<l id="15029326" i="20" o="51">4 - 0</l>
+					<l id="15029327" i="21" o="67">4 - 1</l>
+					<l id="15029328" i="22" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029332" i="1" o="4.5">FC Oss - FC Oss</l>
+					<l id="15029333" i="2" o="20">FC Oss - Jong PSV Eindhoven</l>
+					<l id="15029334" i="3" o="12">FC Oss - Draw</l>
+					<l id="15029335" i="4" o="5.5">Draw - FC Oss</l>
+					<l id="15029336" i="5" o="4">Draw - Draw</l>
+					<l id="15029337" i="6" o="5.5">Draw - Jong PSV Eindhoven</l>
+					<l id="15029338" i="7" o="25">Jong PSV Eindhoven - FC Oss</l>
+					<l id="15029339" i="8" o="13">Jong PSV Eindhoven - Draw</l>
+					<l id="15029340" i="9" o="4.25">Jong PSV Eindhoven - Jong PSV Eindhoven
+					</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029304" i="1" o="2.9">FC Oss</l>
+					<l id="15029305" i="2" o="2.88">Jong PSV Eindhoven</l>
+					<l id="15029306" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029329" i="1" o="1.44">FC Oss or draw</l>
+					<l id="15029330" i="2" o="1.41">Jong PSV Eindhoven or draw</l>
+					<l id="15029331" i="3" o="1.22">FC Oss or Jong PSV Eindhoven</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029351" i="1" o="6.5">FC Oss</l>
+					<l id="15029352" i="2" o="6">Jong PSV Eindhoven</l>
+				</t>
+			</m>
+			<m id="1008436" n="FC Eindhoven v SC Telstar" mid="568615"
+				dt="2013-12-20T19:00">
+				<t id="1" n="Single Match">
+					<l id="15029244" i="0" o="4">Draw</l>
+					<l id="15029243" i="1" o="1.57">FC Eindhoven</l>
+					<l id="15029242" i="2" o="4.5">SC Telstar</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029246" i="1" o="1.44" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029245" i="2" o="2.6" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029250" i="1" o="15">0 - 0</l>
+					<l id="15029251" i="2" o="11">0 - 1</l>
+					<l id="15029252" i="3" o="29">0 - 2</l>
+					<l id="15029253" i="4" o="51">0 - 3</l>
+					<l id="15029254" i="5" o="7.5">1 - 0</l>
+					<l id="15029255" i="6" o="8.5">1 - 1</l>
+					<l id="15029256" i="7" o="13">1 - 2</l>
+					<l id="15029257" i="8" o="34">1 - 3</l>
+					<l id="15029258" i="9" o="81">1 - 4</l>
+					<l id="15029259" i="10" o="7.5">2 - 0</l>
+					<l id="15029260" i="11" o="6.5">2 - 1</l>
+					<l id="15029261" i="12" o="17">2 - 2</l>
+					<l id="15029262" i="13" o="34">2 - 3</l>
+					<l id="15029263" i="14" o="81">2 - 4</l>
+					<l id="15029264" i="15" o="9">3 - 0</l>
+					<l id="15029265" i="16" o="9">3 - 1</l>
+					<l id="15029266" i="17" o="23">3 - 2</l>
+					<l id="15029267" i="18" o="51">3 - 3</l>
+					<l id="15029268" i="19" o="21">4 - 0</l>
+					<l id="15029269" i="20" o="21">4 - 1</l>
+					<l id="15029270" i="21" o="41">4 - 2</l>
+					<l id="15029271" i="22" o="41">5 - 0</l>
+					<l id="15029272" i="23" o="41">5 - 1</l>
+					<l id="15029273" i="24" o="81">6 - 0</l>
+					<l id="15029274" i="25" o="81">6 - 1</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029278" i="1" o="2.35">FC Eindhoven - FC Eindhoven</l>
+					<l id="15029279" i="2" o="40">FC Eindhoven - SC Telstar</l>
+					<l id="15029280" i="3" o="15">FC Eindhoven - Draw</l>
+					<l id="15029281" i="4" o="4.25">Draw - FC Eindhoven</l>
+					<l id="15029282" i="5" o="5">Draw - Draw</l>
+					<l id="15029283" i="6" o="9">Draw - SC Telstar</l>
+					<l id="15029284" i="7" o="25">SC Telstar - FC Eindhoven</l>
+					<l id="15029285" i="8" o="14">SC Telstar - Draw</l>
+					<l id="15029286" i="9" o="9">SC Telstar - SC Telstar</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029247" i="1" o="2.05">FC Eindhoven</l>
+					<l id="15029248" i="2" o="4.75">SC Telstar</l>
+					<l id="15029249" i="3" o="2.25">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029275" i="1" o="1.13">FC Eindhoven or draw</l>
+					<l id="15029276" i="2" o="2.12">SC Telstar or draw</l>
+					<l id="15029277" i="3" o="1.16">FC Eindhoven or SC Telstar</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029297" i="1" o="2.63">FC Eindhoven</l>
+					<l id="15029298" i="2" o="12">SC Telstar</l>
+				</t>
+			</m>
+			<m id="1008435" n="Almere City FC v FC Dordrecht 90" mid="568618"
+				dt="2013-12-20T19:00">
+				<t id="1" n="Single Match">
+					<l id="15029188" i="0" o="3.5">Draw</l>
+					<l id="15029187" i="1" o="3.1">Almere City FC</l>
+					<l id="15029186" i="2" o="2">FC Dordrecht 90</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15029190" i="1" o="1.5" p="2.5">Game Total OVER 2.5</l>
+					<l id="15029189" i="2" o="2.4" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15029194" i="1" o="11">0 - 0</l>
+					<l id="15029195" i="2" o="7.5">0 - 1</l>
+					<l id="15029196" i="3" o="9">0 - 2</l>
+					<l id="15029197" i="4" o="13">0 - 3</l>
+					<l id="15029198" i="5" o="41">0 - 4</l>
+					<l id="15029199" i="6" o="81">0 - 5</l>
+					<l id="15029200" i="7" o="9">1 - 0</l>
+					<l id="15029201" i="8" o="8">1 - 1</l>
+					<l id="15029202" i="9" o="6.5">1 - 2</l>
+					<l id="15029203" i="10" o="13">1 - 3</l>
+					<l id="15029204" i="11" o="34">1 - 4</l>
+					<l id="15029205" i="12" o="81">1 - 5</l>
+					<l id="15029206" i="13" o="13">2 - 0</l>
+					<l id="15029207" i="14" o="9">2 - 1</l>
+					<l id="15029208" i="15" o="12">2 - 2</l>
+					<l id="15029209" i="16" o="21">2 - 3</l>
+					<l id="15029210" i="17" o="41">2 - 4</l>
+					<l id="15029211" i="18" o="26">3 - 0</l>
+					<l id="15029212" i="19" o="23">3 - 1</l>
+					<l id="15029213" i="20" o="23">3 - 2</l>
+					<l id="15029214" i="21" o="51">3 - 3</l>
+					<l id="15029215" i="22" o="67">4 - 0</l>
+					<l id="15029216" i="23" o="81">4 - 1</l>
+					<l id="15029217" i="24" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15029221" i="1" o="5">Almere City FC - Almere City FC</l>
+					<l id="15029222" i="2" o="25">Almere City FC - FC Dordrecht 90</l>
+					<l id="15029223" i="3" o="14">Almere City FC - Draw</l>
+					<l id="15029224" i="4" o="6">Draw - Almere City FC</l>
+					<l id="15029225" i="5" o="4.5">Draw - Draw</l>
+					<l id="15029226" i="6" o="4.75">Draw - FC Dordrecht 90</l>
+					<l id="15029227" i="7" o="28">FC Dordrecht 90 - Almere City FC</l>
+					<l id="15029228" i="8" o="15">FC Dordrecht 90 - Draw</l>
+					<l id="15029229" i="9" o="3.4">FC Dordrecht 90 - FC Dordrecht 90</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15029191" i="1" o="3.4">Almere City FC</l>
+					<l id="15029192" i="2" o="2.6">FC Dordrecht 90</l>
+					<l id="15029193" i="3" o="2.15">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15029218" i="1" o="1.64">Almere City FC or draw</l>
+					<l id="15029219" i="2" o="1.27">FC Dordrecht 90 or draw</l>
+					<l id="15029220" i="3" o="1.22">Almere City FC or FC Dordrecht 90</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15029240" i="1" o="8">Almere City FC</l>
+					<l id="15029241" i="2" o="4">FC Dordrecht 90</l>
+				</t>
+			</m>
+		</cat>
+		<cat id="1623" n="Romanian Liga I">
+			<m id="1008047" n="Universitatea Cluj v FC Otelul Galati" mid="568708"
+				dt="2013-12-19T16:00">
+				<t id="1" n="Single Match">
+					<l id="15020554" i="0" o="3.15">Draw</l>
+					<l id="15020553" i="1" o="2.85">Universitatea Cluj</l>
+					<l id="15020552" i="2" o="2.25">FC Otelul Galati</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15020556" i="1" o="2" p="2.5">Game Total OVER 2.5</l>
+					<l id="15020555" i="2" o="1.7" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15020560" i="1" o="7.5">0 - 0</l>
+					<l id="15020561" i="2" o="7">0 - 1</l>
+					<l id="15020562" i="3" o="10">0 - 2</l>
+					<l id="15020563" i="4" o="26">0 - 3</l>
+					<l id="15020564" i="5" o="67">0 - 4</l>
+					<l id="15020565" i="6" o="7.5">1 - 0</l>
+					<l id="15020566" i="7" o="6.5">1 - 1</l>
+					<l id="15020567" i="8" o="9">1 - 2</l>
+					<l id="15020568" i="9" o="21">1 - 3</l>
+					<l id="15020569" i="10" o="67">1 - 4</l>
+					<l id="15020570" i="11" o="11">2 - 0</l>
+					<l id="15020571" i="12" o="10">2 - 1</l>
+					<l id="15020572" i="13" o="13">2 - 2</l>
+					<l id="15020573" i="14" o="26">2 - 3</l>
+					<l id="15020574" i="15" o="81">2 - 4</l>
+					<l id="15020575" i="16" o="29">3 - 0</l>
+					<l id="15020576" i="17" o="26">3 - 1</l>
+					<l id="15020577" i="18" o="29">3 - 2</l>
+					<l id="15020578" i="19" o="51">3 - 3</l>
+					<l id="15020579" i="20" o="81">4 - 0</l>
+					<l id="15020580" i="21" o="81">4 - 1</l>
+					<l id="15020581" i="22" o="81">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15020585" i="1" o="4.75">Universitatea Cluj - Universitatea Cluj
+					</l>
+					<l id="15020586" i="2" o="22">Universitatea Cluj - FC Otelul Galati
+					</l>
+					<l id="15020587" i="3" o="14">Universitatea Cluj - Draw</l>
+					<l id="15020588" i="4" o="6">Draw - Universitatea Cluj</l>
+					<l id="15020589" i="5" o="4.75">Draw - Draw</l>
+					<l id="15020590" i="6" o="5.25">Draw - FC Otelul Galati</l>
+					<l id="15020591" i="7" o="25">FC Otelul Galati - Universitatea Cluj
+					</l>
+					<l id="15020592" i="8" o="15">FC Otelul Galati - Draw</l>
+					<l id="15020593" i="9" o="3.85">FC Otelul Galati - FC Otelul Galati</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15020557" i="1" o="3.25">Universitatea Cluj</l>
+					<l id="15020558" i="2" o="2.75">FC Otelul Galati</l>
+					<l id="15020559" i="3" o="2.05">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15020582" i="1" o="1.5">Universitatea Cluj or draw</l>
+					<l id="15020583" i="2" o="1.31">FC Otelul Galati or draw</l>
+					<l id="15020584" i="3" o="1.26">Universitatea Cluj or FC Otelul Galati
+					</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15020594" i="1" o="7.5">Universitatea Cluj</l>
+					<l id="15020595" i="2" o="5">FC Otelul Galati</l>
+				</t>
+			</m>
+			<m id="1008048" n="CS Pandurii Targu Jiu v Petrolul Ploiesti" mid="568709"
+				dt="2013-12-19T18:30">
+				<t id="1" n="Single Match">
+					<l id="15020598" i="0" o="3.1">Draw</l>
+					<l id="15020597" i="1" o="2.35">CS Pandurii Targu Jiu</l>
+					<l id="15020596" i="2" o="2.75">Petrolul Ploiesti</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15020600" i="1" o="2" p="2.5">Game Total OVER 2.5</l>
+					<l id="15020599" i="2" o="1.7" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15020622" i="1" o="7.5">0 - 0</l>
+					<l id="15020623" i="2" o="7.5">0 - 1</l>
+					<l id="15020624" i="3" o="12">0 - 2</l>
+					<l id="15020625" i="4" o="29">0 - 3</l>
+					<l id="15020626" i="5" o="81">0 - 4</l>
+					<l id="15020627" i="6" o="7">1 - 0</l>
+					<l id="15020628" i="7" o="6.5">1 - 1</l>
+					<l id="15020629" i="8" o="10">1 - 2</l>
+					<l id="15020630" i="9" o="26">1 - 3</l>
+					<l id="15020631" i="10" o="9">2 - 0</l>
+					<l id="15020632" i="11" o="9">2 - 1</l>
+					<l id="15020633" i="12" o="13">2 - 2</l>
+					<l id="15020634" i="13" o="29">2 - 3</l>
+					<l id="15020635" i="14" o="81">2 - 4</l>
+					<l id="15020636" i="15" o="21">3 - 0</l>
+					<l id="15020637" i="16" o="21">3 - 1</l>
+					<l id="15020638" i="17" o="26">3 - 2</l>
+					<l id="15020639" i="18" o="51">3 - 3</l>
+					<l id="15020640" i="19" o="67">4 - 0</l>
+					<l id="15020641" i="20" o="51">4 - 1</l>
+					<l id="15020642" i="21" o="67">4 - 2</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15020646" i="1" o="4">CS Pandurii Targu Jiu - CS Pandurii
+						Targu Jiu</l>
+					<l id="15020647" i="2" o="25">CS Pandurii Targu Jiu - Petrolul
+						Ploiesti</l>
+					<l id="15020648" i="3" o="15">CS Pandurii Targu Jiu - Draw</l>
+					<l id="15020649" i="4" o="5.5">Draw - CS Pandurii Targu Jiu</l>
+					<l id="15020650" i="5" o="4.5">Draw - Draw</l>
+					<l id="15020651" i="6" o="5.75">Draw - Petrolul Ploiesti</l>
+					<l id="15020652" i="7" o="22">Petrolul Ploiesti - CS Pandurii Targu
+						Jiu</l>
+					<l id="15020653" i="8" o="14">Petrolul Ploiesti - Draw</l>
+					<l id="15020654" i="9" o="4.5">Petrolul Ploiesti - Petrolul Ploiesti
+					</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15020619" i="1" o="2.75">CS Pandurii Targu Jiu</l>
+					<l id="15020620" i="2" o="3.2">Petrolul Ploiesti</l>
+					<l id="15020621" i="3" o="2">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15020643" i="1" o="1.34">CS Pandurii Targu Jiu or draw</l>
+					<l id="15020644" i="2" o="1.46">Petrolul Ploiesti or draw</l>
+					<l id="15020645" i="3" o="1.27">CS Pandurii Targu Jiu or Petrolul
+						Ploiesti</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15020665" i="1" o="5.25">CS Pandurii Targu Jiu</l>
+					<l id="15020666" i="2" o="6.5">Petrolul Ploiesti</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+</data>
+</result>

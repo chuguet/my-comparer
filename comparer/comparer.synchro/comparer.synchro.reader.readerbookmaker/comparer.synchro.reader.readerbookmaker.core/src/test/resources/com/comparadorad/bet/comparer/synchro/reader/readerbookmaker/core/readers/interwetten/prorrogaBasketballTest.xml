@@ -1,0 +1,24 @@
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-12-09T12:23:06" NEXT_REFRESH="2013-12-09T12:43:06"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Basketball">
+		<LEAGUE NAME="Adriatic League " ID="405577">
+			<EVENT NAME="RS Belgrade - Zadar" START_TIME="2013-12-09T20:30:00"
+				OPEN_TILL="2013-12-09T20:30:00" EVENTID="9882083">
+				<BET ID="35621349" TYPEID="13" TYPENAME="Match" PLAYER1="RS Belgrade "
+					PLAYER2="Zadar" TIP="1" QUOTE="1,05" />
+				<BET ID="35621348" TYPEID="13" TYPENAME="Match" PLAYER1="RS Belgrade "
+					PLAYER2="Zadar" TIP="2" QUOTE="7,00" />
+				<BET ID="35706264" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="RS Belgrade(-15.5) "
+					PLAYER2="Zadar(+15.5)" TIP="1" QUOTE="1,85" />
+				<BET ID="35706263" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="RS Belgrade(-15.5) "
+					PLAYER2="Zadar(+15.5)" TIP="2" QUOTE="1,85" />
+				<BET ID="35706266" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="RS Belgrade - Zadar" PLAYER2="Over 152.5" TIP=" " QUOTE="1,85" />
+				<BET ID="35706265" TYPEID="88" TYPENAME="Over/Under USA"
+					PLAYER1="RS Belgrade - Zadar" PLAYER2="Under 152.5" TIP=" " QUOTE="1,85" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

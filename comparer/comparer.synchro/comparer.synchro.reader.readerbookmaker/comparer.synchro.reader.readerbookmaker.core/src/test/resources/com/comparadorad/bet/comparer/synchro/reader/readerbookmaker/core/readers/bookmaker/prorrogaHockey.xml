@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="7" IdSport="NHL" Description="NHL">
+			<banner ab="True" vtm="NHL - Dec 09" htm="" />
+			<banner ab="False" vtm="NHL - MONDAY, DECEMBER 9TH" htm="" />
+			<banner ab="False" vtm="IF TIED AFTER 60 MIN - OT WILL COUNT"
+				htm="IF STILL TIED AFTER OT - SHOOTOUT WILL COUNT" />
+			<banner ab="False" vtm="GOAL WILL BE ADDED TO WINNING TEAMS"
+				htm="SCORE FOR SHOOTOUT VICTORY" />
+			<game idgm="1679528" gdesc="" idgmtyp="110" gmdt="20131209"
+				idlg="7" gmtm="16:35:00" idspt="NHL" vpt="" hpt="" vnum="51" hnum="52"
+				evtyp="" idgp="1679528" gpd="Game" vtm="COLUMBUS" htm="PITTSBURGH"
+				stats="true">
+				<line voddst="177" hoddst="-202" ovt="-5.5" ovoddst="105" unt="5.5"
+					unoddst="-125" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst=""
+					vspt="1.5" vspoddst="-165" hspt="-1.5" hspoddst="140" voddsh=" 2.77"
+					hoddsh=" 1.50" vsprdh="" hsprdh="" ovh="" unh=""
+					vsph="" hsph="" voddshr="0" vsprdhr="0"
+					ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="True"
+					related="False" EmptyGame="False" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

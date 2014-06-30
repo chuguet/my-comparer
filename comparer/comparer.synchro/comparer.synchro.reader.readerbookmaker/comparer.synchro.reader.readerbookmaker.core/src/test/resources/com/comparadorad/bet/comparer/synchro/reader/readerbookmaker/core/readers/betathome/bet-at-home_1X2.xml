@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List generatedAt="2013-08-19T09:54:37">
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1109095</MatchId>
+		<Date>2013-08-19T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="100" oddType="3" betTypeGroup="1"
+			defaultName="Tip" groupName="Tip" betName="Tip">3W</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester City</HomeTeam>
+			<AwayTeam>Newcastle United</AwayTeam>
+			<HomeOdds oddId="1109095_6586028_1" linkId="6586028_1">1.25</HomeOdds>
+			<DrawOdds oddId="1109095_6586028_0" linkId="6586028_0">5.40</DrawOdds>
+			<AwayOdds oddId="1109095_6586028_2" linkId="6586028_2">11.50</AwayOdds>
+		</OddsData>
+	</OddsObject>
+</List>

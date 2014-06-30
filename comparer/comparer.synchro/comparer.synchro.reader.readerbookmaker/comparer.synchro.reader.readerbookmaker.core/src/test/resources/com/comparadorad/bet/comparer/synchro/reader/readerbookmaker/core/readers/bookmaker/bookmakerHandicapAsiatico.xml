@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="1" IdSport="NFL" Description="NFL">
+			<banner ab="True" vtm="NFL - Sep 05" htm="" />
+			<banner ab="False" vtm="NFL PRESEASON WEEK 1" htm="THURSDAY, AUGUST 8TH" />
+			<banner ab="False" vtm="NFL PRESEASON WEEK 1" htm="FRIDAY, AUGUST 9TH" />
+			<banner ab="False" vtm="NFL WEEK 1" htm="THURSDAY, SEPTEMBER 5TH" />
+			<game idgm="1562607" idgmtyp="10" gmdt="20130905" idlg="1"
+				gmtm="17:30:00" idspt="NFL" vpt="" hpt="" vnum="451" hnum="452"
+				evtyp="" idgp="1562607" gpd="Game" vtm="BALTIMORE" htm="DENVER"
+				stats="false">
+				<line voddst="" hoddst="" ovt="" ovoddst="" unt="" unoddst=""
+					vsprdt="8.5" vsprdoddst="-110" hsprdt="-8.5" hsprdoddst="-110"
+					vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh=""
+					vsprdh="1.91" hsprdh="1.91" ovh="" unh=""
+					vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="False" related="True" />
+			</game>
+			
+		</league>
+	</Leagues>
+</xml>

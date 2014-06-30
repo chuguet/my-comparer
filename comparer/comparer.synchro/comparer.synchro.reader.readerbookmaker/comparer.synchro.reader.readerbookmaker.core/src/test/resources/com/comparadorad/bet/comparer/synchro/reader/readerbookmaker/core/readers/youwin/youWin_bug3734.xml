@@ -1,0 +1,18 @@
+<odds last_modified="2013/02/27 12:00:15" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Tennis" sportid="21.1">
+		<region name="Upcoming matches" regionid="3945.1">
+			<group name="Doubles Matches" groupid="15263.1">
+				<event name="Andujar P / Garcia-Lopez G vs KAS C / Marach O"
+					eventid="581237.1" betend="2013/08/28 22:10:00">
+					<bet name="2-way odds" betid="7193393.1">
+						<selection name="Andujar P / Garcia-Lopez G" priceup="7"
+							pricedown="5" odd="2.40" selectionid="33391240.1" />
+						<selection name="KAS C / Marach O" priceup="1"
+							pricedown="2" odd="1.50" selectionid="33391242.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>	

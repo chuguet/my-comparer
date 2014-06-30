@@ -1,0 +1,47 @@
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2014-02-07T11:11:20" NEXT_REFRESH="2014-02-07T11:31:20"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Tennis">
+		<LEAGUE NAME="ATP Vina del Mar" ID="407286">
+			<EVENT NAME="Almagro Nicolas - Daniel Taro" START_TIME="2014-02-07T22:50:00"
+				OPEN_TILL="2014-02-07T22:50:00" EVENTID="9922567">
+				<BET ID="37954824" TYPEID="13" TYPENAME="Match" PLAYER1="Almagro Nicolas "
+					PLAYER2="Daniel Taro" TIP="1" QUOTE="1,12" />
+				<BET ID="37954823" TYPEID="13" TYPENAME="Match" PLAYER1="Almagro Nicolas "
+					PLAYER2="Daniel Taro" TIP="2" QUOTE="5,00" />
+				<BET ID="37954820" TYPEID="47" TYPENAME="Handicap 1,5" PLAYER1="Almagro Nicolas(-1,5) "
+					PLAYER2="Daniel Taro(+1,5)" TIP="1" QUOTE="1,35" />
+				<BET ID="37954819" TYPEID="47" TYPENAME="Handicap 1,5" PLAYER1="Almagro Nicolas(-1,5) "
+					PLAYER2="Daniel Taro(+1,5)" TIP="2" QUOTE="2,80" />
+			</EVENT>
+			<EVENT NAME="ATP Vina del Mar 2014 Winner" START_TIME="2014-02-07T18:00:00"
+				OPEN_TILL="2014-02-07T18:00:00" EVENTID="9920568">
+				<BET ID="37784706" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Almagro N." TIP=" "
+					QUOTE="3,50" />
+				<BET ID="37784703" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Chardy J." TIP=" "
+					QUOTE="6,00" />
+				<BET ID="37917736" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Daniel Taro" TIP=" "
+					QUOTE="30,00" />
+				<BET ID="37784699" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Fognini F." TIP=" "
+					QUOTE="2,60" />
+				<BET ID="37784698" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Garcia Lopez G."
+					TIP=" " QUOTE="9,00" />
+				<BET ID="37784697" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Gimeno Traver D."
+					TIP=" " QUOTE="12,00" />
+				<BET ID="37784696" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Giraldo Santiago"
+					TIP=" " QUOTE="12,00" />
+				<BET ID="37784691" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Vina del Mar 2014 Winner" PLAYER2="Mayer Leonardo"
+					TIP=" " QUOTE="9,00" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

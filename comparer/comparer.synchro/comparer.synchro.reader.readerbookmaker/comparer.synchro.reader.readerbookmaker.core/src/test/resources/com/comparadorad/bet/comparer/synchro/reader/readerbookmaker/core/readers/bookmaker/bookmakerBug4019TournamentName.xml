@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="12412" IdSport="MU" Description="BASKETBALL">
+			<banner ab="True" vtm="BASKETBALL - Oct 08" htm="" />
+			<banner ab="False" vtm="BASKETBALL - FRANCE" htm="" />
+			<game idgm="1641460" gdesc="" idgmtyp="58" gmdt="20131008" idlg="12412"
+				gmtm="11:45:00" idspt="MU" vpt="" hpt="" vnum="31967" hnum="31968"
+				evtyp="" idgp="1641460" gpd="Game" vtm="STRASBOURG IG" htm="ASVEL LYON-VILLEURBANNE"
+				stats="false">
+				<line voddst="115" hoddst="-135" ovt="-149" ovoddst="-115" unt="149"
+					unoddst="-105" vsprdt="2.5" vsprdoddst="-115" hsprdt="-2.5"
+					hsprdoddst="-105" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=" 2.15"
+					hoddsh=" 1.74" vsprdh="+2&amp;frac12; 1.87" hsprdh="-2&amp;frac12; 1.95"
+					ovh="o149 1.87" unh="u149 1.95" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="True" EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12267" IdSport="MU" Description="BASKETBALL - GERMANY">
+			<banner ab="True" vtm="BASKETBALL - GERMANY - Oct 09" htm="" />
+			<game idgm="1641530" gdesc="" idgmtyp="58" gmdt="20131009" idlg="12267"
+				gmtm="10:00:00" idspt="MU" vpt="" hpt="" vnum="32019" hnum="32020"
+				evtyp="" idgp="1641530" gpd="Game" vtm="RATIOPHARM ULM" htm="S.OLIVER BASKETS"
+				stats="false">
+				<line voddst="-145" hoddst="125" ovt="-155" ovoddst="-110" unt="155"
+					unoddst="-110" vsprdt="-2.5" vsprdoddst="-105" hsprdt="2.5"
+					hsprdoddst="-115" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=" 1.69"
+					hoddsh=" 2.25" vsprdh="-2&amp;frac12; 1.95" hsprdh="+2&amp;frac12; 1.87"
+					ovh="o155 1.91" unh="u155 1.91" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="True" EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12757" IdSport="MU" Description="ICE HOCKEY">
+			<banner ab="True" vtm="ICE HOCKEY - Oct 08" htm="" />
+			<banner ab="False" vtm="ICE HOCKEY - FINLAND" htm="" />
+			<game idgm="1641708" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12757"
+				gmtm="08:30:00" idspt="MU" vpt="" hpt="" vnum="30601" hnum="30602"
+				evtyp="" idgp="1641708" gpd="Game" vtm="PELICANS LAHTI" htm="ILVES TAMPERE"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-5" ovoddst="-105" unt="5"
+					unoddst="-125" vsprdt="0" vsprdoddst="100" hsprdt="0" hsprdoddst="-130"
+					vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="PK 2.00"
+					hsprdh="PK 1.77" ovh="o5 1.95" unh="u5 1.80" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="True" EmptyGame="False" />
+			</game>
+			<banner ab="False" vtm="ICE HOCKEY - RUSSIA" htm="" />
+			<game idgm="1641768" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12757"
+				gmtm="05:00:00" idspt="MU" vpt="" hpt="" vnum="30765" hnum="30766"
+				evtyp="" idgp="1641768" gpd="Game" vtm="HC DYNAMO MOSCOW" htm="AVANGARD OMSK"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-5" ovoddst="-125" unt="5"
+					unoddst="-105" vsprdt="-0.5" vsprdoddst="-130" hsprdt="0.5"
+					hsprdoddst="100" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="-&amp;frac12; 1.77" hsprdh="+&amp;frac12; 2.00"
+					ovh="o5 1.80" unh="u5 1.95" vsph="" hsph="" voddshr="0" vsprdhr="0"
+					ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False"
+					related="True" EmptyGame="False" />
+			</game>
+			<banner ab="False" vtm="ICE HOCKEY - SWEDEN" htm="" />
+			<game idgm="1641817" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12757"
+				gmtm="10:00:00" idspt="MU" vpt="" hpt="" vnum="30801" hnum="30802"
+				evtyp="" idgp="1641817" gpd="Game" vtm="FROLUNDA HC" htm="AIK IF"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-5" ovoddst="-105" unt="5"
+					unoddst="-125" vsprdt="0" vsprdoddst="-115" hsprdt="0" hsprdoddst="-115"
+					vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="PK 1.87"
+					hsprdh="PK 1.87" ovh="o5 1.95" unh="u5 1.80" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="True" EmptyGame="False" />
+			</game>
+			<game idgm="1641819" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12757"
+				gmtm="10:00:00" idspt="MU" vpt="" hpt="" vnum="30803" hnum="30804"
+				evtyp="" idgp="1641819" gpd="Game" vtm="BRYNAS IF" htm="FARJESTADS BK"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-4.5" ovoddst="-125" unt="4.5"
+					unoddst="-105" vsprdt="0.5" vsprdoddst="-125" hsprdt="-0.5"
+					hsprdoddst="-105" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="+&amp;amp;frac12; 1.80" hsprdh="-&amp;amp;frac12; 1.95"
+					ovh="o4&amp;amp;frac12; 1.80" unh="u4&amp;amp;frac12; 1.95" vsph=""
+					hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="False" related="True"
+					EmptyGame="False" />
+			</game>
+			<game idgm="1641820" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12757"
+				gmtm="10:00:00" idspt="MU" vpt="" hpt="" vnum="30805" hnum="30806"
+				evtyp="" idgp="1641820" gpd="Game" vtm="LEKSANDS IF" htm="HV71"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-4.5" ovoddst="-130" unt="4.5"
+					unoddst="100" vsprdt="0.5" vsprdoddst="105" hsprdt="-0.5"
+					hsprdoddst="-135" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="+&amp;amp;frac12; 2.05" hsprdh="-&amp;amp;frac12; 1.74"
+					ovh="o4&amp;amp;frac12; 1.77" unh="u4&amp;amp;frac12; 2.00" vsph=""
+					hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="False" related="True"
+					EmptyGame="False" />
+			</game>
+			<banner ab="False" vtm="ICE HOCKEY - SWITZERLAND" htm="" />
+			<game idgm="1641845" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12757"
+				gmtm="10:45:00" idspt="MU" vpt="" hpt="" vnum="30851" hnum="30852"
+				evtyp="" idgp="1641845" gpd="Game" vtm="HC AMBRI PIOTTA" htm="EV ZUG"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-5.5" ovoddst="-120" unt="5.5"
+					unoddst="-110" vsprdt="1" vsprdoddst="-110" hsprdt="-1" hsprdoddst="-120"
+					vspt="" vspoddst="" hspt="" hspoddst="" voddsh="" hoddsh="" vsprdh="+1 1.91"
+					hsprdh="-1 1.83" ovh="o5&amp;frac12; 1.83" unh="u5&amp;frac12; 1.91"
+					vsph="" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="False" related="True"
+					EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12758" IdSport="MU" Description="HANDBALL">
+			<banner ab="True" vtm="HANDBALL - Oct 08" htm="" />
+			<banner ab="False" vtm="HANDBALL - DENMARK" htm="" />
+			<game idgm="1637969" gdesc="" idgmtyp="57" gmdt="20131008" idlg="12758"
+				gmtm="10:30:00" idspt="MU" vpt="" hpt="" vnum="31013" hnum="31014"
+				evtyp="" idgp="1637969" gpd="Game" vtm="SONDERJYSKE" htm="SKIVE FH"
+				stats="false">
+				<line voddst="" hoddst="" ovt="-50.5" ovoddst="-105" unt="50.5"
+					unoddst="-125" vsprdt="-3.5" vsprdoddst="-150" hsprdt="3.5"
+					hsprdoddst="113" vspt="" vspoddst="" hspt="" hspoddst="" voddsh=""
+					hoddsh="" vsprdh="-3&amp;frac12; 1.67" hsprdh="+3&amp;frac12; 2.13"
+					ovh="o50&amp;frac12; 1.95" unh="u50&amp;frac12; 1.80" vsph="" hsph=""
+					voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False"
+					bml="False" haschild="False" related="True" EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12331" IdSport="MU" Description="TENNIS - ATP MATCHUPS">
+			<banner ab="True" vtm="TENNIS - ATP MATCHUPS - Oct 08" htm="" />
+			<banner ab="False" vtm="ATP - SHANGHAI MASTERS @ SHANGHAI, CHINA"
+				htm="MATCHUPS MUST BE FULLY COMPLETED FOR ACTION" />
+			<game idgm="1641417" gdesc="" idgmtyp="61" gmdt="20131008" idlg="12331"
+				gmtm="05:45:00" idspt="MU" vpt="" hpt="" vnum="8227" hnum="8228"
+				evtyp="" idgp="1641417" gpd="Game" vtm="J MELZER" htm="I DODIG"
+				stats="false">
+				<line voddst="175" hoddst="-205" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 2.75" hoddsh=" 1.49"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="False" EmptyGame="False" />
+			</game>
+		</league>
+		<league IdLeague="12332" IdSport="MU" Description="TENNIS - WTA MATCHUPS">
+			<banner ab="True" vtm="TENNIS - WTA MATCHUPS - Oct 08" htm="" />
+			<banner ab="False" vtm="WTA - HP JAPAN OPEN @ OSAKA, JAPAN"
+				htm="MATCHUPS MUST BE FULLY COMPLETED FOR ACTION" />
+			<banner ab="False" vtm="WTA - GENERALI LADIES LINZ @ LINZ, AUSTRIA"
+				htm="MATCHUPS MUST BE FULLY COMPLETED FOR ACTION" />
+			<game idgm="1641576" gdesc="" idgmtyp="58" gmdt="20131008" idlg="12332"
+				gmtm="10:30:00" idspt="MU" vpt="" hpt="" vnum="8601" hnum="8602"
+				evtyp="" idgp="1641576" gpd="Game" vtm="S STEPHENS" htm="M RYBARIKOVA"
+				stats="false">
+				<line voddst="-170" hoddst="145" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 1.59" hoddsh=" 2.45"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="True" EmptyGame="False" />
+			</game>
+			<game idgm="1641577" gdesc="" idgmtyp="58" gmdt="20131008" idlg="12332"
+				gmtm="10:30:00" idspt="MU" vpt="" hpt="" vnum="8601" hnum="8602"
+				evtyp="" idgp="1641576" gpd="Game" vtm="A BOCHER" htm="K RISONOVA"
+				stats="false">
+				<line voddst="-170" hoddst="145" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 1.59" hoddsh=" 2.45"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="True" EmptyGame="False" />
+			</game>
+			<banner ab="True" vtm="TENNIS - WTA MATCHUPS - Oct 10" htm="" />
+			<banner ab="False" vtm="WTA - GENERALI LADIES LINZ @ LINZ, AUSTRIA"
+				htm="MATCHUPS MUST BE FULLY COMPLETED FOR ACTION" />
+			<game idgm="1641579" gdesc="" idgmtyp="58" gmdt="20131010" idlg="12332"
+				gmtm="02:00:00" idspt="MU" vpt="" hpt="" vnum="8607" hnum="8608"
+				evtyp="" idgp="1641579" gpd="Game" vtm="K KNAPP" htm="D HANTUCHOVA"
+				stats="false">
+				<line voddst="140" hoddst="-165" ovt="" ovoddst="" unt=""
+					unoddst="" vsprdt="" vsprdoddst="" hsprdt="" hsprdoddst="" vspt=""
+					vspoddst="" hspt="" hspoddst="" voddsh=" 2.40" hoddsh=" 1.61"
+					vsprdh="" hsprdh="" ovh="" unh="" vsph="" hsph="" voddshr="0"
+					vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False"
+					haschild="False" related="True" EmptyGame="False" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

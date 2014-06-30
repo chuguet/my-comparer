@@ -1,0 +1,212 @@
+<Odds>
+	<Game id="50000313979" name="David Ferrer - Rafael Nadal">
+		<Sport>Tennis</Sport>
+		<Region>International</Region>
+		<Season>Singles</Season>
+		<BreadCrumbs>Tennis - ATP - Masters-Series, Rome - Singles
+		</BreadCrumbs>
+		<GameStartTime>2013-05-17 16:00:00 CEST</GameStartTime>
+		<BettingEndTime>2013-05-17 16:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="Tennis Man" role="1" id="1526">David Ferrer
+		</Participant>
+		<Participant info="Tennis Man" role="2" id="1529">Rafael Nadal
+		</Participant>
+		<OutcomeSet id="50002683229"
+			name="David Ferrer - Rafael Nadal (Total games) (under/over: 21)">
+			<Outcome odds="1.95" id="50126544496" name="over">
+				<Participant info="Tennis Man" id="1529">Rafael Nadal
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.75" id="50126544497" name="under">
+				<Participant info="Tennis Man" id="1526">David Ferrer
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002683228"
+			name="David Ferrer - Rafael Nadal (1st set winner)">
+			<Outcome odds="3.85" id="50126544498" name="1">
+				<Participant info="Tennis Man" id="1526">David Ferrer
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.22" id="50126544499" name="2">
+				<Participant info="Tennis Man" id="1529">Rafael Nadal
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002683227"
+			name="David Ferrer - Rafael Nadal (Most games won) H(4.5 - 0)">
+			<Outcome odds="1.9" id="50126544494" name="1">
+				<Participant info="Tennis Man" id="1526">David Ferrer
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.8" id="50126544495" name="2">
+				<Participant info="Tennis Man" id="1529">Rafael Nadal
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50002683226" name="David Ferrer - Rafael Nadal">
+			<Outcome odds="5.75" id="50126544500" name="1">
+				<Participant info="Tennis Man" id="1526">David Ferrer
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.12" id="50126544501" name="2">
+				<Participant info="Tennis Man" id="1529">Rafael Nadal
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000313615" name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham">
+		<Sport>Tennis</Sport>
+		<Region>International</Region>
+		<Season>Doubles</Season>
+		<BreadCrumbs>
+			Tennis - Challenger - Busan Open Challenger, Korea -
+			Doubles
+		</BreadCrumbs>
+		<GameStartTime>2013-05-17 11:05:00 CEST</GameStartTime>
+		<BettingEndTime>2013-05-17 11:05:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<IsRunning>True</IsRunning>
+		<Participant info="Tennis Men Doubles" role="1" id="50000029269">H.-Y.
+			Peng/T.-H. Yang
+		</Participant>
+		<Participant info="Tennis Men Doubles" role="2" id="50000029272">K.
+			Hensel/J. Statham
+		</Participant>
+		<OutcomeSet id="50002685416"
+			name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham (Game Winner (Set 2, Game 4))">
+			<Outcome odds="1.28" id="50126550645" name="1">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="3.4" id="50126550646" name="2">
+				<Participant info="Tennis Men Doubles" id="50000029272">K. Hensel/J.
+					Statham
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002685345"
+			name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham (Game Winner (Set 2, Game 3))">
+			<Outcome odds="2.1" id="50126551893" name="1">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.65" id="50126551894" name="2">
+				<Participant info="Tennis Men Doubles" id="50000029272">K. Hensel/J.
+					Statham
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002684924"
+			name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham (Set Correct Score (Set 2))">
+			<Outcome odds="34.0" id="50126551908" name="1-6">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="20.0" id="50126551903" name="2-6">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="7.5" id="50126551905" name="3-6">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="12.0" id="50126551904" name="4-6">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="16.0" id="50126551902" name="5-7">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="19.0" id="50126551912" name="6-1">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="6.0" id="50126551910" name="6-2">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="7.5" id="50126551911" name="6-3">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="4.0" id="50126551650" name="6-4">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="11.5" id="50126551909" name="6-7">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="11.5" id="50126551907" name="7-5">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="9.0" id="50126551906" name="7-6">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002684908"
+			name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham (Set Winner (Set 2))">
+			<Outcome odds="1.42" id="50126551897" name="1">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="2.65" id="50126551898" name="2">
+				<Participant info="Tennis Men Doubles" id="50000029272">K. Hensel/J.
+					Statham
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002684909"
+			name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham (Set Betting)">
+			<Outcome odds="5.0" id="50126551901" name="1-2">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="1.44" id="50126551899" name="2-0">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="5.0" id="50126551900" name="2-1">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50002682949"
+			name="H.-Y. Peng/T.-H. Yang - K. Hensel/J. Statham">
+			<Outcome odds="1.15" id="50126551895" name="1">
+				<Participant info="Tennis Men Doubles" id="50000029269">H.-Y.
+					Peng/T.-H. Yang
+				</Participant>
+			</Outcome>
+			<Outcome odds="4.75" id="50126551896" name="2">
+				<Participant info="Tennis Men Doubles" id="50000029272">K. Hensel/J.
+					Statham
+				</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

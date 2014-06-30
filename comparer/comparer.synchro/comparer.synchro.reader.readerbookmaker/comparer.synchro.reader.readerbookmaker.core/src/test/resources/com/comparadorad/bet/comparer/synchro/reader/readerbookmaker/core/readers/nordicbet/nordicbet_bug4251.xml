@@ -1,0 +1,58 @@
+<Odds>
+	<Game id="50000413048" name="Atletico Madrid - Ajax Amsterdam">
+		<Sport>Football</Sport>
+		<Region>International</Region>
+		<Season>Specials</Season>
+		<BreadCrumbs>Football - UEFA - Champions League - Specials
+		</BreadCrumbs>
+		<GameStartTime>2013-11-26 18:00:00 +0100</GameStartTime>
+		<BettingEndTime>2013-11-26 18:00:00 +0100</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="Spain" role="1" id="154">Atletico Madrid
+		</Participant>
+		<Participant info="Netherland Soccer" role="2" id="50000024539">Ajax
+			Amsterdam</Participant>
+		<OutcomeSet type="Result" id="50004122222"
+			name="Atletico Madrid - Ajax Amsterdam">
+			<Outcome odds="2.5" id="50212742173" name="1">
+				<Participant info="Spain" id="154">Atletico Madrid
+				</Participant>
+			</Outcome>
+			<Outcome odds="3.05" id="50212742174" name="X" />
+			<Outcome odds="2.7" id="50212742175" name="2">
+				<Participant info="Netherland Soccer" id="50000024539">Ajax Amsterdam
+				</Participant>
+			</Outcome>
+			<ExternalComment>Most scoring team in this weeks CL</ExternalComment>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000404173" name="FC Zenit St. Petersburg - Atletico Madrid">
+		<Sport>Football</Sport>
+		<Region>International</Region>
+		<Season>Matches</Season>
+		<BreadCrumbs>Football - UEFA - Champions League - Matches
+		</BreadCrumbs>
+		<GameStartTime>2013-11-26 18:00:00 +0100</GameStartTime>
+		<BettingEndTime>2013-11-26 18:00:00 +0100</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="RUS Soccer" role="1" id="50000001244">FC Zenit St.
+			Petersburg</Participant>
+		<Participant info="Spain" role="2" id="154">Atletico Madrid
+		</Participant>
+		<OutcomeSet id="50004120206" type="Under/Over Match"
+			name="FC Zenit St. Petersburg - Atletico Madrid (Total cards) (under/over: 4.5)">
+			<Outcome odds="2.1" id="50212631255" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid
+				</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.65" id="50212631256" name="under">
+				<Participant info="RUS Soccer" id="50000001244">FC Zenit St.
+					Petersburg</Participant>
+					<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

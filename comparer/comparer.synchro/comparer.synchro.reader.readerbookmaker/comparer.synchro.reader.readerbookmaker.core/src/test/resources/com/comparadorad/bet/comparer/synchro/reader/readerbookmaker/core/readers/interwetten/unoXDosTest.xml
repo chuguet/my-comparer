@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T13:15:57" NEXT_REFRESH="2013-10-16T13:35:57"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Ice Hockey">
+		<LEAGUE NAME="Czech Republic League 1 (60´)" ID="405822">
+			<!-- TYPEID="13" PARTIDO COMPLETO -->
+			<EVENT NAME="Benatky nad Jizerou - Kadan" START_TIME="2013-10-16T17:30:00"
+				OPEN_TILL="2013-10-16T17:30:00" EVENTID="9853524">
+				<BET ID="33449627" TYPEID="13" TYPENAME="Match" PLAYER1="Benatky nad Jizerou "
+					PLAYER2="Kadan" TIP="1" QUOTE="2,30" />
+				<BET ID="33449625" TYPEID="13" TYPENAME="Match" PLAYER1="Benatky nad Jizerou "
+					PLAYER2="Kadan" TIP="2" QUOTE="2,30" />
+				<BET ID="33449626" TYPEID="13" TYPENAME="Match" PLAYER1="Benatky nad Jizerou "
+					PLAYER2="Kadan" TIP="X" QUOTE="4,00" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="Argentina 1st League" ID="105121">
+			<!-- TYPEID="12" PRIMERA PARTE -->
+			<EVENT NAME="Argentinos Jrs. - Estudiantes LP" START_TIME="2013-10-18T23:10:00"
+				OPEN_TILL="2013-10-18T23:10:00" EVENTID="9856084">
+				<BET ID="33401031" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="1" QUOTE="3,25" />
+				<BET ID="33401029" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="2" QUOTE="3,10" />
+				<BET ID="33401030" TYPEID="12" TYPENAME="HalfTime" PLAYER1="Argentinos Jrs. "
+					PLAYER2="Estudiantes LP" TIP="X" QUOTE="2,00" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="Austria EHL (60Â´)" ID="4083">
+			<!-- TYPEID="9905365" PRIMERA PARTE -->
+			<EVENT NAME="Bozen - Villach" START_TIME="2013-10-18T19:45:00"
+				OPEN_TILL="2013-10-18T19:45:00" EVENTID="9854364">
+				<BET ID="33395900" TYPEID="9905365" TYPENAME="1st periode"
+					PLAYER1="Bozen " PLAYER2="Villach" TIP="1" QUOTE="2,60" />
+				<BET ID="33395898" TYPEID="9905365" TYPENAME="1st periode"
+					PLAYER1="Bozen " PLAYER2="Villach" TIP="2" QUOTE="2,70" />
+				<BET ID="33395899" TYPEID="9905365" TYPENAME="1st periode"
+					PLAYER1="Bozen " PLAYER2="Villach" TIP="X" QUOTE="2,55" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

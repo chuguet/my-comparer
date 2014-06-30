@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-09-30T15:38:00" NEXT_REFRESH="2013-09-30T15:58:00"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Basketball">
+		<LEAGUE NAME="Austria Bundesliga" ID="405366">
+			<!-- TYPEID="70" -->
+			<EVENT NAME="ABL Champion 2013/14" START_TIME="2014-05-25T22:00:00"
+				OPEN_TILL="2013-10-05T18:00:00" EVENTID="9853742">
+				<BET ID="32056254" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="Allianz Swans Gmunden" TIP=" " QUOTE="6,00" />
+				<BET ID="32056253" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="BC Vienna" TIP=" " QUOTE="3,00" />
+				<BET ID="32056252" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="BSC Raiffeisen Panthers Furstenfeld" TIP=" " QUOTE="100,00" />
+				<BET ID="32056251" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="Guessing Knights" TIP=" " QUOTE="30,00" />
+				<BET ID="32056250" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="Kapfenberg Bulls" TIP=" " QUOTE="4,00" />
+				<BET ID="32056249" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="Oberwart Gunners" TIP=" " QUOTE="10,00" />
+				<BET ID="32056248" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="ABL Champion 2013/14"
+					PLAYER2="St Pölten" TIP=" " QUOTE="100,00" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="ATP Moscow" ID="11496">
+			<EVENT NAME="ATP Moscow 2013 Winner" START_TIME="2013-10-17T11:00:00"
+				OPEN_TILL="2013-10-17T11:00:00" EVENTID="9868722">
+				<BET ID="33336624" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Moscow 2013 Winner" PLAYER2="Dolgopolov A." TIP=" "
+					QUOTE="5,50" />
+				<BET ID="33336623" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Moscow 2013 Winner" PLAYER2="Donskoy E." TIP=" "
+					QUOTE="30,00" />
+				<BET ID="33336622" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Moscow 2013 Winner" PLAYER2="Gabashvili T." TIP=" "
+					QUOTE="60,00" />
+				<BET ID="33336621" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Moscow 2013 Winner" PLAYER2="Gasquet R." TIP=" "
+					QUOTE="2,20" />
+				<BET ID="33449145" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Moscow 2013 Winner" PLAYER2="Golubev A." TIP=" "
+					QUOTE="20,00" />
+				<BET ID="33336620" TYPEID="71" TYPENAME="Longterm Player"
+					PLAYER1="ATP Moscow 2013 Winner" PLAYER2="Istomin D." TIP=" "
+					QUOTE="10,00" />
+			</EVENT>
+		</LEAGUE>
+		<LEAGUE NAME="World Cup 2014" ID="10406">
+			<EVENT NAME="World Champion 2014" START_TIME="2014-06-06T18:00:00"
+				OPEN_TILL="2014-06-06T18:00:00" EVENTID="9450971">
+				<BET ID="12059574" TYPEID="9905742" TYPENAME="World Champion"
+					PLAYER1="World Champion 2014" PLAYER2="Mexico " TIP=" " QUOTE="150,00" />
+				<BET ID="12059572" TYPEID="9905742" TYPENAME="World Champion"
+					PLAYER1="World Champion 2014" PLAYER2="Netherlands" TIP=" " QUOTE="16,00" />
+				<BET ID="12059570" TYPEID="9905742" TYPENAME="World Champion"
+					PLAYER1="World Champion 2014" PLAYER2="Nigeria" TIP=" " QUOTE="150,00" />
+				<BET ID="12059549" TYPEID="9905742" TYPENAME="World Champion"
+					PLAYER1="World Champion 2014" PLAYER2="Sweden" TIP=" " QUOTE="200,00" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

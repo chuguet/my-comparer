@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<params legend="False" catId="-1" sportId="12" matchId="-1"
+		delta="1000" deltaUtc="2013-12-18T17:05" utc="2013-12-19T09:45"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="12" n="Soccer">
+		<cat id="921" n="UEFA Europa League">
+			<m id="946880" n="UEFA Europa League 2013/14: To Win Outright" dt="2014-02-20T18:00">
+				<t id="3" n="FreeForm">
+					<l id="13900962" i="1" o="7">Tottenham Hotspur</l>
+					<l id="14027578" i="2" o="19">CF Valencia</l>
+					<l id="14027580" i="3" o="11">AC Fiorentina</l>
+					<l id="14027582" i="4" o="17">Lazio Rome</l>
+					<l id="14027584" i="5" o="101">Anzhi Makhachkala</l>
+					<l id="14027588" i="7" o="41">AZ Alkmaar</l>
+					<l id="14027594" i="10" o="34">Betis Seville</l>
+					<l id="14027596" i="11" o="41">Dynamo Kiev</l>
+					<l id="14027602" i="14" o="34">Eintracht Frankfurt</l>
+					<l id="14027610" i="18" o="34">Rubin Kazan</l>
+					<l id="14027614" i="20" o="41">Dnipro Dnipropetrovsk</l>
+					<l id="14027620" i="23" o="21">Swansea City</l>
+					<l id="14027622" i="24" o="51">KRC Genk</l>
+					<l id="14027638" i="32" o="19">FC Sevilla</l>
+					<l id="14221887" i="33" o="34">RB Salzburg</l>
+					<l id="14275381" i="36" o="201">Chornomorets Odessa</l>
+					<l id="14275387" i="39" o="201">Esbjerg FB</l>
+					<l id="14275397" i="44" o="151">FC Slovan Liberec</l>
+					<l id="14275399" i="45" o="101">PFC Ludogorets</l>
+					<l id="14275401" i="46" o="34">Olympique Lyonnais</l>
+					<l id="14275405" i="48" o="126">Maccabi Tel Aviv</l>
+					<l id="14275407" i="49" o="251">NK Maribor</l>
+					<l id="14275409" i="50" o="101">PAOK Thessaloniki</l>
+					<l id="14275427" i="59" o="51">Trabzonspor</l>
+					<l id="14996683" i="60" o="5">Juventus</l>
+					<l id="14996685" i="61" o="10">SSC Napoli</l>
+					<l id="14996687" i="62" o="13">Shakhtar Donetsk</l>
+					<l id="14996689" i="63" o="17">FC Porto</l>
+					<l id="14996691" i="64" o="17">Benfica Lisbon</l>
+					<l id="14996693" i="65" o="26">Ajax Amsterdam</l>
+					<l id="14996695" i="66" o="67">Victoria Plzen</l>
+					<l id="14996697" i="67" o="34">FC Basel</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+</data>
+</result>

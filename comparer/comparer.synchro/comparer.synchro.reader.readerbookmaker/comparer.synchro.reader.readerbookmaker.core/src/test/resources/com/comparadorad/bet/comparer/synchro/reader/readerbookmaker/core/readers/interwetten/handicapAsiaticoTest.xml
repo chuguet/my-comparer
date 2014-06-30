@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T15:41:12" NEXT_REFRESH="2013-10-16T16:01:12"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Baseball">
+		<LEAGUE NAME="MLB" ID="14233">
+			<!-- TYPEID="92" PARTIDO COMPLETO (handicap 1,5) -->
+			<EVENT NAME="Detroit Tigers - Boston Red Sox" START_TIME="2013-10-17T02:00:00"
+				OPEN_TILL="2013-10-17T02:00:00" EVENTID="9867277">
+				<BET ID="33469133" TYPEID="92" TYPENAME="Handicap USA 1,5"
+					PLAYER1="Detroit Tigers(-1,5) " PLAYER2="Boston Red Sox(+1,5)" TIP="1"
+					QUOTE="2,35" />
+				<BET ID="33469132" TYPEID="92" TYPENAME="Handicap USA 1,5"
+					PLAYER1="Detroit Tigers(-1,5) " PLAYER2="Boston Red Sox(+1,5)" TIP="2"
+					QUOTE="1,50" />
+			</EVENT>
+			<!-- TYPEID="39" PARTIDO COMPLETO (handicap no especificado) -->
+			<EVENT NAME="KC Royals - Cincinnati Reds" START_TIME="2013-10-17T02:00:00"
+				OPEN_TILL="2013-10-17T02:00:00" EVENTID="9867277">
+				<BET ID="33395439" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="KC Royals(+6) "
+					PLAYER2="Cincinnati Reds(-6)" TIP="1" QUOTE="1,75" />
+				<BET ID="33395438" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="KC Royals(+6) "
+					PLAYER2="Cincinnati Reds(-6)" TIP="2" QUOTE="1,85" />
+			</EVENT>
+			<!-- TYPEID="69" PARTIDO COMPLETO (handicap 0) -->
+			<EVENT NAME="NY Yankees - MIA Marlins" START_TIME="2013-10-17T02:00:00"
+				OPEN_TILL="2013-10-17T02:00:00" EVENTID="9867277">
+				<BET ID="33401346" TYPEID="69" TYPENAME="Asia Handicap  0/0 "
+					PLAYER1="NY Yankees(0) " PLAYER2="MIA Marlins(0)" TIP="1" QUOTE="1,70" />
+				<BET ID="33401345" TYPEID="69" TYPENAME="Asia Handicap  0/0 "
+					PLAYER1="NY Yankees(0) " PLAYER2="MIA Marlins(0)" TIP="2" QUOTE="1,80" />
+			</EVENT>
+			<!-- TYPEID="39" PARTIDO COMPLETO (handicap 2.5) -->
+			<EVENT NAME="Detroit Lions - Cincinnati Bengals" START_TIME="2013-10-20T19:00:00"
+				OPEN_TILL="2013-10-20T19:00:00" EVENTID="9856037">
+				<BET ID="33496278" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="Detroit Lions(-2.5) "
+					PLAYER2="Cincinnati Bengals(+2.5)" TIP="1" QUOTE="1,85" />
+				<BET ID="33496277" TYPEID="39" TYPENAME="Handicap USA" PLAYER1="Detroit Lions(-2.5) "
+					PLAYER2="Cincinnati Bengals(+2.5)" TIP="2" QUOTE="1,75" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

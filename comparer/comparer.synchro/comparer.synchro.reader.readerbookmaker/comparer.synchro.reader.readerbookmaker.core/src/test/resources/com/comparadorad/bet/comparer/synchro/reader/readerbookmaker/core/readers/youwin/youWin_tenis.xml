@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odds last_modified="2013/02/27 12:00:15" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Tennis" sportid="31.1">
+		<region name="Davis Cup" regionid="2505.1">
+			<group name="Davis Cup 2014" groupid="17906.1">
+				<event name="Davis Cup 2014" eventid="660931.1" betend="">
+					<bet name="Winner" betid="9130869.1">
+						<selection name="Switzerland" priceup="11" pricedown="10"
+							odd="2.10" selectionid="40921188.1" />
+						<selection name="France" priceup="2" pricedown="1" odd="3.00"
+							selectionid="40921186.1" />
+						<selection name="Czech Republic" priceup="7" pricedown="2"
+							odd="4.50" selectionid="40921185.1" />
+						<selection name="Germany" priceup="12" pricedown="1"
+							odd="13.00" selectionid="40921192.1" />
+						<selection name="Great Britain" priceup="14" pricedown="1"
+							odd="15.00" selectionid="40921191.1" />
+						<selection name="Italy" priceup="25" pricedown="1" odd="26.00"
+							selectionid="40921194.1" />
+						<selection name="Japan" priceup="33" pricedown="1" odd="34.00"
+							selectionid="40921197.1" />
+						<selection name="Kazakhstan" priceup="66" pricedown="1"
+							odd="67.00" selectionid="40921198.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+		<region name="Federation Cup" regionid="2508.1">
+			<group name="Fed Cup 2014" groupid="17905.1">
+				<event name="Fed Cup 2014" eventid="660932.1" betend="">
+					<bet name="Winner" betid="9130696.1">
+						<selection name="USA Women" priceup="19" pricedown="10"
+							odd="2.90" selectionid="40920740.1" />
+						<selection name="Italy Women" priceup="4" pricedown="1"
+							odd="5.00" selectionid="40920739.1" />
+						<selection name="Germany Women" priceup="4" pricedown="1"
+							odd="5.00" selectionid="40920741.1" />
+						<selection name="Czech Republic Women" priceup="11"
+							pricedown="2" odd="6.50" selectionid="40920743.1" />
+						<selection name="Australia Women" priceup="7" pricedown="1"
+							odd="8.00" selectionid="40920744.1" />
+						<selection name="Slovak Republic Women" priceup="7"
+							pricedown="1" odd="8.00" selectionid="40920745.1" />
+						<selection name="Russia Women" priceup="18" pricedown="1"
+							odd="19.00" selectionid="40920742.1" />
+						<selection name="Spain Women" priceup="20" pricedown="1"
+							odd="21.00" selectionid="40920746.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+		<region name="ATP Viña del Mar" regionid="8372.1">
+			<group name="Matches" groupid="18661.1">
+				<event name="Almagro, Nicolas vs Alund, Martin" eventid="690700.1"
+					betend="2014/02/06 18:00:00">
+					<bet name="1st  Set Winner" betid="9766549.1">
+						<selection name="Almagro, Nicolas" priceup="3"
+							pricedown="10" odd="1.30" selectionid="43298975.1" />
+						<selection name="Alund, Martin" priceup="11" pricedown="5"
+							odd="3.20" selectionid="43298976.1" />
+					</bet>
+					<bet name="2-way odds" betid="9766545.1">
+						<selection name="Almagro, Nicolas" priceup="21"
+							pricedown="100" odd="1.21" selectionid="43298963.1" />
+						<selection name="Alund, Martin" priceup="16" pricedown="5"
+							odd="4.20" selectionid="43298966.1" />
+					</bet>
+					<bet name="2nd Set Winner" betid="9766540.1">
+						<selection name="Almagro, Nicolas" priceup="3"
+							pricedown="10" odd="1.30" selectionid="43298955.1" />
+						<selection name="Alund, Martin" priceup="11" pricedown="5"
+							odd="3.20" selectionid="43298959.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>	

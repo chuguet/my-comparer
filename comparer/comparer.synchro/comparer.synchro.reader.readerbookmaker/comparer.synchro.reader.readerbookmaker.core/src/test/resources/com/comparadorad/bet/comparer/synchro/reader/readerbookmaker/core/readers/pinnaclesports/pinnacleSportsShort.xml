@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1340746187907</PinnacleFeedTime>
+	<lastContest>13411345</lastContest>
+	<lastGame>79589123</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2012-06-26 23:05</event_datetimeGMT>
+			<gamenumber>252824974</gamenumber>
+			<sporttype>Baseball</sporttype>
+			<league>Live MLB</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Pittsburgh Pirates</participant_name>
+					<contestantnum>9901</contestantnum>
+					<rotnum>9901</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Philadelphia Phillies</participant_name>
+					<contestantnum>9902</contestantnum>
+					<rotnum>9902</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2012-06-27 04:05
+					</periodcutoff_datetimeGMT>
+					<period_status>H</period_status>
+					<period_update>offline</period_update>
+					<spread_maximum>5000</spread_maximum>
+					<moneyline_maximum>5000</moneyline_maximum>
+					<total_maximum>5000</total_maximum>
+					<spread>
+						<spread_visiting>0</spread_visiting>
+						<spread_adjust_visiting>-108</spread_adjust_visiting>
+						<spread_home>0</spread_home>
+						<spread_adjust_home>-108</spread_adjust_home>
+					</spread>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2012-06-27 15:30</event_datetimeGMT>
+			<gamenumber>252984638</gamenumber>
+			<sporttype>Tennis</sporttype>
+			<league>M Wmbldn R2</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>N. Almagro</participant_name>
+					<contestantnum>4137</contestantnum>
+					<rotnum>4137</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>G. Rufin</participant_name>
+					<contestantnum>4138</contestantnum>
+					<rotnum>4138</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2012-06-27 15:30
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>250</spread_maximum>
+					<moneyline_maximum>1000</moneyline_maximum>
+					<total_maximum>250</total_maximum>
+					<moneyline>
+						<moneyline_visiting>-600</moneyline_visiting>
+						<moneyline_home>498</moneyline_home>
+					</moneyline>
+					<spread>
+						<spread_visiting>-6</spread_visiting>
+						<spread_adjust_visiting>111</spread_adjust_visiting>
+						<spread_home>6</spread_home>
+						<spread_adjust_home>-125</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>35.5</total_points>
+						<over_adjust>-120</over_adjust>
+						<under_adjust>107</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-03-10 19:29</event_datetimeGMT>
+			<gamenumber>290334864</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Romania 1</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Ceahlaul Piatra Neamt</participant_name>
+					<contestantnum>5704</contestantnum>
+					<rotnum>5704</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Steaua Bucuresti</participant_name>
+					<contestantnum>5705</contestantnum>
+					<rotnum>5705</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>5706</contestantnum>
+					<rotnum>5706</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-03-10 19:29
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>1000</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>1000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>-158</moneyline_visiting>
+						<moneyline_home>502</moneyline_home>
+						<moneyline_draw>288</moneyline_draw>
+					</moneyline>
+					<spread>
+						<spread_visiting>-0.75</spread_visiting>
+						<spread_adjust_visiting>-118</spread_adjust_visiting>
+						<spread_home>0.75</spread_home>
+						<spread_adjust_home>106</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>2.5</total_points>
+						<over_adjust>109</over_adjust>
+						<under_adjust>-126</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

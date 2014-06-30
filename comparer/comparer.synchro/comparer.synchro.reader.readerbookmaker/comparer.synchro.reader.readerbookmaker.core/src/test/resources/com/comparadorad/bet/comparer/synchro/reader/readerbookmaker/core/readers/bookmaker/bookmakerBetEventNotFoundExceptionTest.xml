@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml ErrorCode="0" ErrorMessage="">
+	<Leagues>
+		<league IdLeague="10009" IdSport="SOC" Description="HOLLAND - EREDIVISIE">
+			<banner ab="True" vtm="HOLLAND - EREDIVISIE - Oct 19" htm="" />
+			<game idgm="1641878" gdesc="" idgmtyp="61" gmdt="20131019" idlg="10009"
+				gmtm="10:45:00" idspt="SOC" vpt="" hpt="" vnum="25509" hnum="25510"
+				evtyp="" idgp="1641878" gpd="Game" vtm="NAC BREDA" htm="FC UTRECHT"
+				stats="false">
+				<line voddst="230" hoddst="115" ovt="-2.5" ovoddst="-130" unt="2.5"
+					unoddst="110" vsprdt="0" vsprdoddst="165" hsprdt="0" hsprdoddst="-195"
+					vspt="0" vspoddst="255" hspt="" hspoddst="" voddsh=" 3.30" hoddsh=" 2.15"
+					vsprdh="PK 2.65" hsprdh="PK 1.51" ovh="o2&amp;frac12; 1.77" unh="u2&amp;frac12; 2.10"
+					vsph=" 3.55" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0"
+					btot="False" bsprd="False" bml="False" haschild="True" related="True"
+					EmptyGame="False" />
+			</game>
+			<game idgm="1641876" gdesc="" idgmtyp="61" gmdt="20131019" idlg="10009"
+				gmtm="09:45:00" idspt="SOC" vpt="" hpt="" vnum="25501" hnum="25502"
+				evtyp="" idgp="1641876" gpd="Non_Existing_Bet_Event_For_Test_Purpose"
+				vtm="FEYENOORD ROTTERDAM" htm="GO AHEAD EAGLES" stats="false">
+				<line voddst="-153" hoddst="425" ovt="-3" ovoddst="-120" unt="3"
+					unoddst="100" vsprdt="-1" vsprdoddst="110" hsprdt="1" hsprdoddst="-130"
+					vspt="0" vspoddst="280" hspt="" hspoddst="" voddsh=" 1.65" hoddsh=" 5.25"
+					vsprdh="-1 2.10" hsprdh="+1 1.77" ovh="o3 1.83" unh="u3 2.00" vsph=" 3.80"
+					hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="True" related="True" EmptyGame="False" />
+			</game>
+			<game idgm="1641881" gdesc="" idgmtyp="61" gmdt="20131020" idlg="10009"
+				gmtm="03:30:00" idspt="SOC" vpt="" hpt="" vnum="25521" hnum="25522"
+				evtyp="" idgp="1641881" gpd="Game" vtm="NEC NIJMEGEN" htm="HERACLES ALMELO"
+				stats="false">
+				<line voddst="350" hoddst="-133" ovt="-3" ovoddst="-140" unt="3"
+					unoddst="120" vsprdt="1" vsprdoddst="-145" hsprdt="-1" hsprdoddst="125"
+					vspt="0" vspoddst="275" hspt="" hspoddst="" voddsh=" 4.50" hoddsh=" 1.75"
+					vsprdh="+1 1.69" hsprdh="-1 2.25" ovh="o3 1.71" unh="u3 2.20" vsph=" 3.75"
+					hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="True" related="True" EmptyGame="False" />
+			</game>
+			<game idgm="1641882" gdesc="" idgmtyp="61" gmdt="20131020" idlg="10009"
+				gmtm="05:30:00" idspt="SOC" vpt="" hpt="" vnum="25525" hnum="25526"
+				evtyp="" idgp="1641882" gpd="Game" vtm="PSV EINDHOVEN" htm="FC GRONINGEN"
+				stats="false">
+				<line voddst="-140" hoddst="380" ovt="-3" ovoddst="105" unt="3"
+					unoddst="-125" vsprdt="-1" vsprdoddst="125" hsprdt="1" hsprdoddst="-145"
+					vspt="0" vspoddst="295" hspt="" hspoddst="" voddsh=" 1.71" hoddsh=" 4.80"
+					vsprdh="-1 2.25" hsprdh="+1 1.69" ovh="o3 2.05" unh="u3 1.80" vsph=" 3.95"
+					hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False"
+					bsprd="False" bml="False" haschild="True" related="True" EmptyGame="False" />
+			</game>
+		</league>
+	</Leagues>
+</xml>

@@ -1,0 +1,71 @@
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1391523435240</PinnacleFeedTime>
+	<lastContest>20777250</lastContest>
+	<lastGame>122606901</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2014-02-04 17:05</event_datetimeGMT>
+			<gamenumber>352692389</gamenumber>
+			<sporttype>Tennis</sporttype>
+			<league>Chile R1</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>A. Bedene</participant_name>
+					<contestantnum>8203</contestantnum>
+					<rotnum>8203</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>S. Robert</participant_name>
+					<contestantnum>8204</contestantnum>
+					<rotnum>8204</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Match</period_description>
+					<periodcutoff_datetimeGMT>2014-02-04 17:05
+					</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>2500</spread_maximum>
+					<moneyline_maximum>5000</moneyline_maximum>
+					<total_maximum>1250</total_maximum>
+					<moneyline>
+						<moneyline_visiting>107</moneyline_visiting>
+						<moneyline_home>-120</moneyline_home>
+					</moneyline>
+					<spread>
+						<spread_visiting>1.5</spread_visiting>
+						<spread_adjust_visiting>-116</spread_adjust_visiting>
+						<spread_home>-1.5</spread_home>
+						<spread_adjust_home>-101</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>21.5</total_points>
+						<over_adjust>-123</over_adjust>
+						<under_adjust>105</under_adjust>
+					</total>
+				</period>
+				<period>
+					<period_number>1</period_number>
+					<period_description>1st Set Winner</period_description>
+					<periodcutoff_datetimeGMT>2014-02-04 17:05
+					</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>500</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>500</total_maximum>
+					<moneyline>
+						<moneyline_visiting>-101</moneyline_visiting>
+						<moneyline_home>-116</moneyline_home>
+					</moneyline>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

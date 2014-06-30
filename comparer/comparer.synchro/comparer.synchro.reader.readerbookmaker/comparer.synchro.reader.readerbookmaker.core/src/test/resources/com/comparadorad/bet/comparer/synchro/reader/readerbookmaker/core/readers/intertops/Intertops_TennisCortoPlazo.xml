@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<params legend="False" catId="-1" sportId="1" matchId="-1"
+		delta="1000" deltaUtc="2013-12-18T16:57" utc="2013-12-19T09:37"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="26" n="Tennis">
+		<cat id="463" n="ATP Vina del Mar">
+			<m id="1019803" n="Guillermo Garcia Lopez v Julian Reister" mid="576794"
+				rot="8217" dt="2014-02-03T23:30">
+				<t id="1" n="Single Match">
+					<l id="15236751" i="1" o="1.3846">Guillermo Garcia Lopez</l>
+					<l id="15236752" i="2" o="3">Julian Reister</l>
+				</t>
+			</m>
+		</cat>
+
+		<cat id="1801" n="Davis Cup">
+			<m id="1011415" n="2014 Davis Cup: To Win Outright" dt="2014-04-04T01:00">
+				<t id="3" n="FreeForm">
+					<l id="15086846" i="3" o="2.2">Switzerland</l>
+					<l id="15086850" i="5" o="3">France</l>
+					<l id="15086852" i="6" o="6.5">Czech Republic</l>
+					<l id="15086856" i="8" o="11">Germany</l>
+					<l id="15086858" i="9" o="29">Japan</l>
+					<l id="15086864" i="12" o="15">Italy</l>
+					<l id="15086870" i="15" o="17">Great Britain</l>
+					<l id="15086872" i="16" o="101">Kazakhstan</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+</data>
+</result>

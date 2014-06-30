@@ -1,0 +1,29 @@
+<Odds>
+	<Game id="50000313158" name="New York Knicks v Indiana Pacers">
+		<Sport>Football</Sport>
+		<Region>International</Region>
+		<Season>Cup</Season>
+		<BreadCrumbs>Football - World Cup 2014 - Outrights</BreadCrumbs>
+		<GameStartTime>2013-05-17 21:00:00 CEST</GameStartTime>
+		<BettingEndTime>2013-05-17 21:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="USA" role="1" id="9000001758">New York Knicks
+		</Participant>
+		<Participant info="USA" role="2" id="9000003008">Indiana Pacers
+		</Participant>
+		<OutcomeSet type="Handicap" id="50002665311"
+			name="New York Knicks v Indiana Pacers">
+			<Outcome odds="3.75" id="50125373489" name="1">
+				<Participant info="NBA Basketball" id="10000013881">New York Knicks
+				</Participant>
+				<OptionalValue1>-5.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.63" id="50125373492" name="2">
+				<Participant info="NBA Basketball" id="168">Indiana Pacers
+				</Participant>
+				<OptionalValue1>5.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

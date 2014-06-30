@@ -1,0 +1,22 @@
+<Odds>
+	<Game id="50000409360" name="HPK - KalPa">
+		<Sport>Ice Hockey</Sport>
+		<Region>Finland</Region>
+		<Season>SM-Liiga</Season>
+		<BreadCrumbs>Ice Hockey - Finland - SM-Liiga</BreadCrumbs>
+		<GameStartTime>2013-12-03 18:30:00 +0200</GameStartTime>
+		<BettingEndTime>2013-12-03 18:30:00 +0200</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="FIN, Ice Hockey, Men" role="1" id="818">HPK</Participant>
+		<Participant info="FIN Ice Hockey, Men" role="2" id="9000001920">KalPa</Participant>
+		<OutcomeSet type="Moneyline" id="50004164269" name="HPK - KalPa (moneyline)">
+			<Outcome odds="1.6" id="50215028961" name="1">
+				<Participant info="FIN, Ice Hockey, Men" id="818">HPK</Participant>
+			</Outcome>
+			<Outcome odds="2.2" id="50215028964" name="2">
+				<Participant info="FIN Ice Hockey, Men" id="9000001920">KalPa</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

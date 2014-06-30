@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T13:15:57" NEXT_REFRESH="2013-10-16T13:35:57"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Ice Hockey">
+		<LEAGUE NAME="Czech Republic Extraliga (60´)" ID="405257">
+			<EVENT NAME="Chomutov - Plzen" START_TIME="2013-11-28T17:30:00"
+				OPEN_TILL="2013-10-18T19:45:00" EVENTID="9877378">
+				<BET ID="35301531" TYPEID="9919219" TYPENAME="Winning Team"
+					PLAYER1="Chomutov " PLAYER2="Plzen" TIP="1" QUOTE="2,20" />
+				<BET ID="35301530" TYPEID="9919219" TYPENAME="Winning Team"
+					PLAYER1="Chomutov " PLAYER2="Plzen" TIP="2" QUOTE="1,50" />
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>

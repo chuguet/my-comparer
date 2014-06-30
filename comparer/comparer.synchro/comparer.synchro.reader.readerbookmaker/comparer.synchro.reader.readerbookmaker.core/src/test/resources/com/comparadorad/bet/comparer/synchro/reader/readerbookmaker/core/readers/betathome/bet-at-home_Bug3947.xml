@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List generatedAt="2013-08-19T09:54:37">
+	<OddsObject>
+		<Sport id="2">Tennis</Sport>
+		<Category id="168">ATP</Category>
+		<Tournament id="4884">Winston Salem Doubles</Tournament>
+		<MatchId>1144685</MatchId>
+		<Date>2013-08-20T16:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="200" oddType="2" betTypeGroup="1"
+			defaultName="Tip" groupName="Tip" betName="Tip">2W</OddsType>
+		<OddsData>
+			<HomeTeam>Bopanna R./Roger-Vasselin E.</HomeTeam>
+			<AwayTeam>Cermak F./Polasek F.</AwayTeam>
+			<HomeOdds oddId="1144685_7018037_1" linkId="7018037_1">1.50</HomeOdds>
+			<AwayOdds oddId="1144685_7018037_2" linkId="7018037_2">2.10</AwayOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="5">Basketball</Sport>
+		<Category id="38">Austria</Category>
+		<Tournament id="9">Cup Men</Tournament>
+		<MatchId>1148237</MatchId>
+		<Date>2013-09-29T20:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="3539" oddType="1" betTypeGroup="99"
+			defaultName="Will the total result be even or odd?" groupName="Overall result even/odd"
+			betName="Will the total result be even or odd?">Other</OddsType>
+		<OddsData>
+			<HomeTeam>Basketclubs Vienna</HomeTeam>
+			<AwayTeam>BK Dukes Klosterneuburg</AwayTeam>
+			<Outcomes>
+				<Outcome oddId="1148237_7054956_11887207" linkId="7054956_11887207"
+					name="even">1.80</Outcome>
+				<Outcome oddId="1148237_7054956_11887208" linkId="7054956_11887208"
+					name="odd">1.80</Outcome>
+			</Outcomes>
+		</OddsData>
+	</OddsObject>
+</List>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FEED NAME="BettingOffers"
+	DESCRIPTION="All current betting offers for the given kind of sports"
+	LAST_REFRESH="2013-10-16T16:38:00" NEXT_REFRESH="2013-10-16T16:58:00"
+	DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	<KINDOFSPORT NAME="Football">
+		<LEAGUE NAME="Argentina 1st League" ID="105121">
+			<!-- TYPEID="9905353" PARTIDO COMPLETO (handicap +1) -->
+			<EVENT NAME="Argentinos Jrs. - Estudiantes LP" START_TIME="2013-10-18T23:10:00"
+				OPEN_TILL="2013-10-18T23:10:00" EVENTID="9856084">
+				<BET ID="33401038" TYPEID="9905353" TYPENAME="Handicap 1:0"
+					PLAYER1="Argentinos Jrs. " PLAYER2="Estudiantes LP" TIP="1" QUOTE="1,44" />
+				<BET ID="33401036" TYPEID="9905353" TYPENAME="Handicap 1:0"
+					PLAYER1="Argentinos Jrs. " PLAYER2="Estudiantes LP" TIP="2" QUOTE="5,00" />
+				<BET ID="33401037" TYPEID="9905353" TYPENAME="Handicap 1:0"
+					PLAYER1="Argentinos Jrs. " PLAYER2="Estudiantes LP" TIP="X" QUOTE="4,20" />
+			</EVENT>
+			<!-- TYPEID="32" PARTIDO COMPLETO (handicap -1) -->
+			<EVENT NAME="CA Tigre - Arsenal Sarandi" START_TIME="2013-10-20T21:10:00"
+				OPEN_TILL="2013-10-20T21:10:00" EVENTID="9856086">
+				<BET ID="33401349" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="CA Tigre "
+					PLAYER2="Arsenal Sarandi" TIP="1" QUOTE="5,00" />
+				<BET ID="33401347" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="CA Tigre "
+					PLAYER2="Arsenal Sarandi" TIP="2" QUOTE="1,44" />
+				<BET ID="33401348" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="CA Tigre "
+					PLAYER2="Arsenal Sarandi" TIP="X" QUOTE="4,00" />
+			</EVENT>
+			<LEAGUE NAME="Currie Cup (80´) - Rugby Union" ID="405399">
+				<!-- TYPEID="9905554" PARTIDO COMPLETO (handicap -7) -->
+				<EVENT NAME="The Sharks - Free State Cheetahs" START_TIME="2013-10-19T17:00:00"
+					OPEN_TILL="2013-10-19T17:00:00" EVENTID="9869910">
+					<BET ID="33471477" TYPEID="9905554" TYPENAME="Handicap Rugby"
+						PLAYER1="The Sharks(-7) " PLAYER2="Free State Cheetahs(+7)" TIP="1"
+						QUOTE="1,85" />
+					<BET ID="33471475" TYPEID="9905554" TYPENAME="Handicap Rugby"
+						PLAYER1="The Sharks(-7) " PLAYER2="Free State Cheetahs(+7)" TIP="2"
+						QUOTE="1,75" />
+					<BET ID="33471476" TYPEID="9905554" TYPENAME="Handicap Rugby"
+						PLAYER1="The Sharks(-7) " PLAYER2="Free State Cheetahs(+7)" TIP="X"
+						QUOTE="17,00" />
+				</EVENT>
+			</LEAGUE>
+
+
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>
