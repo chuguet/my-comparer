@@ -1,0 +1,33 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="com.comparadorad.bet.comparer.util.mock.factory.MockFactory" 
+    project="comparer.util.mock" 
+    file="/comparer.util.mock/src/main/java/com/comparadorad/bet/comparer/util/mock/factory/MockFactory.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="330" y="291"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.util.mock.factory.IMockFactory" project="comparer.util.mock" 
+    file="/comparer.util.mock/src/main/java/com/comparadorad/bet/comparer/util/mock/factory/IMockFactory.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="328" y="100"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <realization id="3">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

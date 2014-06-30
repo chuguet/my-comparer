@@ -1,0 +1,3529 @@
+/* 0 */
+{
+  "_id" : "911701607",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Banjaluka Doubles",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "J.S.Cabal/R.Farah",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "J.S.Cabal/R.Farah"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "982638337"
+  }
+}
+
+/* 1 */
+{
+  "_id" : "727933991",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Banjaluka Doubles",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "J.Murray/J.Peers",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "J.Murray/J.Peers"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "982638337"
+  }
+}
+
+/* 2 */
+{
+  "_id" : "939083867",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Banjaluka Doubles",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "M.Elgin/D.Istomin",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "M.Elgin/D.Istomin"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "982638337"
+  }
+}
+
+/* 3 */
+{
+  "_id" : "820583117",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Banjaluka Doubles",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "T.Bednarek/J.Brunstrom",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "T.Bednarek/J.Brunstrom"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "982638337"
+  }
+}
+
+/* 4 */
+{
+  "_id" : "540171061",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Banjaluka Doubles",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Rosol L./Sijsling I.",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Rosol L./Sijsling I."
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "982638337"
+  }
+}
+
+/* 5 */
+{
+  "_id" : "756179783",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Russian MHL",
+  "sportXmlName" : "Ice Hockey",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Amurskie Tigry",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Amurskie Tigry"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-09T08:00:43.609Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "764725903"
+  }
+}
+
+/* 6 */
+{
+  "_id" : "756222833",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Russia  P L",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Terek Grozny",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Terek Grozny"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-26T16:03:54.191Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "85"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1039656227"
+  }
+}
+
+/* 7 */
+{
+  "_id" : "756225121",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norway Norway Trndelag 1",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "fjord",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "fjord"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-01T19:39:28.316Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "111"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "615490901"
+  }
+}
+
+/* 8 */
+{
+  "_id" : "756271069",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Denmark Denmark Fynsserien",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Dalum IF",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Dalum IF"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-30T11:01:28.733Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "106"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1028984651"
+  }
+}
+
+/* 9 */
+{
+  "_id" : "756307969",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Club Friendly",
+  "sportXmlName" : "soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "CD Alcoyano",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "CD Alcoyano"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-09T11:47:31.22Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "26"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "692159129"
+  }
+}
+
+/* 10 */
+{
+  "_id" : "756313471",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "NBA",
+  "sportXmlName" : "US Basketball",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Trey Burke",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Trey Burke"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-31T03:50:42.179Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "957378701"
+  }
+}
+
+/* 11 */
+{
+  "_id" : "756404833",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Football-Europe",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Israel U21",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Israel U21"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-12T16:23:26.713Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "16"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "916009889"
+  }
+}
+
+/* 12 */
+{
+  "_id" : "756456391",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Colombia Cup",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Itagui Ditaires"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-29T18:21:07.071Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "106"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "565226059"
+  },
+  "cfgName" : "Itagui Ditaires"
+}
+
+/* 13 */
+{
+  "_id" : "756518029",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Lat. Virsliga",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Jurmala"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-01T10:50:24.979Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "927710599"
+  },
+  "cfgName" : "Jurmala"
+}
+
+/* 14 */
+{
+  "_id" : "756521257",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norwegian Tippeligaen",
+  "sportXmlName" : "European Major Leagues",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Brann"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T13:14:39.959Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "625816351"
+  },
+  "cfgName" : "Brann"
+}
+
+/* 15 */
+{
+  "_id" : "756605779",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norway Norway Indre stland 1",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "yer-Tretten",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "yer-Tretten"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-22T18:36:27.824Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "106"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "615490901"
+  }
+}
+
+/* 16 */
+{
+  "_id" : "756618593",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Int. Friendlies U20",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Uzbekistan"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-10T10:46:03.869Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "916009889"
+  },
+  "cfgName" : "Uzbekistan"
+}
+
+/* 17 */
+{
+  "_id" : "756646903",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norway Norway Nordmre/Romsdal",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "ndalsnes",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "ndalsnes"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-05T11:22:12.716Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "77"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "615490901"
+  }
+}
+
+/* 18 */
+{
+  "_id" : "756655517",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Challenger Prague",
+  "sportXmlName" : "tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "A.Haider Maurer"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-11T09:24:16.002Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "876481673"
+  },
+  "cfgName" : "A.Haider Maurer"
+}
+
+/* 19 */
+{
+  "_id" : "756657809",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Dutch Jupiler League",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Jong Ajax Amsterdam",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Jong Ajax Amsterdam"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-01T15:05:40.386Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "111"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "747052541"
+  }
+}
+
+/* 20 */
+{
+  "_id" : "756797777",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "NHL",
+  "sportXmlName" : "Ice Hockey",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Toronto Maple Leafs",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Toronto Maple Leafs"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-30T13:17:07.278Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "580058473"
+  }
+}
+
+/* 21 */
+{
+  "_id" : "756819109",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Live Sth.AmC",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Criciuma",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Criciuma"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-22T04:47:25.773Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1053460013"
+  }
+}
+
+/* 22 */
+{
+  "_id" : "756950119",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Poland - Cup",
+  "sportXmlName" : "soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Slask Wroclaw",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Slask Wroclaw"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-15T16:06:36.875Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "907256227"
+  }
+}
+
+/* 23 */
+{
+  "_id" : "756980989",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Sweden Sweden Gotland",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Visby AIK",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Visby AIK"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-09T09:52:38.303Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "865486231"
+  }
+}
+
+/* 24 */
+{
+  "_id" : "757003007",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Leinster Senior League 2013/2014",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Crumlin Utd",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Crumlin Utd"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-13T13:27:49.244Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "725156863"
+  }
+}
+
+/* 25 */
+{
+  "_id" : "757004389",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "International Qualifying",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Joao Sousa"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-17T10:36:31.577Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "77"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "541202807"
+  },
+  "cfgName" : "Joao Sousa"
+}
+
+/* 26 */
+{
+  "_id" : "757016287",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Football-Rymanprem",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Cray Wanderers",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cray Wanderers"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-09T13:21:11.491Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "590000591"
+  }
+}
+
+/* 27 */
+{
+  "_id" : "757035353",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "NBA NBA 2013-2014",
+  "sportXmlName" : "Basketball",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Los Angeles Clippers"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-17T13:52:42.929Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "26"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "957378701"
+  },
+  "cfgName" : "Los Angeles Clippers"
+}
+
+/* 28 */
+{
+  "_id" : "757044133",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Friendlies",
+  "sportXmlName" : "soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Trinidad&Tobago"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-06T09:42:22.139Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "725522071"
+  },
+  "cfgName" : "Trinidad&Tobago"
+}
+
+/* 29 */
+{
+  "_id" : "757071589",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Tour de France",
+  "sportXmlName" : "Cycling",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "John Gadret"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-05T07:03:58.095Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "745300813"
+  },
+  "cfgName" : "John Gadret"
+}
+
+/* 30 */
+{
+  "_id" : "757182989",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Segunda Division",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "CD Lugo",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "CD Lugo"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-22T03:21:07.024Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "106"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "630151771"
+  }
+}
+
+/* 31 */
+{
+  "_id" : "757410839",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Italian Seconda Div. B",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Arzanese",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Arzanese"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-06T09:49:47.367Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "17"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "890997337"
+  }
+}
+
+/* 32 */
+{
+  "_id" : "757416071",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "2014 BCS National Championship",
+  "sportXmlName" : "US",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Miami FL",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Miami FL"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-01T13:50:09.383Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "613360133"
+  }
+}
+
+/* 33 */
+{
+  "_id" : "757517777",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Wimbledon Men",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Brands D."
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-25T09:39:53.009Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1037347319"
+  },
+  "cfgName" : "Brands D."
+}
+
+/* 34 */
+{
+  "_id" : "757537643",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP - Rogers Cup",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Kevin Anderson",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Kevin Anderson"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-06T08:44:50.555Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1053888053"
+  }
+}
+
+/* 35 */
+{
+  "_id" : "757547743",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Paulista U20",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Corinthians SP U20"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-21T11:04:45.199Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "17"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "618979681"
+  },
+  "cfgName" : "Corinthians SP U20"
+}
+
+/* 36 */
+{
+  "_id" : "757583569",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP - Wimbledon - R64",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ernests Gulbis"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-25T09:13:16.866Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1037347319"
+  },
+  "cfgName" : "Ernests Gulbis"
+}
+
+/* 37 */
+{
+  "_id" : "757727969",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Czech Division 1",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Pardubice"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T16:54:23.013Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1013608703"
+  },
+  "cfgName" : "Pardubice"
+}
+
+/* 38 */
+{
+  "_id" : "757791569",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Tennis-Masters",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Vinci, R",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Vinci, R"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-12T11:25:27.825Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "555722899"
+  }
+}
+
+/* 39 */
+{
+  "_id" : "757858649",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Poland - Cup",
+  "sportXmlName" : "soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Legia Warsaw",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Legia Warsaw"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-15T16:06:48.887Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "907256227"
+  }
+}
+
+/* 40 */
+{
+  "_id" : "757943099",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "English FA Cup",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Brentford"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-27T09:38:07.393Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1037418721"
+  },
+  "cfgName" : "Brentford"
+}
+
+/* 41 */
+{
+  "_id" : "758048153",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Champions League",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Dinamo Zagreb"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-27T09:48:00.031Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "547583789"
+  },
+  "cfgName" : "Dinamo Zagreb"
+}
+
+/* 42 */
+{
+  "_id" : "758053189",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Giro d'Italia",
+  "sportXmlName" : "Cycling",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Fabio Felline"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-25T19:38:04.735Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "106"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "862074833"
+  },
+  "cfgName" : "Fabio Felline"
+}
+
+/* 43 */
+{
+  "_id" : "758074979",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Football-Europe",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Morocco U19"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-19T08:30:31.191Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "916009889"
+  },
+  "cfgName" : "Morocco U19"
+}
+
+/* 44 */
+{
+  "_id" : "758088511",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "England FA-Cup Champion",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bury FC"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-20T04:45:38.426Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "591399079"
+  },
+  "cfgName" : "Bury FC"
+}
+
+/* 45 */
+{
+  "_id" : "758175497",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Europe European Trophy",
+  "sportXmlName" : "Ice Hockey",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Lausanne HC",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Lausanne HC"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-05T10:41:53.238Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "993055303"
+  }
+}
+
+/* 46 */
+{
+  "_id" : "758268157",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "French National",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Bourg Peronnas",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bourg Peronnas"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-08T09:46:49.056Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "111"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "622341463"
+  }
+}
+
+/* 47 */
+{
+  "_id" : "758349517",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Club Friendlies Men",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Ashton United",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ashton United"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-29T23:39:46.996Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "692159129"
+  }
+}
+
+/* 48 */
+{
+  "_id" : "758355529",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Eng. Premier League",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Norwich City"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T13:08:54.406Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "565215419"
+  },
+  "cfgName" : "Norwich City"
+}
+
+/* 49 */
+{
+  "_id" : "758547187",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Wimbledon",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Carlos Berlocq"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-25T09:08:43.101Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1037347319"
+  },
+  "cfgName" : "Carlos Berlocq"
+}
+
+/* 50 */
+{
+  "_id" : "758606203",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Swedish Hockey League",
+  "sportXmlName" : "European Ice Hockey",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "HV71",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "HV71"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-10T14:53:18.624Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "541643321"
+  }
+}
+
+/* 51 */
+{
+  "_id" : "758612551",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "France Ligue 2",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Stade Brestois 29"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-22T08:33:39.751Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "544011581"
+  },
+  "cfgName" : "Stade Brestois 29"
+}
+
+/* 52 */
+{
+  "_id" : "758680651",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norway Norway stfold",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Trosvik",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Trosvik"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-09T08:40:45.366Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "16"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "615490901"
+  }
+}
+
+/* 53 */
+{
+  "_id" : "758779841",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Australian Open M.",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Ryan Harrison",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ryan Harrison"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-23T13:22:23.351Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "94"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "725619733"
+  }
+}
+
+/* 54 */
+{
+  "_id" : "758798671",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "International Aegon International, Eastbourne",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Na Li"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-18T12:30:54.121Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "636305023"
+  },
+  "cfgName" : "Na Li"
+}
+
+/* 55 */
+{
+  "_id" : "758888227",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "La Vuelta",
+  "sportXmlName" : "Cycling",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Thibault Pinot",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Thibault Pinot"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-23T17:06:10.983Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "94"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "778844441"
+  }
+}
+
+/* 56 */
+{
+  "_id" : "758914199",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Denmark Denmark FBU Serie 2, Pulje 4",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Kvrndrup BK",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Kvrndrup BK"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-02T18:48:52.063Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "85"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1028984651"
+  }
+}
+
+/* 57 */
+{
+  "_id" : "758997167",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Turkey Super Cup",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Galatasaray"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-11T17:49:41.367Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "33"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "731588381"
+  },
+  "cfgName" : "Galatasaray"
+}
+
+/* 58 */
+{
+  "_id" : "759041329",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Eng. Premier League",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Chelsea"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T13:31:06.217Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "85"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "565215419"
+  },
+  "cfgName" : "Chelsea"
+}
+
+/* 59 */
+{
+  "_id" : "759060221",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Championship 2013/2014",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Zamora, Bobby",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Zamora, Bobby"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-30T02:44:20.235Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "591399079"
+  }
+}
+
+/* 60 */
+{
+  "_id" : "759087089",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Czech Division 1",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Usti nad Labem"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T16:56:05.434Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1013608703"
+  },
+  "cfgName" : "Usti nad Labem"
+}
+
+/* 61 */
+{
+  "_id" : "759123667",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "World Cup 2014",
+  "sportXmlName" : "International Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mozambique"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-11T14:58:58.079Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1050059609"
+  },
+  "cfgName" : "Mozambique"
+}
+
+/* 62 */
+{
+  "_id" : "759151753",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Ina. Indonesian Super Liga",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Gresik United"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-26T07:13:48.769Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1004255771"
+  },
+  "cfgName" : "Gresik United"
+}
+
+/* 63 */
+{
+  "_id" : "759199607",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Club Friendly",
+  "sportXmlName" : "soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Waterford United",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Waterford United"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-03T10:05:44.584Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "26"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "692159129"
+  }
+}
+
+/* 64 */
+{
+  "_id" : "759210241",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Friendly Internationals",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Greece",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Greece"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-08T21:30:05.119Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "725522071"
+  }
+}
+
+/* 65 */
+{
+  "_id" : "759223187",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "International UEFA Champions League",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sknderbeu Kor"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-28T13:52:05.013Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "547583789"
+  },
+  "cfgName" : "Sknderbeu Kor"
+}
+
+/* 66 */
+{
+  "_id" : "759238967",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Pol. II Liga East",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Olimpia Elblag"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-25T09:35:04.091Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "931297811"
+  },
+  "cfgName" : "Olimpia Elblag"
+}
+
+/* 67 */
+{
+  "_id" : "759242177",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Algeria Division 1",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Bordj Bou Arreridj",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bordj Bou Arreridj"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-24T14:32:11.945Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "69"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "868535497"
+  }
+}
+
+/* 68 */
+{
+  "_id" : "759262837",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "WTA US Open",
+  "sportXmlName" : "tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "M.Doi",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "M.Doi"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-23T20:49:02.857Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "587429273"
+  }
+}
+
+/* 69 */
+{
+  "_id" : "759296501",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Hertogenbosch",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Llodra M."
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-18T18:48:04.506Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "911740771"
+  },
+  "cfgName" : "Llodra M."
+}
+
+/* 70 */
+{
+  "_id" : "759319367",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "WTA US Open, Qualifying",
+  "sportXmlName" : "tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "V.Dushevina",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "V.Dushevina"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-21T12:39:17.553Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "16"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "587429273"
+  }
+}
+
+/* 71 */
+{
+  "_id" : "759330667",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Scotland League One",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Arbroath",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Arbroath"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-07T12:55:26.386Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "111"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "828215527"
+  }
+}
+
+/* 72 */
+{
+  "_id" : "759389557",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "NBA",
+  "sportXmlName" : "US Basketball",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Ben McLemore",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ben McLemore"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-27T00:06:12.372Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "957378701"
+  }
+}
+
+/* 73 */
+{
+  "_id" : "759455903",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "2nd Division - West",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Spartak Kostroma",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Spartak Kostroma"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-29T09:06:02.79Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "928094633"
+  }
+}
+
+/* 74 */
+{
+  "_id" : "759493247",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Germany Bayernliga North",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Spvgg Weiden",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Spvgg Weiden"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-10T17:20:33.46Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "876510517"
+  }
+}
+
+/* 75 */
+{
+  "_id" : "759545447",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Sweden Sweden Dalarna",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Gagnefs IF A"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-07-11T14:25:12.952Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "77"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "560612467"
+  },
+  "cfgName" : "Gagnefs IF A"
+}
+
+/* 76 */
+{
+  "_id" : "759576227",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Wimbledon",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Martin Klizan"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-25T09:02:54.854Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "17"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1037347319"
+  },
+  "cfgName" : "Martin Klizan"
+}
+
+/* 77 */
+{
+  "_id" : "759591289",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Japan - Nabisco Cup",
+  "sportXmlName" : "soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Yokohama F Marinos",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Yokohama F Marinos"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-05T10:45:11.847Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "106"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "632640161"
+  }
+}
+
+/* 78 */
+{
+  "_id" : "759593431",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Vuelta A Espana 2013",
+  "sportXmlName" : "Cycling",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Team Argos",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Team Argos"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-24T03:23:42.765Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "778844441"
+  }
+}
+
+/* 79 */
+{
+  "_id" : "759631207",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "SPL 2013-14",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Sproule, Ivan",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sproule, Ivan"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-01T17:18:57.386Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "111"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1072024033"
+  }
+}
+
+/* 80 */
+{
+  "_id" : "759690403",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "WTA US Open",
+  "sportXmlName" : "tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "K.Flipkens",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "K.Flipkens"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-23T19:55:49.848Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "587429273"
+  }
+}
+
+/* 81 */
+{
+  "_id" : "759775319",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Montreal",
+  "sportXmlName" : "tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "N.Djokovic",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "N.Djokovic"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-06T08:52:53.057Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "69"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1053888053"
+  }
+}
+
+/* 82 */
+{
+  "_id" : "759781097",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Germany Cup",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Neckarsulmer SU",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Neckarsulmer SU"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-03T10:39:50.338Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "69"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "671766937"
+  }
+}
+
+/* 83 */
+{
+  "_id" : "759801047",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Thailand Premier League",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Osotspa FC"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-22T06:45:03.494Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "17"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "816163573"
+  },
+  "cfgName" : "Osotspa FC"
+}
+
+/* 84 */
+{
+  "_id" : "759870763",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norway 3. Division Avd. 12",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Ishavsbyen",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ishavsbyen"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-03T09:46:02.035Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "105"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "542278193"
+  }
+}
+
+/* 85 */
+{
+  "_id" : "759949129",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Champions League 2013/14",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Griezmann, Antoine",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Griezmann, Antoine"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-04T03:52:47.158Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "40"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "547583789"
+  }
+}
+
+/* 86 */
+{
+  "_id" : "760020013",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Bulgarian NBL",
+  "sportXmlName" : "Basketball",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Lukoil Academic Sofia"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-25T07:40:39.156Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "539645749"
+  },
+  "cfgName" : "Lukoil Academic Sofia"
+}
+
+/* 87 */
+{
+  "_id" : "760031071",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "US Open M.",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Kenny De Schepper",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Kenny De Schepper"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-23T16:43:04.45Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "94"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1011840607"
+  }
+}
+
+/* 88 */
+{
+  "_id" : "760051697",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Men's US Open 2013",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Baghdatis, Marcos"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-13T16:55:03.832Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1011840607"
+  },
+  "cfgName" : "Baghdatis, Marcos"
+}
+
+/* 89 */
+{
+  "_id" : "760212737",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "WTA Cincinnati",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Kleybanova Alisa",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Kleybanova Alisa"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-12T07:16:23.153Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "17"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "541984379"
+  }
+}
+
+/* 90 */
+{
+  "_id" : "760222537",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "FA Cup 2013/2014",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Trafford",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Trafford"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-06T07:03:06.322Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "85"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1037418721"
+  }
+}
+
+/* 91 */
+{
+  "_id" : "760226419",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Irish FAICup",
+  "sportXmlName" : "Soccer",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bray Wanderers"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-29T10:45:42.524Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "858087779"
+  },
+  "cfgName" : "Bray Wanderers"
+}
+
+/* 92 */
+{
+  "_id" : "760308803",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "International Qualifying",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Dominik Suc"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-10T10:04:18.839Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "541202807"
+  },
+  "cfgName" : "Dominik Suc"
+}
+
+/* 93 */
+{
+  "_id" : "760338259",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "German Bundesliga",
+  "sportXmlName" : "Handball",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "TUS N-Lubbecke"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T20:02:36.959Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "43"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "959105107"
+  },
+  "cfgName" : "TUS N-Lubbecke"
+}
+
+/* 94 */
+{
+  "_id" : "760344001",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "ATP Challenger Tanger",
+  "sportXmlName" : "tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "T.Lamasine"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-18T06:08:45.22Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "19"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "1041830753"
+  },
+  "cfgName" : "T.Lamasine"
+}
+
+/* 95 */
+{
+  "_id" : "760419271",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Football-Europe",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Austria U21",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Austria U21"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-12T12:29:37.677Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "109"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "916009889"
+  }
+}
+
+/* 96 */
+{
+  "_id" : "760619603",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Norwegian Posten W.",
+  "sportXmlName" : "Handball",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "Vg W.",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Vg W."
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-09-05T10:07:01.305Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "767025167"
+  }
+}
+
+/* 97 */
+{
+  "_id" : "760715951",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "English Capital One Cup",
+  "sportXmlName" : "UK Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Newcastle"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-05-24T21:40:05.798Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "557523383"
+  },
+  "cfgName" : "Newcastle"
+}
+
+/* 98 */
+{
+  "_id" : "760725619",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Master R1",
+  "sportXmlName" : "Tennis",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "cfgName" : "J. Blake",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "J. Blake"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-08-12T09:30:02.996Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "27"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "541202807"
+  }
+}
+
+/* 99 */
+{
+  "_id" : "760788529",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipant",
+  "competitionXmlName" : "Italian Cup",
+  "sportXmlName" : "Football",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sampdoria"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2013-06-08T16:57:48.191Z"),
+        "user" : "APP_VERIFIED",
+        "dataRef" : {
+          "$ref" : "cfgBookmaker",
+          "$id" : "103"
+        },
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "cfgCompetition" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "550292849"
+  },
+  "cfgName" : "Sampdoria"
+}
