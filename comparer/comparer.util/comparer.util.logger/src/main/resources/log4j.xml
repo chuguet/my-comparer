@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+	<!-- Log output to Console -->
+	<appender name="console" class="org.apache.log4j.ConsoleAppender">
+		<param name="Target" value="System.out" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<!-- <param name="ConversionPattern" value="%d %-5p %c - %m%n"/> -->
+			<param name="ConversionPattern" value="%d [%t] %-5p %c - %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="rolling" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="./logs/logFile.log" />
+		<param name="MaxFileSize" value="10MB" />
+		<param name="MaxBackupIndex" value="25" />
+		<param name="append" value="false" />
+		<param name="encoding" value="UTF-8" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%t] %-5p %c - %m%n" />
+		</layout>
+	</appender>
+
+	<!-- <appender name="ehcache" class="org.apache.log4j.RollingFileAppender"> -->
+	<!-- <param name="file" value="./logs/ehcache.log" /> -->
+	<!-- <param name="MaxFileSize" value="25MB" /> -->
+	<!-- <param name="MaxBackupIndex" value="25" /> -->
+	<!-- <param name="append" value="false" /> -->
+	<!-- <param name="encoding" value="UTF-8" /> -->
+	<!-- <layout class="org.apache.log4j.PatternLayout"> -->
+	<!-- <param name="ConversionPattern" value="%d [%t] %-5p %c - %m%n" /> -->
+	<!-- </layout> -->
+	<!-- </appender> -->
+
+	<appender name="surebet" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="./logs/surebet.log" />
+		<param name="MaxFileSize" value="25MB" />
+		<param name="MaxBackupIndex" value="25" />
+		<param name="append" value="false" />
+		<param name="encoding" value="UTF-8" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%t] %-5p %c - %m%n" />
+		</layout>
+	</appender>
+	
+	<appender name="readerdatanoprocessed" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="./logs/readerDataNoProcessed.log" />
+		<param name="MaxFileSize" value="25MB" />
+		<param name="MaxBackupIndex" value="25" />
+		<param name="append" value="false" />
+		<param name="encoding" value="UTF-8" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%p] - %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="updatebets" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="./logs/updatebets.log" />
+		<param name="MaxFileSize" value="25MB" />
+		<param name="MaxBackupIndex" value="25" />
+		<param name="append" value="false" />
+		<param name="encoding" value="UTF-8" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%t] %-5p %c - %m%n" />
+		</layout>
+	</appender>
+	
+	<appender name="validation" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="./logs/validation.log" />
+		<param name="MaxFileSize" value="25MB" />
+		<param name="MaxBackupIndex" value="25" />
+		<param name="append" value="false" />
+		<param name="encoding" value="UTF-8" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%t] %-5p %c - %m%n" />
+		</layout>
+	</appender>
+	
+
+	<category name="com.comparadorad.bet.comparer">
+		<priority value="DEBUG" />
+	</category>
+	<category name="net.sf">
+		<priority value="TRACE" />
+	</category>
+	<category name="com.terracottatech">
+		<priority value="TRACE" />
+	</category>
+	<category name="org.springframework.beans.factory">
+		<priority value="ERROR" />
+	</category>
+	<category name="org.springframework">
+		<priority value="ERROR" />
+	</category>
+	<category name="org.springframework.context">
+		<priority value="ERROR" />
+	</category>
+	<category name="org.springframework.data.document.mongodb">
+		<priority value="ERROR" />
+	</category>
+	<category name="org.dozer">
+		<priority value="ERROR" />
+	</category>
+	<category name="org.hibernate.validator">
+		<priority value="INFO" />
+	</category>
+	<category name="org.apache.commons">
+		<priority value="INFO" />
+	</category>
+	<category name="org.simmetrics">
+		<priority value="ERROR" />
+	</category>
+	<category name="httpclient.wire">
+		<priority value="ERROR" />
+	</category>
+
+	<!-- <logger name="net.sf"> -->
+	<!-- <level value="TRACE" /> -->
+	<!-- <appender-ref ref="ehcache" /> -->
+	<!-- </logger> -->
+
+	<!-- <logger name="com.terracottatech"> -->
+	<!-- <level value="TRACE" /> -->
+	<!-- <appender-ref ref="ehcache" /> -->
+	<!-- </logger> -->
+
+	<logger name="com.comparadorad.bet.comparer.synchro.securebet">
+		<level value="DEBUG" />
+		<appender-ref ref="surebet" />
+	</logger>
+	
+	<logger name="ReaderDataNoProcessed">
+		<level value="DEBUG" />
+		<appender-ref ref="readerdatanoprocessed" />
+		<appender-ref ref="console" />
+	</logger>
+
+	<logger name="com.comparadorad.bet.comparer.model.bet.repository.updatelog">
+		<level value="DEBUG" />
+		<appender-ref ref="updatebets" />
+	</logger>
+
+	<logger name="com.comparadorad.bet.comparer.bet.bean.validator">
+		<level value="DEBUG" />
+		<appender-ref ref="validation" />
+	</logger>
+
+	<!-- Log to both Console and File -->
+	<root>
+		<level value="ALL" />
+		<appender-ref ref="console" />
+		<appender-ref ref="rolling" />
+	</root>
+</log4j:configuration>

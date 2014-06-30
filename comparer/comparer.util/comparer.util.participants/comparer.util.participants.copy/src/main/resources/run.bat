@@ -1,0 +1,1 @@
+java -jar participants.jar "idCompetitionOrigin" "idCompetitionDestiny" "profile"

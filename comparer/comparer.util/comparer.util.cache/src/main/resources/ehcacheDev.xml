@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ehcache updateCheck="false">
+
+	<defaultCache eternal='false' maxElementsInMemory='100'
+		overflowToDisk='false' />
+
+	<!-- Inicio de la cache comparer.web.server.mvc.match -->
+
+	<cache name="betOdds_competitionEventController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="bettypes_competitiontabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="head_competitiontabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="betodds_competitiontabltcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="bettypes_competitiontabltcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="head_competitiontabltcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="matchs_competitiontabltcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="countryEventsCompetition_countryTabEventController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="countryeventsevent_countrytabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="countryLongTermBetType_CountryTabLTController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="countryLongTermCompetition_countryTabLTController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="countryLongTermEvent_countryTabLTController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="head_countrytabltcontroller" maxElementsInMemory="10000"
+		eternal="false" timeToIdleSeconds="3600" timeToLiveSeconds="3600"
+		overflowToDisk="false" maxElementsOnDisk="0" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="betodds_eventtabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="bettypesevent_eventtabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="bettypes_eventtabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="head_eventtabeventcontroller" maxElementsInMemory="10000"
+		eternal="false" timeToIdleSeconds="3600" timeToLiveSeconds="3600"
+		overflowToDisk="false" maxElementsOnDisk="0" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="head_sporttabeventcontroller" maxElementsInMemory="10000"
+		eternal="false" timeToIdleSeconds="3600" timeToLiveSeconds="3600"
+		overflowToDisk="false" maxElementsOnDisk="0" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="sportCountriesCompetitions_sportTabEventController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="sportcountriescountries_sporttabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="sportcountriesevents_sporttabeventcontroller"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="3600" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+	<cache name="head_countrytabeventcontroller" maxElementsInMemory="10000"
+		eternal="false" timeToIdleSeconds="3600" timeToLiveSeconds="3600"
+		overflowToDisk="false" maxElementsOnDisk="0" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="rtMatch_eventTabEventController"
+		maxElementsInMemory="10000" eternal="false" timeToIdleSeconds="120"
+		timeToLiveSeconds="120" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+
+
+	<!-- Fin de la cache comparer.web.server.mvc.match -->
+
+	<cache name="livebet_livebetcontroller" maxElementsInMemory="10000"
+		eternal="false" timeToIdleSeconds="3600" timeToLiveSeconds="120"
+		overflowToDisk="false" maxElementsOnDisk="0" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="imageSliderController_getEventData"
+		maxElementsInMemory="0" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="120" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="imageSliderController_getEventDataUpdate"
+		maxElementsInMemory="0" eternal="false" timeToIdleSeconds="3600"
+		timeToLiveSeconds="120" overflowToDisk="false" maxElementsOnDisk="0"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="toolbarLVL1" maxElementsInMemory="1000" eternal="false"
+		timeToIdleSeconds="180" timeToLiveSeconds="180" overflowToDisk="false"
+		maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="180" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="toolbarLVL2" maxElementsInMemory="1000" eternal="false"
+		timeToIdleSeconds="180" timeToLiveSeconds="180" overflowToDisk="false"
+		maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="180" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="toolbarLVL3" maxElementsInMemory="1000" eternal="false"
+		timeToIdleSeconds="180" timeToLiveSeconds="180" overflowToDisk="false"
+		maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="180" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="findByNameSport" maxElementsInMemory="1000" eternal="false"
+		timeToIdleSeconds="120" timeToLiveSeconds="120" overflowToDisk="false"
+		maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="findByNameCompetition" maxElementsInMemory="1000"
+		eternal="false" timeToIdleSeconds="120" timeToLiveSeconds="120"
+		overflowToDisk="false" maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="findByNameParticipant" maxElementsInMemory="1000"
+		eternal="false" timeToIdleSeconds="120" timeToLiveSeconds="120"
+		overflowToDisk="false" maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="findByBetUrl" maxElementsInMemory="1000" eternal="false"
+		timeToIdleSeconds="120" timeToLiveSeconds="120" overflowToDisk="false"
+		maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+	<cache name="getRtMatchFromDB" maxElementsInMemory="1000"
+		eternal="false" timeToIdleSeconds="120" timeToLiveSeconds="120"
+		overflowToDisk="false" maxElementsOnDisk="1000000" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120" memoryStoreEvictionPolicy="LRU" />
+
+
+
+
+
+</ehcache>

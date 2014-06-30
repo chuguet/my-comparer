@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>comparer.util</artifactId>
+	<packaging>pom</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<modules>
+		<module>comparer.util.logger</module>
+		<module>comparer.util.commons</module>
+		<module>comparer.util.batch</module>
+		<module>comparer.util.test</module>
+		<module>comparer.util.cache</module>
+		<module>comparer.util.mail</module>
+		<module>comparer.util.participants</module>
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+	</build>
+
+</project>
