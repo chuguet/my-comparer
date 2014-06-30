@@ -1,0 +1,9 @@
+<category name="Tennis" timeGenerated="2013-05-29T12:14:14" Bookmaker="Boyle Sports">
+<event name="Real Madrid v Atletico Madrid" eventid="2063577.10" date="20130517" time="2030" meeting="" venue="" sporttype="Football" sport="World Cup">
+	<bettype suspended="false" name="Match Betting" inrunning="0" bettypeid="10882938.10">
+		<bet name="Atletico Madrid" id="214628177.10" price="11/4" priceDecimal="3.75" active-price-types="CP"/>
+		<bet name="Draw" id="214628250.10" price="1/4" priceDecimal="2.25" active-price-types="CP"/>
+		<bet name="Real Madrid" id="214628250.10" price="1/4" priceDecimal="1.25" active-price-types="CP"/>
+	</bettype>
+</event>
+</category>

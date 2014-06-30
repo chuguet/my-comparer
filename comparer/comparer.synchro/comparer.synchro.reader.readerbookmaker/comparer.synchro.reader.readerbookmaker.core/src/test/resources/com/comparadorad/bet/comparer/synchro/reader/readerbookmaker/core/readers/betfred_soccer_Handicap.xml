@@ -1,0 +1,19 @@
+<category name="Football-Spanish-Primera" timeGenerated="2013-02-27T14:43:49"
+	Bookmaker="Betfred">
+	<event name="Real Mallorca v Real Betis" eventid="2475382.20"
+		date="20130520" time="2100" meeting="" venue="">
+		<bettype bet-start-date="20130520" bet-start-time="2100"
+			handicap="-1" suspended="false" name="Handicap +1.0" inrunning="0"
+			bettypeid="6300632.20">
+			<bet had-value="DRAW" name="Handicap Tie" short-name="Handicap"
+				id="135105815.20" handicap-id="3812595.20" handicap="-1" price="10/3"
+				priceDecimal="4.33" priceUS="333.33" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis" short-name="Real Beti"
+				id="135105816.20" handicap-id="3812596.20" handicap="1" price="1/2"
+				priceDecimal="1.50" priceUS="-50.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Mallorca" short-name="Real Mall"
+				id="135105814.20" handicap-id="3812594.20" handicap="-1" price="4/1"
+				priceDecimal="5.00" priceUS="400.00" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

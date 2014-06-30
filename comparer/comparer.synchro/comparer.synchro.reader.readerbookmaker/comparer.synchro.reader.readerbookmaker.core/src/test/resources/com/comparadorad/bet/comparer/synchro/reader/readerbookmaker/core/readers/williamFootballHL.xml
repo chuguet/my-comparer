@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-17 16:25:21" lastMsgId="4496214558" requestTime="0.1540">
+	<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+		<williamhill>
+			<class id="436" name="Football - Virtual" maxRepDate="2012-12-17" maxRepTime="01:08:09">
+				<type id="8398" name="Victoria Stadium" url="http://sports.williamhill.com/bet/betting/t/8398" lastUpdateDate="2012-11-05" lastUpdateTime="05:44:52">
+					<market id="52294823" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845276/%2dSweden%2dv%2dEngland" date="2012-12-17" time="16:28:00" betTillDate="2012-12-17" betTillTime="16:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:24">
+						<participant name="Over 2.5" id="213381238" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:24" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381237" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:24" handicap="2.5"/>
+					</market>
+					<market id="52294829" name=" Germany v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845277/%2dGermany%2dv%2dPortugal" date="2012-12-17" time="16:32:00" betTillDate="2012-12-17" betTillTime="16:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:31">
+						<participant name="Over 2.5" id="213381268" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:31" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381267" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:31" handicap="2.5"/>
+					</market>
+					<market id="52294835" name=" Spain v Italy - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845278/%2dSpain%2dv%2dItaly" date="2012-12-17" time="16:36:00" betTillDate="2012-12-17" betTillTime="16:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:32">
+						<participant name="Over 2.5" id="213381298" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:32" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381297" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:32" handicap="2.5"/>
+					</market>
+					<market id="52294841" name=" Republic of Ireland v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845279/%2dRepublic%2dof%2dIreland%2dv%2dCroatia" date="2012-12-17" time="16:40:00" betTillDate="2012-12-17" betTillTime="16:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:34">
+						<participant name="Over 2.5" id="213381328" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:34" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381327" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:34" handicap="2.5"/>
+					</market>
+					<market id="52294847" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845280/%2dFrance%2dv%2dEngland" date="2012-12-17" time="16:44:00" betTillDate="2012-12-17" betTillTime="16:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:35">
+						<participant name="Over 2.5" id="213381358" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:35" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381357" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:35" handicap="2.5"/>
+					</market>
+					<market id="52294853" name=" Ukraine v Sweden - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845281/%2dUkraine%2dv%2dSweden" date="2012-12-17" time="16:48:00" betTillDate="2012-12-17" betTillTime="16:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:37">
+						<participant name="Over 2.5" id="213381388" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:37" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381387" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:37" handicap="2.5"/>
+					</market>
+					<market id="52294859" name=" Greece v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845282/%2dGreece%2dv%2dCzech%2dRepublic" date="2012-12-17" time="16:52:00" betTillDate="2012-12-17" betTillTime="16:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:43">
+						<participant name="Over 2.5" id="213381418" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:43" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381417" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:43" handicap="2.5"/>
+					</market>
+					<market id="52294865" name=" Poland v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845283/%2dPoland%2dv%2dRussia" date="2012-12-17" time="16:56:00" betTillDate="2012-12-17" betTillTime="16:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:45">
+						<participant name="Over 2.5" id="213381448" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:45" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381447" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:45" handicap="2.5"/>
+					</market>
+					<market id="52294871" name=" Denmark v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845284/%2dDenmark%2dv%2dPortugal" date="2012-12-17" time="17:00:00" betTillDate="2012-12-17" betTillTime="17:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:46">
+						<participant name="Over 2.5" id="213381478" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:46" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381477" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:46" handicap="2.5"/>
+					</market>
+					<market id="52294877" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845285/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="17:04:00" betTillDate="2012-12-17" betTillTime="17:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:48">
+						<participant name="Over 2.5" id="213381508" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:48" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381507" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:48" handicap="2.5"/>
+					</market>
+					<market id="52294883" name=" Holland v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845286/%2dHolland%2dv%2dGermany" date="2012-12-17" time="17:08:00" betTillDate="2012-12-17" betTillTime="17:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:54">
+						<participant name="Over 2.5" id="213381538" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:54" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381537" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:54" handicap="2.5"/>
+					</market>
+					<market id="52294889" name=" Italy v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845287/%2dItaly%2dv%2dCroatia" date="2012-12-17" time="17:12:00" betTillDate="2012-12-17" betTillTime="17:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:56">
+						<participant name="Over 2.5" id="213381568" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:56" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381567" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:00:56" handicap="2.5"/>
+					</market>
+					<market id="52294895" name=" Spain v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845288/%2dSpain%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="17:16:00" betTillDate="2012-12-17" betTillTime="17:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:03">
+						<participant name="Over 2.5" id="213381598" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:03" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381597" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:03" handicap="2.5"/>
+					</market>
+					<market id="52294901" name=" Ukraine v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845289/%2dUkraine%2dv%2dFrance" date="2012-12-17" time="17:20:00" betTillDate="2012-12-17" betTillTime="17:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:09">
+						<participant name="Over 2.5" id="213381628" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:09" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381627" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:09" handicap="2.5"/>
+					</market>
+					<market id="52294907" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845290/%2dSweden%2dv%2dEngland" date="2012-12-17" time="17:24:00" betTillDate="2012-12-17" betTillTime="17:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:11">
+						<participant name="Over 2.5" id="213381658" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:11" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381657" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:11" handicap="2.5"/>
+					</market>
+					<market id="52294913" name=" Greece v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845291/%2dGreece%2dv%2dRussia" date="2012-12-17" time="17:28:00" betTillDate="2012-12-17" betTillTime="17:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:18">
+						<participant name="Over 2.5" id="213381688" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:18" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381687" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:18" handicap="2.5"/>
+					</market>
+					<market id="52294919" name=" Czech Republic v Poland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845292/%2dCzech%2dRepublic%2dv%2dPoland" date="2012-12-17" time="17:32:00" betTillDate="2012-12-17" betTillTime="17:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:24">
+						<participant name="Over 2.5" id="213381718" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:24" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381717" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:24" handicap="2.5"/>
+					</market>
+					<market id="52294926" name=" Portugal v Holland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845293/%2dPortugal%2dv%2dHolland" date="2012-12-17" time="17:36:00" betTillDate="2012-12-17" betTillTime="17:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:30">
+						<participant name="Over 2.5" id="213381750" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:30" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381749" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:30" handicap="2.5"/>
+					</market>
+					<market id="52294932" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845294/%2dFrance%2dv%2dEngland" date="2012-12-17" time="17:40:00" betTillDate="2012-12-17" betTillTime="17:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:37">
+						<participant name="Over 2.5" id="213381780" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:37" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381779" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:37" handicap="2.5"/>
+					</market>
+					<market id="52294938" name=" Denmark v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845295/%2dDenmark%2dv%2dGermany" date="2012-12-17" time="17:44:00" betTillDate="2012-12-17" betTillTime="17:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:43">
+						<participant name="Over 2.5" id="213381810" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:43" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381809" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:43" handicap="2.5"/>
+					</market>
+					<market id="52294944" name=" Croatia v Spain - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845296/%2dCroatia%2dv%2dSpain" date="2012-12-17" time="17:48:00" betTillDate="2012-12-17" betTillTime="17:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:45">
+						<participant name="Over 2.5" id="213381840" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:45" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381839" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:45" handicap="2.5"/>
+					</market>
+					<market id="52294950" name=" Italy v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845297/%2dItaly%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="17:52:00" betTillDate="2012-12-17" betTillTime="17:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:46">
+						<participant name="Over 2.5" id="213381870" odds="8/5" oddsDecimal="2.60" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:46" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381869" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:46" handicap="2.5"/>
+					</market>
+					<market id="52294956" name=" Sweden v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845298/%2dSweden%2dv%2dFrance" date="2012-12-17" time="17:56:00" betTillDate="2012-12-17" betTillTime="17:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:48">
+						<participant name="Over 2.5" id="213381900" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:48" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381899" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:48" handicap="2.5"/>
+					</market>
+					<market id="52294962" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845299/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="18:00:00" betTillDate="2012-12-17" betTillTime="18:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:49">
+						<participant name="Over 2.5" id="213381930" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:49" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381929" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:49" handicap="2.5"/>
+					</market>
+					<market id="52294968" name=" Poland v Greece - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845300/%2dPoland%2dv%2dGreece" date="2012-12-17" time="18:04:00" betTillDate="2012-12-17" betTillTime="18:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:56">
+						<participant name="Over 2.5" id="213381960" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:56" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381959" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:56" handicap="2.5"/>
+					</market>
+					<market id="52294974" name=" Russia v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845301/%2dRussia%2dv%2dCzech%2dRepublic" date="2012-12-17" time="18:08:00" betTillDate="2012-12-17" betTillTime="18:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:57">
+						<participant name="Over 2.5" id="213381990" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:57" handicap="2.5"/>
+						<participant name="Under 2.5" id="213381989" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:01:57" handicap="2.5"/>
+					</market>
+					<market id="52294980" name=" Holland v Denmark - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845302/%2dHolland%2dv%2dDenmark" date="2012-12-17" time="18:12:00" betTillDate="2012-12-17" betTillTime="18:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:04">
+						<participant name="Over 2.5" id="213382020" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:04" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382019" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:04" handicap="2.5"/>
+					</market>
+					<market id="52294986" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845303/%2dSweden%2dv%2dEngland" date="2012-12-17" time="18:16:00" betTillDate="2012-12-17" betTillTime="18:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:05">
+						<participant name="Over 2.5" id="213382050" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:05" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382049" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:05" handicap="2.5"/>
+					</market>
+					<market id="52294992" name=" Germany v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845304/%2dGermany%2dv%2dPortugal" date="2012-12-17" time="18:20:00" betTillDate="2012-12-17" betTillTime="18:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:12">
+						<participant name="Over 2.5" id="213382080" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:12" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382079" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:12" handicap="2.5"/>
+					</market>
+					<market id="52294998" name=" Spain v Italy - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845305/%2dSpain%2dv%2dItaly" date="2012-12-17" time="18:24:00" betTillDate="2012-12-17" betTillTime="18:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:12">
+						<participant name="Over 2.5" id="213382110" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:12" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382109" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:12" handicap="2.5"/>
+					</market>
+					<market id="52295004" name=" Republic of Ireland v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845306/%2dRepublic%2dof%2dIreland%2dv%2dCroatia" date="2012-12-17" time="18:28:00" betTillDate="2012-12-17" betTillTime="18:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:20">
+						<participant name="Over 2.5" id="213382140" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:20" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382139" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:20" handicap="2.5"/>
+					</market>
+					<market id="52295010" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845307/%2dFrance%2dv%2dEngland" date="2012-12-17" time="18:32:00" betTillDate="2012-12-17" betTillTime="18:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:21">
+						<participant name="Over 2.5" id="213382170" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:21" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382169" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:21" handicap="2.5"/>
+					</market>
+					<market id="52295016" name=" Ukraine v Sweden - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845308/%2dUkraine%2dv%2dSweden" date="2012-12-17" time="18:36:00" betTillDate="2012-12-17" betTillTime="18:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:22">
+						<participant name="Over 2.5" id="213382200" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:22" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382199" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:22" handicap="2.5"/>
+					</market>
+					<market id="52295022" name=" Greece v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845309/%2dGreece%2dv%2dCzech%2dRepublic" date="2012-12-17" time="18:40:00" betTillDate="2012-12-17" betTillTime="18:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:29">
+						<participant name="Over 2.5" id="213382230" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:29" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382229" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:29" handicap="2.5"/>
+					</market>
+					<market id="52295028" name=" Poland v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845310/%2dPoland%2dv%2dRussia" date="2012-12-17" time="18:44:00" betTillDate="2012-12-17" betTillTime="18:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:35">
+						<participant name="Over 2.5" id="213382260" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:35" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382259" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:35" handicap="2.5"/>
+					</market>
+					<market id="52295034" name=" Denmark v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845311/%2dDenmark%2dv%2dPortugal" date="2012-12-17" time="18:48:00" betTillDate="2012-12-17" betTillTime="18:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:42">
+						<participant name="Over 2.5" id="213382290" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:42" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382289" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:42" handicap="2.5"/>
+					</market>
+					<market id="52295040" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845312/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="18:52:00" betTillDate="2012-12-17" betTillTime="18:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:43">
+						<participant name="Over 2.5" id="213382320" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:43" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382319" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:43" handicap="2.5"/>
+					</market>
+					<market id="52295046" name=" Holland v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845313/%2dHolland%2dv%2dGermany" date="2012-12-17" time="18:56:00" betTillDate="2012-12-17" betTillTime="18:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:50">
+						<participant name="Over 2.5" id="213382350" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:50" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382349" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:50" handicap="2.5"/>
+					</market>
+					<market id="52295052" name=" Italy v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845314/%2dItaly%2dv%2dCroatia" date="2012-12-17" time="19:00:00" betTillDate="2012-12-17" betTillTime="19:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:56">
+						<participant name="Over 2.5" id="213382380" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:56" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382379" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:56" handicap="2.5"/>
+					</market>
+					<market id="52295058" name=" Spain v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845315/%2dSpain%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="19:04:00" betTillDate="2012-12-17" betTillTime="19:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:58">
+						<participant name="Over 2.5" id="213382410" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:58" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382409" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:02:58" handicap="2.5"/>
+					</market>
+					<market id="52295064" name=" Ukraine v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845316/%2dUkraine%2dv%2dFrance" date="2012-12-17" time="19:08:00" betTillDate="2012-12-17" betTillTime="19:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:00">
+						<participant name="Over 2.5" id="213382440" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:00" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382439" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:00" handicap="2.5"/>
+					</market>
+					<market id="52295070" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845317/%2dSweden%2dv%2dEngland" date="2012-12-17" time="19:12:00" betTillDate="2012-12-17" betTillTime="19:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:01">
+						<participant name="Over 2.5" id="213382470" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:01" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382469" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:01" handicap="2.5"/>
+					</market>
+					<market id="52295076" name=" Greece v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845318/%2dGreece%2dv%2dRussia" date="2012-12-17" time="19:16:00" betTillDate="2012-12-17" betTillTime="19:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:07">
+						<participant name="Over 2.5" id="213382500" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:07" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382499" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:07" handicap="2.5"/>
+					</market>
+					<market id="52295083" name=" Czech Republic v Poland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845319/%2dCzech%2dRepublic%2dv%2dPoland" date="2012-12-17" time="19:20:00" betTillDate="2012-12-17" betTillTime="19:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:14">
+						<participant name="Over 2.5" id="213382532" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:14" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382531" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:14" handicap="2.5"/>
+					</market>
+					<market id="52295090" name=" Portugal v Holland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845320/%2dPortugal%2dv%2dHolland" date="2012-12-17" time="19:24:00" betTillDate="2012-12-17" betTillTime="19:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:20">
+						<participant name="Over 2.5" id="213382564" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:20" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382563" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:20" handicap="2.5"/>
+					</market>
+					<market id="52295096" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845321/%2dFrance%2dv%2dEngland" date="2012-12-17" time="19:28:00" betTillDate="2012-12-17" betTillTime="19:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:22">
+						<participant name="Over 2.5" id="213382594" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:22" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382593" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:22" handicap="2.5"/>
+					</market>
+					<market id="52295103" name=" Denmark v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845322/%2dDenmark%2dv%2dGermany" date="2012-12-17" time="19:32:00" betTillDate="2012-12-17" betTillTime="19:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:28">
+						<participant name="Over 2.5" id="213382626" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:28" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382625" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:28" handicap="2.5"/>
+					</market>
+					<market id="52295109" name=" Croatia v Spain - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845323/%2dCroatia%2dv%2dSpain" date="2012-12-17" time="19:36:00" betTillDate="2012-12-17" betTillTime="19:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:29">
+						<participant name="Over 2.5" id="213382656" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:29" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382655" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:29" handicap="2.5"/>
+					</market>
+					<market id="52295115" name=" Italy v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845324/%2dItaly%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="19:40:00" betTillDate="2012-12-17" betTillTime="19:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:36">
+						<participant name="Over 2.5" id="213382686" odds="8/5" oddsDecimal="2.60" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:36" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382685" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:36" handicap="2.5"/>
+					</market>
+					<market id="52295121" name=" Sweden v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845325/%2dSweden%2dv%2dFrance" date="2012-12-17" time="19:44:00" betTillDate="2012-12-17" betTillTime="19:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:37">
+						<participant name="Over 2.5" id="213382716" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:37" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382715" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:37" handicap="2.5"/>
+					</market>
+					<market id="52295127" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845326/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="19:48:00" betTillDate="2012-12-17" betTillTime="19:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:39">
+						<participant name="Over 2.5" id="213382746" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:39" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382745" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:39" handicap="2.5"/>
+					</market>
+					<market id="52295133" name=" Poland v Greece - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845327/%2dPoland%2dv%2dGreece" date="2012-12-17" time="19:52:00" betTillDate="2012-12-17" betTillTime="19:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:45">
+						<participant name="Over 2.5" id="213382776" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:45" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382775" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:45" handicap="2.5"/>
+					</market>
+					<market id="52295139" name=" Russia v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845328/%2dRussia%2dv%2dCzech%2dRepublic" date="2012-12-17" time="19:56:00" betTillDate="2012-12-17" betTillTime="19:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:47">
+						<participant name="Over 2.5" id="213382806" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:47" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382805" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:47" handicap="2.5"/>
+					</market>
+					<market id="52295145" name=" Holland v Denmark - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845329/%2dHolland%2dv%2dDenmark" date="2012-12-17" time="20:00:00" betTillDate="2012-12-17" betTillTime="20:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:49">
+						<participant name="Over 2.5" id="213382836" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:49" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382835" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:49" handicap="2.5"/>
+					</market>
+					<market id="52295151" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845330/%2dSweden%2dv%2dEngland" date="2012-12-17" time="20:04:00" betTillDate="2012-12-17" betTillTime="20:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:50">
+						<participant name="Over 2.5" id="213382866" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:50" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382865" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:50" handicap="2.5"/>
+					</market>
+					<market id="52295157" name=" Germany v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845331/%2dGermany%2dv%2dPortugal" date="2012-12-17" time="20:08:00" betTillDate="2012-12-17" betTillTime="20:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:51">
+						<participant name="Over 2.5" id="213382896" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:51" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382895" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:51" handicap="2.5"/>
+					</market>
+					<market id="52295163" name=" Spain v Italy - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845332/%2dSpain%2dv%2dItaly" date="2012-12-17" time="20:12:00" betTillDate="2012-12-17" betTillTime="20:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:58">
+						<participant name="Over 2.5" id="213382926" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:58" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382925" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:58" handicap="2.5"/>
+					</market>
+					<market id="52295169" name=" Republic of Ireland v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845333/%2dRepublic%2dof%2dIreland%2dv%2dCroatia" date="2012-12-17" time="20:16:00" betTillDate="2012-12-17" betTillTime="20:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:59">
+						<participant name="Over 2.5" id="213382956" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:00" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382955" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:03:59" handicap="2.5"/>
+					</market>
+					<market id="52295175" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845334/%2dFrance%2dv%2dEngland" date="2012-12-17" time="20:20:00" betTillDate="2012-12-17" betTillTime="20:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:01">
+						<participant name="Over 2.5" id="213382986" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:01" handicap="2.5"/>
+						<participant name="Under 2.5" id="213382985" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:01" handicap="2.5"/>
+					</market>
+					<market id="52295181" name=" Ukraine v Sweden - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845335/%2dUkraine%2dv%2dSweden" date="2012-12-17" time="20:24:00" betTillDate="2012-12-17" betTillTime="20:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:07">
+						<participant name="Over 2.5" id="213383016" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:07" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383015" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:07" handicap="2.5"/>
+					</market>
+					<market id="52295187" name=" Greece v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845336/%2dGreece%2dv%2dCzech%2dRepublic" date="2012-12-17" time="20:28:00" betTillDate="2012-12-17" betTillTime="20:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:13">
+						<participant name="Over 2.5" id="213383046" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:13" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383045" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:13" handicap="2.5"/>
+					</market>
+					<market id="52295193" name=" Poland v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845337/%2dPoland%2dv%2dRussia" date="2012-12-17" time="20:32:00" betTillDate="2012-12-17" betTillTime="20:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:15">
+						<participant name="Over 2.5" id="213383076" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:15" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383075" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:15" handicap="2.5"/>
+					</market>
+					<market id="52295428" name=" Denmark v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845338/%2dDenmark%2dv%2dPortugal" date="2012-12-17" time="20:36:00" betTillDate="2012-12-17" betTillTime="20:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:23">
+						<participant name="Over 2.5" id="213383106" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:23" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383105" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:23" handicap="2.5"/>
+					</market>
+					<market id="52295604" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845339/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="20:40:00" betTillDate="2012-12-17" betTillTime="20:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:28">
+						<participant name="Over 2.5" id="213383315" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:28" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383312" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:28" handicap="2.5"/>
+					</market>
+					<market id="52295610" name=" Holland v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845340/%2dHolland%2dv%2dGermany" date="2012-12-17" time="20:44:00" betTillDate="2012-12-17" betTillTime="20:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:31">
+						<participant name="Over 2.5" id="213383458" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:31" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383455" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:31" handicap="2.5"/>
+					</market>
+					<market id="52295616" name=" Italy v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845341/%2dItaly%2dv%2dCroatia" date="2012-12-17" time="20:48:00" betTillDate="2012-12-17" betTillTime="20:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:36">
+						<participant name="Over 2.5" id="213383929" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:36" handicap="2.5"/>
+						<participant name="Under 2.5" id="213383927" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:36" handicap="2.5"/>
+					</market>
+					<market id="52295622" name=" Spain v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845342/%2dSpain%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="20:52:00" betTillDate="2012-12-17" betTillTime="20:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:44">
+						<participant name="Over 2.5" id="213384407" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:44" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384404" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:44" handicap="2.5"/>
+					</market>
+					<market id="52295628" name=" Ukraine v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845343/%2dUkraine%2dv%2dFrance" date="2012-12-17" time="20:56:00" betTillDate="2012-12-17" betTillTime="20:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:49">
+						<participant name="Over 2.5" id="213384678" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:49" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384677" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:49" handicap="2.5"/>
+					</market>
+					<market id="52295634" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845344/%2dSweden%2dv%2dEngland" date="2012-12-17" time="21:00:00" betTillDate="2012-12-17" betTillTime="21:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:56">
+						<participant name="Over 2.5" id="213384708" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:56" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384707" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:56" handicap="2.5"/>
+					</market>
+					<market id="52295640" name=" Greece v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845345/%2dGreece%2dv%2dRussia" date="2012-12-17" time="21:04:00" betTillDate="2012-12-17" betTillTime="21:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:57">
+						<participant name="Over 2.5" id="213384738" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:57" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384737" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:57" handicap="2.5"/>
+					</market>
+					<market id="52295646" name=" Czech Republic v Poland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845346/%2dCzech%2dRepublic%2dv%2dPoland" date="2012-12-17" time="21:08:00" betTillDate="2012-12-17" betTillTime="21:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:59">
+						<participant name="Over 2.5" id="213384768" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:59" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384767" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:04:59" handicap="2.5"/>
+					</market>
+					<market id="52295652" name=" Portugal v Holland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845347/%2dPortugal%2dv%2dHolland" date="2012-12-17" time="21:12:00" betTillDate="2012-12-17" betTillTime="21:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:05">
+						<participant name="Over 2.5" id="213384798" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:05" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384797" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:05" handicap="2.5"/>
+					</market>
+					<market id="52295658" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845348/%2dFrance%2dv%2dEngland" date="2012-12-17" time="21:16:00" betTillDate="2012-12-17" betTillTime="21:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:12">
+						<participant name="Over 2.5" id="213384828" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:12" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384827" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:12" handicap="2.5"/>
+					</market>
+					<market id="52295664" name=" Denmark v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845349/%2dDenmark%2dv%2dGermany" date="2012-12-17" time="21:20:00" betTillDate="2012-12-17" betTillTime="21:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:13">
+						<participant name="Over 2.5" id="213384858" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:13" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384857" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:13" handicap="2.5"/>
+					</market>
+					<market id="52295670" name=" Croatia v Spain - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845350/%2dCroatia%2dv%2dSpain" date="2012-12-17" time="21:24:00" betTillDate="2012-12-17" betTillTime="21:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:20">
+						<participant name="Over 2.5" id="213384888" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:20" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384887" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:20" handicap="2.5"/>
+					</market>
+					<market id="52295676" name=" Italy v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845351/%2dItaly%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="21:28:00" betTillDate="2012-12-17" betTillTime="21:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:21">
+						<participant name="Over 2.5" id="213384918" odds="8/5" oddsDecimal="2.60" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:21" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384917" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:21" handicap="2.5"/>
+					</market>
+					<market id="52295682" name=" Sweden v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845352/%2dSweden%2dv%2dFrance" date="2012-12-17" time="21:32:00" betTillDate="2012-12-17" betTillTime="21:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:28">
+						<participant name="Over 2.5" id="213384948" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:28" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384947" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:28" handicap="2.5"/>
+					</market>
+					<market id="52295688" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845353/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="21:36:00" betTillDate="2012-12-17" betTillTime="21:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:29">
+						<participant name="Over 2.5" id="213384978" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:29" handicap="2.5"/>
+						<participant name="Under 2.5" id="213384977" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:29" handicap="2.5"/>
+					</market>
+					<market id="52295694" name=" Poland v Greece - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845354/%2dPoland%2dv%2dGreece" date="2012-12-17" time="21:40:00" betTillDate="2012-12-17" betTillTime="21:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:31">
+						<participant name="Over 2.5" id="213385008" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:31" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385007" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:31" handicap="2.5"/>
+					</market>
+					<market id="52295700" name=" Russia v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845355/%2dRussia%2dv%2dCzech%2dRepublic" date="2012-12-17" time="21:44:00" betTillDate="2012-12-17" betTillTime="21:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:37">
+						<participant name="Over 2.5" id="213385038" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:37" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385037" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:37" handicap="2.5"/>
+					</market>
+					<market id="52295706" name=" Holland v Denmark - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845356/%2dHolland%2dv%2dDenmark" date="2012-12-17" time="21:48:00" betTillDate="2012-12-17" betTillTime="21:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:44">
+						<participant name="Over 2.5" id="213385068" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:44" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385067" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:44" handicap="2.5"/>
+					</market>
+					<market id="52295712" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845357/%2dSweden%2dv%2dEngland" date="2012-12-17" time="21:52:00" betTillDate="2012-12-17" betTillTime="21:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:51">
+						<participant name="Over 2.5" id="213385098" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:51" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385097" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:51" handicap="2.5"/>
+					</market>
+					<market id="52295718" name=" Germany v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845358/%2dGermany%2dv%2dPortugal" date="2012-12-17" time="21:56:00" betTillDate="2012-12-17" betTillTime="21:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:52">
+						<participant name="Over 2.5" id="213385128" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:52" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385127" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:52" handicap="2.5"/>
+					</market>
+					<market id="52295724" name=" Spain v Italy - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845359/%2dSpain%2dv%2dItaly" date="2012-12-17" time="22:00:00" betTillDate="2012-12-17" betTillTime="22:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:53">
+						<participant name="Over 2.5" id="213385158" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:53" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385157" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:53" handicap="2.5"/>
+					</market>
+					<market id="52295730" name=" Republic of Ireland v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845360/%2dRepublic%2dof%2dIreland%2dv%2dCroatia" date="2012-12-17" time="22:04:00" betTillDate="2012-12-17" betTillTime="22:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:55">
+						<participant name="Over 2.5" id="213385188" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:55" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385187" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:55" handicap="2.5"/>
+					</market>
+					<market id="52295736" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845361/%2dFrance%2dv%2dEngland" date="2012-12-17" time="22:08:00" betTillDate="2012-12-17" betTillTime="22:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:56">
+						<participant name="Over 2.5" id="213385218" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:56" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385217" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:56" handicap="2.5"/>
+					</market>
+					<market id="52295742" name=" Ukraine v Sweden - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845362/%2dUkraine%2dv%2dSweden" date="2012-12-17" time="22:12:00" betTillDate="2012-12-17" betTillTime="22:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:58">
+						<participant name="Over 2.5" id="213385248" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:58" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385247" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:05:58" handicap="2.5"/>
+					</market>
+					<market id="52295748" name=" Greece v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845363/%2dGreece%2dv%2dCzech%2dRepublic" date="2012-12-17" time="22:16:00" betTillDate="2012-12-17" betTillTime="22:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:04">
+						<participant name="Over 2.5" id="213385278" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:04" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385277" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:04" handicap="2.5"/>
+					</market>
+					<market id="52295754" name=" Poland v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845364/%2dPoland%2dv%2dRussia" date="2012-12-17" time="22:20:00" betTillDate="2012-12-17" betTillTime="22:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:05">
+						<participant name="Over 2.5" id="213385308" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:05" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385307" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:05" handicap="2.5"/>
+					</market>
+					<market id="52295760" name=" Denmark v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845365/%2dDenmark%2dv%2dPortugal" date="2012-12-17" time="22:24:00" betTillDate="2012-12-17" betTillTime="22:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:07">
+						<participant name="Over 2.5" id="213385338" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:07" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385337" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:07" handicap="2.5"/>
+					</market>
+					<market id="52295766" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845366/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="22:28:00" betTillDate="2012-12-17" betTillTime="22:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:13">
+						<participant name="Over 2.5" id="213385368" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:13" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385367" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:13" handicap="2.5"/>
+					</market>
+					<market id="52295772" name=" Holland v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845367/%2dHolland%2dv%2dGermany" date="2012-12-17" time="22:32:00" betTillDate="2012-12-17" betTillTime="22:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:14">
+						<participant name="Over 2.5" id="213385398" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:14" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385397" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:14" handicap="2.5"/>
+					</market>
+					<market id="52295778" name=" Italy v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845368/%2dItaly%2dv%2dCroatia" date="2012-12-17" time="22:36:00" betTillDate="2012-12-17" betTillTime="22:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:17">
+						<participant name="Over 2.5" id="213385428" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:17" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385427" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:17" handicap="2.5"/>
+					</market>
+					<market id="52295784" name=" Spain v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845369/%2dSpain%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="22:40:00" betTillDate="2012-12-17" betTillTime="22:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:18">
+						<participant name="Over 2.5" id="213385458" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:18" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385457" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:18" handicap="2.5"/>
+					</market>
+					<market id="52295790" name=" Ukraine v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845370/%2dUkraine%2dv%2dFrance" date="2012-12-17" time="22:44:00" betTillDate="2012-12-17" betTillTime="22:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:24">
+						<participant name="Over 2.5" id="213385488" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:24" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385487" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:24" handicap="2.5"/>
+					</market>
+					<market id="52295796" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845371/%2dSweden%2dv%2dEngland" date="2012-12-17" time="22:48:00" betTillDate="2012-12-17" betTillTime="22:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:32">
+						<participant name="Over 2.5" id="213385518" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:32" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385517" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:31" handicap="2.5"/>
+					</market>
+					<market id="52295802" name=" Greece v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845372/%2dGreece%2dv%2dRussia" date="2012-12-17" time="22:52:00" betTillDate="2012-12-17" betTillTime="22:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:32">
+						<participant name="Over 2.5" id="213385548" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:32" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385547" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:32" handicap="2.5"/>
+					</market>
+					<market id="52295808" name=" Czech Republic v Poland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845373/%2dCzech%2dRepublic%2dv%2dPoland" date="2012-12-17" time="22:56:00" betTillDate="2012-12-17" betTillTime="22:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:35">
+						<participant name="Over 2.5" id="213385578" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:35" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385577" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:35" handicap="2.5"/>
+					</market>
+					<market id="52295814" name=" Portugal v Holland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845374/%2dPortugal%2dv%2dHolland" date="2012-12-17" time="23:00:00" betTillDate="2012-12-17" betTillTime="23:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:36">
+						<participant name="Over 2.5" id="213385608" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:36" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385607" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:36" handicap="2.5"/>
+					</market>
+					<market id="52295820" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845375/%2dFrance%2dv%2dEngland" date="2012-12-17" time="23:04:00" betTillDate="2012-12-17" betTillTime="23:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:37">
+						<participant name="Over 2.5" id="213385638" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:37" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385637" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:37" handicap="2.5"/>
+					</market>
+					<market id="52295826" name=" Denmark v Germany - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845376/%2dDenmark%2dv%2dGermany" date="2012-12-17" time="23:08:00" betTillDate="2012-12-17" betTillTime="23:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:38">
+						<participant name="Over 2.5" id="213385668" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:38" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385667" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:38" handicap="2.5"/>
+					</market>
+					<market id="52295832" name=" Croatia v Spain - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845377/%2dCroatia%2dv%2dSpain" date="2012-12-17" time="23:12:00" betTillDate="2012-12-17" betTillTime="23:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:44">
+						<participant name="Over 2.5" id="213385698" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:44" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385697" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:44" handicap="2.5"/>
+					</market>
+					<market id="52295838" name=" Italy v Republic of Ireland - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845378/%2dItaly%2dv%2dRepublic%2dof%2dIreland" date="2012-12-17" time="23:16:00" betTillDate="2012-12-17" betTillTime="23:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:51">
+						<participant name="Over 2.5" id="213385728" odds="8/5" oddsDecimal="2.60" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:52" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385727" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:51" handicap="2.5"/>
+					</market>
+					<market id="52295844" name=" Sweden v France - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845379/%2dSweden%2dv%2dFrance" date="2012-12-17" time="23:20:00" betTillDate="2012-12-17" betTillTime="23:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:53">
+						<participant name="Over 2.5" id="213385758" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:53" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385757" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:53" handicap="2.5"/>
+					</market>
+					<market id="52295850" name=" England v Ukraine - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845380/%2dEngland%2dv%2dUkraine" date="2012-12-17" time="23:24:00" betTillDate="2012-12-17" betTillTime="23:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:54">
+						<participant name="Over 2.5" id="213385788" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:54" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385787" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:06:54" handicap="2.5"/>
+					</market>
+					<market id="52295856" name=" Poland v Greece - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845381/%2dPoland%2dv%2dGreece" date="2012-12-17" time="23:28:00" betTillDate="2012-12-17" betTillTime="23:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:01">
+						<participant name="Over 2.5" id="213385818" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:01" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385817" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:01" handicap="2.5"/>
+					</market>
+					<market id="52295862" name=" Russia v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845382/%2dRussia%2dv%2dCzech%2dRepublic" date="2012-12-17" time="23:32:00" betTillDate="2012-12-17" betTillTime="23:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:07">
+						<participant name="Over 2.5" id="213385848" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:07" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385847" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:07" handicap="2.5"/>
+					</market>
+					<market id="52295868" name=" Holland v Denmark - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845383/%2dHolland%2dv%2dDenmark" date="2012-12-17" time="23:36:00" betTillDate="2012-12-17" betTillTime="23:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:13">
+						<participant name="Over 2.5" id="213385878" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:14" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385877" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:13" handicap="2.5"/>
+					</market>
+					<market id="52295874" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845384/%2dSweden%2dv%2dEngland" date="2012-12-17" time="23:40:00" betTillDate="2012-12-17" betTillTime="23:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:15">
+						<participant name="Over 2.5" id="213385908" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:15" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385907" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:15" handicap="2.5"/>
+					</market>
+					<market id="52295880" name=" Germany v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845385/%2dGermany%2dv%2dPortugal" date="2012-12-17" time="23:44:00" betTillDate="2012-12-17" betTillTime="23:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:16">
+						<participant name="Over 2.5" id="213385938" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:16" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385937" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:16" handicap="2.5"/>
+					</market>
+					<market id="52295886" name=" Spain v Italy - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845386/%2dSpain%2dv%2dItaly" date="2012-12-17" time="23:48:00" betTillDate="2012-12-17" betTillTime="23:48:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:18">
+						<participant name="Over 2.5" id="213385968" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:18" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385967" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:18" handicap="2.5"/>
+					</market>
+					<market id="52295892" name=" Republic of Ireland v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845387/%2dRepublic%2dof%2dIreland%2dv%2dCroatia" date="2012-12-17" time="23:52:00" betTillDate="2012-12-17" betTillTime="23:52:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:19">
+						<participant name="Over 2.5" id="213385998" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:19" handicap="2.5"/>
+						<participant name="Under 2.5" id="213385997" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:19" handicap="2.5"/>
+					</market>
+					<market id="52295898" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845388/%2dFrance%2dv%2dEngland" date="2012-12-17" time="23:56:00" betTillDate="2012-12-17" betTillTime="23:56:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:26">
+						<participant name="Over 2.5" id="213386028" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:26" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386027" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:26" handicap="2.5"/>
+					</market>
+					<market id="52295904" name=" Ukraine v Sweden - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845389/%2dUkraine%2dv%2dSweden" date="2012-12-18" time="00:00:00" betTillDate="2012-12-18" betTillTime="00:00:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:33">
+						<participant name="Over 2.5" id="213386058" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:33" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386057" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:33" handicap="2.5"/>
+					</market>
+					<market id="52295910" name=" Poland v Greece - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845390/%2dPoland%2dv%2dGreece" date="2012-12-18" time="00:04:00" betTillDate="2012-12-18" betTillTime="00:04:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:34">
+						<participant name="Over 2.5" id="213386088" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:34" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386087" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:34" handicap="2.5"/>
+					</market>
+					<market id="52295916" name=" Russia v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845391/%2dRussia%2dv%2dCzech%2dRepublic" date="2012-12-18" time="00:08:00" betTillDate="2012-12-18" betTillTime="00:08:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:35">
+						<participant name="Over 2.5" id="213386118" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:35" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386117" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:35" handicap="2.5"/>
+					</market>
+					<market id="52295922" name=" Holland v Denmark - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845392/%2dHolland%2dv%2dDenmark" date="2012-12-18" time="00:12:00" betTillDate="2012-12-18" betTillTime="00:12:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:42">
+						<participant name="Over 2.5" id="213386148" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:42" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386147" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:42" handicap="2.5"/>
+					</market>
+					<market id="52295928" name=" Sweden v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845393/%2dSweden%2dv%2dEngland" date="2012-12-18" time="00:16:00" betTillDate="2012-12-18" betTillTime="00:16:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:43">
+						<participant name="Over 2.5" id="213386178" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:43" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386177" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:43" handicap="2.5"/>
+					</market>
+					<market id="52295934" name=" Germany v Portugal - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845394/%2dGermany%2dv%2dPortugal" date="2012-12-18" time="00:20:00" betTillDate="2012-12-18" betTillTime="00:20:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:44">
+						<participant name="Over 2.5" id="213386208" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:44" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386207" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:44" handicap="2.5"/>
+					</market>
+					<market id="52295940" name=" Spain v Italy - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845395/%2dSpain%2dv%2dItaly" date="2012-12-18" time="00:24:00" betTillDate="2012-12-18" betTillTime="00:24:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:46">
+						<participant name="Over 2.5" id="213386238" odds="7/4" oddsDecimal="2.75" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:46" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386237" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:46" handicap="2.5"/>
+					</market>
+					<market id="52295946" name=" Republic of Ireland v Croatia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845396/%2dRepublic%2dof%2dIreland%2dv%2dCroatia" date="2012-12-18" time="00:28:00" betTillDate="2012-12-18" betTillTime="00:28:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:52">
+						<participant name="Over 2.5" id="213386268" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:52" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386267" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:52" handicap="2.5"/>
+					</market>
+					<market id="52295952" name=" France v England - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845397/%2dFrance%2dv%2dEngland" date="2012-12-18" time="00:32:00" betTillDate="2012-12-18" betTillTime="00:32:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:54">
+						<participant name="Over 2.5" id="213386298" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:54" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386297" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:07:54" handicap="2.5"/>
+					</market>
+					<market id="52295958" name=" Ukraine v Sweden - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845398/%2dUkraine%2dv%2dSweden" date="2012-12-18" time="00:36:00" betTillDate="2012-12-18" betTillTime="00:36:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:01">
+						<participant name="Over 2.5" id="213386328" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:01" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386327" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:01" handicap="2.5"/>
+					</market>
+					<market id="52295964" name=" Greece v Czech Republic - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845399/%2dGreece%2dv%2dCzech%2dRepublic" date="2012-12-18" time="00:40:00" betTillDate="2012-12-18" betTillTime="00:40:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:07">
+						<participant name="Over 2.5" id="213386358" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:07" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386357" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:07" handicap="2.5"/>
+					</market>
+					<market id="52295970" name=" Poland v Russia - Total Goals Under/Over" url="http://sports.williamhill.com/bet/en-gb/betting/e/3845400/%2dPoland%2dv%2dRussia" date="2012-12-18" time="00:44:00" betTillDate="2012-12-18" betTillTime="00:44:00" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:09">
+						<participant name="Over 2.5" id="213386388" odds="13/8" oddsDecimal="2.62" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:09" handicap="2.5"/>
+						<participant name="Under 2.5" id="213386387" odds="2/5" oddsDecimal="1.40" lastUpdateDate="2012-12-17" lastUpdateTime="01:08:09" handicap="2.5"/>
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

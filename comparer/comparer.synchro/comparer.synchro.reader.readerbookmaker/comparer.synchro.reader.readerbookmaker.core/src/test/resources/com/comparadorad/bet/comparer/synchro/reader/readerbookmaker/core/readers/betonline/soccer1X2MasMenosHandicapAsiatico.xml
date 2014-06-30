@@ -1,0 +1,45 @@
+<bestlinesports_line_feed>
+	<event>
+		<event_datetimeGMT>2013-06-15 15:00</event_datetimeGMT>
+		<sporttype>Soccer</sporttype>
+		<scheduletext>Confederations Cup 2013                                     </scheduletext>
+		<league>FIFA Soccer</league>
+		<participant>
+			<participant_name>Brazil</participant_name>
+			<rotnum>11201</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>-400</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Japan</participant_name>
+			<rotnum>11202</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>950</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>11203</drawrotnum>
+		<drawmoneyline>440</drawmoneyline>
+		<drawTitle>Draw</drawTitle>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-06-15 15:00</periodcutoff_datetimeGMT>
+			<period_status>I</period_status>
+			<spread>
+				<spread_visiting>-1.5</spread_visiting>
+				<spread_adjust_visiting>-130</spread_adjust_visiting>
+				<spread_home>1.5</spread_home>
+				<spread_adjust_home>110</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>3</total_points>
+				<over_adjust>-106</over_adjust>
+				<under_adjust>-114</under_adjust>
+			</total>
+		</period>
+	</event>
+</bestlinesports_line_feed>

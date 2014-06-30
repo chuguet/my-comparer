@@ -1,0 +1,3038 @@
+<category name="Football-Spanish-Primera" timeGenerated="2013-02-27T14:43:49"
+	Bookmaker="Betfred">
+	<event name="Real Madrid v Barcelona" eventid="2318362.20" date="20130302"
+		time="1500" meeting="" venue="">
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5750597.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128238106.20"
+				price="12/5" priceDecimal="3.40" priceUS="240.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid" short-name="Real Madr"
+				id="128238107.20" price="2/1" priceDecimal="3.00" priceUS="200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona" short-name="BARCEL'" id="128238108.20"
+				price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			handicap="1" suspended="false" name="Match Handicap" inrunning="0"
+			bettypeid="5750599.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128238111.20"
+				handicap-id="3457160.20" handicap="1" price="3/1" priceDecimal="4.00"
+				priceUS="300.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid" short-name="Real Madr"
+				id="128238112.20" handicap-id="3457161.20" handicap="1" price="4/7"
+				priceDecimal="1.57" priceUS="-57.14" active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona" short-name="BARCEL'" id="128238113.20"
+				handicap-id="3457162.20" handicap="-1" price="3/1" priceDecimal="4.00"
+				priceUS="300.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			handicap="-1" suspended="false" name="Match Handicap 2" inrunning="0"
+			bettypeid="5750600.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128238114.20"
+				handicap-id="3457163.20" handicap="-1" price="10/3" priceDecimal="4.33"
+				priceUS="333.33" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid" short-name="Real Madr"
+				id="128238115.20" handicap-id="3457164.20" handicap="-1" price="9/2"
+				priceDecimal="5.50" priceUS="450.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona" short-name="BARCEL'" id="128238116.20"
+				handicap-id="3457165.20" handicap="1" price="2/5" priceDecimal="1.40"
+				priceUS="-40.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5750602.20">
+			<bet had-value="HOME" name="Real Madrid 1-0" short-name="Rea 1-0"
+				id="128238120.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 2-0" short-name="Rea 2-0"
+				id="128238121.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 2-1" short-name="Rea 2-1"
+				id="128238122.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 3-0" short-name="Rea 3-0"
+				id="128238123.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 3-1" short-name="Rea 3-1"
+				id="128238124.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 3-2" short-name="Rea 3-2"
+				id="128238125.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 4-0" short-name="Rea 4-0"
+				id="128238126.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 4-1" short-name="Rea 4-1"
+				id="128238127.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 4-2" short-name="Rea 4-2"
+				id="128238128.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 4-3" short-name="Rea 4-3"
+				id="128238129.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 5-0" short-name="Rea 5-0"
+				id="128238130.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 5-1" short-name="Rea 5-1"
+				id="128238131.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 5-2" short-name="Rea 5-2"
+				id="128238132.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 6-0" short-name="Rea 6-0"
+				id="128238133.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 6-1" short-name="Rea 6-1"
+				id="128238134.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 7-0" short-name="Rea 7-0"
+				id="128238135.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 7-1" short-name="Rea 7-1"
+				id="128238136.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 8-0" short-name="Rea 8-0"
+				id="128238137.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 9-0" short-name="Rea 9-0"
+				id="128238138.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid 10-0" short-name="Rea 10-0"
+				id="128238139.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128238140.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128238141.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128238142.20"
+				price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128238143.20"
+				price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 1-0" short-name="Bar 1-0"
+				id="128238144.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 2-0" short-name="Bar 2-0"
+				id="128238145.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 2-1" short-name="Bar 2-1"
+				id="128238146.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 3-0" short-name="Bar 3-0"
+				id="128238147.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 3-1" short-name="Bar 3-1"
+				id="128238148.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 3-2" short-name="Bar 3-2"
+				id="128238149.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 4-0" short-name="Bar 4-0"
+				id="128238150.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 4-1" short-name="Bar 4-1"
+				id="128238151.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 4-2" short-name="Bar 4-2"
+				id="128238152.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 4-3" short-name="Bar 4-3"
+				id="128238153.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 5-0" short-name="Bar 5-0"
+				id="128238154.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 5-1" short-name="Bar 5-1"
+				id="128238155.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 5-2" short-name="Bar 5-2"
+				id="128238156.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 6-0" short-name="Bar 6-0"
+				id="128238157.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 6-1" short-name="Bar 6-1"
+				id="128238158.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 7-0" short-name="Bar 7-0"
+				id="128238159.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 7-1" short-name="Bar 7-1"
+				id="128238160.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 8-0" short-name="Bar 8-0"
+				id="128238161.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 9-0" short-name="Bar 9-0"
+				id="128238162.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona 10-0" short-name="Bar 10-0"
+				id="128238163.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5750603.20">
+			<bet had-value="HOME" name="Real Madrid - Real Madrid"
+				short-name="Rea - Rea" id="128238164.20" price="9/2" priceDecimal="5.50"
+				priceUS="450.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Madrid - Draw" short-name="Rea - Dra"
+				id="128238165.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Madrid - Barcelona" short-name="Rea - Bar"
+				id="128238166.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Real Madrid" short-name="Dra - Rea"
+				id="128238167.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128238168.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Barcelona" short-name="Dra - Bar"
+				id="128238169.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Barcelona - Real Madrid" short-name="Bar - Rea"
+				id="128238170.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Barcelona - Draw" short-name="Bar - Dra"
+				id="128238171.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona - Barcelona" short-name="Bar - Bar"
+				id="128238172.20" price="5/2" priceDecimal="3.50" priceUS="250.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5750604.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128238173.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid" short-name="Real Madr"
+				id="128238174.20" price="13/5" priceDecimal="3.60" priceUS="260.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona" short-name="BARCEL'" id="128238175.20"
+				price="19/10" priceDecimal="2.90" priceUS="190.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="First Goalscorer" inrunning="0" bettypeid="5750605.20">
+			<bet had-value="DRAW" name="No Goalscorer" short-name="No Goal"
+				id="128238176.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alba, Jordi" short-name="Alba, Jor"
+				id="128238198.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alcantara, Thiago" short-name="Alcantara"
+				id="128238199.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alves, Daniel" short-name="ALVES, DA"
+				id="128238200.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Busquets, Sergio" short-name="Busquets"
+				id="128238201.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Correia, Adriano" short-name="Correia"
+				id="128238202.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Fabregas, Cesc" short-name="Fabregas"
+				id="128238203.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Iniesta, Andres" short-name="INIESTA"
+				id="128238204.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mascherano, Javier" short-name="Mascheran"
+				id="128238205.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Messi, Lionel" short-name="Messi, Li"
+				id="128238206.20" price="3/1" priceDecimal="4.00" priceUS="300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Montoya, Martin" short-name="Montoya"
+				id="128238207.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pedro," short-name="Pedro" id="128238208.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Pique, Gerard" short-name="Pique, Ge"
+				id="128238209.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Puyol, Carles" short-name="PUYOL, CA"
+				id="128238210.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Roberto, Sergi" short-name="Roberto"
+				id="128238211.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Sanchez, Alexis" short-name="Sanchez"
+				id="128238212.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Song, Alexandre" short-name="Song, Ale"
+				id="128238213.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Tello, Cristian" short-name="Tello, Cr"
+				id="128238214.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Villa, David" short-name="D  Villa"
+				id="128238215.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Xavi," short-name="Xavi" id="128238216.20"
+				price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Albiol, Raul" short-name="R  Albiol"
+				id="128238753.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Alonso, Xabi" short-name="ALONSO, X"
+				id="128238754.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Arbeloa, Alvaro" short-name="Arbeloa"
+				id="128238755.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Benzema, Karim" short-name="K  Benzem"
+				id="128238756.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Callejon, Jose Maria" short-name="Callejon"
+				id="128238757.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Carvalho, Ricardo" short-name="CARVALHO"
+				id="128238758.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Coentrao, Fabio" short-name="Coentrao"
+				id="128238759.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Essien, Michael" short-name="ESSIEN, M"
+				id="128238760.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Higuain, Gonzalo" short-name="Higuain"
+				id="128238761.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Kaka," short-name="KAKA" id="128238762.20"
+				price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Khedira, Sami" short-name="Khedira"
+				id="128238763.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Marcelo," short-name="Marcelo" id="128238764.20"
+				price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Modric, Luka" short-name="L  Modric"
+				id="128238765.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Morata, Alvaro" short-name="Morata, A"
+				id="128238766.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ozil, Mesut" short-name="Ozil, Mes"
+				id="128238767.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Pepe," short-name="Pepe" id="128238768.20"
+				price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Rodriguez, Jose" short-name="Rodriguez"
+				id="128238769.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ronaldo, Cristiano" short-name="Ronaldo"
+				id="128238770.20" price="7/2" priceDecimal="4.50" priceUS="350.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Varane, Raphael" short-name="Varane, R"
+				id="128238771.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Last Goalscorer" inrunning="0" bettypeid="5750606.20">
+			<bet had-value="DRAW" name="No Goalscorer" short-name="No Goal"
+				id="128238217.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alba, Jordi" short-name="Alba, Jor"
+				id="128239013.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Albiol, Raul" short-name="R  Albiol"
+				id="128239014.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alcantara, Thiago" short-name="Alcantara"
+				id="128239015.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Alonso, Xabi" short-name="ALONSO, X"
+				id="128239016.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alves, Daniel" short-name="ALVES, DA"
+				id="128239017.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Arbeloa, Alvaro" short-name="Arbeloa"
+				id="128239018.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Benzema, Karim" short-name="K  Benzem"
+				id="128239019.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Busquets, Sergio" short-name="Busquets"
+				id="128239020.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Callejon, Jose Maria" short-name="Callejon"
+				id="128239021.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Carvalho, Ricardo" short-name="CARVALHO"
+				id="128239022.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Coentrao, Fabio" short-name="Coentrao"
+				id="128239023.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Correia, Adriano" short-name="Correia"
+				id="128239024.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Essien, Michael" short-name="ESSIEN, M"
+				id="128239025.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Fabregas, Cesc" short-name="Fabregas"
+				id="128239026.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Higuain, Gonzalo" short-name="Higuain"
+				id="128239027.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Iniesta, Andres" short-name="INIESTA"
+				id="128239028.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Kaka," short-name="KAKA" id="128239029.20"
+				price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Khedira, Sami" short-name="Khedira"
+				id="128239030.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Marcelo," short-name="Marcelo" id="128239031.20"
+				price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mascherano, Javier" short-name="Mascheran"
+				id="128239032.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Messi, Lionel" short-name="Messi, Li"
+				id="128239033.20" price="3/1" priceDecimal="4.00" priceUS="300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Modric, Luka" short-name="L  Modric"
+				id="128239034.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Montoya, Martin" short-name="Montoya"
+				id="128239035.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Morata, Alvaro" short-name="Morata, A"
+				id="128239036.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ozil, Mesut" short-name="Ozil, Mes"
+				id="128239037.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pedro," short-name="Pedro" id="128239038.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Pepe," short-name="Pepe" id="128239039.20"
+				price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pique, Gerard" short-name="Pique, Ge"
+				id="128239040.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Puyol, Carles" short-name="PUYOL, CA"
+				id="128239041.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Roberto, Sergi" short-name="Roberto"
+				id="128239042.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Rodriguez, Jose" short-name="Rodriguez"
+				id="128239043.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ronaldo, Cristiano" short-name="Ronaldo"
+				id="128239044.20" price="7/2" priceDecimal="4.50" priceUS="350.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Sanchez, Alexis" short-name="Sanchez"
+				id="128239045.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Song, Alexandre" short-name="Song, Ale"
+				id="128239046.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Tello, Cristian" short-name="Tello, Cr"
+				id="128239047.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Varane, Raphael" short-name="Varane, R"
+				id="128239048.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Villa, David" short-name="D  Villa"
+				id="128239049.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Xavi," short-name="Xavi" id="128239050.20"
+				price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Score Anytime" inrunning="0" bettypeid="5750607.20">
+			<bet had-value="AWAY" name="Alba, Jordi" short-name="Alba, Jor"
+				id="128238279.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alcantara, Thiago" short-name="Alcantara"
+				id="128238280.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alves, Daniel" short-name="ALVES, DA"
+				id="128238281.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Busquets, Sergio" short-name="Busquets"
+				id="128238282.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Correia, Adriano" short-name="Correia"
+				id="128238283.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Fabregas, Cesc" short-name="Fabregas"
+				id="128238284.20" price="9/4" priceDecimal="3.25" priceUS="225.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Iniesta, Andres" short-name="INIESTA"
+				id="128238285.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mascherano, Javier" short-name="Mascheran"
+				id="128238286.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Messi, Lionel" short-name="Messi, Li"
+				id="128238287.20" price="8/11" priceDecimal="1.73" priceUS="-72.73"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Montoya, Martin" short-name="Montoya"
+				id="128238288.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pedro," short-name="Pedro" id="128238289.20"
+				price="15/8" priceDecimal="2.88" priceUS="187.50"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pique, Gerard" short-name="Pique, Ge"
+				id="128238290.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Puyol, Carles" short-name="PUYOL, CA"
+				id="128238291.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Roberto, Sergi" short-name="Roberto"
+				id="128238292.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Sanchez, Alexis" short-name="Sanchez"
+				id="128238293.20" price="13/8" priceDecimal="2.63" priceUS="162.50"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Song, Alexandre" short-name="Song, Ale"
+				id="128238294.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Tello, Cristian" short-name="Tello, Cr"
+				id="128238295.20" price="5/2" priceDecimal="3.50" priceUS="250.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Villa, David" short-name="D  Villa"
+				id="128238296.20" price="6/4" priceDecimal="2.50" priceUS="150.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Xavi," short-name="Xavi" id="128238297.20"
+				price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Albiol, Raul" short-name="R  Albiol"
+				id="128238813.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Alonso, Xabi" short-name="ALONSO, X"
+				id="128238814.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Arbeloa, Alvaro" short-name="Arbeloa"
+				id="128238815.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Benzema, Karim" short-name="K  Benzem"
+				id="128238816.20" price="6/4" priceDecimal="2.50" priceUS="150.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Callejon, Jose Maria" short-name="Callejon"
+				id="128238817.20" price="11/4" priceDecimal="3.75" priceUS="275.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Carvalho, Ricardo" short-name="CARVALHO"
+				id="128238818.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Coentrao, Fabio" short-name="Coentrao"
+				id="128238819.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Essien, Michael" short-name="ESSIEN, M"
+				id="128238820.20" price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Higuain, Gonzalo" short-name="Higuain"
+				id="128238821.20" price="13/8" priceDecimal="2.63" priceUS="162.50"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Kaka," short-name="KAKA" id="128238822.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Khedira, Sami" short-name="Khedira"
+				id="128238823.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Marcelo," short-name="Marcelo" id="128238824.20"
+				price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Modric, Luka" short-name="L  Modric"
+				id="128238825.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Morata, Alvaro" short-name="Morata, A"
+				id="128238826.20" price="15/8" priceDecimal="2.88" priceUS="187.50"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ozil, Mesut" short-name="Ozil, Mes"
+				id="128238827.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Pepe," short-name="Pepe" id="128238828.20"
+				price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Rodriguez, Jose" short-name="Rodriguez"
+				id="128238829.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ronaldo, Cristiano" short-name="Ronaldo"
+				id="128238830.20" price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Varane, Raphael" short-name="Varane, R"
+				id="128238831.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Player to Score 2 or More Goals" inrunning="0"
+			bettypeid="5750608.20">
+			<bet had-value="AWAY" name="Alba, Jordi" short-name="Alba, Jor"
+				id="128238319.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alcantara, Thiago" short-name="Alcantara"
+				id="128238321.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alves, Daniel" short-name="ALVES, DA"
+				id="128238322.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Busquets, Sergio" short-name="Busquets"
+				id="128238323.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Correia, Adriano" short-name="Correia"
+				id="128238324.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Fabregas, Cesc" short-name="Fabregas"
+				id="128238325.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Iniesta, Andres" short-name="INIESTA"
+				id="128238326.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mascherano, Javier" short-name="Mascheran"
+				id="128238327.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Messi, Lionel" short-name="Messi, Li"
+				id="128238328.20" price="7/2" priceDecimal="4.50" priceUS="350.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Montoya, Martin" short-name="Montoya"
+				id="128238329.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pedro," short-name="Pedro" id="128238330.20"
+				price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pique, Gerard" short-name="Pique, Ge"
+				id="128238331.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Puyol, Carles" short-name="PUYOL, CA"
+				id="128238332.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Roberto, Sergi" short-name="Roberto"
+				id="128238333.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Sanchez, Alexis" short-name="Sanchez"
+				id="128238334.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Song, Alexandre" short-name="Song, Ale"
+				id="128238335.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Tello, Cristian" short-name="Tello, Cr"
+				id="128238336.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Villa, David" short-name="D  Villa"
+				id="128238337.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Xavi," short-name="Xavi" id="128238338.20"
+				price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Albiol, Raul" short-name="R  Albiol"
+				id="128238844.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Alonso, Xabi" short-name="ALONSO, X"
+				id="128238845.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Arbeloa, Alvaro" short-name="Arbeloa"
+				id="128238846.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Benzema, Karim" short-name="K  Benzem"
+				id="128238847.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Callejon, Jose Maria" short-name="Callejon"
+				id="128238848.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Carvalho, Ricardo" short-name="CARVALHO"
+				id="128238849.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Coentrao, Fabio" short-name="Coentrao"
+				id="128238850.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Essien, Michael" short-name="ESSIEN, M"
+				id="128238851.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Higuain, Gonzalo" short-name="Higuain"
+				id="128238852.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Kaka," short-name="KAKA" id="128238853.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Khedira, Sami" short-name="Khedira"
+				id="128238854.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Marcelo," short-name="Marcelo" id="128238855.20"
+				price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Modric, Luka" short-name="L  Modric"
+				id="128238856.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Morata, Alvaro" short-name="Morata, A"
+				id="128238857.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ozil, Mesut" short-name="Ozil, Mes"
+				id="128238858.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Pepe," short-name="Pepe" id="128238859.20"
+				price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Rodriguez, Jose" short-name="Rodriguez"
+				id="128238860.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ronaldo, Cristiano" short-name="Ronaldo"
+				id="128238861.20" price="5/1" priceDecimal="6.00" priceUS="500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Varane, Raphael" short-name="Varane, R"
+				id="128238862.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="To Score A Hat-trick" inrunning="0"
+			bettypeid="5750609.20">
+			<bet had-value="AWAY" name="Alba, Jordi" short-name="Alba, Jor"
+				id="128238360.20" price="300/1" priceDecimal="301.00" priceUS="30000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alcantara, Thiago" short-name="Alcantara"
+				id="128238361.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Alves, Daniel" short-name="ALVES, DA"
+				id="128238362.20" price="400/1" priceDecimal="401.00" priceUS="40000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Correia, Adriano" short-name="Correia"
+				id="128238364.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Fabregas, Cesc" short-name="Fabregas"
+				id="128238365.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Iniesta, Andres" short-name="INIESTA"
+				id="128238366.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Messi, Lionel" short-name="Messi, Li"
+				id="128238368.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pedro," short-name="Pedro" id="128238370.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Pique, Gerard" short-name="Pique, Ge"
+				id="128238371.20" price="400/1" priceDecimal="401.00" priceUS="40000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Roberto, Sergi" short-name="Roberto"
+				id="128238373.20" price="300/1" priceDecimal="301.00" priceUS="30000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Sanchez, Alexis" short-name="Sanchez"
+				id="128238374.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Tello, Cristian" short-name="Tello, Cr"
+				id="128238376.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Villa, David" short-name="D  Villa"
+				id="128238377.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Xavi," short-name="Xavi" id="128238378.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Alonso, Xabi" short-name="ALONSO, X"
+				id="128238919.20" price="250/1" priceDecimal="251.00" priceUS="25000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Benzema, Karim" short-name="K  Benzem"
+				id="128238921.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Callejon, Jose Maria" short-name="Callejon"
+				id="128238922.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Essien, Michael" short-name="ESSIEN, M"
+				id="128238925.20" price="250/1" priceDecimal="251.00" priceUS="25000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Higuain, Gonzalo" short-name="Higuain"
+				id="128238926.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Kaka," short-name="KAKA" id="128238927.20"
+				price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Khedira, Sami" short-name="Khedira"
+				id="128238928.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Marcelo," short-name="Marcelo" id="128238929.20"
+				price="300/1" priceDecimal="301.00" priceUS="30000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Modric, Luka" short-name="L  Modric"
+				id="128238930.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Morata, Alvaro" short-name="Morata, A"
+				id="128238931.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ozil, Mesut" short-name="Ozil, Mes"
+				id="128238932.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Ronaldo, Cristiano" short-name="Ronaldo"
+				id="128238935.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Under/Over 1.5" inrunning="0" bettypeid="5750610.20">
+			<bet name="Under 1.5" short-name="Under 1.5" id="128238379.20"
+				price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="CP" />
+			<bet name="Over 1.5" short-name="Over 1.5" id="128238380.20"
+				price="1/6" priceDecimal="1.17" priceUS="-16.67" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5750611.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128238381.20"
+				price="11/8" priceDecimal="2.38" priceUS="137.50"
+				active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128238382.20"
+				price="8/15" priceDecimal="1.53" priceUS="-53.33"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Under/Over 3.5" inrunning="0" bettypeid="5750612.20">
+			<bet name="Under 3.5 Goals" short-name="Under 3.5" id="128238383.20"
+				price="4/7" priceDecimal="1.57" priceUS="-57.14" active-price-types="CP" />
+			<bet name="Over 3.5 Goals" short-name="Over 3.5" id="128238384.20"
+				price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Under/Over 4.5" inrunning="0" bettypeid="5750613.20">
+			<bet name="Under 4.5 Goals" short-name="Under 4.5" id="128238385.20"
+				price="2/9" priceDecimal="1.22" priceUS="-22.22" active-price-types="CP" />
+			<bet name="Over 4.5 Goals" short-name="Over 4.5" id="128238386.20"
+				price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="1st Half Under/Over 0.5 Goals" inrunning="0"
+			bettypeid="5750614.20">
+			<bet name="Under 0.5 Goals" short-name="Under 0.5" id="128238387.20"
+				price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+			<bet name="Over 0.5 Goals" short-name="Over 0.5" id="128238388.20"
+				price="2/7" priceDecimal="1.29" priceUS="-28.57" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="1st Half Under/Over 1.5 Goals" inrunning="0"
+			bettypeid="5750615.20">
+			<bet name="Under 1.5 Goals" short-name="Under 1.5" id="128238389.20"
+				price="4/7" priceDecimal="1.57" priceUS="-57.14" active-price-types="CP" />
+			<bet name="Over 1.5 Goals" short-name="Over 1.5" id="128238390.20"
+				price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Odd or Even Total Goals" inrunning="0"
+			bettypeid="5750616.20">
+			<bet name="Odd" short-name="Odd" id="128238391.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="Even" id="128238392.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Draw No Bet" inrunning="0" bettypeid="5750618.20">
+			<bet name="Real Madrid" short-name="Real Madr" id="128238395.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet name="Barcelona" short-name="BARCEL'" id="128238396.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Double Chance" inrunning="0" bettypeid="5750619.20">
+			<bet name="Real Madrid Or Barcelona" short-name="Rea or $A" id="128238397.20"
+				price="2/7" priceDecimal="1.29" priceUS="-28.57" active-price-types="CP" />
+			<bet name="Real Madrid Or Draw" short-name="Rea or Dr" id="128238398.20"
+				price="8/15" priceDecimal="1.53" priceUS="-53.33"
+				active-price-types="CP" />
+			<bet name="Barcelona Or Draw" short-name="Bar or Dr" id="128238399.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Clean Sheet" inrunning="0" bettypeid="5750620.20">
+			<bet name="Real Madrid" short-name="Rea" id="128238400.20" price="3/1"
+				priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+			<bet name="Barcelona" short-name="Bar" id="128238401.20" price="11/4"
+				priceDecimal="3.75" priceUS="275.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Score 1st Goal" inrunning="0" bettypeid="5750621.20">
+			<bet had-value="DRAW" name="No Goal" short-name="No Goal" id="128238402.20"
+				price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Madrid" short-name="Real Madr"
+				id="128238403.20" price="21/20" priceDecimal="2.05" priceUS="105.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Barcelona" short-name="BARCEL'" id="128238404.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Which Half Most Goals" inrunning="0"
+			bettypeid="5750622.20">
+			<bet name="1st Half" short-name="1st Half" id="128238405.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+			<bet name="Tie" short-name="Tie" id="128238406.20" price="5/2"
+				priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+			<bet name="2nd Half" short-name="2nd Half" id="128238407.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Total Goals" inrunning="0" bettypeid="5750624.20">
+			<bet name="0-1 Goal" short-name="0-1 Goal" id="128238411.20"
+				price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="CP" />
+			<bet name="2-3 Goals" short-name="2-3 Goals" id="128238412.20"
+				price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="CP" />
+			<bet name="4+ Goals" short-name="4+ Goals" id="128238413.20"
+				price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1500"
+			suspended="false" name="Odd or Even Corners" inrunning="0" bettypeid="5750627.20">
+			<bet name="Odd" short-name="ODD" id="128238420.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="EVEN" id="128238421.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Getafe v Real Zaragoza" eventid="2320396.20" date="20130301"
+		time="2000" meeting="" venue="">
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755168.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128298864.20"
+				price="12/5" priceDecimal="3.40" priceUS="240.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe" short-name="GETAFE" id="128298866.20"
+				price="4/5" priceDecimal="1.80" priceUS="-80.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza" short-name="Real Zara"
+				id="128298869.20" price="11/4" priceDecimal="3.75" priceUS="275.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755172.20">
+			<bet had-value="HOME" name="Getafe 1-0" short-name="Get 1-0" id="128298891.20"
+				price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 2-0" short-name="Get 2-0" id="128298894.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 2-1" short-name="Get 2-1" id="128298896.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 3-0" short-name="Get 3-0" id="128298898.20"
+				price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 3-1" short-name="Get 3-1" id="128298900.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 3-2" short-name="Get 3-2" id="128298902.20"
+				price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-0" short-name="Get 4-0" id="128298904.20"
+				price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-1" short-name="Get 4-1" id="128298908.20"
+				price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-2" short-name="Get 4-2" id="128298911.20"
+				price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-3" short-name="Get 4-3" id="128298913.20"
+				price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 5-0" short-name="Get 5-0" id="128298916.20"
+				price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 5-1" short-name="Get 5-1" id="128298918.20"
+				price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 5-2" short-name="Get 5-2" id="128298920.20"
+				price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 6-0" short-name="Get 6-0" id="128298925.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 6-1" short-name="Get 6-1" id="128298927.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 7-0" short-name="Get 7-0" id="128298930.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 7-1" short-name="Get 7-1" id="128298932.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 8-0" short-name="Get 8-0" id="128298935.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 9-0" short-name="Get 9-0" id="128298937.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 10-0" short-name="Get 10-0"
+				id="128298939.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128298940.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128298941.20"
+				price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128298942.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128298943.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 1-0" short-name="Rea 1-0"
+				id="128298944.20" price="17/2" priceDecimal="9.50" priceUS="850.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 2-0" short-name="Rea 2-0"
+				id="128298945.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 2-1" short-name="Rea 2-1"
+				id="128298946.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-0" short-name="Rea 3-0"
+				id="128298947.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-1" short-name="Rea 3-1"
+				id="128298948.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-2" short-name="Rea 3-2"
+				id="128298950.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-0" short-name="Rea 4-0"
+				id="128298952.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-1" short-name="Rea 4-1"
+				id="128298954.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-2" short-name="Rea 4-2"
+				id="128298955.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-3" short-name="Rea 4-3"
+				id="128298956.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-0" short-name="Rea 5-0"
+				id="128298957.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-1" short-name="Rea 5-1"
+				id="128298958.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-2" short-name="Rea 5-2"
+				id="128298959.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 6-0" short-name="Rea 6-0"
+				id="128298961.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 6-1" short-name="Rea 6-1"
+				id="128298963.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 7-0" short-name="Rea 7-0"
+				id="128298964.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 7-1" short-name="Rea 7-1"
+				id="128298965.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 8-0" short-name="Rea 8-0"
+				id="128298966.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 9-0" short-name="Rea 9-0"
+				id="128298967.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 10-0" short-name="Rea 10-0"
+				id="128298968.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755187.20">
+			<bet had-value="HOME" name="Getafe - Getafe" short-name="Get - Get"
+				id="128299021.20" price="7/4" priceDecimal="2.75" priceUS="175.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Getafe - Draw" short-name="Get - Dra"
+				id="128299026.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Getafe - Real Zaragoza" short-name="Get - Rea"
+				id="128299028.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Getafe" short-name="Dra - Get"
+				id="128299031.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128299035.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Real Zaragoza" short-name="Dra - Rea"
+				id="128299036.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Zaragoza - Getafe" short-name="Rea - Get"
+				id="128299040.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Zaragoza - Draw" short-name="Rea - Dra"
+				id="128299044.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza - Real Zaragoza"
+				short-name="Rea - Rea" id="128299050.20" price="6/1" priceDecimal="7.00"
+				priceUS="600.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755193.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128299067.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe" short-name="GETAFE" id="128299068.20"
+				price="8/5" priceDecimal="2.60" priceUS="160.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza" short-name="Real Zara"
+				id="128299070.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755195.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128299073.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128299075.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Deportivo v Real Zaragoza" eventid="2320403.20"
+		date="20130302" time="1700" meeting="" venue="">
+		<bettype bet-start-date="20130302" bet-start-time="1700"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755294.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128299614.20"
+				price="11/5" priceDecimal="3.20" priceUS="220.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo" short-name="DEPORT'" id="128299615.20"
+				price="11/8" priceDecimal="2.38" priceUS="137.50"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza" short-name="Real Zara"
+				id="128299616.20" price="13/8" priceDecimal="2.63" priceUS="162.50"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1700"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755296.20">
+			<bet had-value="HOME" name="Deportivo 1-0" short-name="Dep 1-0"
+				id="128299619.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 2-0" short-name="Dep 2-0"
+				id="128299620.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 2-1" short-name="Dep 2-1"
+				id="128299621.20" price="17/2" priceDecimal="9.50" priceUS="850.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 3-0" short-name="Dep 3-0"
+				id="128299622.20" price="22/1" priceDecimal="23.00" priceUS="2200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 3-1" short-name="Dep 3-1"
+				id="128299623.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 3-2" short-name="Dep 3-2"
+				id="128299624.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 4-0" short-name="Dep 4-0"
+				id="128299625.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 4-1" short-name="Dep 4-1"
+				id="128299626.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 4-2" short-name="Dep 4-2"
+				id="128299627.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 4-3" short-name="Dep 4-3"
+				id="128299628.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 5-0" short-name="Dep 5-0"
+				id="128299629.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 5-1" short-name="Dep 5-1"
+				id="128299630.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 5-2" short-name="Dep 5-2"
+				id="128299631.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 6-0" short-name="Dep 6-0"
+				id="128299632.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 6-1" short-name="Dep 6-1"
+				id="128299633.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 7-0" short-name="Dep 7-0"
+				id="128299634.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 7-1" short-name="Dep 7-1"
+				id="128299635.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 8-0" short-name="Dep 8-0"
+				id="128299636.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 9-0" short-name="Dep 9-0"
+				id="128299637.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo 10-0" short-name="Dep 10-0"
+				id="128299638.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128299639.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128299640.20"
+				price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128299641.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128299642.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 1-0" short-name="Rea 1-0"
+				id="128299643.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 2-0" short-name="Rea 2-0"
+				id="128299644.20" price="11/1" priceDecimal="12.00" priceUS="1100.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 2-1" short-name="Rea 2-1"
+				id="128299645.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-0" short-name="Rea 3-0"
+				id="128299646.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-1" short-name="Rea 3-1"
+				id="128299647.20" price="22/1" priceDecimal="23.00" priceUS="2200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-2" short-name="Rea 3-2"
+				id="128299648.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-0" short-name="Rea 4-0"
+				id="128299649.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-1" short-name="Rea 4-1"
+				id="128299650.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-2" short-name="Rea 4-2"
+				id="128299651.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-3" short-name="Rea 4-3"
+				id="128299652.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-0" short-name="Rea 5-0"
+				id="128299653.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-1" short-name="Rea 5-1"
+				id="128299654.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-2" short-name="Rea 5-2"
+				id="128299655.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 6-0" short-name="Rea 6-0"
+				id="128299656.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 6-1" short-name="Rea 6-1"
+				id="128299657.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 7-0" short-name="Rea 7-0"
+				id="128299658.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 7-1" short-name="Rea 7-1"
+				id="128299659.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 8-0" short-name="Rea 8-0"
+				id="128299660.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 9-0" short-name="Rea 9-0"
+				id="128299661.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 10-0" short-name="Rea 10-0"
+				id="128299662.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1700"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755297.20">
+			<bet had-value="HOME" name="Deportivo - Deportivo" short-name="Dep - Dep"
+				id="128299663.20" price="3/1" priceDecimal="4.00" priceUS="300.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Deportivo - Draw" short-name="Dep - Dra"
+				id="128299664.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Deportivo - Real Zaragoza"
+				short-name="Dep - Rea" id="128299665.20" price="28/1" priceDecimal="29.00"
+				priceUS="2800.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Deportivo" short-name="Dra - Dep"
+				id="128299666.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128299667.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Real Zaragoza" short-name="Dra - Rea"
+				id="128299668.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Zaragoza - Deportivo"
+				short-name="Rea - Dep" id="128299669.20" price="25/1" priceDecimal="26.00"
+				priceUS="2500.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Zaragoza - Draw" short-name="Rea - Dra"
+				id="128299670.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza - Real Zaragoza"
+				short-name="Rea - Rea" id="128299671.20" price="4/1" priceDecimal="5.00"
+				priceUS="400.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1700"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755298.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128299672.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Deportivo" short-name="DEPORT'" id="128299673.20"
+				price="21/10" priceDecimal="3.10" priceUS="210.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza" short-name="Real Zara"
+				id="128299674.20" price="12/5" priceDecimal="3.40" priceUS="240.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130302" bet-start-time="1700"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755300.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128299676.20"
+				price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128299678.20"
+				price="4/5" priceDecimal="1.80" priceUS="-80.00" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Osasuna v Athletic Bilbao" eventid="2320410.20"
+		date="20130302" time="1900" meeting="" venue="">
+		<bettype suspended="false" name="Match Betting" inrunning="0"
+			bettypeid="5755393.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128300191.20"
+				price="11/5" priceDecimal="3.20" priceUS="220.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna" short-name="Osasuna" id="128300192.20"
+				price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao" short-name="ATH. BILB"
+				id="128300193.20" price="15/8" priceDecimal="2.88" priceUS="187.50"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Correct Score" inrunning="0"
+			bettypeid="5755395.20">
+			<bet had-value="HOME" name="Osasuna 1-0" short-name="Osa 1-0"
+				id="128300196.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 2-0" short-name="Osa 2-0"
+				id="128300197.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 2-1" short-name="Osa 2-1"
+				id="128300198.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 3-0" short-name="Osa 3-0"
+				id="128300199.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 3-1" short-name="Osa 3-1"
+				id="128300200.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 3-2" short-name="Osa 3-2"
+				id="128300201.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 4-0" short-name="Osa 4-0"
+				id="128300202.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 4-1" short-name="Osa 4-1"
+				id="128300203.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 4-2" short-name="Osa 4-2"
+				id="128300204.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 4-3" short-name="Osa 4-3"
+				id="128300205.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 5-0" short-name="Osa 5-0"
+				id="128300206.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 5-1" short-name="Osa 5-1"
+				id="128300207.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 5-2" short-name="Osa 5-2"
+				id="128300208.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 6-0" short-name="Osa 6-0"
+				id="128300209.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 6-1" short-name="Osa 6-1"
+				id="128300210.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 7-0" short-name="Osa 7-0"
+				id="128300211.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 7-1" short-name="Osa 7-1"
+				id="128300212.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 8-0" short-name="Osa 8-0"
+				id="128300213.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 9-0" short-name="Osa 9-0"
+				id="128300214.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna 10-0" short-name="Osa 10-0"
+				id="128300215.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128300216.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128300217.20"
+				price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128300218.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128300219.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 1-0" short-name="Ath 1-0"
+				id="128300220.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 2-0" short-name="Ath 2-0"
+				id="128300221.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 2-1" short-name="Ath 2-1"
+				id="128300222.20" price="11/1" priceDecimal="12.00" priceUS="1100.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 3-0" short-name="Ath 3-0"
+				id="128300223.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 3-1" short-name="Ath 3-1"
+				id="128300224.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 3-2" short-name="Ath 3-2"
+				id="128300225.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 4-0" short-name="Ath 4-0"
+				id="128300226.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 4-1" short-name="Ath 4-1"
+				id="128300227.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 4-2" short-name="Ath 4-2"
+				id="128300228.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 4-3" short-name="Ath 4-3"
+				id="128300229.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 5-0" short-name="Ath 5-0"
+				id="128300230.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 5-1" short-name="Ath 5-1"
+				id="128300231.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 5-2" short-name="Ath 5-2"
+				id="128300232.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 6-0" short-name="Ath 6-0"
+				id="128300233.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 6-1" short-name="Ath 6-1"
+				id="128300234.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 7-0" short-name="Ath 7-0"
+				id="128300235.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 7-1" short-name="Ath 7-1"
+				id="128300236.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 8-0" short-name="Ath 8-0"
+				id="128300237.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 9-0" short-name="Ath 9-0"
+				id="128300238.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao 10-0" short-name="Ath 10-0"
+				id="128300239.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Double Result" inrunning="0"
+			bettypeid="5755396.20">
+			<bet had-value="HOME" name="Osasuna - Osasuna" short-name="Osa - Osa"
+				id="128300240.20" price="5/2" priceDecimal="3.50" priceUS="250.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Osasuna - Draw" short-name="Osa - Dra"
+				id="128300241.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Osasuna - Athletic Bilbao"
+				short-name="Osa - Ath" id="128300242.20" price="28/1" priceDecimal="29.00"
+				priceUS="2800.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Osasuna" short-name="Dra - Osa"
+				id="128300243.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128300244.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Athletic Bilbao" short-name="Dra - Ath"
+				id="128300245.20" price="5/1" priceDecimal="6.00" priceUS="500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Athletic Bilbao - Osasuna"
+				short-name="Ath - Osa" id="128300246.20" price="25/1" priceDecimal="26.00"
+				priceUS="2500.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Athletic Bilbao - Draw" short-name="Ath - Dra"
+				id="128300247.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao - Athletic Bilbao"
+				short-name="Ath - Ath" id="128300248.20" price="9/2" priceDecimal="5.50"
+				priceUS="450.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="H/T Betting" inrunning="0"
+			bettypeid="5755397.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128300249.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Osasuna" short-name="Osasuna" id="128300250.20"
+				price="19/10" priceDecimal="2.90" priceUS="190.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Athletic Bilbao" short-name="ATH. BILB"
+				id="128300251.20" price="13/5" priceDecimal="3.60" priceUS="260.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Under/Over 2.5" inrunning="0"
+			bettypeid="5755398.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128300252.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128300253.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Valencia v Levante" eventid="2320415.20" date="20130302"
+		time="2100" meeting="" venue="">
+		<bettype suspended="false" name="Match Betting" inrunning="0"
+			bettypeid="5755418.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128300486.20"
+				price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia" short-name="Valencia" id="128300487.20"
+				price="1/2" priceDecimal="1.50" priceUS="-50.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante" short-name="LEVANTE" id="128300488.20"
+				price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="CP" />
+		</bettype>
+		<bettype handicap="-1" suspended="false" name="Match Handicap"
+			inrunning="0" bettypeid="5755421.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128300494.20"
+				handicap-id="3454443.20" handicap="-1" price="5/2" priceDecimal="3.50"
+				priceUS="250.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia" short-name="Valencia" id="128300495.20"
+				handicap-id="3454444.20" handicap="-1" price="5/4" priceDecimal="2.25"
+				priceUS="125.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante" short-name="LEVANTE" id="128300496.20"
+				handicap-id="3454445.20" handicap="1" price="6/4" priceDecimal="2.50"
+				priceUS="150.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Correct Score" inrunning="0"
+			bettypeid="5755425.20">
+			<bet had-value="HOME" name="Valencia 1-0" short-name="Val 1-0"
+				id="128300506.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 2-0" short-name="Val 2-0"
+				id="128300507.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 2-1" short-name="Val 2-1"
+				id="128300508.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 3-0" short-name="Val 3-0"
+				id="128300509.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 3-1" short-name="Val 3-1"
+				id="128300510.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 3-2" short-name="Val 3-2"
+				id="128300511.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 4-0" short-name="Val 4-0"
+				id="128300512.20" price="22/1" priceDecimal="23.00" priceUS="2200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 4-1" short-name="Val 4-1"
+				id="128300514.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 4-2" short-name="Val 4-2"
+				id="128300516.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 4-3" short-name="Val 4-3"
+				id="128300517.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 5-0" short-name="Val 5-0"
+				id="128300518.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 5-1" short-name="Val 5-1"
+				id="128300519.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 5-2" short-name="Val 5-2"
+				id="128300520.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 6-0" short-name="Val 6-0"
+				id="128300521.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 6-1" short-name="Val 6-1"
+				id="128300522.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 7-0" short-name="Val 7-0"
+				id="128300523.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 7-1" short-name="Val 7-1"
+				id="128300524.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 8-0" short-name="Val 8-0"
+				id="128300525.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 9-0" short-name="Val 9-0"
+				id="128300526.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia 10-0" short-name="Val 10-0"
+				id="128300529.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128300531.20"
+				price="11/1" priceDecimal="12.00" priceUS="1100.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128300532.20"
+				price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128300533.20"
+				price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128300534.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 1-0" short-name="Lev 1-0"
+				id="128300535.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 2-0" short-name="Lev 2-0"
+				id="128300536.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 2-1" short-name="Lev 2-1"
+				id="128300537.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 3-0" short-name="Lev 3-0"
+				id="128300538.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 3-1" short-name="Lev 3-1"
+				id="128300539.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 3-2" short-name="Lev 3-2"
+				id="128300540.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 4-0" short-name="Lev 4-0"
+				id="128300542.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 4-1" short-name="Lev 4-1"
+				id="128300543.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 4-2" short-name="Lev 4-2"
+				id="128300545.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 4-3" short-name="Lev 4-3"
+				id="128300547.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 5-0" short-name="Lev 5-0"
+				id="128300548.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 5-1" short-name="Lev 5-1"
+				id="128300549.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 5-2" short-name="Lev 5-2"
+				id="128300550.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 6-0" short-name="Lev 6-0"
+				id="128300551.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 6-1" short-name="Lev 6-1"
+				id="128300552.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 7-0" short-name="Lev 7-0"
+				id="128300553.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 7-1" short-name="Lev 7-1"
+				id="128300554.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 8-0" short-name="Lev 8-0"
+				id="128300555.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 9-0" short-name="Lev 9-0"
+				id="128300556.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante 10-0" short-name="Lev 10-0"
+				id="128300557.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Double Result" inrunning="0"
+			bettypeid="5755433.20">
+			<bet had-value="HOME" name="Valencia - Valencia" short-name="Val - Val"
+				id="128300568.20" price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Valencia - Draw" short-name="Val - Dra"
+				id="128300569.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Valencia - Levante" short-name="Val - Lev"
+				id="128300571.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Valencia" short-name="Dra - Val"
+				id="128300573.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128300574.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Levante" short-name="Dra - Lev"
+				id="128300575.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Levante - Valencia" short-name="Lev - Val"
+				id="128300576.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Levante - Draw" short-name="Lev - Dra"
+				id="128300577.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante - Levante" short-name="Lev - Lev"
+				id="128300578.20" price="11/1" priceDecimal="12.00" priceUS="1100.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="H/T Betting" inrunning="0"
+			bettypeid="5755436.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128300582.20"
+				price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia" short-name="Valencia" id="128300584.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante" short-name="LEVANTE" id="128300585.20"
+				price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Under/Over 1.5" inrunning="0"
+			bettypeid="5755455.20">
+			<bet name="Under 1.5" short-name="Under 1.5" id="128300837.20"
+				price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+			<bet name="Over 1.5" short-name="Over 1.5" id="128300838.20"
+				price="2/9" priceDecimal="1.22" priceUS="-22.22" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Under/Over 2.5" inrunning="0"
+			bettypeid="5755457.20">
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128300843.20"
+				price="8/11" priceDecimal="1.73" priceUS="-72.73"
+				active-price-types="CP" />
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128300842.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Under/Over 3.5" inrunning="0"
+			bettypeid="5755458.20">
+			<bet name="Under 3.5 Goals" short-name="Under 3.5" id="128300844.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+			<bet name="Over 3.5 Goals" short-name="Over 3.5" id="128300845.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Under/Over 4.5" inrunning="0"
+			bettypeid="5755460.20">
+			<bet name="Under 4.5 Goals" short-name="Under 4.5" id="128300848.20"
+				price="1/7" priceDecimal="1.14" priceUS="-14.29" active-price-types="CP" />
+			<bet name="Over 4.5 Goals" short-name="Over 4.5" id="128300850.20"
+				price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="1st Half Under/Over 0.5 Goals"
+			inrunning="0" bettypeid="5755462.20">
+			<bet name="Under 0.5 Goals" short-name="Under 0.5" id="128300856.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet name="Over 0.5 Goals" short-name="Over 0.5" id="128300859.20"
+				price="1/3" priceDecimal="1.33" priceUS="-33.33" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="1st Half Under/Over 1.5 Goals"
+			inrunning="0" bettypeid="5755463.20">
+			<bet name="Under 1.5 Goals" short-name="Under 1.5" id="128300865.20"
+				price="1/2" priceDecimal="1.50" priceUS="-50.00" active-price-types="CP" />
+			<bet name="Over 1.5 Goals" short-name="Over 1.5" id="128300867.20"
+				price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Odd or Even Total Goals"
+			inrunning="0" bettypeid="5755465.20">
+			<bet name="Odd" short-name="Odd" id="128300879.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="Even" id="128300882.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Draw No Bet" inrunning="0"
+			bettypeid="5755467.20">
+			<bet name="Valencia" short-name="Valencia" id="128300901.20"
+				price="1/7" priceDecimal="1.14" priceUS="-14.29" active-price-types="CP" />
+			<bet name="Levante" short-name="LEVANTE" id="128300904.20" price="4/1"
+				priceDecimal="5.00" priceUS="400.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Double Chance" inrunning="0"
+			bettypeid="5755468.20">
+			<bet name="Valencia Or Levante" short-name="Val or $A" id="128300913.20"
+				price="2/9" priceDecimal="1.22" priceUS="-22.22" active-price-types="CP" />
+			<bet name="Valencia Or Draw" short-name="Val or Dr" id="128300919.20"
+				price="1/10" priceDecimal="1.10" priceUS="-10.00"
+				active-price-types="CP" />
+			<bet name="Levante Or Draw" short-name="Lev or Dr" id="128300926.20"
+				price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Clean Sheet" inrunning="0"
+			bettypeid="5755470.20">
+			<bet name="Valencia" short-name="Val" id="128300935.20" price="Evs"
+				priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet name="Levante" short-name="Lev" id="128300936.20" price="11/2"
+				priceDecimal="6.50" priceUS="550.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Score 1st Goal" inrunning="0"
+			bettypeid="5755471.20">
+			<bet had-value="DRAW" name="No Goal" short-name="No Goal" id="128300937.20"
+				price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Valencia" short-name="Valencia" id="128300938.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Levante" short-name="LEVANTE" id="128300939.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Which Half Most Goals"
+			inrunning="0" bettypeid="5755473.20">
+			<bet name="1st Half" short-name="1st Half" id="128300943.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet name="Tie" short-name="Tie" id="128300944.20" price="9/4"
+				priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet name="2nd Half" short-name="2nd Half" id="128300945.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Total Goals" inrunning="0"
+			bettypeid="5755477.20">
+			<bet name="0-1 Goal" short-name="0-1 Goal" id="128300952.20"
+				price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+			<bet name="2-3 Goals" short-name="2-3 Goals" id="128300954.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet name="4+ Goals" short-name="4+ Goals" id="128300955.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Odd or Even Corners"
+			inrunning="0" bettypeid="5755482.20">
+			<bet name="Odd" short-name="ODD" id="128300976.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="EVEN" id="128300978.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Espanyol v Real Valladolid" eventid="2320423.20"
+		date="20130303" time="1600" meeting="" venue="">
+		<bettype suspended="false" name="Match Betting" inrunning="0"
+			bettypeid="5755583.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128301482.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol" short-name="Espanyol" id="128301484.20"
+				price="4/5" priceDecimal="1.80" priceUS="-80.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid" short-name="Real Vall"
+				id="128301485.20" price="3/1" priceDecimal="4.00" priceUS="300.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Correct Score" inrunning="0"
+			bettypeid="5755586.20">
+			<bet had-value="HOME" name="Espanyol 1-0" short-name="Esp 1-0"
+				id="128301491.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 2-0" short-name="Esp 2-0"
+				id="128301492.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 2-1" short-name="Esp 2-1"
+				id="128301493.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 3-0" short-name="Esp 3-0"
+				id="128301494.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 3-1" short-name="Esp 3-1"
+				id="128301495.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 3-2" short-name="Esp 3-2"
+				id="128301496.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 4-0" short-name="Esp 4-0"
+				id="128301498.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 4-1" short-name="Esp 4-1"
+				id="128301500.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 4-2" short-name="Esp 4-2"
+				id="128301501.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 4-3" short-name="Esp 4-3"
+				id="128301502.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 5-0" short-name="Esp 5-0"
+				id="128301503.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 5-1" short-name="Esp 5-1"
+				id="128301504.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 5-2" short-name="Esp 5-2"
+				id="128301505.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 6-0" short-name="Esp 6-0"
+				id="128301506.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 6-1" short-name="Esp 6-1"
+				id="128301507.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 7-0" short-name="Esp 7-0"
+				id="128301508.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 7-1" short-name="Esp 7-1"
+				id="128301509.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 8-0" short-name="Esp 8-0"
+				id="128301511.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 9-0" short-name="Esp 9-0"
+				id="128301512.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol 10-0" short-name="Esp 10-0"
+				id="128301514.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128301516.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128301517.20"
+				price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128301518.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128301519.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 1-0" short-name="Rea 1-0"
+				id="128301520.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 2-0" short-name="Rea 2-0"
+				id="128301521.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 2-1" short-name="Rea 2-1"
+				id="128301522.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 3-0" short-name="Rea 3-0"
+				id="128301523.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 3-1" short-name="Rea 3-1"
+				id="128301525.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 3-2" short-name="Rea 3-2"
+				id="128301527.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 4-0" short-name="Rea 4-0"
+				id="128301528.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 4-1" short-name="Rea 4-1"
+				id="128301529.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 4-2" short-name="Rea 4-2"
+				id="128301530.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 4-3" short-name="Rea 4-3"
+				id="128301531.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 5-0" short-name="Rea 5-0"
+				id="128301532.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 5-1" short-name="Rea 5-1"
+				id="128301533.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 5-2" short-name="Rea 5-2"
+				id="128301534.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 6-0" short-name="Rea 6-0"
+				id="128301536.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 6-1" short-name="Rea 6-1"
+				id="128301538.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 7-0" short-name="Rea 7-0"
+				id="128301539.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 7-1" short-name="Rea 7-1"
+				id="128301540.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 8-0" short-name="Rea 8-0"
+				id="128301541.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 9-0" short-name="Rea 9-0"
+				id="128301542.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid 10-0" short-name="Rea 10-0"
+				id="128301543.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Double Result" inrunning="0"
+			bettypeid="5755593.20">
+			<bet had-value="HOME" name="Espanyol - Espanyol" short-name="Esp - Esp"
+				id="128301549.20" price="7/4" priceDecimal="2.75" priceUS="175.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Espanyol - Draw" short-name="Esp - Dra"
+				id="128301550.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Espanyol - Real Valladolid"
+				short-name="Esp - Rea" id="128301551.20" price="28/1" priceDecimal="29.00"
+				priceUS="2800.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Espanyol" short-name="Dra - Esp"
+				id="128301552.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128301553.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Real Valladolid" short-name="Dra - Rea"
+				id="128301554.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Valladolid - Espanyol"
+				short-name="Rea - Esp" id="128301555.20" price="25/1" priceDecimal="26.00"
+				priceUS="2500.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Valladolid - Draw" short-name="Rea - Dra"
+				id="128301556.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid - Real Valladolid"
+				short-name="Rea - Rea" id="128301557.20" price="7/1" priceDecimal="8.00"
+				priceUS="700.00" active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="H/T Betting" inrunning="0"
+			bettypeid="5755594.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128301558.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Espanyol" short-name="Espanyol" id="128301559.20"
+				price="8/5" priceDecimal="2.60" priceUS="160.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Valladolid" short-name="Real Vall"
+				id="128301560.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Under/Over 2.5" inrunning="0"
+			bettypeid="5755595.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128301561.20"
+				price="8/13" priceDecimal="1.62" priceUS="-61.54"
+				active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128301562.20"
+				price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Granada v Mallorca" eventid="2320429.20" date="20130303"
+		time="1100" meeting="" venue="">
+		<bettype bet-start-date="20130303" bet-start-time="1100"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755667.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128302048.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Granada" short-name="Granada" id="128302049.20"
+				price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca" short-name="MALLOR'" id="128302050.20"
+				price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1100"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755669.20">
+			<bet had-value="HOME" name="Granada 1-0" short-name="Gra 1-0"
+				id="128302053.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 2-0" short-name="Gra 2-0"
+				id="128302054.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 2-1" short-name="Gra 2-1"
+				id="128302055.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 3-0" short-name="Gra 3-0"
+				id="128302056.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 3-1" short-name="Gra 3-1"
+				id="128302057.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 3-2" short-name="Gra 3-2"
+				id="128302058.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 4-0" short-name="Gra 4-0"
+				id="128302059.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 4-1" short-name="Gra 4-1"
+				id="128302060.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 4-2" short-name="Gra 4-2"
+				id="128302061.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 4-3" short-name="Gra 4-3"
+				id="128302062.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 5-0" short-name="Gra 5-0"
+				id="128302063.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 5-1" short-name="Gra 5-1"
+				id="128302064.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 5-2" short-name="Gra 5-2"
+				id="128302065.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 6-0" short-name="Gra 6-0"
+				id="128302066.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 6-1" short-name="Gra 6-1"
+				id="128302067.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 7-0" short-name="Gra 7-0"
+				id="128302068.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 7-1" short-name="Gra 7-1"
+				id="128302069.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 8-0" short-name="Gra 8-0"
+				id="128302070.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 9-0" short-name="Gra 9-0"
+				id="128302072.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Granada 10-0" short-name="Gra 10-0"
+				id="128302074.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128302076.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128302078.20"
+				price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128302079.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128302081.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 1-0" short-name="Mal 1-0"
+				id="128302083.20" price="17/2" priceDecimal="9.50" priceUS="850.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 2-0" short-name="Mal 2-0"
+				id="128302085.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 2-1" short-name="Mal 2-1"
+				id="128302087.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 3-0" short-name="Mal 3-0"
+				id="128302089.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 3-1" short-name="Mal 3-1"
+				id="128302090.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 3-2" short-name="Mal 3-2"
+				id="128302091.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 4-0" short-name="Mal 4-0"
+				id="128302092.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 4-1" short-name="Mal 4-1"
+				id="128302093.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 4-2" short-name="Mal 4-2"
+				id="128302094.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 4-3" short-name="Mal 4-3"
+				id="128302095.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 5-0" short-name="Mal 5-0"
+				id="128302096.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 5-1" short-name="Mal 5-1"
+				id="128302097.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 5-2" short-name="Mal 5-2"
+				id="128302098.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 6-0" short-name="Mal 6-0"
+				id="128302099.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 6-1" short-name="Mal 6-1"
+				id="128302101.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 7-0" short-name="Mal 7-0"
+				id="128302103.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 7-1" short-name="Mal 7-1"
+				id="128302105.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 8-0" short-name="Mal 8-0"
+				id="128302106.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 9-0" short-name="Mal 9-0"
+				id="128302107.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca 10-0" short-name="Mal 10-0"
+				id="128302108.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1100"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755673.20">
+			<bet had-value="HOME" name="Granada - Granada" short-name="Gra - Gra"
+				id="128302113.20" price="2/1" priceDecimal="3.00" priceUS="200.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Granada - Draw" short-name="Gra - Dra"
+				id="128302114.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Granada - Mallorca" short-name="Gra - Mal"
+				id="128302115.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Granada" short-name="Dra - Gra"
+				id="128302116.20" price="7/2" priceDecimal="4.50" priceUS="350.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128302117.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Mallorca" short-name="Dra - Mal"
+				id="128302118.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Mallorca - Granada" short-name="Mal - Gra"
+				id="128302119.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Mallorca - Draw" short-name="Mal - Dra"
+				id="128302120.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca - Mallorca" short-name="Mal - Mal"
+				id="128302121.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1100"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755674.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128302122.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Granada" short-name="Granada" id="128302123.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Mallorca" short-name="MALLOR'" id="128302124.20"
+				price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1100"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755675.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128302125.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128302126.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Malaga v Atletico Madrid" eventid="2320433.20" date="20130303"
+		time="1800" meeting="" venue="">
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755708.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128302561.20"
+				price="11/5" priceDecimal="3.20" priceUS="220.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga" short-name="MALAGA" id="128302562.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid" short-name="AMADRID"
+				id="128302563.20" price="6/4" priceDecimal="2.50" priceUS="150.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			handicap="1" suspended="false" name="Match Handicap" inrunning="0"
+			bettypeid="5755711.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128302574.20"
+				handicap-id="3454460.20" handicap="1" price="11/4" priceDecimal="3.75"
+				priceUS="275.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga" short-name="MALAGA" id="128302576.20"
+				handicap-id="3454461.20" handicap="1" price="1/2" priceDecimal="1.50"
+				priceUS="-50.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid" short-name="AMADRID"
+				id="128302577.20" handicap-id="3454462.20" handicap="-1" price="4/1"
+				priceDecimal="5.00" priceUS="400.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			handicap="-1" suspended="false" name="Match Handicap 2" inrunning="0"
+			bettypeid="5755712.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128302578.20"
+				handicap-id="3457166.20" handicap="-1" price="3/1" priceDecimal="4.00"
+				priceUS="300.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga" short-name="MALAGA" id="128302579.20"
+				handicap-id="3457167.20" handicap="-1" price="11/2" priceDecimal="6.50"
+				priceUS="550.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid" short-name="AMADRID"
+				id="128302580.20" handicap-id="3457168.20" handicap="1" price="2/5"
+				priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755716.20">
+			<bet had-value="HOME" name="Malaga 1-0" short-name="Mal 1-0" id="128302589.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 2-0" short-name="Mal 2-0" id="128302590.20"
+				price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 2-1" short-name="Mal 2-1" id="128302591.20"
+				price="11/1" priceDecimal="12.00" priceUS="1100.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 3-0" short-name="Mal 3-0" id="128302596.20"
+				price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 3-1" short-name="Mal 3-1" id="128302599.20"
+				price="22/1" priceDecimal="23.00" priceUS="2200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 3-2" short-name="Mal 3-2" id="128302600.20"
+				price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 4-0" short-name="Mal 4-0" id="128302601.20"
+				price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 4-1" short-name="Mal 4-1" id="128302602.20"
+				price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 4-2" short-name="Mal 4-2" id="128302603.20"
+				price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 4-3" short-name="Mal 4-3" id="128302604.20"
+				price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 5-0" short-name="Mal 5-0" id="128302605.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 5-1" short-name="Mal 5-1" id="128302606.20"
+				price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 5-2" short-name="Mal 5-2" id="128302607.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 6-0" short-name="Mal 6-0" id="128302608.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 6-1" short-name="Mal 6-1" id="128302609.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 7-0" short-name="Mal 7-0" id="128302610.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 7-1" short-name="Mal 7-1" id="128302611.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 8-0" short-name="Mal 8-0" id="128302612.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 9-0" short-name="Mal 9-0" id="128302613.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga 10-0" short-name="Mal 10-0"
+				id="128302614.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128302615.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128302616.20"
+				price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128302617.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128302618.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 1-0" short-name="Atl 1-0"
+				id="128302619.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 2-0" short-name="Atl 2-0"
+				id="128302620.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 2-1" short-name="Atl 2-1"
+				id="128302621.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 3-0" short-name="Atl 3-0"
+				id="128302622.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 3-1" short-name="Atl 3-1"
+				id="128302623.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 3-2" short-name="Atl 3-2"
+				id="128302624.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 4-0" short-name="Atl 4-0"
+				id="128302625.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 4-1" short-name="Atl 4-1"
+				id="128302626.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 4-2" short-name="Atl 4-2"
+				id="128302627.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 4-3" short-name="Atl 4-3"
+				id="128302628.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 5-0" short-name="Atl 5-0"
+				id="128302629.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 5-1" short-name="Atl 5-1"
+				id="128302630.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 5-2" short-name="Atl 5-2"
+				id="128302631.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 6-0" short-name="Atl 6-0"
+				id="128302632.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 6-1" short-name="Atl 6-1"
+				id="128302633.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 7-0" short-name="Atl 7-0"
+				id="128302634.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 7-1" short-name="Atl 7-1"
+				id="128302635.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 8-0" short-name="Atl 8-0"
+				id="128302636.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 9-0" short-name="Atl 9-0"
+				id="128302637.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid 10-0" short-name="Atl 10-0"
+				id="128302638.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755717.20">
+			<bet had-value="HOME" name="Malaga - Malaga" short-name="Mal - Mal"
+				id="128302639.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Malaga - Draw" short-name="Mal - Dra"
+				id="128302640.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Malaga - Atletico Madrid" short-name="Mal - Atl"
+				id="128302641.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Malaga" short-name="Dra - Mal"
+				id="128302642.20" price="5/1" priceDecimal="6.00" priceUS="500.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128302643.20" price="4/1" priceDecimal="5.00" priceUS="400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Atletico Madrid" short-name="Dra - Atl"
+				id="128302644.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Atletico Madrid - Malaga" short-name="Atl - Mal"
+				id="128302645.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Atletico Madrid - Draw" short-name="Atl - Dra"
+				id="128302646.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid - Atletico Madrid"
+				short-name="Atl - Atl" id="128302647.20" price="7/2" priceDecimal="4.50"
+				priceUS="350.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755718.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128302648.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga" short-name="MALAGA" id="128302649.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid" short-name="AMADRID"
+				id="128302650.20" price="9/4" priceDecimal="3.25" priceUS="225.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Under/Over 1.5" inrunning="0" bettypeid="5755724.20">
+			<bet name="Under 1.5" short-name="Under 1.5" id="128302858.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+			<bet name="Over 1.5" short-name="Over 1.5" id="128302859.20"
+				price="4/11" priceDecimal="1.36" priceUS="-36.36"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755725.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128302860.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128302861.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Under/Over 3.5" inrunning="0" bettypeid="5755726.20">
+			<bet name="Under 3.5 Goals" short-name="Under 3.5" id="128302862.20"
+				price="1/4" priceDecimal="1.25" priceUS="-25.00" active-price-types="CP" />
+			<bet name="Over 3.5 Goals" short-name="Over 3.5" id="128302863.20"
+				price="11/4" priceDecimal="3.75" priceUS="275.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Under/Over 4.5" inrunning="0" bettypeid="5755727.20">
+			<bet name="Under 4.5 Goals" short-name="Under 4.5" id="128302864.20"
+				price="1/14" priceDecimal="1.07" priceUS="-7.14" active-price-types="CP" />
+			<bet name="Over 4.5 Goals" short-name="Over 4.5" id="128302865.20"
+				price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="1st Half Under/Over 0.5 Goals" inrunning="0"
+			bettypeid="5755728.20">
+			<bet name="Under 0.5 Goals" short-name="Under 0.5" id="128302866.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+			<bet name="Over 0.5 Goals" short-name="Over 0.5" id="128302867.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="1st Half Under/Over 1.5 Goals" inrunning="0"
+			bettypeid="5755729.20">
+			<bet name="Under 1.5 Goals" short-name="Under 1.5" id="128302868.20"
+				price="4/11" priceDecimal="1.36" priceUS="-36.36"
+				active-price-types="CP" />
+			<bet name="Over 1.5 Goals" short-name="Over 1.5" id="128302869.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Odd or Even Total Goals" inrunning="0"
+			bettypeid="5755730.20">
+			<bet name="Odd" short-name="Odd" id="128302870.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="Even" id="128302871.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Draw No Bet" inrunning="0" bettypeid="5755732.20">
+			<bet name="Malaga" short-name="MALAGA" id="128302874.20" price="Evs"
+				priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet name="Atletico Madrid" short-name="AMADRID" id="128302875.20"
+				price="8/11" priceDecimal="1.73" priceUS="-72.73"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Double Chance" inrunning="0" bettypeid="5755733.20">
+			<bet name="Malaga Or Atletico Madrid" short-name="Mal or $A" id="128302876.20"
+				price="4/11" priceDecimal="1.36" priceUS="-36.36"
+				active-price-types="CP" />
+			<bet name="Malaga Or Draw" short-name="Mal or Dr" id="128302877.20"
+				price="1/2" priceDecimal="1.50" priceUS="-50.00" active-price-types="CP" />
+			<bet name="Atletico Madrid Or Draw" short-name="Atl or Dr" id="128302878.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Clean Sheet" inrunning="0" bettypeid="5755734.20">
+			<bet name="Malaga" short-name="Mal" id="128302879.20" price="9/4"
+				priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet name="Atletico Madrid" short-name="Atl" id="128302880.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Score 1st Goal" inrunning="0" bettypeid="5755735.20">
+			<bet had-value="DRAW" name="No Goal" short-name="No Goal" id="128302881.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Malaga" short-name="MALAGA" id="128302883.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Atletico Madrid" short-name="AMADRID"
+				id="128302884.20" price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Which Half Most Goals" inrunning="0"
+			bettypeid="5755736.20">
+			<bet name="1st Half" short-name="1st Half" id="128302885.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+			<bet name="Tie" short-name="Tie" id="128302886.20" price="5/2"
+				priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+			<bet name="2nd Half" short-name="2nd Half" id="128302887.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Total Goals" inrunning="0" bettypeid="5755738.20">
+			<bet name="2-3 Goals" short-name="2-3 Goals" id="128302892.20"
+				price="20/21" priceDecimal="1.95" priceUS="-95.24"
+				active-price-types="CP" />
+			<bet name="4+ Goals" short-name="4+ Goals" id="128302893.20"
+				price="11/4" priceDecimal="3.75" priceUS="275.00"
+				active-price-types="CP" />
+			<bet name="0-1 Goal" short-name="0-1 Goal" id="128302891.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="1800"
+			suspended="false" name="Odd or Even Corners" inrunning="0" bettypeid="5755741.20">
+			<bet name="Odd" short-name="ODD" id="128302900.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="EVEN" id="128302901.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Real Sociedad v Real Betis" eventid="2320436.20"
+		date="20130303" time="2000" meeting="" venue="">
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755754.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128303049.20"
+				price="12/5" priceDecimal="3.40" priceUS="240.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad" short-name="Real Soci"
+				id="128303050.20" price="4/5" priceDecimal="1.80" priceUS="-80.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis" short-name="Real Beti"
+				id="128303051.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			handicap="-1" suspended="false" name="Match Handicap" inrunning="0"
+			bettypeid="5755756.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128303054.20"
+				handicap-id="3454467.20" handicap="-1" price="5/2" priceDecimal="3.50"
+				priceUS="250.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad" short-name="Real Soci"
+				id="128303055.20" handicap-id="3454465.20" handicap="-1" price="9/4"
+				priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis" short-name="Real Beti"
+				id="128303056.20" handicap-id="3454466.20" handicap="1" price="5/6"
+				priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			handicap="1" suspended="false" name="Match Handicap 2" inrunning="0"
+			bettypeid="5755757.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="128303057.20"
+				handicap-id="3457169.20" handicap="1" price="5/1" priceDecimal="6.00"
+				priceUS="500.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad" short-name="Real Soci"
+				id="128303058.20" handicap-id="3457170.20" handicap="1" price="1/5"
+				priceDecimal="1.20" priceUS="-20.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis" short-name="Real Beti"
+				id="128303059.20" handicap-id="3457171.20" handicap="-1" price="17/2"
+				priceDecimal="9.50" priceUS="850.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755759.20">
+			<bet had-value="HOME" name="Real Sociedad 1-0" short-name="Rea 1-0"
+				id="128303063.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 2-0" short-name="Rea 2-0"
+				id="128303064.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 2-1" short-name="Rea 2-1"
+				id="128303065.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 3-0" short-name="Rea 3-0"
+				id="128303066.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 3-1" short-name="Rea 3-1"
+				id="128303067.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 3-2" short-name="Rea 3-2"
+				id="128303068.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 4-0" short-name="Rea 4-0"
+				id="128303069.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 4-1" short-name="Rea 4-1"
+				id="128303070.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 4-2" short-name="Rea 4-2"
+				id="128303071.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 4-3" short-name="Rea 4-3"
+				id="128303072.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 5-0" short-name="Rea 5-0"
+				id="128303073.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 5-1" short-name="Rea 5-1"
+				id="128303074.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 5-2" short-name="Rea 5-2"
+				id="128303075.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 6-0" short-name="Rea 6-0"
+				id="128303076.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 6-1" short-name="Rea 6-1"
+				id="128303077.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 7-0" short-name="Rea 7-0"
+				id="128303078.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 7-1" short-name="Rea 7-1"
+				id="128303079.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 8-0" short-name="Rea 8-0"
+				id="128303080.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 9-0" short-name="Rea 9-0"
+				id="128303081.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad 10-0" short-name="Rea 10-0"
+				id="128303082.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128303083.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128303084.20"
+				price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128303085.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128303086.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 1-0" short-name="Rea 1-0"
+				id="128303087.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 2-0" short-name="Rea 2-0"
+				id="128303088.20" price="22/1" priceDecimal="23.00" priceUS="2200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 2-1" short-name="Rea 2-1"
+				id="128303089.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 3-0" short-name="Rea 3-0"
+				id="128303090.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 3-1" short-name="Rea 3-1"
+				id="128303091.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 3-2" short-name="Rea 3-2"
+				id="128303092.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 4-0" short-name="Rea 4-0"
+				id="128303093.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 4-1" short-name="Rea 4-1"
+				id="128303094.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 4-2" short-name="Rea 4-2"
+				id="128303095.20" price="125/1" priceDecimal="126.00" priceUS="12500.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 4-3" short-name="Rea 4-3"
+				id="128303096.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 5-0" short-name="Rea 5-0"
+				id="128303097.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 5-1" short-name="Rea 5-1"
+				id="128303098.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 5-2" short-name="Rea 5-2"
+				id="128303099.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 6-0" short-name="Rea 6-0"
+				id="128303100.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 6-1" short-name="Rea 6-1"
+				id="128303101.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 7-0" short-name="Rea 7-0"
+				id="128303102.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 7-1" short-name="Rea 7-1"
+				id="128303103.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 8-0" short-name="Rea 8-0"
+				id="128303104.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 9-0" short-name="Rea 9-0"
+				id="128303105.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis 10-0" short-name="Rea 10-0"
+				id="128303106.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755763.20">
+			<bet had-value="HOME" name="Real Sociedad - Real Sociedad"
+				short-name="Rea - Rea" id="128303129.20" price="7/4" priceDecimal="2.75"
+				priceUS="175.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Sociedad - Draw" short-name="Rea - Dra"
+				id="128303132.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Sociedad - Real Betis"
+				short-name="Rea - Rea" id="128303134.20" price="33/1" priceDecimal="34.00"
+				priceUS="3300.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Real Sociedad" short-name="Dra - Rea"
+				id="128303136.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128303138.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Real Betis" short-name="Dra - Rea"
+				id="128303141.20" price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Betis - Real Sociedad"
+				short-name="Rea - Rea" id="128303143.20" price="25/1" priceDecimal="26.00"
+				priceUS="2500.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Betis - Draw" short-name="Rea - Dra"
+				id="128303144.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis - Real Betis" short-name="Rea - Rea"
+				id="128303146.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755764.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128303161.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad" short-name="Real Soci"
+				id="128303162.20" price="8/5" priceDecimal="2.60" priceUS="160.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis" short-name="Real Beti"
+				id="128303164.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Under/Over 1.5" inrunning="0" bettypeid="5755773.20">
+			<bet name="Under 1.5" short-name="Under 1.5" id="128303379.20"
+				price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+			<bet name="Over 1.5" short-name="Over 1.5" id="128303380.20"
+				price="2/7" priceDecimal="1.29" priceUS="-28.57" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755774.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128303381.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128303382.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Under/Over 3.5" inrunning="0" bettypeid="5755775.20">
+			<bet name="Under 3.5 Goals" short-name="Under 3.5" id="128303383.20"
+				price="1/3" priceDecimal="1.33" priceUS="-33.33" active-price-types="CP" />
+			<bet name="Over 3.5 Goals" short-name="Over 3.5" id="128303384.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Under/Over 4.5" inrunning="0" bettypeid="5755776.20">
+			<bet name="Under 4.5 Goals" short-name="Under 4.5" id="128303385.20"
+				price="1/9" priceDecimal="1.11" priceUS="-11.11" active-price-types="CP" />
+			<bet name="Over 4.5 Goals" short-name="Over 4.5" id="128303386.20"
+				price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="1st Half Under/Over 0.5 Goals" inrunning="0"
+			bettypeid="5755777.20">
+			<bet name="Under 0.5 Goals" short-name="Under 0.5" id="128303387.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+			<bet name="Over 0.5 Goals" short-name="Over 0.5" id="128303388.20"
+				price="4/11" priceDecimal="1.36" priceUS="-36.36"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="1st Half Under/Over 1.5 Goals" inrunning="0"
+			bettypeid="5755778.20">
+			<bet name="Under 1.5 Goals" short-name="Under 1.5" id="128303389.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+			<bet name="Over 1.5 Goals" short-name="Over 1.5" id="128303390.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Odd or Even Total Goals" inrunning="0"
+			bettypeid="5755779.20">
+			<bet name="Odd" short-name="Odd" id="128303391.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="Even" id="128303392.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Draw No Bet" inrunning="0" bettypeid="5755781.20">
+			<bet name="Real Sociedad" short-name="Real Soci" id="128303395.20"
+				price="1/3" priceDecimal="1.33" priceUS="-33.33" active-price-types="CP" />
+			<bet name="Real Betis" short-name="Real Beti" id="128303396.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Double Chance" inrunning="0" bettypeid="5755782.20">
+			<bet name="Real Sociedad Or Draw" short-name="Rea or Dr" id="128303398.20"
+				price="1/5" priceDecimal="1.20" priceUS="-20.00" active-price-types="CP" />
+			<bet name="Real Betis Or Draw" short-name="Rea or Dr" id="128303399.20"
+				price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet name="Real Sociedad Or Real Betis" short-name="Rea or $A"
+				id="128303397.20" price="2/7" priceDecimal="1.29" priceUS="-28.57"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Clean Sheet" inrunning="0" bettypeid="5755783.20">
+			<bet name="Real Sociedad" short-name="Rea" id="128303400.20"
+				price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="CP" />
+			<bet name="Real Betis" short-name="Rea" id="128303401.20" price="7/2"
+				priceDecimal="4.50" priceUS="350.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Score 1st Goal" inrunning="0" bettypeid="5755784.20">
+			<bet had-value="DRAW" name="No Goal" short-name="No Goal" id="128303402.20"
+				price="9/1" priceDecimal="10.00" priceUS="900.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Sociedad" short-name="Real Soci"
+				id="128303403.20" price="8/13" priceDecimal="1.62" priceUS="-61.54"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Betis" short-name="Real Beti"
+				id="128303404.20" price="6/4" priceDecimal="2.50" priceUS="150.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Which Half Most Goals" inrunning="0"
+			bettypeid="5755785.20">
+			<bet name="1st Half" short-name="1st Half" id="128303405.20"
+				price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+			<bet name="Tie" short-name="Tie" id="128303406.20" price="5/2"
+				priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+			<bet name="2nd Half" short-name="2nd Half" id="128303407.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Total Goals" inrunning="0" bettypeid="5755787.20">
+			<bet name="0-1 Goal" short-name="0-1 Goal" id="128303411.20"
+				price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="CP" />
+			<bet name="2-3 Goals" short-name="2-3 Goals" id="128303412.20"
+				price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet name="4+ Goals" short-name="4+ Goals" id="128303413.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130303" bet-start-time="2000"
+			suspended="false" name="Odd or Even Corners" inrunning="0" bettypeid="5755790.20">
+			<bet name="Odd" short-name="ODD" id="128303420.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet name="Even" short-name="EVEN" id="128303421.20" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="Sevilla v Celta Vigo" eventid="2320441.20" date="20130304"
+		time="2030" meeting="" venue="">
+		<bettype bet-start-date="20130304" bet-start-time="2030"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755840.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128303902.20"
+				price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla" short-name="SEVILLA" id="128303903.20"
+				price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo" short-name="CELTA V" id="128303904.20"
+				price="11/2" priceDecimal="6.50" priceUS="550.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130304" bet-start-time="2030"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755844.20">
+			<bet had-value="HOME" name="Sevilla 1-0" short-name="Sev 1-0"
+				id="128303913.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 2-0" short-name="Sev 2-0"
+				id="128303914.20" price="5/1" priceDecimal="6.00" priceUS="500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 2-1" short-name="Sev 2-1"
+				id="128303915.20" price="7/1" priceDecimal="8.00" priceUS="700.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 3-0" short-name="Sev 3-0"
+				id="128303916.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 3-1" short-name="Sev 3-1"
+				id="128303917.20" price="10/1" priceDecimal="11.00" priceUS="1000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 3-2" short-name="Sev 3-2"
+				id="128303918.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 4-0" short-name="Sev 4-0"
+				id="128303920.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 4-1" short-name="Sev 4-1"
+				id="128303922.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 4-2" short-name="Sev 4-2"
+				id="128303923.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 4-3" short-name="Sev 4-3"
+				id="128303924.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 5-0" short-name="Sev 5-0"
+				id="128303925.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 5-1" short-name="Sev 5-1"
+				id="128303926.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 5-2" short-name="Sev 5-2"
+				id="128303927.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 6-0" short-name="Sev 6-0"
+				id="128303928.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 6-1" short-name="Sev 6-1"
+				id="128303929.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 7-0" short-name="Sev 7-0"
+				id="128303930.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 7-1" short-name="Sev 7-1"
+				id="128303932.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 8-0" short-name="Sev 8-0"
+				id="128303934.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 9-0" short-name="Sev 9-0"
+				id="128303935.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla 10-0" short-name="Sev 10-0"
+				id="128303936.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128303937.20"
+				price="11/1" priceDecimal="12.00" priceUS="1100.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128303938.20"
+				price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128303939.20"
+				price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128303940.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 1-0" short-name="Cel 1-0"
+				id="128303941.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 2-0" short-name="Cel 2-0"
+				id="128303942.20" price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 2-1" short-name="Cel 2-1"
+				id="128303943.20" price="22/1" priceDecimal="23.00" priceUS="2200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 3-0" short-name="Cel 3-0"
+				id="128303944.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 3-1" short-name="Cel 3-1"
+				id="128303945.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 3-2" short-name="Cel 3-2"
+				id="128303947.20" price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 4-0" short-name="Cel 4-0"
+				id="128303949.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 4-1" short-name="Cel 4-1"
+				id="128303950.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 4-2" short-name="Cel 4-2"
+				id="128303951.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 4-3" short-name="Cel 4-3"
+				id="128303952.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 5-0" short-name="Cel 5-0"
+				id="128303953.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 5-1" short-name="Cel 5-1"
+				id="128303954.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 5-2" short-name="Cel 5-2"
+				id="128303955.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 6-0" short-name="Cel 6-0"
+				id="128303956.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 6-1" short-name="Cel 6-1"
+				id="128303958.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 7-0" short-name="Cel 7-0"
+				id="128303962.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 7-1" short-name="Cel 7-1"
+				id="128303963.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 8-0" short-name="Cel 8-0"
+				id="128303964.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 9-0" short-name="Cel 9-0"
+				id="128303965.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo 10-0" short-name="Cel 10-0"
+				id="128303966.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130304" bet-start-time="2030"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755853.20">
+			<bet had-value="HOME" name="Sevilla - Sevilla" short-name="Sev - Sev"
+				id="128303976.20" price="5/6" priceDecimal="1.83" priceUS="-83.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Sevilla - Draw" short-name="Sev - Dra"
+				id="128303978.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Sevilla - Celta Vigo" short-name="Sev - Cel"
+				id="128303979.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Sevilla" short-name="Dra - Sev"
+				id="128303980.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128303981.20" price="6/1" priceDecimal="7.00" priceUS="600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Celta Vigo" short-name="Dra - Cel"
+				id="128303982.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Celta Vigo - Sevilla" short-name="Cel - Sev"
+				id="128303983.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Celta Vigo - Draw" short-name="Cel - Dra"
+				id="128303985.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo - Celta Vigo" short-name="Cel - Cel"
+				id="128303986.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130304" bet-start-time="2030"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755855.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128303997.20"
+				price="11/8" priceDecimal="2.38" priceUS="137.50"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Sevilla" short-name="SEVILLA" id="128303998.20"
+				price="4/5" priceDecimal="1.80" priceUS="-80.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Celta Vigo" short-name="CELTA V" id="128304000.20"
+				price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130304" bet-start-time="2030"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755856.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128304003.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128304005.20"
+				price="8/11" priceDecimal="1.73" priceUS="-72.73"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

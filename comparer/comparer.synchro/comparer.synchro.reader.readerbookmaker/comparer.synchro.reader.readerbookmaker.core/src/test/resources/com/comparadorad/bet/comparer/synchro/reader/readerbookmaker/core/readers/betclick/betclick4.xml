@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2013-04-22T07:07:01.370">
+	<sport name="Football" id="1">
+		<event name="Eng. Premier League" id="3">
+			<match name="Manchester United - Aston Villa" id="541329" start_date="2013-04-22T20:00:00" live_id="68282" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Match Result" id="5231116">
+						<choice name="%1%" id="41019817" odd="1.22"/>
+						<choice name="Draw" id="41019819" odd="6.50"/>
+						<choice name="%2%" id="41019821" odd="10.00"/>
+					</bet>
+					<bet code="Ftb_Htr" name="Half-Time Result" id="5231159">
+						<choice name="%1%" id="41020133" odd="1.55"/>
+						<choice name="Draw" id="41020135" odd="2.80"/>
+						<choice name="%2%" id="41020137" odd="8.00"/>
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="5482719">
+						<choice name="%1% -4.5" id="43151455" odd="1.85"/>
+						<choice name="%2% +4.5" id="43151456" odd="1.85"/>
+					</bet>
+				</bets>
+			</match>
+			<match name="Manchester City - West Ham" id="542370" start_date="2013-04-27T12:45:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Match Result" id="5231116">
+						<choice name="%1%" id="41019817" odd="1.22"/>
+						<choice name="Draw" id="41019819" odd="6.50"/>
+						<choice name="%2%" id="41019821" odd="10.00"/>
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="5482719">
+						<choice name="%1% -4.5" id="43151455" odd="1.85"/>
+						<choice name="%2% +4.5" id="43151456" odd="1.85"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

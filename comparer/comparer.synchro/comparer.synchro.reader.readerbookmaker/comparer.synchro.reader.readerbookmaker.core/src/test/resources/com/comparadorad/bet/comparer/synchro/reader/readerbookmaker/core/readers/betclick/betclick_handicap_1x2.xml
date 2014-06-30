@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="American Football" id="14">
+		<event name="NHL" id="83">
+			<match name="Florida Panthers - New York Rangers" id="551354"
+				start_date="2013-04-24T00:35:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ihk_Han" name="Handicap Result" id="5524229">
+						<choice name="%2% -1.5" id="43220140" odd="2.10" />
+						<choice name="Draw" id="43220140" odd="1.10" />
+						<choice name="%1% +1.5" id="43220139" odd="1.65" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

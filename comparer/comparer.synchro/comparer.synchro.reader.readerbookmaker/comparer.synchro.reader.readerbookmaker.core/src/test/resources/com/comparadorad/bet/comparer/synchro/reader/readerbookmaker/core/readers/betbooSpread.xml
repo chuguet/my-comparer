@@ -1,0 +1,19 @@
+<List>
+	<OddsObject>
+		<Sport>Baseball</Sport>
+		<Category>"USA"</Category>
+		<Tournament>"MLB"</Tournament>
+		<MatchId>970429</MatchId>
+		<Date>2013-06-04T18:05:00</Date>
+		<AC>1</AC>
+		<OddsType>Spread</OddsType>
+		<OddsData>
+			<HomeTeam>"Washington Nationals"</HomeTeam>
+			<AwayTeam>"NY Mets"</AwayTeam>
+			<SpreadHome>-1.5</SpreadHome>
+			<SpreadAway>+1.5</SpreadAway>
+			<SpreadOddsHome>1.96</SpreadOddsHome>
+			<SpreadOddsAway>1.80</SpreadOddsAway>
+		</OddsData>
+	</OddsObject>
+</List>

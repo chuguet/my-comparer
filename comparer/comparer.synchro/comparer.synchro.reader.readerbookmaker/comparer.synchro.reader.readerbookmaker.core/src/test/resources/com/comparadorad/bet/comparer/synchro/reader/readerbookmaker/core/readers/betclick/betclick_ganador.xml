@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sports file_date="2013-04-23T07:23:01.430">
+	<sport name="Volleyball" id="8">
+		<event name="ECB 40 League" id="15053">
+			<match name="ECB 40 League 2013" id="512642" start_date="2013-09-21T00:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Cri_Win" name="Outright Winner" id="4439627">
+						<choice name="Holland" id="34787883" odd="100.00" />
+						<choice name="Scotland" id="34787884" odd="500.00" />
+						<choice name="Unicorns" id="34787885" odd="500.00" />
+						<choice name="Glamorgan" id="34787880" odd="40.00" />
+						<choice name="Lancashire" id="34787876" odd="18.00" />
+						<choice name="Somerset" id="34787865" odd="6.00" />
+						<choice name="Surrey" id="34787871" odd="12.00" />
+						<choice name="Sussex" id="34787866" odd="9.00" />
+						<choice name="Worcestershire" id="34787879" odd="30.00" />
+						<choice name="Derbyshire" id="34787882" odd="50.00" />
+						<choice name="Essex" id="34787874" odd="15.00" />
+						<choice name="Gloucestershire" id="34787881" odd="40.00" />
+						<choice name="Middlesex" id="34787869" odd="12.00" />
+						<choice name="Yorkshire" id="34787868" odd="10.00" />
+						<choice name="Durham" id="34787873" odd="15.00" />
+						<choice name="Hampshire" id="34787872" odd="13.00" />
+						<choice name="Kent" id="34787875" odd="15.00" />
+						<choice name="Leicestershire" id="34787877" odd="30.00" />
+						<choice name="Nottinghamshire" id="34787870" odd="12.00" />
+						<choice name="Warwickshire" id="34787867" odd="10.00" />
+						<choice name="Northants" id="34787878" odd="30.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

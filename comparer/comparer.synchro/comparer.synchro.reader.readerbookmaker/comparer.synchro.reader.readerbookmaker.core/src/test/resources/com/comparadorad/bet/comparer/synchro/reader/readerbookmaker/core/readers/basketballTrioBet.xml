@@ -1,0 +1,1244 @@
+<Odds>
+	<Game id="50000225649" name="Rosa Radom - Polpharma Starogard Gdański">
+		<Sport>Basketball</Sport>
+		<Region>Poland</Region>
+		<Season>PLK</Season>
+		<BreadCrumbs>Basketball - Poland - PLK</BreadCrumbs>
+		<GameStartTime>2012-12-22 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-22 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="PLK Basketball" role="1" id="50000020042">Rosa Radom</Participant>
+		<Participant info="POL Basketball" role="2" id="9300001232">Polpharma Starogard Gdański</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826721" name="Rosa Radom - Polpharma Starogard Gdański (under/over: 164.5)">
+			<Outcome odds="1.85" id="50076745357" name="over">
+				<Participant info="POL Basketball" id="9300001232">Polpharma Starogard Gdański</Participant>
+				<OptionalValue1>164.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745358" name="under">
+				<Participant info="PLK Basketball" id="50000020042">Rosa Radom</Participant>
+				<OptionalValue1>164.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826720" name="Rosa Radom - Polpharma Starogard Gdański H(0 - 4.5)">
+			<Outcome odds="1.85" id="50076745356" name="1">
+				<Participant info="PLK Basketball" id="50000020042">Rosa Radom</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745359" name="2">
+				<Participant info="POL Basketball" id="9300001232">Polpharma Starogard Gdański</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001815702" name="Rosa Radom - Polpharma Starogard Gdański">
+			<Outcome odds="1.5" id="50076695241" name="1">
+				<Participant info="PLK Basketball" id="50000020042">Rosa Radom</Participant>
+			</Outcome>
+			<Outcome odds="2.4" id="50076695242" name="2">
+				<Participant info="POL Basketball" id="9300001232">Polpharma Starogard Gdański</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225480" name="Stelmet Zielona Góra - Anwil Włocławek">
+		<Sport>Basketball</Sport>
+		<Region>Poland</Region>
+		<Season>PLK</Season>
+		<BreadCrumbs>Basketball - Poland - PLK</BreadCrumbs>
+		<GameStartTime>2012-12-22 18:30:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-22 18:30:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="PLK Basketball" role="1" id="50000020043">Stelmet Zielona Góra</Participant>
+		<Participant info="POL Basketball" role="2" id="9000004373">Anwil Włocławek</Participant>
+		<OutcomeSet type="Handicap" id="50001826707" name="Stelmet Zielona Góra - Anwil Włocławek H(0 - 5.5)">
+			<Outcome odds="1.8" id="50076745200" name="1">
+				<Participant info="PLK Basketball" id="50000020043">Stelmet Zielona Góra</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.9" id="50076745201" name="2">
+				<Participant info="POL Basketball" id="9000004373">Anwil Włocławek</Participant>
+				<OptionalValue1>5.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826706" name="Stelmet Zielona Góra - Anwil Włocławek (under/over: 156.5)">
+			<Outcome odds="1.85" id="50076745198" name="over">
+				<Participant info="POL Basketball" id="9000004373">Anwil Włocławek</Participant>
+				<OptionalValue1>156.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745199" name="under">
+				<Participant info="PLK Basketball" id="50000020043">Stelmet Zielona Góra</Participant>
+				<OptionalValue1>156.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001815690" name="Stelmet Zielona Góra - Anwil Włocławek">
+			<Outcome odds="1.35" id="50076333267" name="1">
+				<Participant info="PLK Basketball" id="50000020043">Stelmet Zielona Góra</Participant>
+			</Outcome>
+			<Outcome odds="2.95" id="50076333268" name="2">
+				<Participant info="POL Basketball" id="9000004373">Anwil Włocławek</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237030" name="Besiktas - Anadolu Efes Spor">
+		<Sport>Basketball</Sport>
+		<Region>Turkey</Region>
+		<Season>TBL</Season>
+		<BreadCrumbs>Basketball - Turkey - TBL</BreadCrumbs>
+		<GameStartTime>2012-12-20 20:30:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 20:30:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Turkey basketball" role="1" id="20000001714">Besiktas</Participant>
+		<Participant info="Turkey basketball" role="2" id="50000003920">Anadolu Efes Spor</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826779" name="Besiktas - Anadolu Efes Spor (under/over: 144.5)">
+			<Outcome odds="1.85" id="50076746986" name="over">
+				<Participant info="Turkey basketball" id="50000003920">Anadolu Efes Spor</Participant>
+				<OptionalValue1>144.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076746987" name="under">
+				<Participant info="Turkey basketball" id="20000001714">Besiktas</Participant>
+				<OptionalValue1>144.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001825464" name="Besiktas - Anadolu Efes Spor H(2.5 - 0)">
+			<Outcome odds="1.85" id="50076712050" name="1">
+				<Participant info="Turkey basketball" id="20000001714">Besiktas</Participant>
+				<OptionalValue1>2.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076712052" name="2">
+				<Participant info="Turkey basketball" id="50000003920">Anadolu Efes Spor</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001825463" name="Besiktas - Anadolu Efes Spor">
+			<Outcome odds="2.1" id="50076712048" name="1">
+				<Participant info="Turkey basketball" id="20000001714">Besiktas</Participant>
+			</Outcome>
+			<Outcome odds="1.65" id="50076712049" name="2">
+				<Participant info="Turkey basketball" id="50000003920">Anadolu Efes Spor</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237044" name="BC Kalev/Cramo - BC Tarvas Rakvere">
+		<Sport>Basketball</Sport>
+		<Region>Estonia</Region>
+		<Season>Cup</Season>
+		<BreadCrumbs>Basketball - Estonia - Cup</BreadCrumbs>
+		<GameStartTime>2012-12-21 21:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 21:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="EST Basketball Men" role="1" id="9000004548">BC Kalev/Cramo</Participant>
+		<Participant info="EST Basketball men" role="2" id="9000004553">BC Tarvas Rakvere</Participant>
+		<OutcomeSet type="Result" id="50001825766" name="BC Kalev/Cramo - BC Tarvas Rakvere">
+			<Outcome odds="1.17" id="50076754292" name="1">
+				<Participant info="EST Basketball Men" id="9000004548">BC Kalev/Cramo</Participant>
+			</Outcome>
+			<Outcome odds="4.5" id="50076754293" name="2">
+				<Participant info="EST Basketball men" id="9000004553">BC Tarvas Rakvere</Participant>
+			</Outcome>
+			<ExternalComment>Played in Tartu</ExternalComment>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237043" name="Tallinna Kalev - Rapla KK">
+		<Sport>Basketball</Sport>
+		<Region>Estonia</Region>
+		<Season>Cup</Season>
+		<BreadCrumbs>Basketball - Estonia - Cup</BreadCrumbs>
+		<GameStartTime>2012-12-21 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="EST Basketball" role="1" id="20000001551">Tallinna Kalev</Participant>
+		<Participant info="EST basketball Men" role="2" id="20000002917">Rapla KK</Participant>
+		<OutcomeSet type="Result" id="50001825765" name="Tallinna Kalev - Rapla KK">
+			<Outcome odds="1.85" id="50076718923" name="1">
+				<Participant info="EST Basketball" id="20000001551">Tallinna Kalev</Participant>
+			</Outcome>
+			<Outcome odds="1.85" id="50076718924" name="2">
+				<Participant info="EST basketball Men" id="20000002917">Rapla KK</Participant>
+			</Outcome>
+			<ExternalComment>Played in Tartu</ExternalComment>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237041" name="Cup Winner">
+		<Sport>Basketball</Sport>
+		<Region>Estonia</Region>
+		<Season>Cup</Season>
+		<BreadCrumbs>Basketball - Estonia - Cup</BreadCrumbs>
+		<GameStartTime>2012-12-21 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="EST Basketball" role="participant" id="20000001551">Tallinna Kalev</Participant>
+		<Participant info="EST basketball Men" role="participant" id="20000002917">Rapla KK</Participant>
+		<Participant info="EST Basketball Men" role="participant" id="9000004548">BC Kalev/Cramo</Participant>
+		<Participant info="EST Basketball men" role="participant" id="9000004553">BC Tarvas Rakvere</Participant>
+		<OutcomeSet type="Result Winner" id="50001825748" name="Cup Winner">
+			<Outcome odds="1.18" id="50076718172" name="BC Kalev/Cramo">
+				<Participant info="EST Basketball Men" id="9000004548">BC Kalev/Cramo</Participant>
+			</Outcome>
+			<Outcome odds="5.0" id="50076718171" name="BC Tarvas Rakvere">
+				<Participant info="EST Basketball men" id="9000004553">BC Tarvas Rakvere</Participant>
+			</Outcome>
+			<Outcome odds="20.0" id="50076718174" name="Rapla KK">
+				<Participant info="EST basketball Men" id="20000002917">Rapla KK</Participant>
+			</Outcome>
+			<Outcome odds="20.0" id="50076718173" name="Tallinna Kalev">
+				<Participant info="EST Basketball" id="20000001551">Tallinna Kalev</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225111" name="Start Gdynia - Trefl Sopot">
+		<Sport>Basketball</Sport>
+		<Region>Poland</Region>
+		<Season>PLK</Season>
+		<BreadCrumbs>Basketball - Poland - PLK</BreadCrumbs>
+		<GameStartTime>2012-12-21 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Basketball POL" role="1" id="50000003029">Start Gdynia</Participant>
+		<Participant info="POL, basketball, Men" role="2" id="20000003243">Trefl Sopot</Participant>
+		<OutcomeSet type="Handicap" id="50001826698" name="Start Gdynia - Trefl Sopot H(7.5 - 0)">
+			<Outcome odds="1.85" id="50076745158" name="1">
+				<Participant info="Basketball POL" id="50000003029">Start Gdynia</Participant>
+				<OptionalValue1>7.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745160" name="2">
+				<Participant info="POL, basketball, Men" id="20000003243">Trefl Sopot</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826699" name="Start Gdynia - Trefl Sopot (under/over: 149.5)">
+			<Outcome odds="1.85" id="50076745159" name="over">
+				<Participant info="POL, basketball, Men" id="20000003243">Trefl Sopot</Participant>
+				<OptionalValue1>149.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745161" name="under">
+				<Participant info="Basketball POL" id="50000003029">Start Gdynia</Participant>
+				<OptionalValue1>149.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001815689" name="Start Gdynia - Trefl Sopot">
+			<Outcome odds="3.55" id="50076333232" name="1">
+				<Participant info="Basketball POL" id="50000003029">Start Gdynia</Participant>
+			</Outcome>
+			<Outcome odds="1.25" id="50076333233" name="2">
+				<Participant info="POL, basketball, Men" id="20000003243">Trefl Sopot</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237070" name="Rotterdam Basketball - Weert">
+		<Sport>Basketball</Sport>
+		<Region>Netherlands</Region>
+		<Season>Eredivisie</Season>
+		<BreadCrumbs>Basketball - Holland - Eredivisie</BreadCrumbs>
+		<GameStartTime>2012-12-20 21:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="HOL, basketball, Men" role="1" id="20000002605">Rotterdam Basketball</Participant>
+		<Participant info="HOL, basketball, Men" role="2" id="50000021009">Weert</Participant>
+		<OutcomeSet type="Result" id="50001825942" name="Rotterdam Basketball - Weert">
+			<Outcome odds="3.2" id="50076723167" name="1">
+				<Participant info="HOL, basketball, Men" id="20000002605">Rotterdam Basketball</Participant>
+			</Outcome>
+			<Outcome odds="1.3" id="50076723168" name="2">
+				<Participant info="HOL, basketball, Men" id="50000021009">Weert</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001825937" name="Rotterdam Basketball - Weert H(6.5 - 0)">
+			<Outcome odds="1.85" id="50076723128" name="1">
+				<Participant info="HOL, basketball, Men" id="20000002605">Rotterdam Basketball</Participant>
+				<OptionalValue1>6.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076723130" name="2">
+				<Participant info="HOL, basketball, Men" id="50000021009">Weert</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001825936" name="Rotterdam Basketball - Weert (under/over: 158.5)">
+			<Outcome odds="1.85" id="50076723129" name="over">
+				<Participant info="HOL, basketball, Men" id="50000021009">Weert</Participant>
+				<OptionalValue1>158.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076723131" name="under">
+				<Participant info="HOL, basketball, Men" id="20000002605">Rotterdam Basketball</Participant>
+				<OptionalValue1>158.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000194760" name="Winner">
+		<Sport>Basketball</Sport>
+		<Region>Greece</Region>
+		<Season>A 1</Season>
+		<BreadCrumbs>Basketball - Greece - A 1</BreadCrumbs>
+		<GameStartTime>2013-05-01 01:00:00 EEST</GameStartTime>
+		<BettingEndTime>2013-03-01 01:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="GRE, basketball, Men" role="participant" id="20000001637">Kavala</Participant>
+		<Participant info="GRE, basketball, Men" role="participant" id="20000001639">Panionios</Participant>
+		<Participant info="GRE, basketball, Men" role="participant" id="20000002613">Peristeri</Participant>
+		<Participant info="GRE, basketball, Men" role="participant" id="20000002614">Ilisiakos</Participant>
+		<Participant info="GRE Basketball" role="participant" id="20000003313">Ikaros</Participant>
+		<Participant info="GRE, basketball, Men" role="participant" id="50000002981">KAO Dramas</Participant>
+		<Participant info="GRE, basketball, Men" role="participant" id="50000020743">Apollon Patras</Participant>
+		<Participant info="GRE, basketball, Men" role="participant" id="50000020744">Panelefsiniakos</Participant>
+		<Participant info="Greece basket" role="participant" id="9000003091">Aris</Participant>
+		<Participant info="Greece basket" role="participant" id="9000003970">Olympiakos Pireus</Participant>
+		<Participant info="GRE Basketball" role="participant" id="9000004083">AGO Rethymno</Participant>
+		<Participant info="GRE Basketball" role="participant" id="9000007482">Kolosos Rhodes</Participant>
+		<Participant info="GRE Basketball" role="participant" id="9000008983">Panathinaikos</Participant>
+		<Participant info="Greece basket" role="participant" id="9000009032">PAOK</Participant>
+		<OutcomeSet type="Result Winner" id="50001434804" name="Winner">
+			<Outcome odds="200.0" id="50060655376" name="AGO Rethymno">
+				<Participant info="GRE Basketball" id="9000004083">AGO Rethymno</Participant>
+			</Outcome>
+			<Outcome odds="100.0" id="50060655378" name="Aris">
+				<Participant info="Greece basket" id="9000003091">Aris</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50060655379" name="Ikaros">
+				<Participant info="GRE Basketball" id="20000003313">Ikaros</Participant>
+			</Outcome>
+			<Outcome odds="800.0" id="50060655380" name="Ilisiakos">
+				<Participant info="GRE, basketball, Men" id="20000002614">Ilisiakos</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50060655381" name="KAO Dramas">
+				<Participant info="GRE, basketball, Men" id="50000002981">KAO Dramas</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50060655382" name="Kavala">
+				<Participant info="GRE, basketball, Men" id="20000001637">Kavala</Participant>
+			</Outcome>
+			<Outcome odds="100.0" id="50060655383" name="Kolosos Rhodes">
+				<Participant info="GRE Basketball" id="9000007482">Kolosos Rhodes</Participant>
+			</Outcome>
+			<Outcome odds="1.55" id="50060655384" name="Olympiakos Pireus">
+				<Participant info="Greece basket" id="9000003970">Olympiakos Pireus</Participant>
+			</Outcome>
+			<Outcome odds="80.0" id="50060655385" name="PAOK">
+				<Participant info="Greece basket" id="9000009032">PAOK</Participant>
+			</Outcome>
+			<Outcome odds="2.3" id="50060655386" name="Panathinaikos">
+				<Participant info="GRE Basketball" id="9000008983">Panathinaikos</Participant>
+			</Outcome>
+			<Outcome odds="60.0" id="50060655388" name="Panionios">
+				<Participant info="GRE, basketball, Men" id="20000001639">Panionios</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50060655389" name="Peristeri">
+				<Participant info="GRE, basketball, Men" id="20000002613">Peristeri</Participant>
+			</Outcome>
+			<Outcome odds="800.0" id="50060655377" name="Apollon Patras">
+				<Participant info="GRE, basketball, Men" id="50000020743">Apollon Patras</Participant>
+			</Outcome>
+			<Outcome odds="800.0" id="50060655387" name="Panelefsiniakos">
+				<Participant info="GRE, basketball, Men" id="50000020744">Panelefsiniakos</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225125" name="Biancoblu Basket Bologna - Sigma Barcellona">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-21 21:45:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 21:45:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020890">Biancoblu Basket Bologna</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020882">Sigma Barcellona</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826370" name="Biancoblu Basket Bologna - Sigma Barcellona (under/over: 157.5)">
+			<Outcome odds="1.85" id="50076738115" name="over">
+				<Participant info="Italian basketball" id="50000020882">Sigma Barcellona</Participant>
+				<OptionalValue1>157.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076738116" name="under">
+				<Participant info="Italian basketball" id="50000020890">Biancoblu Basket Bologna</Participant>
+				<OptionalValue1>157.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826419" name="Biancoblu Basket Bologna - Sigma Barcellona H(0.0 - 2.5)">
+			<Outcome odds="1.85" id="50076740629" name="1">
+				<Participant info="Italian basketball" id="50000020890">Biancoblu Basket Bologna</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076740630" name="2">
+				<Participant info="Italian basketball" id="50000020882">Sigma Barcellona</Participant>
+				<OptionalValue1>2.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826369" name="Biancoblu Basket Bologna - Sigma Barcellona">
+			<Outcome odds="1.65" id="50076740533" name="1">
+				<Participant info="Italian basketball" id="50000020890">Biancoblu Basket Bologna</Participant>
+			</Outcome>
+			<Outcome odds="2.1" id="50076740534" name="2">
+				<Participant info="Italian basketball" id="50000020882">Sigma Barcellona</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000236917" name="Real Madrid - Pamesa Valencia">
+		<Sport>Basketball</Sport>
+		<Region>Spain</Region>
+		<Season>Liga ACB</Season>
+		<BreadCrumbs>Basketball - Spain - Liga ACB</BreadCrumbs>
+		<GameStartTime>2012-12-20 21:45:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:45:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Spain basketball" role="1" id="9000000158">Real Madrid</Participant>
+		<Participant info="Spain basketball" role="2" id="9000001676">Pamesa Valencia</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001825255" name="Real Madrid - Pamesa Valencia (under/over: 160.5)">
+			<Outcome odds="1.87" id="50076708023" name="over">
+				<Participant info="Spain basketball" id="9000001676">Pamesa Valencia</Participant>
+				<OptionalValue1>160.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.87" id="50076708024" name="under">
+				<Participant info="Spain basketball" id="9000000158">Real Madrid</Participant>
+				<OptionalValue1>160.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001824163" name="Real Madrid - Pamesa Valencia H(0 - 10)">
+			<Outcome odds="1.87" id="50076688884" name="1">
+				<Participant info="Spain basketball" id="9000000158">Real Madrid</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.87" id="50076688887" name="2">
+				<Participant info="Spain basketball" id="9000001676">Pamesa Valencia</Participant>
+				<OptionalValue1>10.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001824161" name="Real Madrid - Pamesa Valencia">
+			<Outcome odds="1.12" id="50076688882" name="1">
+				<Participant info="Spain basketball" id="9000000158">Real Madrid</Participant>
+			</Outcome>
+			<Outcome odds="5.55" id="50076688885" name="2">
+				<Participant info="Spain basketball" id="9000001676">Pamesa Valencia</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000236916" name="Ricoh Manresa - Alta Gestión Fuenlabrada">
+		<Sport>Basketball</Sport>
+		<Region>Spain</Region>
+		<Season>Liga ACB</Season>
+		<BreadCrumbs>Basketball - Spain - Liga ACB</BreadCrumbs>
+		<GameStartTime>2012-12-20 21:45:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:45:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Spain basketball" role="1" id="9000002920">Ricoh Manresa</Participant>
+		<Participant info="Spain basketball" role="2" id="9000001137">Alta Gestión Fuenlabrada</Participant>
+		<OutcomeSet type="Handicap" id="50001827335" name="Ricoh Manresa - Alta Gestión Fuenlabrada H(0.0 - 5.5)">
+			<Outcome odds="1.87" id="50076782367" name="1">
+				<Participant info="Spain basketball" id="9000002920">Ricoh Manresa</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.87" id="50076782368" name="2">
+				<Participant info="Spain basketball" id="9000001137">Alta Gestión Fuenlabrada</Participant>
+				<OptionalValue1>5.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001824159" name="Ricoh Manresa - Alta Gestión Fuenlabrada (under/over: 158.5)">
+			<Outcome odds="1.87" id="50076688861" name="over">
+				<Participant info="Spain basketball" id="9000001137">Alta Gestión Fuenlabrada</Participant>
+				<OptionalValue1>158.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.87" id="50076688863" name="under">
+				<Participant info="Spain basketball" id="9000002920">Ricoh Manresa</Participant>
+				<OptionalValue1>158.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001824158" name="Ricoh Manresa - Alta Gestión Fuenlabrada">
+			<Outcome odds="1.4" id="50076782317" name="1">
+				<Participant info="Spain basketball" id="9000002920">Ricoh Manresa</Participant>
+			</Outcome>
+			<Outcome odds="2.7" id="50076782318" name="2">
+				<Participant info="Spain basketball" id="9000001137">Alta Gestión Fuenlabrada</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225650" name="Kotwica Kołobrzeg - Jezioro Tarnobrzeg">
+		<Sport>Basketball</Sport>
+		<Region>Poland</Region>
+		<Season>PLK</Season>
+		<BreadCrumbs>Basketball - Poland - PLK</BreadCrumbs>
+		<GameStartTime>2012-12-22 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-22 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="PLK 2009/2010" role="1" id="40000001637">Kotwica Kołobrzeg</Participant>
+		<Participant info="PLK Basketball" role="2" id="50000020041">Jezioro Tarnobrzeg</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826723" name="Kotwica Kołobrzeg - Jezioro Tarnobrzeg (under/over: 152.5)">
+			<Outcome odds="1.85" id="50076745443" name="over">
+				<Participant info="PLK Basketball" id="50000020041">Jezioro Tarnobrzeg</Participant>
+				<OptionalValue1>152.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745444" name="under">
+				<Participant info="PLK 2009/2010" id="40000001637">Kotwica Kołobrzeg</Participant>
+				<OptionalValue1>152.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826722" name="Kotwica Kołobrzeg - Jezioro Tarnobrzeg H(0 - 1.5)">
+			<Outcome odds="1.85" id="50076745442" name="1">
+				<Participant info="PLK 2009/2010" id="40000001637">Kotwica Kołobrzeg</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745445" name="2">
+				<Participant info="PLK Basketball" id="50000020041">Jezioro Tarnobrzeg</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001815701" name="Kotwica Kołobrzeg - Jezioro Tarnobrzeg">
+			<Outcome odds="1.65" id="50076333500" name="1">
+				<Participant info="PLK 2009/2010" id="40000001637">Kotwica Kołobrzeg</Participant>
+			</Outcome>
+			<Outcome odds="2.1" id="50076333501" name="2">
+				<Participant info="PLK Basketball" id="50000020041">Jezioro Tarnobrzeg</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225651" name="Asseco Prokom Gdynia - AZS Koszalin">
+		<Sport>Basketball</Sport>
+		<Region>Poland</Region>
+		<Season>PLK</Season>
+		<BreadCrumbs>Basketball - Poland - PLK</BreadCrumbs>
+		<GameStartTime>2012-12-22 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-22 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="PLK 2009/2010" role="1" id="40000001629">Asseco Prokom Gdynia</Participant>
+		<Participant info="POL Basketball" role="2" id="54110">AZS Koszalin</Participant>
+		<OutcomeSet type="Handicap" id="50001826711" name="Asseco Prokom Gdynia - AZS Koszalin H(0 - 6.5)">
+			<Outcome odds="1.85" id="50076745298" name="1">
+				<Participant info="PLK 2009/2010" id="40000001629">Asseco Prokom Gdynia</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745299" name="2">
+				<Participant info="POL Basketball" id="54110">AZS Koszalin</Participant>
+				<OptionalValue1>6.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826710" name="Asseco Prokom Gdynia - AZS Koszalin (under/over: 154.5)">
+			<Outcome odds="1.85" id="50076745297" name="over">
+				<Participant info="POL Basketball" id="54110">AZS Koszalin</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745300" name="under">
+				<Participant info="PLK 2009/2010" id="40000001629">Asseco Prokom Gdynia</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001815696" name="Asseco Prokom Gdynia - AZS Koszalin">
+			<Outcome odds="1.37" id="50076333321" name="1">
+				<Participant info="PLK 2009/2010" id="40000001629">Asseco Prokom Gdynia</Participant>
+			</Outcome>
+			<Outcome odds="2.85" id="50076333322" name="2">
+				<Participant info="POL Basketball" id="54110">AZS Koszalin</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225652" name="PGE Turów Zgorzelec - Energa Czarni Słupsk">
+		<Sport>Basketball</Sport>
+		<Region>Poland</Region>
+		<Season>PLK</Season>
+		<BreadCrumbs>Basketball - Poland - PLK</BreadCrumbs>
+		<GameStartTime>2012-12-23 18:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-23 18:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="PLK 2009/2010" role="1" id="40000001632">PGE Turów Zgorzelec</Participant>
+		<Participant info="POL Basketball" role="2" id="23983">Energa Czarni Słupsk</Participant>
+		<OutcomeSet type="Handicap" id="50001826725" name="PGE Turów Zgorzelec - Energa Czarni Słupsk H(0 - 9.5)">
+			<Outcome odds="1.85" id="50076745531" name="1">
+				<Participant info="PLK 2009/2010" id="40000001632">PGE Turów Zgorzelec</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745533" name="2">
+				<Participant info="POL Basketball" id="23983">Energa Czarni Słupsk</Participant>
+				<OptionalValue1>9.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826724" name="PGE Turów Zgorzelec - Energa Czarni Słupsk (under/over: 160.5)">
+			<Outcome odds="1.85" id="50076745530" name="over">
+				<Participant info="POL Basketball" id="23983">Energa Czarni Słupsk</Participant>
+				<OptionalValue1>160.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076745532" name="under">
+				<Participant info="PLK 2009/2010" id="40000001632">PGE Turów Zgorzelec</Participant>
+				<OptionalValue1>160.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001815703" name="PGE Turów Zgorzelec - Energa Czarni Słupsk">
+			<Outcome odds="1.14" id="50076333619" name="1">
+				<Participant info="PLK 2009/2010" id="40000001632">PGE Turów Zgorzelec</Participant>
+			</Outcome>
+			<Outcome odds="5.0" id="50076333620" name="2">
+				<Participant info="POL Basketball" id="23983">Energa Czarni Słupsk</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237023" name="KK Igokea - Široki ERONET">
+		<Sport>Basketball</Sport>
+		<Region>Taiwan</Region>
+		<Season>Adriatic League </Season>
+		<BreadCrumbs>Basketball - International - Adriatic League </BreadCrumbs>
+		<GameStartTime>2012-12-20 21:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Adriatic basket" role="1" id="50000020732">KK Igokea</Participant>
+		<Participant info="Adriatic basket" role="2" id="9300000092">Široki ERONET</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001825359" name="KK Igokea - Široki ERONET (under/over: 145)">
+			<Outcome odds="1.85" id="50076710464" name="over">
+				<Participant info="Adriatic basket" id="9300000092">Široki ERONET</Participant>
+				<OptionalValue1>145.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076710465" name="under">
+				<Participant info="Adriatic basket" id="50000020732">KK Igokea</Participant>
+				<OptionalValue1>145.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001825358" name="KK Igokea - Široki ERONET H(0 - 12)">
+			<Outcome odds="1.85" id="50076710461" name="1">
+				<Participant info="Adriatic basket" id="50000020732">KK Igokea</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076710463" name="2">
+				<Participant info="Adriatic basket" id="9300000092">Široki ERONET</Participant>
+				<OptionalValue1>12.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001825357" name="KK Igokea - Široki ERONET">
+			<Outcome odds="1.1" id="50076710460" name="1">
+				<Participant info="Adriatic basket" id="50000020732">KK Igokea</Participant>
+			</Outcome>
+			<Outcome odds="5.85" id="50076710462" name="2">
+				<Participant info="Adriatic basket" id="9300000092">Široki ERONET</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237024" name="Union Olimpija - BK Radnicki">
+		<Sport>Basketball</Sport>
+		<Region>Taiwan</Region>
+		<Season>Adriatic League </Season>
+		<BreadCrumbs>Basketball - International - Adriatic League </BreadCrumbs>
+		<GameStartTime>2012-12-20 21:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Adriatic basket" role="1" id="20472">Union Olimpija</Participant>
+		<Participant info="Adriatic basket" role="2" id="50000003399">BK Radnicki</Participant>
+		<OutcomeSet type="Handicap" id="50001825408" name="Union Olimpija - BK Radnicki H(0 - 4.5)">
+			<Outcome odds="1.85" id="50076711140" name="1">
+				<Participant info="Adriatic basket" id="20472">Union Olimpija</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076711141" name="2">
+				<Participant info="Adriatic basket" id="50000003399">BK Radnicki</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001825407" name="Union Olimpija - BK Radnicki (under/over: 152.5)">
+			<Outcome odds="1.85" id="50076711137" name="over">
+				<Participant info="Adriatic basket" id="50000003399">BK Radnicki</Participant>
+				<OptionalValue1>152.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076711139" name="under">
+				<Participant info="Adriatic basket" id="20472">Union Olimpija</Participant>
+				<OptionalValue1>152.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001825406" name="Union Olimpija - BK Radnicki">
+			<Outcome odds="1.5" id="50076711136" name="1">
+				<Participant info="Adriatic basket" id="20472">Union Olimpija</Participant>
+			</Outcome>
+			<Outcome odds="2.4" id="50076711138" name="2">
+				<Participant info="Adriatic basket" id="50000003399">BK Radnicki</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000194905" name="Winner">
+		<Sport>Basketball</Sport>
+		<Region>Estonia</Region>
+		<Season>Meistriliiga</Season>
+		<BreadCrumbs>Basketball - Estonia - Meistriliiga</BreadCrumbs>
+		<GameStartTime>2012-12-31 19:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-31 19:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="EST Basketball" role="participant" id="20000001551">Tallinna Kalev</Participant>
+		<Participant info="EST basketball Men" role="participant" id="20000002917">Rapla KK</Participant>
+		<Participant info="EST Basketball Men" role="participant" id="20549">KK Hito</Participant>
+		<Participant info="EST Basketball Men" role="participant" id="50000002773">Valga Korvpallikool</Participant>
+		<Participant info="EST Basketball Men" role="participant" id="50000002774">TTÜ Korvpalliklubi</Participant>
+		<Participant info="EST Basketball Men" role="participant" id="9000004548">BC Kalev/Cramo</Participant>
+		<Participant info="EST Basketball men" role="participant" id="9000004553">BC Tarvas Rakvere</Participant>
+		<Participant info="EST Basketball men" role="participant" id="9000007405">KK Pärnu</Participant>
+		<Participant info="EST Basketball Men" role="participant" id="9000010775">Tartu Rock</Participant>
+		<OutcomeSet type="Result Winner" id="50001437796" name="Winner">
+			<Outcome odds="1.7" id="50076741832" name="BC Kalev/Cramo">
+				<Participant info="EST Basketball Men" id="9000004548">BC Kalev/Cramo</Participant>
+			</Outcome>
+			<Outcome odds="15.0" id="50076741835" name="BC Tarvas Rakvere">
+				<Participant info="EST Basketball men" id="9000004553">BC Tarvas Rakvere</Participant>
+			</Outcome>
+			<Outcome odds="1000.0" id="50076741836" name="KK Hito">
+				<Participant info="EST Basketball Men" id="20549">KK Hito</Participant>
+			</Outcome>
+			<Outcome odds="150.0" id="50076741831" name="KK Pärnu">
+				<Participant info="EST Basketball men" id="9000007405">KK Pärnu</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50076741830" name="Rapla KK">
+				<Participant info="EST basketball Men" id="20000002917">Rapla KK</Participant>
+			</Outcome>
+			<Outcome odds="100.0" id="50076741833" name="TTÜ Korvpalliklubi">
+				<Participant info="EST Basketball Men" id="50000002774">TTÜ Korvpalliklubi</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50076741834" name="Tallinna Kalev">
+				<Participant info="EST Basketball" id="20000001551">Tallinna Kalev</Participant>
+			</Outcome>
+			<Outcome odds="2.1" id="50076741838" name="Tartu Rock">
+				<Participant info="EST Basketball Men" id="9000010775">Tartu Rock</Participant>
+			</Outcome>
+			<Outcome odds="500.0" id="50076741837" name="Valga Korvpallikool">
+				<Participant info="EST Basketball Men" id="50000002773">Valga Korvpallikool</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000226221" name="Fileni BPA Jesi - Giorgio Tesi Group Pistoia">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-23 19:15:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-23 19:15:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020887">Fileni BPA Jesi</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020879">Giorgio Tesi Group Pistoia</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826506" name="Fileni BPA Jesi - Giorgio Tesi Group Pistoia (under/over: 154.5)">
+			<Outcome odds="1.85" id="50076743067" name="over">
+				<Participant info="Italian basketball" id="50000020879">Giorgio Tesi Group Pistoia</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076743068" name="under">
+				<Participant info="Italian basketball" id="50000020887">Fileni BPA Jesi</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826486" name="Fileni BPA Jesi - Giorgio Tesi Group Pistoia H(3.5 - 0)">
+			<Outcome odds="1.85" id="50076742837" name="1">
+				<Participant info="Italian basketball" id="50000020887">Fileni BPA Jesi</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076742839" name="2">
+				<Participant info="Italian basketball" id="50000020879">Giorgio Tesi Group Pistoia</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826485" name="Fileni BPA Jesi - Giorgio Tesi Group Pistoia">
+			<Outcome odds="2.3" id="50076742836" name="1">
+				<Participant info="Italian basketball" id="50000020887">Fileni BPA Jesi</Participant>
+			</Outcome>
+			<Outcome odds="1.55" id="50076742838" name="2">
+				<Participant info="Italian basketball" id="50000020879">Giorgio Tesi Group Pistoia</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237069" name="EiffelTowers Den Bosch - Landstede Basketball Zwolle">
+		<Sport>Basketball</Sport>
+		<Region>Netherlands</Region>
+		<Season>Eredivisie</Season>
+		<BreadCrumbs>Basketball - Holland - Eredivisie</BreadCrumbs>
+		<GameStartTime>2012-12-20 21:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="HOL, basketball, Men" role="1" id="20000002600">EiffelTowers Den Bosch</Participant>
+		<Participant info="HOL, basketball, Men" role="2" id="20000002606">Landstede Basketball Zwolle</Participant>
+		<OutcomeSet type="Handicap" id="50001825935" name="EiffelTowers Den Bosch - Landstede Basketball Zwolle H(0 - 11.5)">
+			<Outcome odds="1.85" id="50076722904" name="1">
+				<Participant info="HOL, basketball, Men" id="20000002600">EiffelTowers Den Bosch</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076722906" name="2">
+				<Participant info="HOL, basketball, Men" id="20000002606">Landstede Basketball Zwolle</Participant>
+				<OptionalValue1>11.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001825934" name="EiffelTowers Den Bosch - Landstede Basketball Zwolle (under/over: 154.5)">
+			<Outcome odds="1.85" id="50076722902" name="over">
+				<Participant info="HOL, basketball, Men" id="20000002606">Landstede Basketball Zwolle</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076722903" name="under">
+				<Participant info="HOL, basketball, Men" id="20000002600">EiffelTowers Den Bosch</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001825933" name="EiffelTowers Den Bosch - Landstede Basketball Zwolle">
+			<Outcome odds="1.1" id="50076722898" name="1">
+				<Participant info="HOL, basketball, Men" id="20000002600">EiffelTowers Den Bosch</Participant>
+			</Outcome>
+			<Outcome odds="5.85" id="50076722899" name="2">
+				<Participant info="HOL, basketball, Men" id="20000002606">Landstede Basketball Zwolle</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000224549" name="Svitavy - Jindrichuv Hradec">
+		<Sport>Basketball</Sport>
+		<Region>Czech Republic</Region>
+		<Season>Mattoni NBL</Season>
+		<BreadCrumbs>Basketball - Czech Republic - Mattoni NBL</BreadCrumbs>
+		<GameStartTime>2012-12-20 21:00:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="basketball, Czech Rep." role="1" id="50000020724">Svitavy</Participant>
+		<Participant info="basketball, Czech Rep." role="2" id="50000020729">Jindrichuv Hradec</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001827193" name="Svitavy - Jindrichuv Hradec (under/over: 168.5)">
+			<Outcome odds="1.85" id="50076762914" name="over">
+				<Participant info="basketball, Czech Rep." id="50000020729">Jindrichuv Hradec</Participant>
+				<OptionalValue1>168.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076762915" name="under">
+				<Participant info="basketball, Czech Rep." id="50000020724">Svitavy</Participant>
+				<OptionalValue1>168.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001825243" name="Svitavy - Jindrichuv Hradec H(0.0 - 2.5)">
+			<Outcome odds="1.85" id="50076707823" name="1">
+				<Participant info="basketball, Czech Rep." id="50000020724">Svitavy</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076707824" name="2">
+				<Participant info="basketball, Czech Rep." id="50000020729">Jindrichuv Hradec</Participant>
+				<OptionalValue1>2.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001824157" name="Svitavy - Jindrichuv Hradec">
+			<Outcome odds="1.68" id="50076707819" name="1">
+				<Participant info="basketball, Czech Rep." id="50000020724">Svitavy</Participant>
+			</Outcome>
+			<Outcome odds="2.06" id="50076707820" name="2">
+				<Participant info="basketball, Czech Rep." id="50000020729">Jindrichuv Hradec</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000226222" name="Centrale del Latte Brescia - Le Gamberi Foods Forli">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-23 19:15:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-23 19:15:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020888">Centrale del Latte Brescia</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020894">Le Gamberi Foods Forli</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826472" name="Centrale del Latte Brescia - Le Gamberi Foods Forli (under/over: 156.5)">
+			<Outcome odds="1.85" id="50076742089" name="over">
+				<Participant info="Italian basketball" id="50000020894">Le Gamberi Foods Forli</Participant>
+				<OptionalValue1>156.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076742090" name="under">
+				<Participant info="Italian basketball" id="50000020888">Centrale del Latte Brescia</Participant>
+				<OptionalValue1>156.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826452" name="Centrale del Latte Brescia - Le Gamberi Foods Forli H(0 - 5.5)">
+			<Outcome odds="1.85" id="50076741753" name="1">
+				<Participant info="Italian basketball" id="50000020888">Centrale del Latte Brescia</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076741754" name="2">
+				<Participant info="Italian basketball" id="50000020894">Le Gamberi Foods Forli</Participant>
+				<OptionalValue1>5.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826451" name="Centrale del Latte Brescia - Le Gamberi Foods Forli">
+			<Outcome odds="1.38" id="50076741752" name="1">
+				<Participant info="Italian basketball" id="50000020888">Centrale del Latte Brescia</Participant>
+			</Outcome>
+			<Outcome odds="2.8" id="50076741755" name="2">
+				<Participant info="Italian basketball" id="50000020894">Le Gamberi Foods Forli</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000226224" name="Acegas Trieste - Pallacanestro Trento 2009">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-23 19:15:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-23 19:15:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020883">Acegas Trieste</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020881">Pallacanestro Trento 2009</Participant>
+		<OutcomeSet type="Handicap" id="50001826441" name="Acegas Trieste - Pallacanestro Trento 2009 H(0 - 3.5)">
+			<Outcome odds="1.85" id="50076741091" name="1">
+				<Participant info="Italian basketball" id="50000020883">Acegas Trieste</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076741093" name="2">
+				<Participant info="Italian basketball" id="50000020881">Pallacanestro Trento 2009</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826440" name="Acegas Trieste - Pallacanestro Trento 2009 (under/over: 153.5)">
+			<Outcome odds="1.85" id="50076741090" name="over">
+				<Participant info="Italian basketball" id="50000020881">Pallacanestro Trento 2009</Participant>
+				<OptionalValue1>153.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076741092" name="under">
+				<Participant info="Italian basketball" id="50000020883">Acegas Trieste</Participant>
+				<OptionalValue1>153.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826439" name="Acegas Trieste - Pallacanestro Trento 2009">
+			<Outcome odds="1.55" id="50076741088" name="1">
+				<Participant info="Italian basketball" id="50000020883">Acegas Trieste</Participant>
+			</Outcome>
+			<Outcome odds="2.3" id="50076741089" name="2">
+				<Participant info="Italian basketball" id="50000020881">Pallacanestro Trento 2009</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000224606" name="Portland Trail Blazers - Denver Nuggets">
+		<Sport>Basketball</Sport>
+		<Region>United States of America</Region>
+		<Season>NBA</Season>
+		<BreadCrumbs>Basketball - USA - NBA</BreadCrumbs>
+		<GameStartTime>2012-12-21 05:05:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 05:05:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="NBA" role="1" id="322">Portland Trail Blazers</Participant>
+		<Participant info="NBA" role="2" id="306">Denver Nuggets</Participant>
+		<OutcomeSet id="50001827020" name="Portland Trail Blazers - Denver Nuggets (Andre Iguodala (Denver Nuggets) Points+Rebounds+Assists)">
+			<Outcome odds="1.85" id="50076758253" name="Over 25"/>
+			<Outcome odds="1.85" id="50076758254" name="Under 25"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827019" name="Portland Trail Blazers - Denver Nuggets (Kenneth Faried (Denver Nuggets) Points+Rebounds)">
+			<Outcome odds="1.75" id="50076758248" name="Over 22.5"/>
+			<Outcome odds="1.95" id="50076758251" name="Under 22.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827018" name="Portland Trail Blazers - Denver Nuggets (Andre Iguodala (Denver Nuggets) Points)">
+			<Outcome odds="1.85" id="50076758249" name="Over 13.5"/>
+			<Outcome odds="1.85" id="50076758252" name="Under 13.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827016" name="Portland Trail Blazers - Denver Nuggets (Ty Lawson (Denver Nuggets) Assists)">
+			<Outcome odds="1.75" id="50076758244" name="Over 6.5"/>
+			<Outcome odds="1.95" id="50076758247" name="Under 6.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827017" name="Portland Trail Blazers - Denver Nuggets (Ty Lawson (Denver Nuggets) Points)">
+			<Outcome odds="1.85" id="50076758245" name="Over 15"/>
+			<Outcome odds="1.85" id="50076758250" name="Under 15"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827015" name="Portland Trail Blazers - Denver Nuggets (Damian Lillard (Portland Trail Blazers) Points+Assists)">
+			<Outcome odds="1.85" id="50076758242" name="Over 25.5"/>
+			<Outcome odds="1.85" id="50076758246" name="Under 25.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827014" name="Portland Trail Blazers - Denver Nuggets (Danillo Galinari (Denver Nuggets) Points)">
+			<Outcome odds="1.85" id="50076758241" name="Over 16.5"/>
+			<Outcome odds="1.85" id="50076758243" name="Under 16.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827013" name="Portland Trail Blazers - Denver Nuggets (Nicolas Batum (Portland Trail Blazers) Points)">
+			<Outcome odds="1.85" id="50076758239" name="Over 16"/>
+			<Outcome odds="1.85" id="50076758240" name="Under 16"/>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826961" name="Portland Trail Blazers - Denver Nuggets H(5.5 - 0)">
+			<Outcome odds="1.91" id="50076754572" name="1">
+				<Participant info="NBA" id="322">Portland Trail Blazers</Participant>
+				<OptionalValue1>5.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.91" id="50076754573" name="2">
+				<Participant info="NBA" id="306">Denver Nuggets</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826960" name="Portland Trail Blazers - Denver Nuggets (under/over: 199)">
+			<Outcome odds="1.91" id="50076754571" name="over">
+				<Participant info="NBA" id="306">Denver Nuggets</Participant>
+				<OptionalValue1>199.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.91" id="50076754574" name="under">
+				<Participant info="NBA" id="322">Portland Trail Blazers</Participant>
+				<OptionalValue1>199.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826959" name="Portland Trail Blazers - Denver Nuggets">
+			<Outcome odds="2.92" id="50076754569" name="1">
+				<Participant info="NBA" id="322">Portland Trail Blazers</Participant>
+			</Outcome>
+			<Outcome odds="1.42" id="50076754570" name="2">
+				<Participant info="NBA" id="306">Denver Nuggets</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000224603" name="Minnesota Timberwolves - Oklahoma City Thunder">
+		<Sport>Basketball</Sport>
+		<Region>United States of America</Region>
+		<Season>NBA</Season>
+		<BreadCrumbs>Basketball - USA - NBA</BreadCrumbs>
+		<GameStartTime>2012-12-21 02:05:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 02:05:00 EET</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="NBA" role="1" id="316">Minnesota Timberwolves</Participant>
+		<Participant info="NBA" role="2" id="10000017487">Oklahoma City Thunder</Participant>
+		<OutcomeSet type="Result" id="50001824748" name="Minnesota Timberwolves - Oklahoma City Thunder">
+			<Outcome odds="2.33" id="50076780784" name="1">
+				<Participant info="NBA" id="316">Minnesota Timberwolves</Participant>
+			</Outcome>
+			<Outcome odds="1.62" id="50076780785" name="2">
+				<Participant info="NBA" id="10000017487">Oklahoma City Thunder</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001827224" name="Minnesota Timberwolves - Oklahoma City Thunder H(3.5 - 0.0)">
+			<Outcome odds="1.91" id="50076764098" name="1">
+				<Participant info="NBA" id="316">Minnesota Timberwolves</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.91" id="50076764099" name="2">
+				<Participant info="NBA" id="10000017487">Oklahoma City Thunder</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001826993" name="Minnesota Timberwolves - Oklahoma City Thunder (Russell Westbrook (Oklahoma City Thunder) Points)">
+			<Outcome odds="1.85" id="50076756760" name="Over 22"/>
+			<Outcome odds="1.85" id="50076756761" name="Under 22"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826992" name="Minnesota Timberwolves - Oklahoma City Thunder (Serge Ibaka (Oklahoma City Thunder) Points)">
+			<Outcome odds="1.75" id="50076756759" name="Over 13.5"/>
+			<Outcome odds="1.95" id="50076756762" name="Under 13.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826991" name="Minnesota Timberwolves - Oklahoma City Thunder (Kevin Durant (Oklahoma City Thunder) Points)">
+			<Outcome odds="1.8" id="50076756755" name="Over 28.5"/>
+			<Outcome odds="1.9" id="50076756757" name="Under 28.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826990" name="Minnesota Timberwolves - Oklahoma City Thunder (Russell Westbrook (Oklahoma City Thunder) Assists)">
+			<Outcome odds="1.85" id="50076756754" name="Over 8.5"/>
+			<Outcome odds="1.85" id="50076756758" name="Under 8.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826989" name="Minnesota Timberwolves - Oklahoma City Thunder (Kevin Durant (Oklahoma City Thunder) Points+Rebounds+Assists)">
+			<Outcome odds="1.85" id="50076756753" name="Over 41"/>
+			<Outcome odds="1.85" id="50076756756" name="Under 41"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826988" name="Minnesota Timberwolves - Oklahoma City Thunder (Nikola Pekovic (Minnesota Timberwolves) Points+Rebounds)">
+			<Outcome odds="1.85" id="50076756751" name="Over 24"/>
+			<Outcome odds="1.85" id="50076756752" name="Under 24"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826987" name="Minnesota Timberwolves - Oklahoma City Thunder (Kevin Love (Minnesota Timberwolves) Rebounds)">
+			<Outcome odds="1.75" id="50076756749" name="Over 13.5"/>
+			<Outcome odds="1.95" id="50076756750" name="Under 13.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826986" name="Minnesota Timberwolves - Oklahoma City Thunder (Kevin Love (Minnesota Timberwolves) Points)">
+			<Outcome odds="1.75" id="50076756747" name="Over 21.5"/>
+			<Outcome odds="1.95" id="50076756748" name="Under 21.5"/>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826368" name="Minnesota Timberwolves - Oklahoma City Thunder (under/over: 198.5)">
+			<Outcome odds="1.85" id="50076737935" name="over">
+				<Participant info="NBA" id="10000017487">Oklahoma City Thunder</Participant>
+				<OptionalValue1>198.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.95" id="50076737936" name="under">
+				<Participant info="NBA" id="316">Minnesota Timberwolves</Participant>
+				<OptionalValue1>198.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000237026" name="KK MZT Skopje - Cibona">
+		<Sport>Basketball</Sport>
+		<Region>Taiwan</Region>
+		<Season>Adriatic League </Season>
+		<BreadCrumbs>Basketball - International - Adriatic League </BreadCrumbs>
+		<GameStartTime>2012-12-20 21:30:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-20 21:30:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Adriatic basket" role="1" id="50000020570">KK MZT Skopje</Participant>
+		<Participant info="Adriatic basket" role="2" id="9300000085">Cibona</Participant>
+		<OutcomeSet type="Result" id="50001825428" name="KK MZT Skopje - Cibona">
+			<Outcome odds="1.85" id="50076718842" name="1">
+				<Participant info="Adriatic basket" id="50000020570">KK MZT Skopje</Participant>
+			</Outcome>
+			<Outcome odds="1.85" id="50076718843" name="2">
+				<Participant info="Adriatic basket" id="9300000085">Cibona</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001825430" name="KK MZT Skopje - Cibona (under/over: 146.5)">
+			<Outcome odds="1.85" id="50076711496" name="over">
+				<Participant info="Adriatic basket" id="9300000085">Cibona</Participant>
+				<OptionalValue1>146.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076711498" name="under">
+				<Participant info="Adriatic basket" id="50000020570">KK MZT Skopje</Participant>
+				<OptionalValue1>146.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000224607" name="Dallas Mavericks - Miami Heat">
+		<Sport>Basketball</Sport>
+		<Region>United States of America</Region>
+		<Season>NBA</Season>
+		<BreadCrumbs>Basketball - USA - NBA</BreadCrumbs>
+		<GameStartTime>2012-12-21 04:35:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-21 04:35:00 EET</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="NBA" role="1" id="305">Dallas Mavericks</Participant>
+		<Participant info="NBA" role="2" id="314">Miami Heat</Participant>
+		<OutcomeSet id="50001827006" name="Dallas Mavericks - Miami Heat (Chris Bosh (Miami Heat) Points)">
+			<Outcome odds="1.8" id="50076757577" name="Over 16.5"/>
+			<Outcome odds="1.9" id="50076757579" name="Under 16.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827005" name="Dallas Mavericks - Miami Heat (Chris Bosh (Miami Heat) Rebounds)">
+			<Outcome odds="1.75" id="50076757576" name="Over 7.5"/>
+			<Outcome odds="1.95" id="50076757578" name="Under 7.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827004" name="Dallas Mavericks - Miami Heat (Lebron James (Miami Heat) Points)">
+			<Outcome odds="1.85" id="50076757570" name="Over 26.5"/>
+			<Outcome odds="1.85" id="50076757574" name="Under 26.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827003" name="Dallas Mavericks - Miami Heat (Dwyane Wade (Miami Heat) Points)">
+			<Outcome odds="1.85" id="50076757568" name="Over 20.5"/>
+			<Outcome odds="1.85" id="50076757572" name="Under 20.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827002" name="Dallas Mavericks - Miami Heat (Lebron James (Miami Heat) Rebounds+Assists)">
+			<Outcome odds="1.75" id="50076757569" name="Over 15.5"/>
+			<Outcome odds="1.95" id="50076757575" name="Under 15.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827001" name="Dallas Mavericks - Miami Heat (Dwyane Wade (Miami Heat) Points+Rebounds+Assists)">
+			<Outcome odds="1.85" id="50076757566" name="Over 29.5"/>
+			<Outcome odds="1.85" id="50076757571" name="Under 29.5"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001827000" name="Dallas Mavericks - Miami Heat (Chris Kaman (Dallas Mavericks) Points+Rebounds)">
+			<Outcome odds="1.85" id="50076757567" name="Over 21"/>
+			<Outcome odds="1.85" id="50076757573" name="Under 21"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001826999" name="Dallas Mavericks - Miami Heat (O.J. Mayo (Dallas Mavericks) Points)">
+			<Outcome odds="1.85" id="50076757564" name="Over 19.5"/>
+			<Outcome odds="1.85" id="50076757565" name="Under 19.5"/>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001824771" name="Dallas Mavericks - Miami Heat">
+			<Outcome odds="3.0" id="50076756837" name="1">
+				<Participant info="NBA" id="305">Dallas Mavericks</Participant>
+			</Outcome>
+			<Outcome odds="1.4" id="50076756838" name="2">
+				<Participant info="NBA" id="314">Miami Heat</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826877" name="Dallas Mavericks - Miami Heat (under/over: 201)">
+			<Outcome odds="1.91" id="50076751159" name="over">
+				<Participant info="NBA" id="314">Miami Heat</Participant>
+				<OptionalValue1>201.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.91" id="50076751160" name="under">
+				<Participant info="NBA" id="305">Dallas Mavericks</Participant>
+				<OptionalValue1>201.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001824772" name="Dallas Mavericks - Miami Heat H(5.5 - 0)">
+			<Outcome odds="1.91" id="50076784347" name="1">
+				<Participant info="NBA" id="305">Dallas Mavericks</Participant>
+				<OptionalValue1>5.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.91" id="50076784348" name="2">
+				<Participant info="NBA" id="314">Miami Heat</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000225673" name="Givova Scafati - Aget Imola">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-22 21:45:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-22 21:45:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020892">Givova Scafati</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020884">Aget Imola</Participant>
+		<OutcomeSet type="Under/Over Match" id="50001826389" name="Givova Scafati - Aget Imola (under/over: 159.5)">
+			<Outcome odds="1.85" id="50076739915" name="over">
+				<Participant info="Italian basketball" id="50000020884">Aget Imola</Participant>
+				<OptionalValue1>159.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076739916" name="under">
+				<Participant info="Italian basketball" id="50000020892">Givova Scafati</Participant>
+				<OptionalValue1>159.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001826416" name="Givova Scafati - Aget Imola H(0.0 - 10.5)">
+			<Outcome odds="1.85" id="50076740425" name="1">
+				<Participant info="Italian basketball" id="50000020892">Givova Scafati</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076740426" name="2">
+				<Participant info="Italian basketball" id="50000020884">Aget Imola</Participant>
+				<OptionalValue1>10.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826391" name="Givova Scafati - Aget Imola">
+			<Outcome odds="1.15" id="50076740367" name="1">
+				<Participant info="Italian basketball" id="50000020892">Givova Scafati</Participant>
+			</Outcome>
+			<Outcome odds="4.75" id="50076740368" name="2">
+				<Participant info="Italian basketball" id="50000020884">Aget Imola</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000226223" name="Novipiu Casale Monferrato - Tezenis Verona">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-23 19:15:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-23 19:15:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020889">Novipiu Casale Monferrato</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020886">Tezenis Verona</Participant>
+		<OutcomeSet type="Handicap" id="50001826528" name="Novipiu Casale Monferrato - Tezenis Verona H(0 - 5.5 )">
+			<Outcome odds="1.85" id="50076743586" name="1">
+				<Participant info="Italian basketball" id="50000020889">Novipiu Casale Monferrato</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076743587" name="2">
+				<Participant info="Italian basketball" id="50000020886">Tezenis Verona</Participant>
+				<OptionalValue1>5.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826527" name="Novipiu Casale Monferrato - Tezenis Verona (under/over: 155.5)">
+			<Outcome odds="1.85" id="50076743584" name="over">
+				<Participant info="Italian basketball" id="50000020886">Tezenis Verona</Participant>
+				<OptionalValue1>155.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076743585" name="under">
+				<Participant info="Italian basketball" id="50000020889">Novipiu Casale Monferrato</Participant>
+				<OptionalValue1>155.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826526" name="Novipiu Casale Monferrato - Tezenis Verona">
+			<Outcome odds="1.38" id="50076743582" name="1">
+				<Participant info="Italian basketball" id="50000020889">Novipiu Casale Monferrato</Participant>
+			</Outcome>
+			<Outcome odds="2.8" id="50076743583" name="2">
+				<Participant info="Italian basketball" id="50000020886">Tezenis Verona</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000226220" name="Prima Veroli - FMC Ferentino">
+		<Sport>Basketball</Sport>
+		<Region>Italy</Region>
+		<Season>Legadue</Season>
+		<BreadCrumbs>Basketball - Italy - Legadue</BreadCrumbs>
+		<GameStartTime>2012-12-23 19:15:00 EET</GameStartTime>
+		<BettingEndTime>2012-12-23 19:15:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Italian basketball" role="1" id="50000020893">Prima Veroli</Participant>
+		<Participant info="Italian basketball" role="2" id="50000020880">FMC Ferentino</Participant>
+		<OutcomeSet type="Handicap" id="50001826542" name="Prima Veroli - FMC Ferentino H(0 - 4.5)">
+			<Outcome odds="1.85" id="50076743861" name="1">
+				<Participant info="Italian basketball" id="50000020893">Prima Veroli</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076743862" name="2">
+				<Participant info="Italian basketball" id="50000020880">FMC Ferentino</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001826541" name="Prima Veroli - FMC Ferentino (under/over: 154.5)">
+			<Outcome odds="1.85" id="50076743858" name="over">
+				<Participant info="Italian basketball" id="50000020880">FMC Ferentino</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.85" id="50076743860" name="under">
+				<Participant info="Italian basketball" id="50000020893">Prima Veroli</Participant>
+				<OptionalValue1>154.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001826540" name="Prima Veroli - FMC Ferentino">
+			<Outcome odds="1.45" id="50076743857" name="1">
+				<Participant info="Italian basketball" id="50000020893">Prima Veroli</Participant>
+			</Outcome>
+			<Outcome odds="2.55" id="50076743859" name="2">
+				<Participant info="Italian basketball" id="50000020880">FMC Ferentino</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

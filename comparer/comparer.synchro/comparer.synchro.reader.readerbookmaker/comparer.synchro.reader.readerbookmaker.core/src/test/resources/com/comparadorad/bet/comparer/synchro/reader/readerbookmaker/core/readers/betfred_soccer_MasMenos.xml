@@ -1,0 +1,14 @@
+<category name="Football-Spanish-Primera" timeGenerated="2013-02-27T14:43:49"
+	Bookmaker="Betfred">
+	<event name="Getafe v Valencia" eventid="2471235.20" date="20130518"
+		time="1700" meeting="" venue="">
+		<bettype bet-start-date="20130518" bet-start-time="1700"
+			suspended="false" name="Over/Under 2.5" inrunning="0" bettypeid="6278998.20">
+			<bet name="Over 2.5" short-name="Over 2.5" id="134905174.20"
+				price="8/13" priceDecimal="1.62" priceUS="-61.54"
+				active-price-types="CP" />
+			<bet name="Under 2.5" short-name="Under 2.5" id="134905175.20"
+				price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="Ice Hockey" id="13">
+		<event name="NHL" id="83">
+			<match name="New Jersey Devils - Montreal Canadiens" id="551351"
+				start_date="2013-04-24T00:05:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ihk_Mrs" name="Match Result" id="5524211">
+						<choice name="%1%" id="43138484" odd="2.65" />
+						<choice name="Draw" id="43138485" odd="3.80" />
+						<choice name="%2%" id="43138486" odd="2.25" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

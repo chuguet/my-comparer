@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="American Football" id="14">
+		<event name="WNBA" id="513">
+			<match name="Indiana Fever - Connecticut Sun" id="559711"
+				start_date="2013-06-13T01:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="5709518">
+						<choice name="%1%" id="44423096" odd="1.48" />
+						<choice name="%2%" id="44423097" odd="2.55" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="5709521">
+						<choice name="%1% -4.5" id="44859444" odd="1.88" />
+						<choice name="%2% +4.5" id="44859445" odd="1.88" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="5709519">
+						<choice name="Under 146.5" id="44859447" odd="1.92" />
+						<choice name="Over 146.5" id="44859446" odd="1.84" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

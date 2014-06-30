@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 sp1 (http://www.altova.com) by AppsPortables.com (AppsPortables.com) -->
+<sports file_date="2014-02-24T12:07:02.403">
+	<sport name="Tennis" id="2">
+		<event name="French Open M." id="59">
+			<match name="French Open Men 2014" id="573349" start_date="2014-05-25T10:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ten_Win" name="Outright Winner" id="6427765">
+						<choice name="Roger Federer" id="49789808" odd="20.00"/>
+						<choice name="Nicolas Almagro" id="49789829" odd="100.00"/>
+						<choice name="Tomas Berdych" id="49789823" odd="40.00"/>
+						<choice name="Novak Djokovic" id="49789805" odd="2.60"/>
+						<choice name="David Ferrer" id="49789817" odd="25.00"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Dubai ATP" id="78">
+			<match name="Roger Federer - Benjamin Becker" id="692934" start_date="2014-02-24T15:00:00" live_id="93280" streaming="0">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="11027573">
+						<choice name="%1%" id="81364682" odd="1.03"/>
+						<choice name="%2%" id="81364688" odd="11.00"/>
+					</bet>
+					<bet code="Ten_Tse" name="Total Sets" id="11027596">
+						<choice name="2 sets" id="81364840" odd="1.18"/>
+						<choice name="3 sets" id="81364847" odd="4.50"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

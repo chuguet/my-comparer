@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish -->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved. -->
+<oxip version="7.1" created="2012-12-19 15:49:48" lastMsgId="4507675029"
+	requestTime="1.2959">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="46" name="European Major Leagues" maxRepDate="2012-12-19"
+				maxRepTime="11:47:42">
+				<type id="266" name="World Cup"
+					url="http://sports.williamhill.com/bet/betting/t/266"
+					lastUpdateDate="2013-05-07" lastUpdateTime="09:20:12">
+					<market id="81491270"
+						name="New York Knicks @ Indiana Pacers - Alternative Handicap 5"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4446150/Indiana%2dPacers%2d%40%2dNew%2dYork%2dKnicks"
+						date="2013-05-17" time="01:05:00" betTillDate="2013-05-17"
+						betTillTime="01:05:00" lastUpdateDate="2013-05-16" lastUpdateTime="01:20:50">
+						<participant name="New York Knicks" id="305783357"
+							odds="4/1" oddsDecimal="5.00" lastUpdateDate="2013-05-16"
+							lastUpdateTime="01:20:50" handicap="-5.0" />
+						<participant name="Indiana Pacers" id="305783356"
+							odds="1/7" oddsDecimal="1.14" lastUpdateDate="2013-05-16"
+							lastUpdateTime="01:20:50" handicap="5.0" />
+					</market>
+				</type>
+
+				<type id="338" name="World Cup"
+					url="http://sports.williamhill.com/bet/betting/t/338"
+					lastUpdateDate="2013-05-07" lastUpdateTime="09:20:12">
+					<market id="80420906"
+						name="Getafe v Valencia - Total Match Goals Under/Over"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4421324/Getafe%2dv%2dValencia"
+						date="2013-05-18" time="17:00:00" betTillDate="2013-05-18"
+						betTillTime="17:00:00" lastUpdateDate="2013-05-13" lastUpdateTime="14:48:27">
+						<participant name="Over 2.5" id="302417728" odds="8/13"
+							oddsDecimal="1.62" lastUpdateDate="2013-05-13" lastUpdateTime="14:48:26"
+							handicap="" />
+						<participant name="Under 2.5" id="302417729" odds="6/5"
+							oddsDecimal="2.20" lastUpdateDate="2013-05-13" lastUpdateTime="14:48:25"
+							handicap="" />
+					</market>
+				</type>
+			</class>
+			<disclaimer>
+				WHG (International) Ltd (&quot;We/Us&quot;) of 6/1
+				Waterport Place,
+				Gibraltar, owns the XML Feed Website ( the
+				&quot;Website&quot;)
+				relating to information contained on its main
+				trading website. By
+				using the Website You agree to these full Terms
+				of Use available at
+				http://developer.williamhill.com
+			</disclaimer>
+		</williamhill>
+	</response>
+</oxip>

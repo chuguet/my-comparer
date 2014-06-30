@@ -1,0 +1,324 @@
+<category name="Baseball" timeGenerated="2013-04-03T07:38:01" Bookmaker="Boyle Sports">
+	<event name="MLB 2013" eventid="1863302.10" date="20130408" time="0000" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="World Series Winner 2013" inrunning="0" bettypeid="9017542.10">
+			<bet name="Cleveland Indians" id="191607928.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Seattle Mariners" id="191607929.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Minnesota Twins" id="191607930.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Colorado Rockies" id="191607931.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Kansas City Royals" id="191607932.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Houston Astros" id="191607933.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Washington Nationals" id="191607904.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="Texas Rangers" id="191607905.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Detroit Tigers" id="191607906.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="New York Yankees" id="191607907.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="New York Mets" id="191607908.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Los Angeles Angels" id="191607909.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="Los Angeles Dodgers" id="191607910.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Cincinnati Reds" id="191607911.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Toronto Blue Jays" id="191607912.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="San Diego Padres" id="191607913.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="San Francisco Giants" id="191607914.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Atlanta Braves" id="191607915.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="St. Louis Cardinals" id="191607916.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Tampa Bay Rays" id="191607917.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Philadelphia Phillies" id="191607918.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Boston Red Sox" id="191607919.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Oakland Athletics" id="191607920.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Chicago Cubs" id="191607921.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Chicago White Sox" id="191607922.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Milwaukee Brewers" id="191607923.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Baltimore Orioles" id="191607924.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Arizona Diamondbacks" id="191607925.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Miami Marlins" id="191607926.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Pittsburgh Pirates" id="191607927.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="American League Winner" inrunning="0" bettypeid="9169866.10">
+			<bet name="Tampa Bay Rays" id="194046743.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Boston Red Sox" id="194046744.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Los Angeles Angels" id="194046738.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Detroit Tigers" id="194046739.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Toronto Blue Jays" id="194046740.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Texas Rangers" id="194046741.10" price="11/2" priceDecimal="6.50" active-price-types="CP"/>
+			<bet name="New York Yankees" id="194046742.10" price="13/2" priceDecimal="7.50" active-price-types="CP"/>
+			<bet name="Oakland Athletics" id="194046745.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Baltimore Orioles" id="194046746.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Chicago White Sox" id="194046747.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Cleveland Indians" id="194046748.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Kansas City Royals" id="194046749.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Seattle Mariners" id="194046750.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Minnesota Twins" id="194046751.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Houston Astros" id="196397205.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="National League Winner" inrunning="0" bettypeid="9169874.10">
+			<bet name="Washington Nationals" id="194047492.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Los Angeles Dodgers" id="194047493.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Cincinnati Reds" id="194047494.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Atlanta Braves" id="194047495.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="San Francisco Giants" id="194047496.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="St. Louis Cardinals" id="194047497.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Philadelphia Phillies" id="194047498.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Milwaukee Brewers" id="194047499.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Arizona Diamondbacks" id="194047500.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Pittsburgh Pirates" id="194047501.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="New York Mets" id="194047502.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="San Diego Padres" id="194047503.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Miami Marlins" id="194047504.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Colorado Rockies" id="194047505.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Chicago Cubs" id="194047506.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="MLB Divisions 2013" eventid="1970895.10" date="20130408" time="0000" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="American League Central" inrunning="0" bettypeid="9973992.10">
+			<bet name="Chicago White Sox" id="203813557.10" price="13/2" priceDecimal="7.50" active-price-types="CP"/>
+			<bet name="Kansas City Royals" id="203813558.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Detroit Tigers" id="203813556.10" price="1/3" priceDecimal="1.33" active-price-types="CP"/>
+			<bet name="Cleveland Indians" id="203813559.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Minnesota Twins" id="203813560.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="American League East" inrunning="0" bettypeid="9973993.10">
+			<bet name="Toronto Blue Jays" id="203813698.10" price="17/10" priceDecimal="2.70" active-price-types="CP"/>
+			<bet name="New York Yankees" id="203813699.10" price="3/1" priceDecimal="4.00" active-price-types="CP"/>
+			<bet name="Tampa Bay Rays" id="203813700.10" price="5/2" priceDecimal="3.50" active-price-types="CP"/>
+			<bet name="Boston Red Sox" id="203813701.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Baltimore Orioles" id="203813702.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="American League West" inrunning="0" bettypeid="9973994.10">
+			<bet name="Los Angeles Angels" id="203813929.10" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet name="Texas Rangers" id="203813930.10" price="15/8" priceDecimal="2.88" active-price-types="CP"/>
+			<bet name="Oakland Athletics" id="203813931.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+			<bet name="Seattle Mariners" id="203813932.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Houston Astros" id="203813933.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="National League Central" inrunning="0" bettypeid="9973995.10">
+			<bet name="St. Louis Cardinals" id="203814098.10" price="2/1" priceDecimal="3.00" active-price-types="CP"/>
+			<bet name="Milwaukee Brewers" id="203814099.10" price="13/2" priceDecimal="7.50" active-price-types="CP"/>
+			<bet name="Cincinnati Reds" id="203814097.10" price="17/20" priceDecimal="1.85" active-price-types="CP"/>
+			<bet name="Pittsburgh Pirates" id="203814100.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Chicago Cubs" id="203814101.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="National League East" inrunning="0" bettypeid="9973996.10">
+			<bet name="Washington Nationals" id="203814300.10" price="10/11" priceDecimal="1.91" active-price-types="CP"/>
+			<bet name="Atlanta Braves" id="203814301.10" price="12/5" priceDecimal="3.40" active-price-types="CP"/>
+			<bet name="Philadelphia Phillies" id="203814302.10" price="16/5" priceDecimal="4.20" active-price-types="CP"/>
+			<bet name="New York Mets" id="203814303.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Miami Marlins" id="203814304.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="National League West" inrunning="0" bettypeid="9973997.10">
+			<bet name="Los Angeles Dodgers" id="203814606.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet name="San Francisco Giants" id="203814607.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Arizona Diamondbacks" id="203814608.10" price="13/2" priceDecimal="7.50" active-price-types="CP"/>
+			<bet name="San Diego Padres" id="203814609.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Colorado Rockies" id="203814610.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Washington (G. Gonzalez) v Miami (K. Slowey)" eventid="2012309.10" date="20130404" time="0005" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364843.10">
+			<bet name="Over 7.0" id="208545735.10" band-id="3046820.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet name="Under 7.0" id="208545736.10" band-id="3046825.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364846.10">
+			<bet had-value="HOME" name="Washington (G. Gonzalez)" id="208545741.10" price="4/11" priceDecimal="1.36" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Miami (K. Slowey)" id="208545742.10" price="23/10" priceDecimal="3.30" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364849.10">
+			<bet had-value="HOME" name="Washington (G. Gonzalez)" id="208545747.10" handicap-id="4148632" handicap="-1.50" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Miami (K. Slowey)" id="208545748.10" handicap-id="4148633" handicap="1.50" price="21/20" priceDecimal="2.05" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Pittsburgh (W. Rodriguez) v Chicago Cubs (E. Jackson)" eventid="2012310.10" date="20130404" time="0005" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364852.10">
+			<bet name="Over 7.0" id="208545902.10" band-id="3046821.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+			<bet name="Under 7.0" id="208545903.10" band-id="3046823.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364856.10">
+			<bet had-value="HOME" name="Pittsburgh (W. Rodriguez)" id="208545908.10" price="3/4" priceDecimal="1.75" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Chicago Cubs (E. Jackson)" id="208545909.10" price="23/20" priceDecimal="2.15" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364859.10">
+			<bet had-value="HOME" name="Pittsburgh (W. Rodriguez)" id="208545926.10" handicap-id="4148628" handicap="-1.50" price="17/10" priceDecimal="2.70" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Chicago Cubs (E. Jackson)" id="208545927.10" handicap-id="4148629" handicap="1.50" price="1/2" priceDecimal="1.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Ny Mets (M. Harvey) v San Diego (C. Richard)" eventid="2012311.10" date="20130404" time="0010" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364862.10">
+			<bet name="Over 7.0" id="208545944.10" band-id="3046878.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+			<bet name="Under 7.0" id="208545945.10" band-id="3046879.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364865.10">
+			<bet had-value="HOME" name="NY Mets (M. Harvey)" id="208545950.10" price="4/6" priceDecimal="1.67" active-price-types="CP"/>
+			<bet had-value="AWAY" name="San Diego (C. Richard)" id="208545951.10" price="13/10" priceDecimal="2.30" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364868.10">
+			<bet had-value="HOME" name="NY Mets (M. Harvey)" id="208545958.10" handicap-id="4148630" handicap="-1.50" price="8/5" priceDecimal="2.60" active-price-types="CP"/>
+			<bet had-value="AWAY" name="San Diego (C. Richard)" id="208545959.10" handicap-id="4148631" handicap="1.50" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Atlanta (P. Maholm) v Philadelphia (R. Halladay)" eventid="2012312.10" date="20130404" time="0010" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364871.10">
+			<bet name="Over 7.5" id="208545981.10" band-id="3046829.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+			<bet name="Under 7.5" id="208545982.10" band-id="3046831.10" price="3/4" priceDecimal="1.75" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364874.10">
+			<bet had-value="HOME" name="Atlanta (P. Maholm)" id="208545988.10" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Philadelphia (R. Halladay)" id="208545989.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364877.10">
+			<bet had-value="HOME" name="Atlanta (P. Maholm)" id="208545994.10" handicap-id="4148638" handicap="-1.50" price="17/10" priceDecimal="2.70" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Philadelphia (R. Halladay)" id="208545995.10" handicap-id="4148639" handicap="1.50" price="1/2" priceDecimal="1.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Milwaukee (W. Peralta) v Colorado (J. Nicasio)" eventid="2012313.10" date="20130404" time="0110" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364880.10">
+			<bet name="Over 8.5" id="208546081.10" band-id="3046826.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+			<bet name="Under 8.5" id="208546082.10" band-id="3046827.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364883.10">
+			<bet had-value="HOME" name="Milwaukee (W. Peralta)" id="208546087.10" price="3/4" priceDecimal="1.75" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Colorado (J. Nicasio)" id="208546088.10" price="23/20" priceDecimal="2.15" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364886.10">
+			<bet had-value="HOME" name="Milwaukee (W. Peralta)" id="208546098.10" handicap-id="4148634" handicap="-1.50" price="8/5" priceDecimal="2.60" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Colorado (J. Nicasio)" id="208546099.10" handicap-id="4148635" handicap="1.50" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Arizona (B. Mccarthy) v St. Louis (L. Lynn)" eventid="2012314.10" date="20130404" time="0240" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364889.10">
+			<bet name="Over 9.0" id="208546112.10" band-id="3046828.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet name="Under 9.0" id="208546113.10" band-id="3046830.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364892.10">
+			<bet had-value="AWAY" name="St. Louis (L. Lynn)" id="208546120.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+			<bet had-value="HOME" name="Arizona (B. McCarthy)" id="208546119.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364895.10">
+			<bet had-value="HOME" name="Arizona (B. McCarthy)" id="208546129.10" handicap-id="4148636" handicap="-1.50" price="9/5" priceDecimal="2.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="St. Louis (L. Lynn)" id="208546130.10" handicap-id="4148637" handicap="1.50" price="40/85" priceDecimal="1.47" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="La Dodgers (J. Beckett) v San Francisco (T. Lincecum)" eventid="2012315.10" date="20130404" time="0310" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364898.10">
+			<bet name="Over 6.5" id="208546147.10" band-id="3046832.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet name="Under 6.5" id="208546148.10" band-id="3046833.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364901.10">
+			<bet had-value="HOME" name="LA Dodgers (J. Beckett)" id="208546155.10" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="San Francisco (T. Lincecum)" id="208546156.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364904.10">
+			<bet had-value="HOME" name="LA Dodgers (J. Beckett)" id="208546161.10" handicap-id="4148640" handicap="-1.50" price="9/5" priceDecimal="2.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="San Francisco (T. Lincecum)" id="208546162.10" handicap-id="4148641" handicap="1.50" price="40/85" priceDecimal="1.47" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Chicago White Sox (J. Peavy) v Kansas City (E. Santana)" eventid="2012316.10" date="20130403" time="1910" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364911.10">
+			<bet name="Over 7.5" id="208546305.10" band-id="3046837.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+			<bet name="Under 7.5" id="208546306.10" band-id="3046840.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364914.10">
+			<bet had-value="HOME" name="Chicago White Sox (J. Peavy)" id="208546311.10" price="7/10" priceDecimal="1.70" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Kansas City (E. Santana)" id="208546312.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364917.10">
+			<bet had-value="HOME" name="Chicago White Sox (J. Peavy)" id="208546319.10" handicap-id="4148646" handicap="-1.50" price="6/4" priceDecimal="2.50" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Kansas City (E. Santana)" id="208546320.10" handicap-id="4148647" handicap="1.50" price="6/10" priceDecimal="1.60" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Houston (P. Humber) v Texas (A. Ogando)" eventid="2012317.10" date="20130403" time="1910" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364920.10">
+			<bet name="Over 8.5" id="208546335.10" band-id="3046836.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+			<bet name="Under 8.5" id="208546336.10" band-id="3046839.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364923.10">
+			<bet had-value="HOME" name="Houston (P. Humber)" id="208546341.10" price="13/8" priceDecimal="2.63" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Texas (A. Ogando)" id="208546342.10" price="8/15" priceDecimal="1.53" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364926.10">
+			<bet had-value="HOME" name="Houston (P. Humber)" id="208546354.10" handicap-id="4148644" handicap="1.50" price="21/20" priceDecimal="2.05" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Texas (A. Ogando)" id="208546355.10" handicap-id="4148645" handicap="-1.50" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Minnesota (K. Correia) v Detroit (A. Sanchez)" eventid="2012318.10" date="20130403" time="2110" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364929.10">
+			<bet name="Over 8.0" id="208546381.10" band-id="3046834.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet name="Under 8.0" id="208546382.10" band-id="3046835.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364932.10">
+			<bet had-value="HOME" name="Minnesota (K. Correia)" id="208546389.10" price="11/8" priceDecimal="2.38" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Detroit (A. Sanchez)" id="208546390.10" price="4/6" priceDecimal="1.67" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364935.10">
+			<bet had-value="HOME" name="Minnesota (K. Correia)" id="208546399.10" handicap-id="4148642" handicap="1.50" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Detroit (A. Sanchez)" id="208546400.10" handicap-id="4148643" handicap="-1.50" price="21/20" priceDecimal="2.05" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Toronto (B. Morrow) v Cleveland (U. Jimenez)" eventid="2012319.10" date="20130404" time="0005" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364938.10">
+			<bet name="Over 8.5" id="208546405.10" band-id="3046838.10" price="3/4" priceDecimal="1.75" active-price-types="CP"/>
+			<bet name="Under 8.5" id="208546406.10" band-id="3046841.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364941.10">
+			<bet had-value="HOME" name="Toronto (B. Morrow)" id="208546411.10" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Cleveland (U. Jimenez)" id="208546412.10" price="31/20" priceDecimal="2.55" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364944.10">
+			<bet had-value="HOME" name="Toronto (B. Morrow)" id="208546418.10" handicap-id="4148648" handicap="-1.50" price="6/5" priceDecimal="2.20" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Cleveland (U. Jimenez)" id="208546419.10" handicap-id="4148649" handicap="1.50" price="7/10" priceDecimal="1.70" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Ny Yankees (H. Kuroda) v Boston (C. Buchholz)" eventid="2012320.10" date="20130404" time="0005" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364947.10">
+			<bet name="Over 8.0" id="208546483.10" band-id="3046850.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+			<bet name="Under 8.0" id="208546484.10" band-id="3046851.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364950.10">
+			<bet had-value="HOME" name="NY Yankees (H. Kuroda)" id="208546489.10" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Boston (C. Buchholz)" id="208546490.10" price="21/20" priceDecimal="2.05" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364953.10">
+			<bet had-value="HOME" name="NY Yankees (H. Kuroda)" id="208546495.10" handicap-id="4148650" handicap="-1.50" price="17/10" priceDecimal="2.70" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Boston (C. Buchholz)" id="208546496.10" handicap-id="4148651" handicap="1.50" price="1/2" priceDecimal="1.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Tampa Bay (J. Hellickson) v Baltimore (W.Y. Chen)" eventid="2012321.10" date="20130404" time="0010" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364956.10">
+			<bet name="Over 7.5" id="208546514.10" band-id="3046844.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+			<bet name="Under 7.5" id="208546515.10" band-id="3046845.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364959.10">
+			<bet had-value="HOME" name="Tampa Bay (J. Hellickson)" id="208546520.10" price="7/10" priceDecimal="1.70" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Baltimore (W.Y. Chen)" id="208546521.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364962.10">
+			<bet had-value="HOME" name="Tampa Bay (J. Hellickson)" id="208546526.10" handicap-id="4148652" handicap="-1.50" price="6/4" priceDecimal="2.50" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Baltimore (W.Y. Chen)" id="208546527.10" handicap-id="4148653" handicap="1.50" price="6/10" priceDecimal="1.60" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Oakland (T. Milone) v Seattle (J. Saunders)" eventid="2012322.10" date="20130404" time="0305" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364965.10">
+			<bet name="Over 7.0" id="208546614.10" band-id="3046846.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+			<bet name="Under 7.0" id="208546615.10" band-id="3046847.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364968.10">
+			<bet had-value="HOME" name="Oakland (T. Milone)" id="208546620.10" price="7/10" priceDecimal="1.70" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Seattle (J. Saunders)" id="208546621.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364971.10">
+			<bet had-value="HOME" name="Oakland (T. Milone)" id="208546626.10" handicap-id="4148654" handicap="-1.50" price="8/5" priceDecimal="2.60" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Seattle (J. Saunders)" id="208546627.10" handicap-id="4148655" handicap="1.50" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Cincinnati (M. Latos) v La Angels (C. Wilson)" eventid="2012323.10" date="20130404" time="0010" meeting="" venue="" sporttype="Baseball" sport="Baseball - MLB">
+		<bettype suspended="false" name="Total Match Runs" inrunning="0" bettypeid="10364974.10">
+			<bet name="Over 7.0" id="208546641.10" band-id="3046898.10" price="19/20" priceDecimal="1.95" active-price-types="CP"/>
+			<bet name="Under 7.0" id="208546642.10" band-id="3046899.10" price="20/23" priceDecimal="1.87" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Money Line" inrunning="0" bettypeid="10364977.10">
+			<bet had-value="HOME" name="Cincinnati (M. Latos)" id="208546649.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet had-value="AWAY" name="LA Angels (C. Wilson)" id="208546650.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-1.50" suspended="false" name="Handicap Line" inrunning="0" bettypeid="10364980.10">
+			<bet had-value="HOME" name="Cincinnati (M. Latos)" id="208546656.10" handicap-id="4148656" handicap="-1.50" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet had-value="AWAY" name="LA Angels (C. Wilson)" id="208546657.10" handicap-id="4148657" handicap="1.50" price="1/2" priceDecimal="1.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+</category>

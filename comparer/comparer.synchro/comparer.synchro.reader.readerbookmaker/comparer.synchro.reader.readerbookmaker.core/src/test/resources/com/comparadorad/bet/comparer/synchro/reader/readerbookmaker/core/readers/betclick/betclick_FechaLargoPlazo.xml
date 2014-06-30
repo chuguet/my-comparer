@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2013-04-22T07:07:01.370">
+	<sport name="Football" id="1">
+		<event name="Champions League" id="8">
+			<match name="Champions League 2012-2013" id="513150"
+				start_date="2013-05-25T19:45:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Win" name="Outright Winner" id="4443914">
+						<choice name="Bayern Munich" id="34815602" odd="1.42" />
+						<choice name="Borussia Dortmund" id="34815592" odd="2.70" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

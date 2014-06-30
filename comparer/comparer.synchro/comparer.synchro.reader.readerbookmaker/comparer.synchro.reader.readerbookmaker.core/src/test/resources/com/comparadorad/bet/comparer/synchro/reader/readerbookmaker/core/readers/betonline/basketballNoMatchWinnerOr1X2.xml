@@ -1,0 +1,45 @@
+<bestlinesports_line_feed>
+	<event>
+		<event_datetimeGMT>2013-06-03 20:30</event_datetimeGMT>
+		<sporttype>Basketball</sporttype>
+		<scheduletext>null</scheduletext>
+		<league>NBA Basketball</league>
+		<participant>
+			<participant_name>Indiana Pacers</participant_name>
+			<rotnum>527</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline/>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Miami Heat</participant_name>
+			<rotnum>528</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline/>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum/>
+		<drawmoneyline/>
+		<drawTitle/>
+		<period>
+			<period_description>3rd Quarter</period_description>
+			<periodcutoff_datetimeGMT>2013-06-03 20:40</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<spread>
+				<spread_visiting>1.5</spread_visiting>
+				<spread_adjust_visiting>-115</spread_adjust_visiting>
+				<spread_home>-1.5</spread_home>
+				<spread_adjust_home>-115</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>44.5</total_points>
+				<over_adjust>-115</over_adjust>
+				<under_adjust>-115</under_adjust>
+			</total>
+		</period>
+	</event>
+</bestlinesports_line_feed>

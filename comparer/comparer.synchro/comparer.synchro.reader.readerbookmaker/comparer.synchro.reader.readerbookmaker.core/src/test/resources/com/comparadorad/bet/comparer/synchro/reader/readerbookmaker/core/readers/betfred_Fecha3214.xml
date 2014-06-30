@@ -1,0 +1,15 @@
+<category name="US-Sports" timeGenerated="2013-03-19T13:32:15"
+	Bookmaker="Betfred">
+	<event name="Champions League 2012-2013" eventid="1766617.20"
+		date="20130525" time="" meeting="" venue="">
+		<bettype suspended="false" name="Top Goalscorer" inrunning="0"
+			bettypeid="4200030.20">
+			<bet name="Cristiano Ronaldo" short-name="Cristiano" id="107841302.20"
+				price="4/9" priceDecimal="1.44" priceUS="-44.44" active-price-types="CP" />
+			<bet name="Robert Lewandowski" short-name="Lewandowski" id="107841308.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+			<bet name="Thomas Muller" short-name="Muller" id="107841308.20"
+				price="7/4" priceDecimal="45" priceUS="175.00" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

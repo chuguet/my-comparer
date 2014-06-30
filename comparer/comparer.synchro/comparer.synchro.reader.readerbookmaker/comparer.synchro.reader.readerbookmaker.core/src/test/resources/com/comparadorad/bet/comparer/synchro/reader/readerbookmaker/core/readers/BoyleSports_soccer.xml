@@ -1,0 +1,642 @@
+<category name="Soccer" timeGenerated="2013-02-20T09:45:31" Bookmaker="Boyle Sports">
+	<event name="World Cup 2014 - Outright" eventid="923287.10" date="20131122" time="1800" meeting="" venue="" sporttype="Football" sport="Football International">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="World Cup 2014 Winner" inrunning="0" bettypeid="3059656.10">
+			<bet name="Germany" id="100993331.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Spain" id="100993332.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Uruguay" id="100993333.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Holland" id="100993334.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Brazil" id="100993335.10" price="10/3" priceDecimal="4.33" active-price-types="CP"/>
+			<bet name="Argentina" id="100993336.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Ghana" id="100993337.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Paraguay" id="100993338.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Portugal" id="100993339.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Japan" id="100993340.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Chile" id="100993341.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Slovakia" id="100993342.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="U.S.A." id="100993343.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Switzerland" id="100993344.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="England" id="100993345.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Mexico" id="100993346.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="South Korea" id="100993347.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Ivory Coast" id="100993348.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Honduras" id="100993349.10" price="1000/1" priceDecimal="1001.00" active-price-types="CP"/>
+			<bet name="Denmark" id="100993350.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Slovenia" id="100993352.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Serbia" id="100993353.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Australia" id="100993355.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Italy" id="100993351.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Greece" id="100993357.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="France" id="100993358.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Nigeria" id="100993359.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="South Africa" id="100993361.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Cameroon" id="100993362.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Ukraine" id="100993363.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Bosnia &amp; Herzegovina" id="100993364.10" price="400/1" priceDecimal="401.00" active-price-types="CP"/>
+			<bet name="Republic Of Ireland" id="100993365.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Egypt" id="100993366.10" price="300/1" priceDecimal="301.00" active-price-types="CP"/>
+			<bet name="Russia" id="100993368.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Ecuador" id="100993369.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Sweden" id="100993370.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Croatia" id="100993373.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Czech Republic" id="100993375.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Poland" id="100993379.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Turkey" id="100993380.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Colombia" id="100993381.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Bulgaria" id="100993382.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Romania" id="100993386.10" price="300/1" priceDecimal="301.00" active-price-types="CP"/>
+			<bet name="Belgium" id="100993387.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Norway" id="100993389.10" price="300/1" priceDecimal="301.00" active-price-types="CP"/>
+			<bet name="Scotland" id="100993391.10" price="1000/1" priceDecimal="1001.00" active-price-types="CP"/>
+			<bet name="Hungary" id="100993393.10" price="750/1" priceDecimal="751.00" active-price-types="CP"/>
+			<bet name="Austria" id="100993397.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="World Cup 2014 - Qualifying Groups" eventid="1282073.10" date="" time="" meeting="" venue="" sporttype="Football" sport="Football International">
+		<bettype suspended="false" name="Group A Winner" inrunning="0" bettypeid="4982438.10">
+			<bet name="Croatia" id="131307803.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+			<bet name="Serbia" id="131307804.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Belgium" id="131307805.10" price="4/5" priceDecimal="1.80" active-price-types="CP"/>
+			<bet name="Scotland" id="131307806.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Macedonia" id="131307807.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Wales" id="131307808.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group B Winner" inrunning="-1" bettypeid="4982439.10">
+			<bet name="Italy" id="131307867.10" price="2/11" priceDecimal="1.18" active-price-types="CP"/>
+			<bet name="Denmark" id="131307868.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Czech Republic" id="131307869.10" price="11/2" priceDecimal="6.50" active-price-types="CP"/>
+			<bet name="Bulgaria" id="131307870.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Armenia" id="131307871.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Malta" id="131307872.10" price="5000/1" priceDecimal="5001.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group C Winner" inrunning="0" bettypeid="4982440.10">
+			<bet name="Germany" id="131308280.10" price="1/8" priceDecimal="1.13" active-price-types="CP"/>
+			<bet name="Sweden" id="131308281.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Republic of Ireland" id="131308282.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Austria" id="131308283.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Faroe Islands" id="131308284.10" price="5000/1" priceDecimal="5001.00" active-price-types="CP"/>
+			<bet name="Kazakhstan" id="131308285.10" price="5000/1" priceDecimal="5001.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group D Winner" inrunning="0" bettypeid="4982441.10">
+			<bet name="Holland" id="131308325.10" price="1/20" priceDecimal="1.05" active-price-types="CP"/>
+			<bet name="Turkey" id="131308326.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Hungary" id="131308327.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Romania" id="131308328.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Estonia" id="131308329.10" price="7500/1" priceDecimal="7501.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group E Winner" inrunning="0" bettypeid="4982442.10">
+			<bet name="Norway" id="131308373.10" price="8/5" priceDecimal="2.60" active-price-types="CP"/>
+			<bet name="Switzerland" id="131308377.10" price="4/6" priceDecimal="1.67" active-price-types="CP"/>
+			<bet name="Albania" id="131308378.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Cyprus" id="131308379.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Iceland" id="131308380.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Slovenia" id="131308374.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group F Winner" inrunning="0" bettypeid="4982443.10">
+			<bet name="Portugal" id="131308451.10" price="17/10" priceDecimal="2.70" active-price-types="CP"/>
+			<bet name="Russia" id="131308452.10" price="4/9" priceDecimal="1.44" active-price-types="CP"/>
+			<bet name="Israel" id="131308453.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Northern Ireland" id="131308454.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Azerbaijan" id="131308455.10" price="3000/1" priceDecimal="3001.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group G Winner" inrunning="0" bettypeid="4982444.10">
+			<bet name="Greece" id="131308746.10" price="11/8" priceDecimal="2.38" active-price-types="CP"/>
+			<bet name="Slovakia" id="131308747.10" price="3/1" priceDecimal="4.00" active-price-types="CP"/>
+			<bet name="Bosnia &amp; Herzegovina" id="131308748.10" price="11/8" priceDecimal="2.38" active-price-types="CP"/>
+			<bet name="Lithuania" id="131308749.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Latvia" id="131308750.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group H Winner" inrunning="0" bettypeid="4982445.10">
+			<bet name="England" id="131308821.10" price="4/11" priceDecimal="1.36" active-price-types="CP"/>
+			<bet name="Montenegro" id="131308822.10" price="11/2" priceDecimal="6.50" active-price-types="CP"/>
+			<bet name="Ukraine" id="131308823.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Poland" id="131308824.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="Moldova" id="131308825.10" price="2000/1" priceDecimal="2001.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Group I Betting" inrunning="0" bettypeid="4982446.10">
+			<bet name="Spain" id="131308912.10" price="2/5" priceDecimal="1.40" active-price-types="CP"/>
+			<bet name="France" id="131308913.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Belarus" id="131308914.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Georgia" id="131308915.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="Finland" id="131308916.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Premier League 2012/2013" eventid="1600087.10" date="20130223" time="1245" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="7217432.10">
+			<bet name="Man City" id="165267922.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Man United" id="165267923.10" price="1/25" priceDecimal="1.04" active-price-types="CP"/>
+			<bet name="Arsenal" id="165267924.10" price="300/1" priceDecimal="301.00" active-price-types="CP"/>
+			<bet name="Chelsea" id="165267926.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Tottenham" id="165267927.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="To Be Relegated" inrunning="0" bettypeid="7398591.10">
+			<bet name="Newcastle" id="168208411.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Fulham" id="168208413.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Sunderland" id="168208414.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Stoke" id="168208415.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Aston Villa" id="168208416.10" price="10/11" priceDecimal="1.91" active-price-types="CP"/>
+			<bet name="Q.P.R." id="168208417.10" price="1/5" priceDecimal="1.20" active-price-types="CP"/>
+			<bet name="West Brom" id="168208419.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Norwich" id="168208420.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+			<bet name="Southampton" id="168208421.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Reading" id="168208422.10" price="1/2" priceDecimal="1.50" active-price-types="CP"/>
+			<bet name="Wigan" id="168208423.10" price="8/11" priceDecimal="1.73" active-price-types="CP"/>
+			<bet name="West Ham" id="168212008.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Top 4 Finish" inrunning="0" bettypeid="7398592.10">
+			<bet name="Tottenham" id="168208568.10" price="8/11" priceDecimal="1.73" active-price-types="CP"/>
+			<bet name="Liverpool" id="168208569.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Everton" id="168208571.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="Swansea" id="168208577.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Chelsea" id="168208566.10" price="1/6" priceDecimal="1.17" active-price-types="CP"/>
+			<bet name="Arsenal" id="168208567.10" price="10/11" priceDecimal="1.91" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Top London Club" inrunning="0" bettypeid="7454021.10">
+			<bet name="Chelsea" id="169183834.10" price="8/15" priceDecimal="1.53" active-price-types="CP"/>
+			<bet name="Arsenal" id="169183835.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Tottenham" id="169183836.10" price="3/1" priceDecimal="4.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Without The Big 6" inrunning="0" bettypeid="7454031.10">
+			<bet name="Everton" id="169184524.10" price="1/11" priceDecimal="1.09" active-price-types="CP"/>
+			<bet name="Fulham" id="169184525.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="West Brom" id="169184526.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Swansea" id="169184527.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Sunderland" id="169184529.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Stoke" id="169184530.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="West Ham" id="169184536.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Betting w/o Man City &amp; Man Utd" inrunning="0" bettypeid="7454032.10">
+			<bet name="Arsenal" id="169184844.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Tottenham" id="169184845.10" price="10/3" priceDecimal="4.33" active-price-types="CP"/>
+			<bet name="Liverpool" id="169184846.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Chelsea" id="169184847.10" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+			<bet name="Everton" id="169184849.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="To Finish Bottom" inrunning="0" bettypeid="7454034.10">
+			<bet name="Newcastle" id="169185400.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Fulham" id="169185402.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Sunderland" id="169185403.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Aston Villa" id="169185405.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Q.P.R." id="169185406.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+			<bet name="West Ham" id="169185407.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Norwich" id="169185410.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Southampton" id="169185411.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="Reading" id="169185412.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Wigan" id="169185413.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Top Midlands Club" inrunning="0" bettypeid="7454201.10">
+			<bet name="Aston Villa" id="169189269.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Stoke" id="169189270.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+			<bet name="West Brom" id="169189271.10" price="8/15" priceDecimal="1.53" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Top Promoted Club" inrunning="0" bettypeid="7454203.10">
+			<bet name="West Ham" id="169189825.10" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+			<bet name="Southampton" id="169189826.10" price="8/5" priceDecimal="2.60" active-price-types="CP"/>
+			<bet name="Reading" id="169189827.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Top 6 Finish" inrunning="0" bettypeid="7621887.10">
+			<bet name="Chelsea" id="171961233.10" price="1/200" priceDecimal="1.01" active-price-types="CP"/>
+			<bet name="Arsenal" id="171961234.10" price="1/22" priceDecimal="1.05" active-price-types="CP"/>
+			<bet name="Tottenham" id="171961235.10" price="1/33" priceDecimal="1.03" active-price-types="CP"/>
+			<bet name="Liverpool" id="171961236.10" price="10/11" priceDecimal="1.91" active-price-types="CP"/>
+			<bet name="Everton" id="171961238.10" price="8/15" priceDecimal="1.53" active-price-types="CP"/>
+			<bet name="Stoke" id="171961241.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Swansea" id="171961245.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="West Brom" id="171961246.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+		</bettype>
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2" suspended="false" name="Top Goalscorer" inrunning="0" bettypeid="7621996.10">
+			<bet name="Michu," id="177380824.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Fellaini, Marouane" id="189403733.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Benteke, Christian" id="200506921.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Fletcher, Steven" id="178490539.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Dzeko, Edin" id="171963616.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Hernandez, Javier" id="171963621.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Rooney, Wayne" id="171963638.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Lambert, Rickie" id="171963627.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Suarez, Luis" id="171963643.10" price="12/5" priceDecimal="3.40" active-price-types="CP"/>
+			<bet name="Tevez, Carlos" id="171963645.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Torres, Fernando" id="171963646.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Van Persie, Robin" id="171963647.10" price="4/6" priceDecimal="1.67" active-price-types="CP"/>
+			<bet name="Walcott, Theo" id="171963650.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Aguero, Sergio" id="171963597.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Ba, Demba" id="171963598.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Bale, Gareth" id="171963599.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Berbatov, Dimitar" id="171963604.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Cisse, Papiss" id="171963609.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Defoe, Jermain" id="171963613.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+		</bettype>
+		<bettype ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Most Assists" inrunning="0" bettypeid="7720375.10">
+			<bet name="Cazorla, Santi" id="175845916.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Oscar" id="174351184.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Pienaar, Steven" id="173610433.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Valencia, Luis" id="173487488.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Rooney, Wayne" id="173485746.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Van Persie, Robin" id="173485748.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="Tevez, Carlos" id="173485750.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Suarez, Luis" id="173485751.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Podolski, Lukas" id="173485761.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Hazard, Eden" id="173485763.10" price="11/2" priceDecimal="6.50" active-price-types="CP"/>
+			<bet name="Mata, Juan" id="173485769.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Silva, David" id="173485770.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Lambert, Rickie" id="173485772.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Bale, Gareth" id="173485774.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Walcott, Theo" id="173485778.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Gerrard, Steven" id="173485780.10" price="11/2" priceDecimal="6.50" active-price-types="CP"/>
+			<bet name="Ruiz, Bryan" id="173485795.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Lennon, Aaron" id="173487866.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Fellaini, Marouane" id="189797270.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Duff, Damien" id="200211031.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="McAnuff, Jobi" id="184083124.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Puncheon, Jason" id="184083838.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Championship 2012/2013" eventid="1630624.10" date="20130220" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="7398599.10">
+			<bet name="Leicester" id="168209029.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Bolton" id="168209031.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="Birmingham" id="168209032.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="Leeds" id="168209033.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Blackpool" id="168209034.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Blackburn" id="168209035.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Cardiff" id="168209036.10" price="4/11" priceDecimal="1.36" active-price-types="CP"/>
+			<bet name="Brighton" id="168209037.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Middlesbrough" id="168209039.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Nottm Forest" id="168209040.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Burnley" id="168209043.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="Hull" id="168209044.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+			<bet name="Derby" id="168209046.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Watford" id="168209048.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Crystal Palace" id="168209050.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="League One 2012/2013" eventid="1630627.10" date="20130222" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="7398613.10">
+			<bet name="Notts County" id="168209537.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Bournemouth" id="168209538.10" price="9/4" priceDecimal="3.25" active-price-types="CP"/>
+			<bet name="Brentford" id="168209539.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="Crawley Town" id="168209540.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Stevenage" id="168209542.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Tranmere" id="168209546.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Crewe" id="168209548.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Leyton Orient" id="168209551.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Yeovil" id="168209553.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Walsall" id="168209554.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Sheff Utd" id="168209531.10" price="10/3" priceDecimal="4.33" active-price-types="CP"/>
+			<bet name="MK Dons" id="168209532.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Swindon" id="168209533.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Coventry" id="168209534.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Doncaster" id="168209536.10" price="13/2" priceDecimal="7.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="League Two 2012/2013" eventid="1630628.10" date="20130223" time="1500" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="7398616.10">
+			<bet name="Port Vale" id="168209851.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+			<bet name="Burton Albion" id="168209855.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Rotherham" id="168209831.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Cheltenham" id="168209844.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Fleetwood" id="168209832.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Chesterfield" id="168209833.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Southend" id="168209836.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Bradford" id="168209838.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Northampton" id="168209840.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Gillingham" id="168209841.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+			<bet name="Exeter" id="168209842.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Champions League 2012/2013" eventid="1631302.10" date="20130220" time="1945" meeting="" venue="" sporttype="Football" sport="Football Uefa">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="7402543.10">
+			<bet name="Man United" id="168274204.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Bayern Munich" id="168274205.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Juventus" id="168274207.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="AC Milan" id="168274208.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Borussia Dortmund" id="168274209.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="Arsenal" id="168274210.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Malaga" id="168274212.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Valencia" id="168274213.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Porto" id="168274214.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Schalke" id="168274215.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Paris St Germain" id="168274211.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Shakhtar Donetsk" id="168274221.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Galatasaray" id="168274481.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Celtic" id="168274488.10" price="1000/1" priceDecimal="1001.00" active-price-types="CP"/>
+			<bet name="Barcelona" id="168274201.10" price="15/8" priceDecimal="2.88" active-price-types="CP"/>
+			<bet name="Real Madrid" id="168274202.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="French -  Ligue 1 2012/2013" eventid="1631363.10" date="20130223" time="1600" meeting="" venue="" sporttype="Football" sport="Football Europe">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="7402657.10">
+			<bet name="Paris St Germain" id="168278118.10" price="1/6" priceDecimal="1.17" active-price-types="CP"/>
+			<bet name="Lyon" id="168278120.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Marseille" id="168278121.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Holland -  Eredivisie 2012/2013" eventid="1631372.10" date="20130223" time="1945" meeting="" venue="" sporttype="Football" sport="Football Europe">
+		<bettype suspended="false" name="Competition Outright" inrunning="0" bettypeid="7402677.10">
+			<bet name="Ajax" id="168279430.10" price="13/8" priceDecimal="2.63" active-price-types="CP"/>
+			<bet name="Feyenoord" id="168279431.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="PSV Eindhoven" id="168279432.10" price="8/11" priceDecimal="1.73" active-price-types="CP"/>
+			<bet name="Twente" id="168279435.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Vitesse" id="168279436.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Italy -  Serie A 2012/2013" eventid="1631399.10" date="20130224" time="1400" meeting="" venue="" sporttype="Football" sport="Football Europe">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="7402938.10">
+			<bet name="Juventus" id="168283968.10" price="3/10" priceDecimal="1.30" active-price-types="CP"/>
+			<bet name="AC Milan" id="168283969.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Inter Milan" id="168283970.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Napoli" id="168283971.10" price="3/1" priceDecimal="4.00" active-price-types="CP"/>
+			<bet name="Lazio" id="168283972.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Portugal - Super Liga 2012/2013" eventid="1631412.10" date="20130223" time="2015" meeting="" venue="" sporttype="Football" sport="Football Europe">
+		<bettype suspended="false" name="Competition Outright" inrunning="0" bettypeid="7403223.10">
+			<bet name="Porto" id="168288310.10" price="8/13" priceDecimal="1.62" active-price-types="CP"/>
+			<bet name="Benfica" id="168288311.10" price="6/5" priceDecimal="2.20" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="FA Cup 2012/2013" eventid="1640624.10" date="20130227" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="7454242.10">
+			<bet name="Wigan" id="170788572.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Middlesbrough" id="193761707.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Millwall" id="193760812.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Blackburn" id="170788691.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Man City" id="169193219.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Man United" id="169193220.10" price="21/10" priceDecimal="3.10" active-price-types="CP"/>
+			<bet name="Chelsea" id="169193221.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Everton" id="169193226.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Oldham" id="191478844.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Barnsley" id="196003979.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Capital One Cup 2012/2013" eventid="1641940.10" date="20130223" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="7462682.10">
+			<bet name="Swansea" id="169334369.10" price="1/8" priceDecimal="1.13" active-price-types="CP"/>
+			<bet name="Bradford" id="178857171.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Europa League 2012/2013" eventid="1642261.10" date="20130221" time="1700" meeting="" venue="" sporttype="Football" sport="Football Uefa">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="7463580.10">
+			<bet name="Inter Milan" id="169349632.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Liverpool" id="169349633.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Tottenham" id="169349634.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Atletico Madrid" id="169349635.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Anzhi Makhachkala" id="169349637.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Lyon" id="169349638.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Newcastle" id="169349640.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Bayer Leverkusen" id="169349641.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Rubin Kazan" id="169349646.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Stuttgart" id="169349647.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Bordeaux" id="169349649.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Napoli" id="169349651.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Hannover" id="169349654.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Lazio" id="169349650.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="Dynamo Kiev" id="191942545.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Olympiakos" id="191942546.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Zenit St Petersburg" id="191942547.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Ajax" id="191942548.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="Metalist" id="169349772.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Levante" id="177123265.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Plzen" id="177123268.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Steau Bucherest" id="177123269.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Benfica" id="192005751.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Chelsea" id="192005752.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="CFR Cluj" id="192005753.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Bate Borisov" id="192005754.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="FC Basel" id="178949437.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="Monchengladbach" id="178949812.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Genk" id="178949414.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Dnipro" id="178948873.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Sparta Prague" id="178948874.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="Fenerbahce" id="178949552.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Scottish Division 1 2012/2013" eventid="1647911.10" date="20130223" time="1500" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="7496379.10">
+			<bet name="Partick" id="169893048.10" price="8/11" priceDecimal="1.73" active-price-types="CP"/>
+			<bet name="Falkirk" id="169893049.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Raith Rovers" id="169893050.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Dunfermline" id="169893053.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Morton" id="169893054.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+			<bet name="Livingston" id="169893055.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Scottish Division 3 2012/2013" eventid="1647943.10" date="20130223" time="1500" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Betting W/O Rangers" inrunning="0" bettypeid="7827064.10">
+			<bet name="Berwick" id="174943627.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Elgin" id="174943628.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Annan" id="174943630.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Peterhead" id="174943631.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Montrose" id="174943632.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Clyde" id="174943633.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Queens Park" id="174943635.10" price="4/7" priceDecimal="1.57" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Multiple Trophies 2012/2013" eventid="1660024.10" date="20130213" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Man Utd Trophies" inrunning="0" bettypeid="7571712.10">
+			<bet name="No Major Trophies" id="171108719.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Premier League &amp; FA Cup" id="171108720.10" price="11/5" priceDecimal="3.20" active-price-types="CP"/>
+			<bet name="Premier League &amp; Champions League" id="171108721.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="FA Cup &amp; Champions League" id="171108722.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Premier League &amp; Champions League &amp; FA Cup" id="171108727.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Blue Square Premier League 2012/2013" eventid="1670744.10" date="20130222" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="7630971.10">
+			<bet name="Luton" id="172109911.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Mansfield" id="172109912.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Wrexham" id="172109913.10" price="6/4" priceDecimal="2.50" active-price-types="CP"/>
+			<bet name="Forest Green" id="172109914.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Grimsby" id="172109915.10" price="2/1" priceDecimal="3.00" active-price-types="CP"/>
+			<bet name="Cambridge Utd" id="172109916.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="Kidderminster" id="172109917.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Macclesfield" id="172109918.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Hereford" id="172109919.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Newport County" id="172109922.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Scottish Premier 2012/2013" eventid="1674915.10" date="20130223" time="1500" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2" suspended="false" name="Betting W/O Celtic" inrunning="0" bettypeid="7822210.10">
+			<bet name="Dundee Utd" id="174871620.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Hearts" id="174871621.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="Motherwell" id="174871622.10" price="2/1" priceDecimal="3.00" active-price-types="CP"/>
+			<bet name="Aberdeen" id="174871623.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Hibernian" id="174871624.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="St Johnstone" id="174871625.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Kilmarnock" id="174871626.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Inverness CT" id="174871627.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="St Mirren" id="174871628.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Ross County" id="174871630.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="FAI Junior Cup 2012/2013" eventid="1744547.10" date="20130311" time="1900" meeting="" venue="" sporttype="Football" sport="Football Ireland">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="8128390.10">
+			<bet name="Ballinasloe Town" id="197179645.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Sheriff YC" id="179272316.10" price="10/11" priceDecimal="1.91" active-price-types="CP"/>
+			<bet name="Kilbarrack United" id="179272317.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="St Kevins Boys" id="179272318.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Ballymun Utd" id="179272320.10" price="18/1" priceDecimal="19.00" active-price-types="CP"/>
+			<bet name="Pike Rovers" id="179272532.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Carew Park" id="179272938.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Pearse Celtic" id="196515299.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Scottish FA Cup 2012/2013" eventid="1744650.10" date="20130302" time="1345" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="8129447.10">
+			<bet name="Celtic" id="179294022.10" price="8/11" priceDecimal="1.73" active-price-types="CP"/>
+			<bet name="Dundee Utd" id="179294023.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Hibernian" id="179294028.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="St Mirren" id="179294032.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Dundee" id="179294033.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Falkirk" id="179294036.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Hamilton" id="179294039.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Kilmarnock" id="180762900.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Scottish Communities League Cup" eventid="1744721.10" date="20130317" time="1500" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="8130356.10">
+			<bet name="Hearts" id="179300781.10" price="8/15" priceDecimal="1.53" active-price-types="CP"/>
+			<bet name="St Mirren" id="179300789.10" price="11/8" priceDecimal="2.38" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="FAI Intermediate Cup 2012/2013" eventid="1749995.10" date="20130222" time="1945" meeting="" venue="" sporttype="Football" sport="Football Ireland">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="8166123.10">
+			<bet name="Bluebell United" id="179827291.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Bangor Celtic" id="179827292.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Parkvilla" id="188055778.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Avondale United" id="179824259.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+			<bet name="Phoenix FC" id="179824426.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="Tolka Rovers" id="179824427.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+			<bet name="Glenville FC" id="188051613.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Leixlip United" id="188055843.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Beggsboro" id="188055961.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Johnstones Paint Trophy 2012/2013" eventid="1801634.10" date="20130220" time="1945" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="8559983.10">
+			<bet name="Coventry" id="185074169.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="Southend" id="185074175.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Leyton Orient" id="185074177.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Crewe" id="185074180.10" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Airtricity Premier Division 2013" eventid="1842454.10" date="" time="" meeting="" venue="" sporttype="Football" sport="Football Ireland">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="8863962.10">
+			<bet name="Sligo Rovers" id="189389327.10" price="23/10" priceDecimal="3.30" active-price-types="CP"/>
+			<bet name="Shamrock Rovers" id="189389328.10" price="11/8" priceDecimal="2.38" active-price-types="CP"/>
+			<bet name="St Patrick's Athletic" id="189389329.10" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet name="Derry City" id="189389330.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Limerick" id="189389331.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Drogheda Utd" id="189389332.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="Cork City" id="189389333.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Shelbourne" id="189389334.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+			<bet name="Bohemians" id="189389335.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Dundalk" id="189389336.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="UCD" id="189389337.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Bray Wanderers" id="189389338.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Straight Forcast" inrunning="0" bettypeid="9503298.10">
+			<bet name="1st Shamrock Rov 2nd Sligo Rov" id="198391199.10" price="10/3" priceDecimal="4.33" active-price-types="CP"/>
+			<bet name="1st Shamrock Rov 2nd St Pats" id="198391200.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+			<bet name="1st Shamrock Rov 2nd Derry City" id="198391201.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="1st Shamrock Rov 2nd Limerick" id="198391202.10" price="22/1" priceDecimal="23.00" active-price-types="CP"/>
+			<bet name="1st Shamrock Rov 2nd Drogheda Utd" id="198391203.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="1st Shamrock Rov 2nd Cork City" id="198391204.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="1st Sligo Rov 2nd Shamrock Rov" id="198391205.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="1st Sligo Rov 2nd St Pats" id="198391206.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="1st Sligo Rov 2nd Derry City" id="198391207.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="1st Sligo Rov 2nd Limerick" id="198391208.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="1st Sligo Rov 2nd Drogheda Utd" id="198391209.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="1st Sligo Rov 2nd Cork City" id="198391210.10" price="55/1" priceDecimal="56.00" active-price-types="CP"/>
+			<bet name="1st St Pats 2nd Shamrock Rov" id="198391211.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+			<bet name="1st St Pats 2nd Sligo Rov" id="198391212.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="1st St Pats 2nd Derry City" id="198391213.10" price="55/1" priceDecimal="56.00" active-price-types="CP"/>
+			<bet name="1st St Pats 2nd Limerick" id="198391214.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="1st St Pats 2nd Drogheda Utd" id="198391215.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="1st St Pats 2nd Cork City" id="198391216.10" price="110/1" priceDecimal="111.00" active-price-types="CP"/>
+			<bet name="1st Derry City 2nd Shamrock Rov" id="198391217.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="1st Derry City 2nd Sligo Rov" id="198391218.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="1st Derry City 2nd St Pats" id="198391219.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="1st Derry City 2nd Limerick" id="198391220.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="1st Derry City 2nd Drogheda Utd" id="198391221.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="1st Derry City 2nd Cork City" id="198391222.10" price="300/1" priceDecimal="301.00" active-price-types="CP"/>
+			<bet name="1st Limerick 2nd Shamrock Rov" id="198391223.10" price="33/1" priceDecimal="34.00" active-price-types="CP"/>
+			<bet name="1st Llimerick 2nd Sligo Rov" id="198391224.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="1st Limerick 2nd St Pats" id="198391225.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="1st Limerick 2nd Derry City" id="198391226.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="1st Limerick 2nd Drogheda Utd" id="198391227.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+			<bet name="1st Limerick 2nd Cork City" id="198391228.10" price="400/1" priceDecimal="401.00" active-price-types="CP"/>
+			<bet name="1st Drogheda Utd 2nd Shamrock Rov" id="198391229.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="1st Drogheda Utd 2nd Sligo Rov" id="198391230.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="1st Drogheda Utd 2nd St Pats" id="198391231.10" price="110/1" priceDecimal="111.00" active-price-types="CP"/>
+			<bet name="1st Drogheda Utd 2nd Derry City" id="198391232.10" price="275/1" priceDecimal="276.00" active-price-types="CP"/>
+			<bet name="1st Drogheda Utd 2nd Cork City" id="198391234.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="1st Cork City 2nd Shamrock Rov" id="198391235.10" price="55/1" priceDecimal="56.00" active-price-types="CP"/>
+			<bet name="1st Cork City 2nd Sligo Rov" id="198391236.10" price="80/1" priceDecimal="81.00" active-price-types="CP"/>
+			<bet name="1st Cork City 2nd St Pats" id="198391237.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="1st Cork City 2nd Derry City" id="198391238.10" price="300/1" priceDecimal="301.00" active-price-types="CP"/>
+			<bet name="1st Cork City 2nd Limerick" id="198391239.10" price="400/1" priceDecimal="401.00" active-price-types="CP"/>
+			<bet name="1st Cork City 2nd Drogheda Utd" id="198391240.10" price="500/1" priceDecimal="501.00" active-price-types="CP"/>
+			<bet name="1st Drogheda Utd 2nd Limerick" id="198391233.10" price="350/1" priceDecimal="351.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Setanta Sports Cup 2013" eventid="1868772.10" date="20130304" time="1930" meeting="" venue="" sporttype="Football" sport="Football Ireland">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="9053665.10">
+			<bet name="Cork City" id="192202297.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="Shamrock Rovers" id="192202299.10" price="10/3" priceDecimal="4.33" active-price-types="CP"/>
+			<bet name="Glentoran" id="192202302.10" price="11/1" priceDecimal="12.00" active-price-types="CP"/>
+			<bet name="Drogheda Utd" id="192202305.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="Sligo Rovers" id="192208987.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Derry City" id="192208989.10" price="7/1" priceDecimal="8.00" active-price-types="CP"/>
+			<bet name="Lingfield" id="192208986.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="Crusaders" id="192208985.10" price="9/1" priceDecimal="10.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Midweek Bonus Accumulators" eventid="1872334.10" date="" time="" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype suspended="false" name="Wednesday's 'Good Things'" inrunning="0" bettypeid="9506415.10">
+			<bet name="Barcelona - Galatasaray - Leeds - Southend" id="202234926.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Thursday's TV Treats" inrunning="0" bettypeid="9506416.10">
+			<bet name="Tottenham - Newcastle - Liverpool - Chelsea" id="202235747.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Airtricity 1st Division 2013" eventid="1926130.10" date="" time="" meeting="" venue="" sporttype="Football" sport="Football Ireland">
+		<bettype suspended="false" name="Outright Betting" inrunning="0" bettypeid="9542819.10">
+			<bet name="Athlone Town" id="198654562.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Waterford Utd" id="198654563.10" price="5/4" priceDecimal="2.25" active-price-types="CP"/>
+			<bet name="Longford Town" id="198654564.10" price="3/1" priceDecimal="4.00" active-price-types="CP"/>
+			<bet name="Finn Harps" id="198654565.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Mervue Utd" id="198654566.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="SD Galway" id="198654567.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Wexford Youths" id="198654568.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Cobh Ramblers" id="198654569.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Premier League 2013/2014" eventid="1948339.10" date="" time="" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="9745326.10">
+			<bet name="Man United" id="201199406.10" price="13/8" priceDecimal="2.63" active-price-types="CP"/>
+			<bet name="Man City" id="201199407.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Chelsea" id="201199408.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+			<bet name="Liverpool" id="201199409.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Tottenham" id="201199410.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Arsenal" id="201199411.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Everton" id="201199412.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Paris St Germain v Valencia" eventid="1950103.10" date="20130306" time="1945" meeting="" venue="" sporttype="Football" sport="Football Uefa">
+		<bettype suspended="false" name="To Qualify For Next Round" inrunning="0" bettypeid="9784454.10">
+			<bet had-value="HOME" name="Paris St Germain" id="201653750.10" price="1/9" priceDecimal="1.11" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Valencia" id="201653751.10" price="5/1" priceDecimal="6.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Borussia Dortmund v Shakhtar Donetsk" eventid="1951201.10" date="20130305" time="1945" meeting="" venue="" sporttype="Football" sport="Football Uefa">
+		<bettype suspended="false" name="To Qualify For Next Round" inrunning="0" bettypeid="9784452.10">
+			<bet had-value="HOME" name="Borussia Dortmund" id="201653615.10" price="1/5" priceDecimal="1.20" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Shakhtar Donetsk" id="201653616.10" price="10/3" priceDecimal="4.33" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Liverpool v Zenit St Petersburg" eventid="1951762.10" date="20130221" time="2005" meeting="" venue="" sporttype="Football" sport="Football Uefa">
+		<bettype suspended="false" name="To Qualify For Next Round" inrunning="0" bettypeid="9839474.10">
+			<bet had-value="HOME" name="Liverpool" id="202279425.10" price="3/1" priceDecimal="4.00" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Zenit St Petersburg" id="202279426.10" price="2/9" priceDecimal="1.22" active-price-types="CP"/>
+		</bettype>
+	</event>
+</category>

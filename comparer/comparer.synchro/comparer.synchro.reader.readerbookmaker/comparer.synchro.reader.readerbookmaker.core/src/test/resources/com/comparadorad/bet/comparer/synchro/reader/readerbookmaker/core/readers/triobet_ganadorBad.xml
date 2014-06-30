@@ -1,0 +1,56 @@
+<Odds>
+	<Game id="50000316119" name="Next PSG coach">
+		<Sport>Football</Sport>
+		<Region>France</Region>
+		<Season>PSG Specials</Season>
+		<BreadCrumbs>Football - France - PSG Specials</BreadCrumbs>
+		<GameStartTime>2013-05-31 13:00:00 EEST</GameStartTime>
+		<BettingEndTime>2013-05-31 13:00:00 EEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<OutcomeSet type="Custom Side Bet" id="50002709002"
+			name="Next PSG coach (Next PSG coach)">
+			<Outcome odds="5.0" id="50131172496" name="Rudi Garcia" />
+			<Outcome odds="25.0" id="50131172456" name="Roberto Martinez" />
+			<Outcome odds="50.0" id="50131172491" name="Jurgen Klinsmann" />
+			<Outcome odds="100.0" id="50131172472" name="Gus Poyet" />
+			<Outcome odds="100.0" id="50131172458" name="Slaven Bilic" />
+			<Outcome odds="20.0" id="50131172478" name="Roberto Di Matteo" />
+			<Outcome odds="100.0" id="50131172454" name="Gianfranco Zola" />
+			<Outcome odds="250.0" id="50131172477" name="Alan Pardew" />
+			<Outcome odds="5.0" id="50131172495" name="Laurent Blanc" />
+			<Outcome odds="15.0" id="50131172467" name="Guus Hiddink" />
+			<Outcome odds="25.0" id="50131172492" name="Frank Rijkaard" />
+			<Outcome odds="250.0" id="50131172457" name="Glenn Hoddle" />
+			<Outcome odds="50.0" id="50131172455" name="Jurgen Klopp" />
+			<Outcome odds="150.0" id="50131172464" name="Didier Deschamps" />
+			<Outcome odds="50.0" id="50131172490" name="Marcelo Bielsa" />
+			<Outcome odds="15.0" id="50131172480" name="Jose Mourinho" />
+			<Outcome odds="15.0" id="50131172451" name="Sven Goran Eriksson" />
+			<Outcome odds="50.0" id="50131172461" name="Marco van Basten" />
+			<Outcome odds="50.0" id="50131172493" name="Diego Maradona" />
+			<Outcome odds="3.0" id="50131172485" name="Roberto Mancini" />
+			<Outcome odds="50.0" id="50131172483" name="Manuel Pellegrini" />
+			<Outcome odds="20.0" id="50131172459" name="Frank de Boer" />
+			<Outcome odds="100.0" id="50131172484" name="Michael Laudrup" />
+			<Outcome odds="7.0" id="50131172487" name="Jupp Heynckes" />
+			<Outcome odds="50.0" id="50131172474" name="Diego Simeone" />
+			<Outcome odds="100.0" id="50131172466" name="Fabio Capello" />
+			<Outcome odds="250.0" id="50131172494" name="Joachim Low" />
+			<Outcome odds="250.0" id="50131172470" name="Louis van Gaal" />
+			<Outcome odds="50.0" id="50131172489" name="Ottmar Hitzfeld" />
+			<Outcome odds="100.0" id="50131172473" name="Vicente del Bosque" />
+			<Outcome odds="15.0" id="50131172453" name="Arsene Wenger" />
+			<Outcome odds="15.0" id="50131172488" name="Bert Van Marwijk" />
+			<Outcome odds="25.0" id="50131172475" name="Claudio Ranieri" />
+			<Outcome odds="100.0" id="50131172482" name="Gerard Houllier" />
+			<Outcome odds="75.0" id="50131172486" name="Luciano Spalletti" />
+			<Outcome odds="200.0" id="50131172465" name="Luis Scolari" />
+			<Outcome odds="25.0" id="50131172468" name="Marcello Lippi" />
+			<Outcome odds="150.0" id="50131172476" name="Martin Jol" />
+			<Outcome odds="5.0" id="50131172463" name="Christophe Galtier" />
+			<ExternalComment>Who will be appointed next first team manager when
+				Carlo Ancelotti leaves PSG</ExternalComment>
+		</OutcomeSet>
+	</Game>
+</Odds>

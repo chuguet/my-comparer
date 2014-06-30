@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="baseball" timeGenerated="2013-03-20T15:38:42" Bookmaker="Betfred">
+	<event name="MLB World Series 2013" eventid="2278834.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="World Series Outright" inrunning="0" bettypeid="5625490.20">
+			<bet name="Arizona Diamondbacks" short-name="Arizona D" id="126641466.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Atlanta Braves" short-name="Atlanta B" id="126641467.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="CP"/>
+			<bet name="Baltimore Orioles" short-name="Baltimore" id="126641468.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Boston Red Sox" short-name="Boston Re" id="126641469.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="CP"/>
+			<bet name="Chicago Cubs" short-name="Chicago C" id="126641470.20" price="150/1" priceDecimal="151.00" priceUS="15000.00" active-price-types="CP"/>
+			<bet name="Chicago White Sox" short-name="Chicago W" id="126641471.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="CP"/>
+			<bet name="Cincinnati Reds" short-name="Cincinnat" id="126641472.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="CP"/>
+			<bet name="Cleveland Indians" short-name="Cleveland" id="126641473.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="CP"/>
+			<bet name="Colorado Rockies" short-name="Colorado" id="126641474.20" price="150/1" priceDecimal="151.00" priceUS="15000.00" active-price-types="CP"/>
+			<bet name="Detroit Tigers" short-name="Detroit T" id="126641475.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP"/>
+			<bet name="Houston Astros" short-name="Houston A" id="126641476.20" price="250/1" priceDecimal="251.00" priceUS="25000.00" active-price-types="CP"/>
+			<bet name="Kansas City Royals" short-name="Kansas Ci" id="126641477.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="CP"/>
+			<bet name="LA Angels" short-name="LA Angels" id="126641478.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP"/>
+			<bet name="LA Dodgers" short-name="LA Dodger" id="126641479.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP"/>
+			<bet name="Miami Marlins" short-name="Miami Mar" id="126641480.20" price="200/1" priceDecimal="201.00" priceUS="20000.00" active-price-types="CP"/>
+			<bet name="Milwaukee Brewers" short-name="Milwaukee" id="126641481.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Minnesota Twins" short-name="Minnesota" id="126641482.20" price="150/1" priceDecimal="151.00" priceUS="15000.00" active-price-types="CP"/>
+			<bet name="NY Mets" short-name="NY Mets" id="126641483.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="CP"/>
+			<bet name="NY Yankees" short-name="NY Yankee" id="126641484.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="CP"/>
+			<bet name="Oakland A's" short-name="Oakland A" id="126641485.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="CP"/>
+			<bet name="Philadelphia Phillies" short-name="Philadelp" id="126641486.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Pittsburgh Pirates" short-name="Pittsburg" id="126641487.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="CP"/>
+			<bet name="San Diego Padres" short-name="San Diego" id="126641488.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="CP"/>
+			<bet name="San Francisco Giants" short-name="San Franc" id="126641489.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="CP"/>
+			<bet name="St Louis Cardinals" short-name="St Louis" id="126641491.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Tampa Bay Rays" short-name="Tampa Bay" id="126641492.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Texas Rangers" short-name="Texas Ran" id="126641493.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="CP"/>
+			<bet name="Toronto Blue Jays" short-name="Toronto B" id="126641494.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP"/>
+			<bet name="Washington Nationals" short-name="Washingto" id="126641495.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP"/>
+			<bet name="Seattle Mariners" short-name="Seattle M" id="126641490.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="American League Pennant" eventid="2280573.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="American League Winner" inrunning="0" bettypeid="5630889.20">
+			<bet name="Baltimore Orioles" short-name="Baltimore" id="126712048.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Boston Red Sox" short-name="Boston Re" id="126712049.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="CP"/>
+			<bet name="Chicago White Sox" short-name="Chicago W" id="126712050.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="CP"/>
+			<bet name="Cleveland Indians" short-name="Cleveland" id="126712051.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Detroit Tigers" short-name="Detroit T" id="126712052.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="CP"/>
+			<bet name="Houston Astros" short-name="Houston A" id="126712053.20" price="125/1" priceDecimal="126.00" priceUS="12500.00" active-price-types="CP"/>
+			<bet name="Kansas City Royals" short-name="Kansas Ci" id="126712054.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="CP"/>
+			<bet name="LA Angels" short-name="LA Angels" id="126712055.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="CP"/>
+			<bet name="Minnesota Twins" short-name="Minnesota" id="126712056.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="CP"/>
+			<bet name="NY Yankees" short-name="NY Yankee" id="126712057.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP"/>
+			<bet name="Oakland A's" short-name="Oakland A" id="126712058.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="CP"/>
+			<bet name="Seattle Mariners" short-name="Seattle M" id="126712059.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Tampa Bay Rays" short-name="Tampa Bay" id="126712060.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="CP"/>
+			<bet name="Texas Rangers" short-name="Texas Ran" id="126712061.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP"/>
+			<bet name="Toronto Blue Jays" short-name="Toronto B" id="126712062.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="National League Pennant" eventid="2280575.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="National League Winner" inrunning="0" bettypeid="5630908.20">
+			<bet name="Washington Nationals" short-name="Washingto" id="126712088.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="CP"/>
+			<bet name="Arizona Diamondbacks" short-name="Arizona D" id="126712074.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Atlanta Braves" short-name="Atlanta B" id="126712075.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="CP"/>
+			<bet name="Chicago Cubs" short-name="Chicago C" id="126712076.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="CP"/>
+			<bet name="Cincinnati Reds" short-name="Cincinnat" id="126712077.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="CP"/>
+			<bet name="Colorado Rockies" short-name="Colorado" id="126712078.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="CP"/>
+			<bet name="LA Dodgers" short-name="LA Dodger" id="126712079.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="CP"/>
+			<bet name="Miami Marlins" short-name="Miami Mar" id="126712080.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="CP"/>
+			<bet name="Milwaukee Brewers" short-name="Milwaukee" id="126712081.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="NY Mets" short-name="NY Mets" id="126712082.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Philadelphia Phillies" short-name="Philadelp" id="126712083.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="CP"/>
+			<bet name="Pittsburgh Pirates" short-name="Pittsburg" id="126712084.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="CP"/>
+			<bet name="San Diego Padres" short-name="San Diego" id="126712085.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="San Francisco Giants" short-name="San Franc" id="126712086.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP"/>
+			<bet name="St Louis Cardinals" short-name="St Louis" id="126712087.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="AL East" eventid="2280993.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="AL East Division Winner" inrunning="0" bettypeid="5631746.20">
+			<bet name="Baltimore Orioles" short-name="Baltimore" id="126720364.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="CP"/>
+			<bet name="Boston Red Sox" short-name="Boston Re" id="126720365.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP"/>
+			<bet name="NY Yankees" short-name="NY Yankee" id="126720366.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="CP"/>
+			<bet name="Tampa Bay Rays" short-name="Tampa Bay" id="126720367.20" price="10/3" priceDecimal="4.33" priceUS="333.33" active-price-types="CP"/>
+			<bet name="Toronto Blue Jays" short-name="Toronto B" id="126720368.20" price="11/8" priceDecimal="2.38" priceUS="137.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="AL Central" eventid="2280994.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="AL Central Division Winner" inrunning="0" bettypeid="5631747.20">
+			<bet name="Chicago White Sox" short-name="Chicago W" id="126720385.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP"/>
+			<bet name="Cleveland Indians" short-name="Cleveland" id="126720386.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="CP"/>
+			<bet name="Detroit Tigers" short-name="Detroit T" id="126720387.20" price="4/11" priceDecimal="1.36" priceUS="-36.36" active-price-types="CP"/>
+			<bet name="Kansas City Royals" short-name="Kansas Ci" id="126720388.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP"/>
+			<bet name="Minnesota Twins" short-name="Minnesota" id="126720389.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="AL West" eventid="2280995.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="AL West Division Winner" inrunning="0" bettypeid="5631748.20">
+			<bet name="Houston Astros" short-name="Houston A" id="126720396.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="CP"/>
+			<bet name="LA Angels" short-name="LA Angels" id="126720397.20" price="4/7" priceDecimal="1.57" priceUS="-57.14" active-price-types="CP"/>
+			<bet name="Oakland A's" short-name="Oakland A" id="126720398.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="CP"/>
+			<bet name="Seattle Mariners" short-name="Seattle M" id="126720399.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="CP"/>
+			<bet name="Texas Rangers" short-name="Texas Ran" id="126720400.20" price="12/5" priceDecimal="3.40" priceUS="240.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="NL East" eventid="2280996.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="NL East Division Winner" inrunning="0" bettypeid="5631751.20">
+			<bet name="Atlanta Braves" short-name="Atlanta B" id="126720506.20" price="12/5" priceDecimal="3.40" priceUS="240.00" active-price-types="CP"/>
+			<bet name="Miami Marlins" short-name="Miami Mar" id="126720507.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="NY Mets" short-name="NY Mets" id="126720508.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Philadelphia Phillies" short-name="Philadelp" id="126720509.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="CP"/>
+			<bet name="Washington Nationals" short-name="Washingto" id="126720510.20" price="10/11" priceDecimal="1.91" priceUS="-90.91" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="NL Central" eventid="2280997.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="NL Central Division Winner" inrunning="0" bettypeid="5631752.20">
+			<bet name="Chicago Cubs" short-name="Chicago C" id="126720528.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="Cincinnati Reds" short-name="Cincinnat" id="126720529.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="CP"/>
+			<bet name="Milwaukee Brewers" short-name="Milwaukee" id="126720530.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="CP"/>
+			<bet name="St Louis Cardinals" short-name="St Louis" id="126720532.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP"/>
+			<bet name="Pittsburgh Pirates" short-name="Pittsburg" id="126720531.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="NL West" eventid="2280998.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="NL West Division Winner" inrunning="0" bettypeid="5631754.20">
+			<bet name="Arizona Diamondbacks" short-name="Arizona D" id="126720560.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="CP"/>
+			<bet name="Colorado Rockies" short-name="Colorado" id="126720561.20" price="22/1" priceDecimal="23.00" priceUS="2200.00" active-price-types="CP"/>
+			<bet name="LA Dodgers" short-name="LA Dodger" id="126720562.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="CP"/>
+			<bet name="San Diego Padres" short-name="San Diego" id="126720563.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="CP"/>
+			<bet name="San Francisco Giants" short-name="San Franc" id="126720564.20" price="15/8" priceDecimal="2.88" priceUS="187.50" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Pittsburgh Pirates @ Atlanta Braves" eventid="2362975.20" date="20130320" time="1705" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="1705" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882621.20">
+			<bet had-value="HOME" name="Atlanta Braves" short-name="Atlanta B" id="130012627.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Pittsburgh Pirates" short-name="Pittsburg" id="130012628.20" price="11/10" priceDecimal="2.10" priceUS="110.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Washington Nationals @ Miami Marlins" eventid="2362976.20" date="20130320" time="1705" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="1705" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882622.20">
+			<bet had-value="HOME" name="Miami Marlins" short-name="Miami Mar" id="130012637.20" price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Washington Nationals" short-name="Washingto" id="130012638.20" price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Boston Red Sox @ NY Yankees" eventid="2362977.20" date="20130320" time="1705" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="1705" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882623.20">
+			<bet had-value="HOME" name="NY Yankees" short-name="NY Yankee" id="130012639.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Boston Red Sox" short-name="Boston Re" id="130012640.20" price="11/10" priceDecimal="2.10" priceUS="110.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Toronto Blue Jays @ Baltimore Orioles" eventid="2362978.20" date="20130320" time="1705" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="1705" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882624.20">
+			<bet had-value="HOME" name="Baltimore Orioles" short-name="Baltimore" id="130012641.20" price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Toronto Blue Jays" short-name="Toronto B" id="130012642.20" price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Cleveland Indians @ LA Angels" eventid="2362979.20" date="20130320" time="2005" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="2005" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882625.20">
+			<bet had-value="HOME" name="LA Angels" short-name="LA Angels" id="130012643.20" price="7/10" priceDecimal="1.70" priceUS="-70.00" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Cleveland Indians" short-name="Cleveland" id="130012644.20" price="23/20" priceDecimal="2.15" priceUS="115.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Arizona Diamondbacks @ Chicago White Sox" eventid="2362980.20" date="20130320" time="2005" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="2005" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882626.20">
+			<bet had-value="HOME" name="Chicago White Sox" short-name="Chicago W" id="130012645.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Arizona Diamondbacks" short-name="Arizona D" id="130012646.20" price="11/10" priceDecimal="2.10" priceUS="110.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="LA Dodgers @ Kansas City Royals" eventid="2362981.20" date="20130320" time="2005" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="2005" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882627.20">
+			<bet had-value="HOME" name="Kansas City Royals" short-name="Kansas Ci" id="130012647.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="CP"/>
+			<bet had-value="AWAY" name="LA Dodgers" short-name="LA Dodger" id="130012648.20" price="11/10" priceDecimal="2.10" priceUS="110.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="NY Mets @ Houston Astros" eventid="2362982.20" date="20130320" time="2205" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="2205" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882628.20">
+			<bet had-value="HOME" name="Houston Astros" short-name="Houston A" id="130012656.20" price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP"/>
+			<bet had-value="AWAY" name="NY Mets" short-name="NY Mets" id="130012657.20" price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Tampa Bay Rays @ Minnesota Twins" eventid="2362983.20" date="20130320" time="2305" meeting="" venue="">
+		<bettype bet-start-date="20130320" bet-start-time="2305" suspended="false" name="Match Prices" inrunning="0" bettypeid="5882629.20">
+			<bet had-value="HOME" name="Minnesota Twins" short-name="Minnesota" id="130012658.20" price="21/20" priceDecimal="2.05" priceUS="105.00" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Tampa Bay Rays" short-name="Tampa Bay" id="130012659.20" price="4/5" priceDecimal="1.80" priceUS="-80.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+</category>

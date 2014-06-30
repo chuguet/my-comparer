@@ -1,0 +1,45 @@
+<bestlinesports_line_feed>
+	<event>
+		<event_datetimeGMT>2013-12-09 20:40</event_datetimeGMT>
+		<sporttype>Football</sporttype>
+		<scheduletext>null</scheduletext>
+		<league>NFL Football</league>
+		<participant>
+			<participant_name>Dallas Cowboys</participant_name>
+			<rotnum>159</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline></moneyline>
+			</odds>
+			<pitcher></pitcher>
+		</participant>
+		<participant>
+			<participant_name>Chicago Bears</participant_name>
+			<rotnum>160</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline></moneyline>
+			</odds>
+			<pitcher></pitcher>
+		</participant>
+		<drawrotnum></drawrotnum>
+		<drawmoneyline></drawmoneyline>
+		<drawTitle></drawTitle>
+		<period>
+			<period_description>4th Quarter</period_description>
+			<periodcutoff_datetimeGMT>2013-12-09 20:50</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<spread>
+				<spread_visiting>0</spread_visiting>
+				<spread_adjust_visiting>-110</spread_adjust_visiting>
+				<spread_home>0</spread_home>
+				<spread_adjust_home>-110</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>10.5</total_points>
+				<over_adjust>-145</over_adjust>
+				<under_adjust>125</under_adjust>
+			</total>
+		</period>
+	</event>
+</bestlinesports_line_feed>

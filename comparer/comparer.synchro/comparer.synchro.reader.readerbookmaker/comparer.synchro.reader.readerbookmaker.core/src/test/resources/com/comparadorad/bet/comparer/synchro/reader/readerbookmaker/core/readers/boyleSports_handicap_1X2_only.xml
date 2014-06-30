@@ -1,0 +1,17 @@
+<category name="Tennis" timeGenerated="2013-05-29T12:14:14"
+	Bookmaker="Boyle Sports">
+	<event name="Mallorca v Betis" eventid="2054805.10" date="20130520"
+		time="0100" meeting="" venue="" sporttype="Football" sport="World Cup">
+		<bettype handicap="-1" suspended="false" name="Match Handicap"
+			inrunning="0" bettypeid="10788913.10">
+			<bet had-value="DRAW" name="Handicap Tie" id="213606129.10"
+				handicap-id="4264534" handicap="-1.0" price="9/2" priceDecimal="3.50"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Betis" id="213606128.10" handicap-id="4264533"
+				handicap="1.0" price="1/7" priceDecimal="1.14" active-price-types="CP" />
+			<bet had-value="HOME" name="Mallorca" id="213606127.10"
+				handicap-id="4264532" handicap="-1.0" price="9/2" priceDecimal="5.50"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

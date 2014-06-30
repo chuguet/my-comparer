@@ -1,0 +1,120 @@
+<category name="Football-Championship" timeGenerated="2013-03-19T13:32:15"
+	Bookmaker="Betfred">
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			handicap="1.50" suspended="false" name="Handicap Result (No Tie) -1.5"
+			inrunning="0" bettypeid="5867128.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129836120.20"
+				handicap-id="3538270.20" handicap="1.5" price="4/6" priceDecimal="1.67"
+				priceUS="-66.67" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129836121.20" handicap-id="3538271.20" handicap="-1.5" price="11/10"
+				priceDecimal="2.10" priceUS="110.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5867132.20">
+			<bet had-value="HOME" name="Wade, J 7-0" short-name="Wade, J 7"
+				id="129836128.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-1" short-name="Wade, J 7"
+				id="129836129.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-2" short-name="Wade, J 7"
+				id="129836130.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-3" short-name="Wade, J 7"
+				id="129836131.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-4" short-name="Wade, J 7"
+				id="129836132.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-5" short-name="Wade, J 7"
+				id="129836133.20" price="17/2" priceDecimal="9.50" priceUS="850.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 6-6" short-name="Draw 6-6" id="129836134.20"
+				price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-0" short-name="Van Barne"
+				id="129836135.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-1" short-name="Van Barne"
+				id="129836136.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-2" short-name="Van Barne"
+				id="129836137.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-3" short-name="Van Barne"
+				id="129836138.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-4" short-name="Van Barne"
+				id="129836139.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-5" short-name="Van Barne"
+				id="129836140.20" price="5/1" priceDecimal="6.00" priceUS="500.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Most 180s" inrunning="0" bettypeid="5876070.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="129938220.20"
+				price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938221.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938223.20" price="4/7" priceDecimal="1.57" priceUS="-57.14"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="First 180" inrunning="0" bettypeid="5876071.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938249.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938251.20" price="4/6" priceDecimal="1.67" priceUS="-66.67"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Last 180" inrunning="0" bettypeid="5876073.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938360.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938362.20" price="4/6" priceDecimal="1.67" priceUS="-66.67"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Total 180s" inrunning="0" bettypeid="5876074.20">
+			<bet name="Under 6.5" short-name="Under 6.5" id="129938418.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 6.5" short-name="Over 6.5" id="129938419.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Highest Checkout" inrunning="0" bettypeid="5876075.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="129938458.20"
+				price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938459.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938461.20" price="4/5" priceDecimal="1.80" priceUS="-80.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="What Will The Highest Checkout Be?"
+			inrunning="0" bettypeid="5876076.20">
+			<bet name="Under 120.5" short-name="120.5" id="129938553.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+			<bet name="Over 120.5" short-name="120.5" id="129938554.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			handicap="2.50" suspended="false" name="Handicap Result (No Tie) -2.5"
+			inrunning="0" bettypeid="5878059.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129961610.20"
+				handicap-id="3543384.20" handicap="2.5" price="4/11" priceDecimal="1.36"
+				priceUS="-36.36" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129961611.20" handicap-id="3543385.20" handicap="-2.5" price="2/1"
+				priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

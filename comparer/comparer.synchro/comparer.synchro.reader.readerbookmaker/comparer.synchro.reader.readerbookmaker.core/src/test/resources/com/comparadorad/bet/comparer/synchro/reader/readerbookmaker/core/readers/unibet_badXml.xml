@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odds_list xmlns="http://www.unibet.com/sportsbook-odds-feed"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.unibet.com/sportsbook-odds-feed sportsbook-odds-feed.xsd">
+	<sport id="1000093190" name="All Football" main_group_id="1000093190">
+		<pool id="1000093381" name="Champions League" main_group_id="1000093190">
+			<event id="1001263053" name="UEFA Champions League 2012/2013"
+				event_start="2013-05-25T20:45:00" updated_date="2013-01-25T06:57:48">
+				<participant id="1000000095" name="AC Milan" />
+				<participant id="1000000051" name="Ajax" />
+				<participant id="1000000200" name="Anderlecht" />
+				<participant id="1000000085" name="Arsenal" />
+				<participant id="1000000114" name="Bayern München" />
+				<participant id="1000000207" name="Benfica" />
+				<participant id="1000000110" name="Borussia Dortmund" />
+				<participant id="1000000273" name="Borussia Mönchengladbach" />
+				<participant id="1000000089" name="Celtic" />
+				<participant id="1000000080" name="Chelsea" />
+				<participant id="1000000160" name="FC Barcelona" />
+				<participant id="1000000242" name="FC Copenhagen" />
+				<participant id="1000000289" name="FC Nordsjælland" />
+				<participant id="1000000182" name="FC Porto" />
+				<participant id="1000000205" name="Fenerbahçe" />
+				<participant id="1000000181" name="Feyenoord" />
+				<participant id="1000000053" name="Galatasaray A.Ş." />
+				<participant id="1000000090" name="Glasgow Rangers" />
+				<participant id="1000000038" name="Helsingborgs IF" />
+				<participant id="1000000052" name="Juventus" />
+				<participant id="1000000283" name="Lille" />
+				<participant id="1000000139" name="Manchester City" />
+				<participant id="1000000086" name="Manchester United" />
+				<participant id="1000000366" name="Molde" />
+				<participant id="1000015759" name="Montpellier" />
+				<participant id="1000000167" name="Málaga" />
+				<participant id="1000000033" name="Paris SG" />
+				<participant id="1000000125" name="Real Madrid" />
+				<participant id="1000000108" name="Schalke 04" />
+				<participant id="1000000083" name="Tottenham" />
+				<participant id="1000000096" name="Udinese" />
+				<participant id="1000000035" name="Valencia" />
+				<participant id="1000015026" name="Zenit St Petersburg" />
+				<participant id="1000011932" name="Śląsk Wrocław" />
+				<participant id="1000125710" name="Champions League" />
+				<participant id="1001265424" name="Champions League 2012/2013" />
+				<participant id="1000028978" name="Bate Borisov" />
+				<participant id="1000034913" name="CFR Cluj" />
+				<participant id="1000044232" name="Dinamo Zagreb" />
+				<participant id="1000000346" name="Dynamo Kyiv" />
+				<participant id="1000000124" name="Olympiakos Piraeus" />
+				<participant id="1000000238" name="S.C. Braga" />
+				<participant id="1000000197" name="Shakhtar Donetsk" />
+				<participant id="1000000595" name="Spartak Moscow" />
+				<participant id="1000001624" name="Agüero, S" />
+				<participant id="1000300404" name="Balotelli, M" />
+				<participant id="1000090250" name="Benzema, K" />
+				<participant id="1000627750" name="Charbonnier, G" />
+				<participant id="1000199794" name="Di María, A" />
+				<participant id="1000057822" name="Fàbregas, Cesc" />
+				<participant id="1000085552" name="Gameiro, K" />
+				<participant id="1000060643" name="Gómez, M" />
+				<participant id="1000459996" name="Hazard, Eden" />
+				<participant id="1000820477" name="Hernández, Javier" />
+				<participant id="1000086709" name="Higuaín, Gonzalo" />
+				<participant id="1000443348" name="Hulk" />
+				<participant id="1000019157" name="Huntelaar, K J" />
+				<participant id="1000040791" name="Ibrahimović, Z" />
+				<participant id="1001072540" name="Isco" />
+				<participant id="1000232999" name="Krkic, Bojan" />
+				<participant id="1000187965" name="Lavezzi, E" />
+				<participant id="1000444499" name="Lewandowski, R" />
+				<participant id="1000859584" name="Lima, R J" />
+				<participant id="1000931587" name="Mandžukić, M" />
+				<participant id="1000288875" name="Mata, J" />
+				<participant id="1000201576" name="Matri, A" />
+				<participant id="1000084378" name="Messi, Lionel" />
+				<participant id="1000540811" name="Müller, T" />
+				<participant id="1000086625" name="Nenê" />
+				<participant id="1000036836" name="Pantelić, M" />
+				<participant id="1000135744" name="Pato, Alexandre" />
+				<participant id="1000090069" name="Pazzini, G" />
+				<participant id="1000489984" name="Pedro Rodríguez" />
+				<participant id="1000055976" name="Podolski, L" />
+				<participant id="1000554152" name="Reus, M" />
+				<participant id="1000075475" name="Robben, A" />
+				<participant id="1000056159" name="Ronaldo" />
+				<participant id="1000032374" name="Rooney, Wayne" />
+				<participant id="1000446661" name="Sánchez, Alexis" />
+				<participant id="1000067066" name="Torres, F" />
+				<participant id="1000038657" name="Tévez, C" />
+				<participant id="1000073680" name="van Persie, R" />
+				<participant id="1000058553" name="Villa, David" />
+				<participant id="1000063751" name="Ronaldo, Cristiano" />
+				<participant id="1000471469" name="Martínez, Javi" />
+				<participant id="1000356982" name="Nenê Carvalho" />
+				<participant id="1000443253" name="Yılmaz, Burak" />
+				<betOffer id="1009236220" criterion_id="1001221607"
+					criteria="Winner" type="4" to_be_placed="1" bet_closes="2013-05-25T20:45:00"
+					type_name="Winner" is_live="false" updated_date="2013-03-06T22:37:48">
+					<outcome id="32816599" start_no="0" is_scratched="false"
+						label="AC Milan" updated_date="2013-03-06T22:37:48">
+						<price id="583732666" odds="22.0" updated_date="2013-02-20T23:15:38" />
+					</outcome>
+					<outcome id="32816600" start_no="0" is_scratched="false"
+						label="Ajax" updated_date="2013-03-06T22:37:48">
+						<price id="507350923" odds="-1.0" updated_date="2012-11-22T10:44:39" />
+					</outcome>
+					<outcome id="32816601" start_no="0" is_scratched="false"
+						label="Anderlecht" updated_date="2013-03-06T22:37:48">
+						<price id="507350922" odds="-1.0" updated_date="2012-11-22T10:44:39" />
+					<outcome id="32816602" start_no="0" is_scratched="false"
+						label="Arsenal" updated_date="2013-03-06T22:37:48">
+						<price id="582698169" odds="150.0" updated_date="2013-02-19T23:09:47" />
+					</outcome>
+					<outcome id="32816603" start_no="0" is_scratched="false"
+						label="Bayern München" updated_date="2013-03-06T22:37:48">
+						<price id="596269898" odds="4.25" updated_date="2013-03-05T22:32:02" />
+					</outcome>
+					<outcome id="32816604" start_no="0" is_scratched="false"
+						label="Benfica" updated_date="2013-03-06T22:37:48">
+						<price id="517949784" odds="-1.0" updated_date="2012-12-05T23:09:45" />
+					</outcome>
+					<outcome id="32816605" start_no="0" is_scratched="false"
+						label="Borussia Dortmund" updated_date="2013-03-06T22:37:48">
+						<price id="596253054" odds="6.5" updated_date="2013-03-05T22:18:29" />
+					</outcome>
+					<outcome id="32816606" start_no="0" is_scratched="false"
+						label="Borussia Mönchengladbach" updated_date="2013-03-06T22:37:48">
+						<price id="444689702" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816607" start_no="0" is_scratched="false"
+						label="Celtic" updated_date="2013-03-06T22:37:48">
+						<price id="597245355" odds="-1.0" updated_date="2013-03-06T22:37:48" />
+					</outcome>
+					<outcome id="32816608" start_no="0" is_scratched="false"
+						label="Chelsea" updated_date="2013-03-06T22:37:48">
+						<price id="517949781" odds="-1.0" updated_date="2012-12-05T23:09:45" />
+					</outcome>
+					<outcome id="32816609" start_no="0" is_scratched="false"
+						label="FC Barcelona" updated_date="2013-03-06T22:37:48">
+						<price id="597245354" odds="7.0" updated_date="2013-03-06T22:37:48" />
+					</outcome>
+					<outcome id="32816610" start_no="0" is_scratched="false"
+						label="FC Copenhagen" updated_date="2013-03-06T22:37:48">
+						<price id="444689697" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816611" start_no="0" is_scratched="false"
+						label="FC Nordsjælland" updated_date="2013-03-06T22:37:48">
+						<price id="496036950" odds="-1.0" updated_date="2012-11-07T22:47:10" />
+					</outcome>
+					<outcome id="32816612" start_no="0" is_scratched="false"
+						label="FC Porto" updated_date="2013-03-06T22:37:48">
+						<price id="517949782" odds="50.0" updated_date="2012-12-05T23:09:45" />
+					</outcome>
+					<outcome id="32816613" start_no="0" is_scratched="false"
+						label="Fenerbahçe" updated_date="2013-03-06T22:37:48">
+						<price id="444689699" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816614" start_no="0" is_scratched="false"
+						label="Feyenoord" updated_date="2013-03-06T22:37:48">
+						<price id="444689698" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816615" start_no="0" is_scratched="false"
+						label="Galatasaray A.Ş." updated_date="2013-03-06T22:37:48">
+						<price id="560146169" odds="100.0" updated_date="2013-01-29T20:05:48" />
+					</outcome>
+					<outcome id="32816616" start_no="0" is_scratched="false"
+						label="Glasgow Rangers" updated_date="2013-03-06T22:37:48">
+						<price id="413945158" odds="-1.0" updated_date="2012-07-10T11:49:58" />
+					</outcome>
+					<outcome id="32816617" start_no="0" is_scratched="false"
+						label="Helsingborgs IF" updated_date="2013-03-06T22:37:48">
+						<price id="444689695" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816618" start_no="0" is_scratched="false"
+						label="Juventus" updated_date="2013-03-06T22:37:48">
+						<price id="583725847" odds="10.0" updated_date="2013-02-20T22:50:21" />
+					</outcome>
+					<outcome id="32816619" start_no="0" is_scratched="false"
+						label="Lille" updated_date="2013-03-06T22:37:48">
+						<price id="496036948" odds="-1.0" updated_date="2012-11-07T22:47:10" />
+					</outcome>
+					<outcome id="32816620" start_no="0" is_scratched="false"
+						label="Manchester City" updated_date="2013-03-06T22:37:48">
+						<price id="517354005" odds="-1.0" updated_date="2012-12-05T09:45:06" />
+					</outcome>
+					<outcome id="32816621" start_no="0" is_scratched="false"
+						label="Manchester United" updated_date="2013-03-06T22:37:48">
+						<price id="596253051" odds="-1.0" updated_date="2013-03-05T22:18:29" />
+					</outcome>
+					<outcome id="32816622" start_no="0" is_scratched="false"
+						label="Molde" updated_date="2013-03-06T22:37:48">
+						<price id="444689696" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816623" start_no="0" is_scratched="false"
+						label="Montpellier" updated_date="2013-03-06T22:37:48">
+						<price id="495208070" odds="-1.0" updated_date="2012-11-06T22:47:01" />
+					</outcome>
+					<outcome id="32816624" start_no="0" is_scratched="false"
+						label="Málaga" updated_date="2013-03-06T22:37:48">
+						<price id="582698166" odds="100.0" updated_date="2013-02-19T23:09:47" />
+					</outcome>
+					<outcome id="32816625" start_no="0" is_scratched="false"
+						label="Paris SG" updated_date="2013-03-06T22:37:48">
+						<price id="597245352" odds="17.5" updated_date="2013-03-06T22:37:48" />
+					</outcome>
+					<outcome id="32816626" start_no="0" is_scratched="false"
+						label="Real Madrid" updated_date="2013-03-06T22:37:48">
+						<price id="596253050" odds="3.3" updated_date="2013-03-05T22:18:29" />
+					</outcome>
+					<outcome id="32816627" start_no="0" is_scratched="false"
+						label="Schalke 04" updated_date="2013-03-06T22:37:48">
+						<price id="500482020" odds="50.0" updated_date="2012-11-13T12:38:32" />
+					</outcome>
+					<outcome id="32816628" start_no="0" is_scratched="false"
+						label="Tottenham" updated_date="2013-03-06T22:37:48">
+						<price id="388006254" odds="-1.0" updated_date="2012-05-19T23:29:50" />
+					</outcome>
+					<outcome id="32816629" start_no="0" is_scratched="false"
+						label="Udinese" updated_date="2013-03-06T22:37:48">
+						<price id="444689694" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="32816630" start_no="0" is_scratched="false"
+						label="Valencia" updated_date="2013-03-06T22:37:48">
+						<price id="597245353" odds="-1.0" updated_date="2013-03-06T22:37:48" />
+					</outcome>
+					<outcome id="32816631" start_no="0" is_scratched="false"
+						label="Zenit St Petersburg" updated_date="2013-03-06T22:37:48">
+						<price id="507350918" odds="-1.0" updated_date="2012-11-22T10:44:39" />
+					</outcome>
+					<outcome id="32816632" start_no="0" is_scratched="false"
+						label="Śląsk Wrocław" updated_date="2013-03-06T22:37:48">
+						<price id="444689693" odds="-1.0" updated_date="2012-08-30T14:51:02" />
+					</outcome>
+					<outcome id="33368607" start_no="0" is_scratched="false"
+						label="Champions League" updated_date="2013-03-06T22:37:48">
+						<price id="516662730" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="33368608" start_no="0" is_scratched="false"
+						label="Champions League 2012/2013" updated_date="2013-03-06T22:37:48">
+						<price id="516662722" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37046412" start_no="0" is_scratched="false"
+						label="Bate Borisov" updated_date="2013-03-06T22:37:48">
+						<price id="507350916" odds="-1.0" updated_date="2012-11-22T10:44:39" />
+					</outcome>
+					<outcome id="37046413" start_no="0" is_scratched="false"
+						label="CFR Cluj" updated_date="2013-03-06T22:37:48">
+						<price id="518123948" odds="-1.0" updated_date="2012-12-06T10:18:08" />
+					</outcome>
+					<outcome id="37046414" start_no="0" is_scratched="false"
+						label="Dinamo Zagreb" updated_date="2013-03-06T22:37:48">
+						<price id="484891530" odds="-1.0" updated_date="2012-10-24T22:48:03" />
+					</outcome>
+					<outcome id="37046415" start_no="0" is_scratched="false"
+						label="Dynamo Kyiv" updated_date="2013-03-06T22:37:48">
+						<price id="507350915" odds="-1.0" updated_date="2012-11-22T10:44:39" />
+					</outcome>
+					<outcome id="37046416" start_no="0" is_scratched="false"
+						label="Olympiakos Piraeus" updated_date="2013-03-06T22:37:48">
+						<price id="507350914" odds="-1.0" updated_date="2012-11-22T10:44:39" />
+					</outcome>
+					<outcome id="37046417" start_no="0" is_scratched="false"
+						label="S.C. Braga" updated_date="2013-03-06T22:37:48">
+						<price id="506453584" odds="-1.0" updated_date="2012-11-20T22:52:44" />
+					</outcome>
+					<outcome id="37046418" start_no="0" is_scratched="false"
+						label="Shakhtar Donetsk" updated_date="2013-03-06T22:37:48">
+						<price id="596253049" odds="-1.0" updated_date="2013-03-05T22:18:29" />
+					</outcome>
+					<outcome id="37046419" start_no="0" is_scratched="false"
+						label="Spartak Moscow" updated_date="2013-03-06T22:37:48">
+						<price id="506453583" odds="-1.0" updated_date="2012-11-20T22:52:44" />
+					</outcome>
+					<outcome id="37283630" start_no="0" is_scratched="false"
+						label="Agüero, S" updated_date="2013-03-06T22:37:48">
+						<price id="516662710" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283631" start_no="0" is_scratched="false"
+						label="Balotelli, M" updated_date="2013-03-06T22:37:48">
+						<price id="516662711" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283632" start_no="0" is_scratched="false"
+						label="Benzema, K" updated_date="2013-03-06T22:37:48">
+						<price id="516662727" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283633" start_no="0" is_scratched="false"
+						label="Charbonnier, G" updated_date="2013-03-06T22:37:48">
+						<price id="516662726" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283634" start_no="0" is_scratched="false"
+						label="Di María, A" updated_date="2013-03-06T22:37:48">
+						<price id="516662729" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283635" start_no="0" is_scratched="false"
+						label="Fàbregas, Cesc" updated_date="2013-03-06T22:37:48">
+						<price id="516662728" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283636" start_no="0" is_scratched="false"
+						label="Gameiro, K" updated_date="2013-03-06T22:37:48">
+						<price id="516662723" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283637" start_no="0" is_scratched="false"
+						label="Gómez, M" updated_date="2013-03-06T22:37:48">
+						<price id="516662721" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283638" start_no="0" is_scratched="false"
+						label="Hazard, Eden" updated_date="2013-03-06T22:37:48">
+						<price id="516662725" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283639" start_no="0" is_scratched="false"
+						label="Hernández, Javier" updated_date="2013-03-06T22:37:48">
+						<price id="516662724" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283640" start_no="0" is_scratched="false"
+						label="Higuaín, Gonzalo" updated_date="2013-03-06T22:37:48">
+						<price id="516662717" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283641" start_no="0" is_scratched="false"
+						label="Hulk" updated_date="2013-03-06T22:37:48">
+						<price id="516662716" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283642" start_no="0" is_scratched="false"
+						label="Huntelaar, K J" updated_date="2013-03-06T22:37:48">
+						<price id="516662720" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283643" start_no="0" is_scratched="false"
+						label="Ibrahimović, Z" updated_date="2013-03-06T22:37:48">
+						<price id="516662718" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283644" start_no="0" is_scratched="false"
+						label="Isco" updated_date="2013-03-06T22:37:48">
+						<price id="516662713" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283645" start_no="0" is_scratched="false"
+						label="Krkic, Bojan" updated_date="2013-03-06T22:37:48">
+						<price id="516662712" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283646" start_no="0" is_scratched="false"
+						label="Lavezzi, E" updated_date="2013-03-06T22:37:48">
+						<price id="516662715" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283647" start_no="0" is_scratched="false"
+						label="Lewandowski, R" updated_date="2013-03-06T22:37:48">
+						<price id="516662714" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283648" start_no="0" is_scratched="false"
+						label="Lima, R J" updated_date="2013-03-06T22:37:48">
+						<price id="516662696" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283649" start_no="0" is_scratched="false"
+						label="Mandžukić, M" updated_date="2013-03-06T22:37:48">
+						<price id="516662697" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283650" start_no="0" is_scratched="false"
+						label="Mata, J" updated_date="2013-03-06T22:37:48">
+						<price id="516662694" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283651" start_no="0" is_scratched="false"
+						label="Matri, A" updated_date="2013-03-06T22:37:48">
+						<price id="516662695" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283652" start_no="0" is_scratched="false"
+						label="Messi, Lionel" updated_date="2013-03-06T22:37:48">
+						<price id="516662700" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283653" start_no="0" is_scratched="false"
+						label="Müller, T" updated_date="2013-03-06T22:37:48">
+						<price id="516662701" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283654" start_no="0" is_scratched="false"
+						label="Nenê" updated_date="2013-03-06T22:37:48">
+						<price id="516662698" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283655" start_no="0" is_scratched="false"
+						label="Pantelić, M" updated_date="2013-03-06T22:37:48">
+						<price id="516662699" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283656" start_no="0" is_scratched="false"
+						label="Pato, Alexandre" updated_date="2013-03-06T22:37:48">
+						<price id="516662688" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283657" start_no="0" is_scratched="false"
+						label="Pazzini, G" updated_date="2013-03-06T22:37:48">
+						<price id="516662689" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283658" start_no="0" is_scratched="false"
+						label="Pedro Rodríguez" updated_date="2013-03-06T22:37:48">
+						<price id="516662686" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283659" start_no="0" is_scratched="false"
+						label="Podolski, L" updated_date="2013-03-06T22:37:48">
+						<price id="516662687" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283660" start_no="0" is_scratched="false"
+						label="Reus, M" updated_date="2013-03-06T22:37:48">
+						<price id="516662692" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283661" start_no="0" is_scratched="false"
+						label="Robben, A" updated_date="2013-03-06T22:37:48">
+						<price id="516662693" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283662" start_no="0" is_scratched="false"
+						label="Ronaldo" updated_date="2013-03-06T22:37:48">
+						<price id="516662690" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283663" start_no="0" is_scratched="false"
+						label="Rooney, Wayne" updated_date="2013-03-06T22:37:48">
+						<price id="516662691" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283664" start_no="0" is_scratched="false"
+						label="Sánchez, Alexis" updated_date="2013-03-06T22:37:48">
+						<price id="516662705" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283665" start_no="0" is_scratched="false"
+						label="Torres, F" updated_date="2013-03-06T22:37:48">
+						<price id="516662704" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283666" start_no="0" is_scratched="false"
+						label="Tévez, C" updated_date="2013-03-06T22:37:48">
+						<price id="516662703" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283667" start_no="0" is_scratched="false"
+						label="van Persie, R" updated_date="2013-03-06T22:37:48">
+						<price id="516662702" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283668" start_no="0" is_scratched="false"
+						label="Villa, David" updated_date="2013-03-06T22:37:48">
+						<price id="516662709" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283669" start_no="0" is_scratched="false"
+						label="Ronaldo, Cristiano" updated_date="2013-03-06T22:37:48">
+						<price id="516662708" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283670" start_no="0" is_scratched="false"
+						label="Martínez, Javi" updated_date="2013-03-06T22:37:48">
+						<price id="516662707" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283671" start_no="0" is_scratched="false"
+						label="Nenê Carvalho" updated_date="2013-03-06T22:37:48">
+						<price id="516662706" odds="-1.0" updated_date="2012-12-04T09:47:44" />
+					</outcome>
+					<outcome id="37283724" start_no="0" is_scratched="false"
+						label="Agüero, S" updated_date="2013-03-06T22:37:48">
+						<price id="448038714" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283725" start_no="0" is_scratched="false"
+						label="Balotelli, M" updated_date="2013-03-06T22:37:48">
+						<price id="448038715" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283726" start_no="0" is_scratched="false"
+						label="Benzema, K" updated_date="2013-03-06T22:37:48">
+						<price id="448038716" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283727" start_no="0" is_scratched="false"
+						label="Charbonnier, G" updated_date="2013-03-06T22:37:48">
+						<price id="448038717" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283728" start_no="0" is_scratched="false"
+						label="Di María, A" updated_date="2013-03-06T22:37:48">
+						<price id="448038718" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283729" start_no="0" is_scratched="false"
+						label="Fàbregas, Cesc" updated_date="2013-03-06T22:37:48">
+						<price id="448038719" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283730" start_no="0" is_scratched="false"
+						label="Gameiro, K" updated_date="2013-03-06T22:37:48">
+						<price id="448038720" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283731" start_no="0" is_scratched="false"
+						label="Gómez, M" updated_date="2013-03-06T22:37:48">
+						<price id="448038721" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283732" start_no="0" is_scratched="false"
+						label="Hazard, Eden" updated_date="2013-03-06T22:37:48">
+						<price id="448038722" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283733" start_no="0" is_scratched="false"
+						label="Hernández, Javier" updated_date="2013-03-06T22:37:48">
+						<price id="448038723" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283734" start_no="0" is_scratched="false"
+						label="Higuaín, Gonzalo" updated_date="2013-03-06T22:37:48">
+						<price id="448038724" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283735" start_no="0" is_scratched="false"
+						label="Hulk" updated_date="2013-03-06T22:37:48">
+						<price id="448038725" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283736" start_no="0" is_scratched="false"
+						label="Huntelaar, K J" updated_date="2013-03-06T22:37:48">
+						<price id="448038726" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283737" start_no="0" is_scratched="false"
+						label="Ibrahimović, Z" updated_date="2013-03-06T22:37:48">
+						<price id="448038727" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283738" start_no="0" is_scratched="false"
+						label="Isco" updated_date="2013-03-06T22:37:48">
+						<price id="448038728" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283739" start_no="0" is_scratched="false"
+						label="Krkic, Bojan" updated_date="2013-03-06T22:37:48">
+						<price id="448038729" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283740" start_no="0" is_scratched="false"
+						label="Lavezzi, E" updated_date="2013-03-06T22:37:48">
+						<price id="448038730" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283741" start_no="0" is_scratched="false"
+						label="Lewandowski, R" updated_date="2013-03-06T22:37:48">
+						<price id="448038731" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283742" start_no="0" is_scratched="false"
+						label="Lima, R J" updated_date="2013-03-06T22:37:48">
+						<price id="448038732" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283743" start_no="0" is_scratched="false"
+						label="Mandžukić, M" updated_date="2013-03-06T22:37:48">
+						<price id="448038733" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283744" start_no="0" is_scratched="false"
+						label="Mata, J" updated_date="2013-03-06T22:37:48">
+						<price id="448038734" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283745" start_no="0" is_scratched="false"
+						label="Matri, A" updated_date="2013-03-06T22:37:48">
+						<price id="448038735" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283746" start_no="0" is_scratched="false"
+						label="Messi, Lionel" updated_date="2013-03-06T22:37:48">
+						<price id="448038736" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283747" start_no="0" is_scratched="false"
+						label="Müller, T" updated_date="2013-03-06T22:37:48">
+						<price id="448038737" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283748" start_no="0" is_scratched="false"
+						label="Nenê" updated_date="2013-03-06T22:37:48">
+						<price id="448038738" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283749" start_no="0" is_scratched="false"
+						label="Pantelić, M" updated_date="2013-03-06T22:37:48">
+						<price id="448038739" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283750" start_no="0" is_scratched="false"
+						label="Pato, Alexandre" updated_date="2013-03-06T22:37:48">
+						<price id="448038740" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283751" start_no="0" is_scratched="false"
+						label="Pazzini, G" updated_date="2013-03-06T22:37:48">
+						<price id="448038741" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283752" start_no="0" is_scratched="false"
+						label="Pedro Rodríguez" updated_date="2013-03-06T22:37:48">
+						<price id="448038742" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283753" start_no="0" is_scratched="false"
+						label="Podolski, L" updated_date="2013-03-06T22:37:48">
+						<price id="448038743" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283754" start_no="0" is_scratched="false"
+						label="Reus, M" updated_date="2013-03-06T22:37:48">
+						<price id="448038744" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283755" start_no="0" is_scratched="false"
+						label="Robben, A" updated_date="2013-03-06T22:37:48">
+						<price id="448038745" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283756" start_no="0" is_scratched="false"
+						label="Ronaldo" updated_date="2013-03-06T22:37:48">
+						<price id="448038746" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283757" start_no="0" is_scratched="false"
+						label="Rooney, Wayne" updated_date="2013-03-06T22:37:48">
+						<price id="448038747" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283758" start_no="0" is_scratched="false"
+						label="Sánchez, Alexis" updated_date="2013-03-06T22:37:48">
+						<price id="448038748" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283759" start_no="0" is_scratched="false"
+						label="Torres, F" updated_date="2013-03-06T22:37:48">
+						<price id="448038749" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283760" start_no="0" is_scratched="false"
+						label="Tévez, C" updated_date="2013-03-06T22:37:48">
+						<price id="448038750" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283761" start_no="0" is_scratched="false"
+						label="van Persie, R" updated_date="2013-03-06T22:37:48">
+						<price id="448038751" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283762" start_no="0" is_scratched="false"
+						label="Villa, David" updated_date="2013-03-06T22:37:48">
+						<price id="448038752" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283763" start_no="0" is_scratched="false"
+						label="Ronaldo, Cristiano" updated_date="2013-03-06T22:37:48">
+						<price id="448038753" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283764" start_no="0" is_scratched="false"
+						label="Martínez, Javi" updated_date="2013-03-06T22:37:48">
+						<price id="448038754" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="37283765" start_no="0" is_scratched="false"
+						label="Nenê Carvalho" updated_date="2013-03-06T22:37:48">
+						<price id="448038755" odds="0.0" updated_date="2012-09-03T22:13:12" />
+					</outcome>
+					<outcome id="44927047" start_no="0" is_scratched="false"
+						label="Yılmaz, Burak" updated_date="2013-03-06T22:37:48">
+						<price id="559320631" odds="-1.0" updated_date="2013-01-28T19:54:39" />
+					</outcome>
+				</betOffer>
+				<betOffer id="1012935603" criterion_id="1001159897"
+					criteria="Total Goals Scored 4.5" type="6" bet_closes="2013-03-07T19:00:00"
+					type_name="Over/Under" is_live="false" updated_date="2013-03-07T12:23:42">
+					<outcome id="47459311" label="Over" handicap_line="10.5"
+						updated_date="2013-03-07T12:23:42">
+						<price id="597659881" odds="1.72" updated_date="2013-03-07T12:23:42" />
+					</outcome>
+					<outcome id="47459312" label="Under" handicap_line="10.5"
+						updated_date="2013-03-07T12:23:42">
+						<price id="597659882" odds="2.0" updated_date="2013-03-07T12:23:42" />
+					</outcome>
+				</betOffer>
+			</event>
+		</pool>
+		<country id="1000461815" name="Switzerland" main_group_id="1000093190">
+			<pool id="1000095020" name="Super League" main_group_id="1000093190">
+				<event id="1001345092" name="Basel - Young Boys" event_start="2013-03-10T16:00:00"
+					updated_date="2013-03-01T16:56:25">
+					<participant id="1000000268" name="Basel" />
+					<participant id="1000021652" name="Young Boys" />
+					<betOffer id="1012915664" criterion_id="1000100078"
+						criteria="Regular time" type="2" bet_closes="2013-03-10T16:00:00"
+						type_name="Match" is_live="false" updated_date="2013-03-06T10:59:47">
+						<outcome id="47371173" label="1" updated_date="2013-03-06T10:59:47">
+							<price id="596551583" odds="1.7" updated_date="2013-03-06T10:59:47" />
+						</outcome>
+						<outcome id="47371174" label="X" updated_date="2013-03-06T10:59:47">
+							<price id="596551584" odds="3.7" updated_date="2013-03-06T10:59:47" />
+						</outcome>
+						<outcome id="47371175" label="2" updated_date="2013-03-06T10:59:47">
+							<price id="596551585" odds="4.5" updated_date="2013-03-06T10:59:47" />
+						</outcome>
+					</betOffer>
+					<betOffer id="1012889727" criterion_id="1001224735"
+						criteria="Handicap - Favourite Line" type="11" bet_closes="2013-03-07T19:00:00"
+						type_name="3-Way HCP" is_live="false" updated_date="2013-03-04T16:12:39">
+						<outcome id="47263786" label="1" handicap_line="-2.0"
+							updated_date="2013-03-04T16:12:39">
+							<price id="595151362" odds="12.0" updated_date="2013-03-04T16:12:39" />
+						</outcome>
+						<outcome id="47263787" label="X" handicap_line="-2.0"
+							updated_date="2013-03-04T16:12:39">
+							<price id="595151363" odds="7.0" updated_date="2013-03-04T16:12:39" />
+						</outcome>
+						<outcome id="47263788" label="2" handicap_line="-2.0"
+							updated_date="2013-03-04T16:12:39">
+							<price id="595151364" odds="1.15" updated_date="2013-03-04T16:12:39" />
+						</outcome>
+					</betOffer>
+				</event>
+			</pool>
+		</country>
+	</sport>
+</odds_list>

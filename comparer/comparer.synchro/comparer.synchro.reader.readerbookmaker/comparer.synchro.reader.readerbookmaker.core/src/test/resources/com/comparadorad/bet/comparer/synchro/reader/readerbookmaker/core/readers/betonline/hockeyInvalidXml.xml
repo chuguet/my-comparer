@@ -1,0 +1,87 @@
+<bestlinesports_line_feed>
+	<event>
+		<event_datetimeGMT>2013-06-03 20:05</event_datetimeGMT>
+		<sporttype>Hockey</sporttype>
+		<scheduletext>null</scheduletext>
+		<league>NHL Hockey</league>
+		<participant>
+			<participant_name>Boston Bruins</participant_name>
+			<rotnum>7</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>171</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Pittsburgh Penguins</participant_name>
+			<rotnum>8</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>-188</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>0</drawrotnum>
+		<drawmoneyline>0</drawmoneyline>
+		<drawTitle/>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-06-03 20:15</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<spread>
+				<spread_visiting>1.5</spread_visiting>
+				<spread_adjust_visiting>-190</spread_adjust_visiting>
+				<spread_home>-1.5</spread_home>
+				<spread_adjust_home>165</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>5.5</total_points>
+				<over_adjust>123</over_adjust>
+				<under_adjust>-135</under_adjust>
+			</total>
+		</period>
+	</event>
+	<event>
+		<event_datetimeGMT>2013-06-03 20:05</event_datetimeGMT>
+		<sporttype>Hockey</sporttype>
+		<scheduletext>null</scheduletext>
+		<league>NHL SERIES Hockey</league>
+		<participant>
+			<participant_name>Bruins Series Prices</participant_name>
+			<rotnum>871</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>-110</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Penguins Series Prices</participant_name>
+			<rotnum>872</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>-110</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>0</drawrotnum>
+		<drawmoneyline>0</drawmoneyline>
+		<drawTitle/>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-06-03 20:15</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<spread>
+				<spread_visiting/>
+				<spread_adjust_visiting/>
+				<spread_home/>
+				<spread_adjust_home/>
+			</spread>
+			<total>
+				<total_points/>
+				<over_adjust/>
+				<under_adjust/>
+			</total>
+		</period>
+</bestlinesports_line_feed>

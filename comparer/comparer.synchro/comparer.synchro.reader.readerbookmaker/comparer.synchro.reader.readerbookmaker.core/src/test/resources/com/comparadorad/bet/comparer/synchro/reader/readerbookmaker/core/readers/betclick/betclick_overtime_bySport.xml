@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="Tennis" id="2">
+		<event name="Stuttgart WTA" id="278">
+			<match name="Ana Ivanovic - Petkovic, Andrea" id="499385"
+				start_date="2013-04-23T17:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="5524904">
+						<choice name="%1%" id="43142440" odd="1.35" />
+						<choice name="%2%" id="43142442" odd="2.90" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Basketball" id="4">
+		<event name="NBA" id="13">
+			<match name="Miami Heat - Milwaukee Bucks" id="550096"
+				start_date="2013-04-24T00:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bkb_Han" name="Handicap Result" id="5482539">
+						<choice name="%1% -14.5" id="43177555" odd="1.88" />
+						<choice name="%2% +14.5" id="43177556" odd="1.82" />
+					</bet>
+					<bet code="Bkb_Mrs" name="Match Result" id="5482528">
+						<choice name="%1%" id="42835543" odd="1.04" />
+						<choice name="Draw" id="42835544" odd="20.00" />
+						<choice name="%2%" id="42835545" odd="11.00" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="5482537">
+						<choice name="Under 197.5" id="43177558" odd="1.85" />
+						<choice name="Over 197.5" id="43177557" odd="1.85" />
+					</bet>
+					<bet code="Bkb_Mr6" name="Match Winner" id="5482526">
+						<choice name="%1%" id="42835529" odd="1.03" />
+						<choice name="%2%" id="42835530" odd="10.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

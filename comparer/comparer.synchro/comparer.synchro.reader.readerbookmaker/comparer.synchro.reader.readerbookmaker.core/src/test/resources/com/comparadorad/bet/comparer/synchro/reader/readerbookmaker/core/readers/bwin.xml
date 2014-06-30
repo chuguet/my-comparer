@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<leaguelist>
+	<league name="NHL"
+		leaguelink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;page=betsnew.aspx&amp;LeagueIDs=34&amp;wm=4197312&amp;zoneId=1582315">
+		<event name="San Jose at Calgary" eventdate="31.01.2014 / 02:05"
+			eventlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;page=betsnew.aspx&amp;EventID=3530748&amp;wm=4197312&amp;zoneId=1582315">
+			<games name="Three way (result after regular time)">
+				<result name="San Jose Sharks" odd="1.9"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325386&amp;GameIDs=66029802&amp;ResultOdds=1.9&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+				<result name="X" odd="4.0"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325387&amp;GameIDs=66029802&amp;ResultOdds=4.0&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+				<result name="Calgary Flames" odd="3.4"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325388&amp;GameIDs=66029802&amp;ResultOdds=3.4&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+			</games>
+			<games name="2Way - result incl. overtime and penalties">
+				<result name="San Jose Sharks" odd="1.55"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325389&amp;GameIDs=66029803&amp;ResultOdds=1.55&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+				<result name="Calgary Flames" odd="2.5"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325390&amp;GameIDs=66029803&amp;ResultOdds=2.5&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+			</games>
+			<games name="Totals (regular time)">
+				<result name="Over 5,5" odd="2.05"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325395&amp;GameIDs=66029806&amp;ResultOdds=2.05&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+				<result name="Under 5,5" odd="1.8"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=223325396&amp;GameIDs=66029806&amp;ResultOdds=1.8&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+			</games>
+			<games name="Spread (including overtime and shoot-outs)">
+				<result name="San Jose Sharks -1,5" odd="2.65"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=224349703&amp;GameIDs=66359667&amp;ResultOdds=2.65&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+				<result name="Calgary Flames +1,5" odd="1.5"
+					placebetlink="https://sports.bwin.com/en/sports/partnerfeed/?&amp;ResultIDs=224349704&amp;GameIDs=66359667&amp;ResultOdds=1.5&amp;Stake=10.0&amp;wm=4197312&amp;zoneId=1582315" />
+			</games>
+		</event>
+	</league>
+</leaguelist>

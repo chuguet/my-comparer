@@ -1,0 +1,16 @@
+<category name="Basketball-NBA" timeGenerated="2013-02-27T14:43:49"
+	Bookmaker="Betfred">
+	<event name="New York Knicks @ Indiana Pacers" eventid="2476975.20"
+		date="20130517" time="0105" meeting="" venue="">
+		<bettype bet-start-date="20130517" bet-start-time="0105"
+			handicap="-5" suspended="false" name="Match Handicaps" inrunning="0"
+			bettypeid="6286478.20">
+			<bet had-value="AWAY" name="Indiana Pacers" short-name="Indiana P"
+				id="134975407.20" handicap-id="3815700.20" handicap="5" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+			<bet had-value="HOME" name="New York Knicks" short-name="New York"
+				id="134975406.20" handicap-id="3815699.20" handicap="-5" price="10/11"
+				priceDecimal="1.91" priceUS="-90.91" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

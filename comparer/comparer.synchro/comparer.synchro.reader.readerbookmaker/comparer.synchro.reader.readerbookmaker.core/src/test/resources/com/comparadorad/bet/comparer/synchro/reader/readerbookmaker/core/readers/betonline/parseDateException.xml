@@ -1,0 +1,45 @@
+<bestlinesports_line_feed>
+	<event>
+		<event_datetimeGMT>XX13-06-03 11:30</event_datetimeGMT>
+		<sporttype>Tennis</sporttype>
+		<scheduletext>French Open - R16</scheduletext>
+		<league>WTA Tennis</league>
+		<participant>
+			<participant_name>Sloane Stephens</participant_name>
+			<rotnum>4747</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>475</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Maria Sharapova</participant_name>
+			<rotnum>4748</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>-590</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>0</drawrotnum>
+		<drawmoneyline>0</drawmoneyline>
+		<drawTitle/>
+		<period>
+			<period_description>1st Set</period_description>
+			<periodcutoff_datetimeGMT>2013-06-03 11:30</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<spread>
+				<spread_visiting/>
+				<spread_adjust_visiting/>
+				<spread_home/>
+				<spread_adjust_home/>
+			</spread>
+			<total>
+				<total_points/>
+				<over_adjust/>
+				<under_adjust/>
+			</total>
+		</period>
+	</event>
+</bestlinesports_line_feed>

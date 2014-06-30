@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="American Football" id="14">
+		<event name="NFL" id="84">
+			<match name="Philadelphia Eagles - Carolina Panthers" id="499385"
+				start_date="2012-11-27T01:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Amf_Han" name="Handicap Result" id="4147408">
+						<choice name="%2% -2.5" id="33065051" odd="1.75" />
+						<choice name="%1% +2.5" id="33065050" odd="1.95" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

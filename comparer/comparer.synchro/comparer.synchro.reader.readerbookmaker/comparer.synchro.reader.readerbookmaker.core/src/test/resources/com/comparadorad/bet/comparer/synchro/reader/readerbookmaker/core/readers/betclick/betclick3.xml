@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2012-11-26T12:01:27.013">
+	<sport name="Basketball" id="4">
+		<event name="Auckland ATP" id="382">
+			<match name="Xavier Malisse - Philipp Kohlschreiber" id="511371"
+				start_date="2013-01-09T23:00:00" live_id="63114" streaming="1">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="4405936">
+						<choice name="%1%" id="34506767" odd="2.75" />
+						<choice name="%2%" id="34506768" odd="1.40" />
+					</bet>
+					<bet code="Ten_Tgm" name="Total Games" id="4405947">
+						<choice name="Over 22.5" id="34784338" odd="1.90" />
+						<choice name="Under 22.5" id="34784339" odd="1.80" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Jesse Levine - Sam Querrey" id="511370"
+				start_date="2013-01-10T00:30:00" live_id="63115" streaming="1">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="4405924">
+						<choice name="%1%" id="34506725" odd="3.50" />
+						<choice name="%2%" id="34506726" odd="1.25" />
+					</bet>
+					<bet code="Ten_Tgm" name="Total Games" id="4405935">
+						<choice name="Over 22.5" id="34784340" odd="2.00" />
+						<choice name="Under 22.5" id="34784341" odd="1.72" />
+					</bet>
+				</bets>
+			</match>
+			<match name="David Ferrer - Lukas Lacko" id="511368"
+				start_date="2013-01-10T02:30:00" live_id="63116" streaming="1">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="4405900">
+						<choice name="%1%" id="34506641" odd="1.10" />
+						<choice name="%2%" id="34506642" odd="6.00" />
+					</bet>
+					<bet code="Ten_Tgm" name="Total Games" id="4405911">
+						<choice name="Over 19.5" id="34784342" odd="1.90" />
+						<choice name="Under 19.5" id="34784343" odd="1.80" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Tommy Haas - Gael Monfils" id="511369"
+				start_date="2013-01-10T06:00:00" live_id="63117" streaming="0">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="4405912">
+						<choice name="%1%" id="34506683" odd="1.58" />
+						<choice name="%2%" id="34506684" odd="2.25" />
+					</bet>
+					<bet code="Ten_Tgm" name="Total Games" id="4405923">
+						<choice name="Over 22.5" id="34784350" odd="1.80" />
+						<choice name="Under 22.5" id="34784351" odd="1.90" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="France Pro A M." id="15">
+			<match name="Le Mans - Chalon-sur-Saone" id="499595"
+				start_date="2012-11-26T19:30:00" live_id="61291" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="4149270">
+						<choice name="%1%" id="33020166" odd="1.52" />
+						<choice name="%2%" id="33020167" odd="2.35" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="4149272">
+						<choice name="%1% -4.5" id="33084182" odd="1.90" />
+						<choice name="%2% +4.5" id="33084183" odd="1.80" />
+					</bet>
+					<bet code="Bkb_Mrs" name="Match Result" id="4149271">
+						<choice name="%1%" id="33020168" odd="1.58" />
+						<choice name="Draw" id="33020169" odd="15.00" />
+						<choice name="%2%" id="33020170" odd="2.45" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="4149273">
+						<choice name="Under 147.5" id="33084185" odd="1.90" />
+						<choice name="Over 147.5" id="33084184" odd="1.80" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Italy Serie A" id="153">
+			<match name="Cantù - Montepaschi Siena" id="499587"
+				start_date="2012-11-26T19:30:00" live_id="61290" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="4149184">
+						<choice name="%1%" id="33019894" odd="1.62" />
+						<choice name="%2%" id="33019895" odd="2.15" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="4149190">
+						<choice name="%1% -2.5" id="33068676" odd="1.82" />
+						<choice name="%2% +2.5" id="33068677" odd="1.88" />
+					</bet>
+					<bet code="Bkb_Mrs" name="Match Result" id="4149187">
+						<choice name="%1%" id="33019917" odd="1.68" />
+						<choice name="Draw" id="33019918" odd="14.00" />
+						<choice name="%2%" id="33019919" odd="2.25" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="4149191">
+						<choice name="Under 148.5" id="33092172" odd="1.85" />
+						<choice name="Over 148.5" id="33092171" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Greece A1 Ethniki" id="502">
+			<match name="Panathinaikos - Panelefsiniakos" id="499533"
+				start_date="2012-11-26T17:00:00" live_id="61292" streaming="0">
+				<bets>
+					<bet code="Bkb_Han" name="Handicap Result" id="4148825">
+						<choice name="%2% +25.5" id="33087801" odd="1.85" />
+						<choice name="%1% -25.5" id="33087800" odd="1.85" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="4148823">
+						<choice name="Under 147.5" id="33087803" odd="1.85" />
+						<choice name="Over 147.5" id="33087802" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Israeli Super League" id="2516">
+			<match name="Maccabi Netanya - Galil Gilboa" id="499704"
+				start_date="2012-11-26T17:25:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="4150760">
+						<choice name="%1%" id="33028627" odd="1.22" />
+						<choice name="%2%" id="33028628" odd="3.80" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="4150759">
+						<choice name="%1% -8.5" id="33124592" odd="1.85" />
+						<choice name="%2% +8.5" id="33124593" odd="1.85" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="4150762">
+						<choice name="Under 154.5" id="33124595" odd="1.85" />
+						<choice name="Over 154.5" id="33124594" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Bnei HaSharon - Maccabi Rishon" id="499705"
+				start_date="2012-11-26T17:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="4150764">
+						<choice name="%1%" id="33028631" odd="1.80" />
+						<choice name="%2%" id="33028632" odd="1.90" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="4150763">
+						<choice name="%1% -1.5" id="33124596" odd="1.85" />
+						<choice name="%2% +1.5" id="33124597" odd="1.85" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="4150766">
+						<choice name="Under 155.5" id="33124599" odd="1.85" />
+						<choice name="Over 155.5" id="33124598" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Russian PBL" id="2518">
+			<match name="BC Khimki - Spartak Primorie Vladivostok" id="499551"
+				start_date="2012-11-26T15:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="4148942">
+						<choice name="%1%" id="33018630" odd="1.05" />
+						<choice name="%2%" id="33018631" odd="7.50" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="4148943">
+						<choice name="%1% -15.5" id="33118347" odd="1.85" />
+						<choice name="%2% +15.5" id="33118348" odd="1.85" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="4148944">
+						<choice name="Under 153.5" id="33118350" odd="1.85" />
+						<choice name="Over 153.5" id="33118349" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Turkish TBL" id="2519">
+			<match name="Besiktas Istanbul - Hacettepe Univ." id="499541"
+				start_date="2012-11-26T17:00:00" live_id="61289" streaming="1">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="4148890">
+						<choice name="%1%" id="33018476" odd="1.05" />
+						<choice name="%2%" id="33018477" odd="8.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Rugby Union" id="5">
+		<event name="France Top 14" id="20">
+			<match name="France Top 14 2012-2013" id="466884" start_date="2013-06-10T17:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Win" name="Outright Winner" id="3548470">
+						<choice name="Agen" id="29696099" odd="500.00" />
+						<choice name="Bayonne" id="29696098" odd="500.00" />
+						<choice name="Biarritz" id="29696094" odd="50.00" />
+						<choice name="Castres" id="29696095" odd="13.00" />
+						<choice name="Clermont-Auvergne" id="29696090" odd="3.20" />
+						<choice name="Racing Métro" id="29696093" odd="50.00" />
+						<choice name="Mont-de-Marsan" id="29696102" odd="2000.00" />
+						<choice name="Montpellier" id="29696092" odd="18.00" />
+						<choice name="Perpignan" id="29696096" odd="100.00" />
+						<choice name="Stade Francais" id="29696097" odd="80.00" />
+						<choice name="Toulon" id="29696091" odd="2.65" />
+						<choice name="Toulouse" id="29696089" odd="3.00" />
+						<choice name="Grenoble" id="29696101" odd="200.00" />
+						<choice name="Union Bordeaux Bègles" id="29696100" odd="500.00" />
+					</bet>
+					<bet code="Rgb_Rsw" name="Regular Season Winner" id="3729220">
+						<choice name="Castres" id="30726686" odd="50.00" />
+						<choice name="Clermont-Auvergne" id="30726680" odd="4.25" />
+						<choice name="Montpellier" id="30726683" odd="65.00" />
+						<choice name="Toulon" id="30726679" odd="1.38" />
+						<choice name="Toulouse" id="30726681" odd="5.50" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Heineken Cup" id="23">
+			<match name="Group 1" id="466912" start_date="2013-01-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Grw" name="Group Winner" id="3549258">
+						<choice name="Edinburgh" id="29699621" odd="250.00" />
+						<choice name="Racing Métro" id="29699620" odd="10.00" />
+						<choice name="Munster" id="29699618" odd="3.00" />
+						<choice name="Saracens" id="29699619" odd="1.50" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Group 2" id="466913" start_date="2013-01-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Grw" name="Group Winner" id="3549260">
+						<choice name="Leicester" id="29699623" odd="3.25" />
+						<choice name="Ospreys" id="29699624" odd="12.00" />
+						<choice name="Toulouse" id="29699622" odd="1.40" />
+						<choice name="Treviso" id="29699625" odd="750.00" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Group 4" id="466945" start_date="2013-01-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Grw" name="Group Winner" id="3549383">
+						<choice name="Castres" id="29699632" odd="20.00" />
+						<choice name="Glasgow" id="29699633" odd="250.00" />
+						<choice name="Northampton" id="29699630" odd="3.25" />
+						<choice name="Ulster" id="29699631" odd="1.35" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Group 5" id="466946" start_date="2013-01-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Grw" name="Group Winner" id="3549385">
+						<choice name="Clermont-Auvergne" id="29699635" odd="1.60" />
+						<choice name="Leinster" id="29699634" odd="2.10" />
+						<choice name="Scarlets" id="29699636" odd="250.00" />
+						<choice name="Exeter" id="29699637" odd="250.00" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Group 6" id="466947" start_date="2013-01-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Grw" name="Group Winner" id="3549387">
+						<choice name="Cardiff Blues" id="29699639" odd="60.00" />
+						<choice name="Montpellier" id="29699640" odd="15.00" />
+						<choice name="Sale" id="29699641" odd="60.00" />
+						<choice name="Toulon" id="29699638" odd="1.01" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Group 3" id="466948" start_date="2013-01-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Grw" name="Group Winner" id="3549389">
+						<choice name="Biarritz" id="29699627" odd="6.00" />
+						<choice name="Connacht" id="29699628" odd="250.00" />
+						<choice name="Harlequins" id="29699626" odd="1.10" />
+						<choice name="Zebre" id="29699629" odd="1000.00" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Heineken Cup 2012-2013" id="466886" start_date="2013-05-18T17:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Win" name="Outright Winner" id="3548484">
+						<choice name="Biarritz" id="29696130" odd="30.00" />
+						<choice name="Cardiff Blues" id="29696136" odd="250.00" />
+						<choice name="Castres" id="29696139" odd="125.00" />
+						<choice name="Clermont-Auvergne" id="29696126" odd="5.50" />
+						<choice name="Connacht" id="29696145" odd="1000.00" />
+						<choice name="Edinburgh" id="29696141" odd="1000.00" />
+						<choice name="Glasgow" id="29696142" odd="1000.00" />
+						<choice name="Leicester" id="29696131" odd="18.00" />
+						<choice name="Leinster" id="29696124" odd="5.50" />
+						<choice name="Racing Métro" id="29696137" odd="100.00" />
+						<choice name="Montpellier" id="29696138" odd="100.00" />
+						<choice name="Munster" id="29696129" odd="22.00" />
+						<choice name="Northampton" id="29696133" odd="30.00" />
+						<choice name="Ospreys" id="29696134" odd="60.00" />
+						<choice name="Sale" id="29696143" odd="300.00" />
+						<choice name="Saracens" id="29696132" odd="12.00" />
+						<choice name="Toulon" id="29696127" odd="5.00" />
+						<choice name="Toulouse" id="29696125" odd="6.00" />
+						<choice name="Treviso" id="29696146" odd="2000.00" />
+						<choice name="Ulster" id="29696135" odd="9.00" />
+						<choice name="Harlequins" id="29696128" odd="9.00" />
+						<choice name="Scarlets" id="29696140" odd="500.00" />
+						<choice name="Exeter" id="29696144" odd="500.00" />
+						<choice name="Zebre" id="29696147" odd="5000.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="World Cup" id="34">
+			<match name="World Cup 2015" id="398721" start_date="2015-10-23T20:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Win" name="Outright Winner" id="2505817">
+						<choice name="England" id="23749932" odd="6.00" />
+						<choice name="France" id="23749933" odd="7.50" />
+						<choice name="Ireland" id="23749936" odd="15.00" />
+						<choice name="Italy" id="23749944" odd="250.00" />
+						<choice name="Scotland" id="23749938" odd="100.00" />
+						<choice name="Wales" id="23749935" odd="8.00" />
+						<choice name="Argentina" id="23749937" odd="65.00" />
+						<choice name="Australia" id="23749931" odd="5.50" />
+						<choice name="Canada" id="23749942" odd="1000.00" />
+						<choice name="Fiji" id="23749940" odd="500.00" />
+						<choice name="New Zealand" id="23749930" odd="2.50" />
+						<choice name="Samoa" id="23749939" odd="100.00" />
+						<choice name="South Africa" id="23749934" odd="6.00" />
+						<choice name="Tonga" id="23749941" odd="500.00" />
+						<choice name="United States" id="23749943" odd="1000.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Aviva Premiership" id="234">
+			<match name="Aviva Premiership 2012-2013" id="466885"
+				start_date="2013-07-10T19:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Win" name="Outright Winner" id="3548482">
+						<choice name="Bath" id="29696107" odd="35.00" />
+						<choice name="Gloucester" id="29696108" odd="15.00" />
+						<choice name="Leicester" id="29696103" odd="2.85" />
+						<choice name="London Irish" id="29696111" odd="250.00" />
+						<choice name="Northampton" id="29696106" odd="8.00" />
+						<choice name="Sale" id="29696110" odd="250.00" />
+						<choice name="Saracens" id="29696104" odd="3.25" />
+						<choice name="Wasps" id="29696112" odd="50.00" />
+						<choice name="Worcester" id="29696113" odd="250.00" />
+						<choice name="Harlequins" id="29696105" odd="4.00" />
+						<choice name="Exeter" id="29696109" odd="35.00" />
+						<choice name="London Welsh" id="29696114" odd="750.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Pro 12" id="15523">
+			<match name="Pro 12 2012-2013" id="478881" start_date="2013-05-18T15:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Rgb_Win" name="Outright Winner" id="3752610">
+						<choice name="Cardiff Blues" id="30868304" odd="100.00" />
+						<choice name="Connacht" id="30868309" odd="750.00" />
+						<choice name="Edinburgh" id="30868306" odd="125.00" />
+						<choice name="Glasgow" id="30868305" odd="25.00" />
+						<choice name="Leinster" id="30868299" odd="2.20" />
+						<choice name="Munster" id="30868301" odd="6.00" />
+						<choice name="Newport-Gwent Dragons" id="30868307" odd="300.00" />
+						<choice name="Ospreys" id="30868300" odd="6.50" />
+						<choice name="Treviso" id="30868308" odd="300.00" />
+						<choice name="Ulster" id="30868302" odd="3.25" />
+						<choice name="Scarlets" id="30868303" odd="11.00" />
+						<choice name="Zebre" id="30868310" odd="2500.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Cycling" id="6">
+		<event name="Tour de France" id="17">
+			<match name="Tour de France 2013" id="489940" start_date="2013-06-29T12:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Cyc_Win" name="Outright Winner" id="3969268">
+						<choice name="Ivan Basso" id="32408809" odd="100.00" />
+						<choice name="Alberto Contador" id="32408794" odd="2.20" />
+						<choice name="Damiano Cunego" id="32408824" odd="250.00" />
+						<choice name="Cadel Evans" id="32408800" odd="25.00" />
+						<choice name="Andreas Klöden" id="32408831" odd="300.00" />
+						<choice name="Denis Menchov" id="32408812" odd="125.00" />
+						<choice name="Alejandro Valverde" id="32408798" odd="16.00" />
+						<choice name="Haimar Zubeldia" id="32408819" odd="200.00" />
+						<choice name="Samuel Sanchez" id="32408805" odd="40.00" />
+						<choice name="Frank Schleck" id="32408806" odd="65.00" />
+						<choice name="Christophe Le Mevel" id="32408860" odd="750.00" />
+						<choice name="Tom Danielson" id="32408855" odd="500.00" />
+						<choice name="Michael Rogers" id="32408836" odd="350.00" />
+						<choice name="Bradley Wiggins" id="32408797" odd="11.00" />
+						<choice name="Thomas Voeckler" id="32408814" odd="125.00" />
+						<choice name="Vincenzo Nibali" id="32408803" odd="30.00" />
+						<choice name="Juan José Cobo" id="32408821" odd="200.00" />
+						<choice name="Fabian Cancellara" id="32408834" odd="350.00" />
+						<choice name="Levy Leipheimer" id="32408849" odd="500.00" />
+						<choice name="Mark Cavendish" id="32408866" odd="1000.00" />
+						<choice name="David Arroyo" id="32408844" odd="500.00" />
+						<choice name="Christopher Horner" id="32408842" odd="500.00" />
+						<choice name="Daniel Navarro" id="32408861" odd="750.00" />
+						<choice name="Kanstantsin Siutsou" id="32408847" odd="500.00" />
+						<choice name="Christian Vandevelde" id="32408859" odd="750.00" />
+						<choice name="Robert Gesink" id="32408808" odd="65.00" />
+						<choice name="Andy Schleck" id="32408796" odd="11.00" />
+						<choice name="Roman Kreuziger" id="32408829" odd="250.00" />
+						<choice name="Maxime Monfort" id="32408851" odd="500.00" />
+						<choice name="Peter Velits" id="32408839" odd="350.00" />
+						<choice name="Christopher Froome" id="32408795" odd="3.75" />
+						<choice name="Ryder Hesjedal" id="32408801" odd="28.00" />
+						<choice name="Luis Leon Sanchez" id="32408850" odd="500.00" />
+						<choice name="Jurgen Van den Broecke" id="32408804" odd="40.00" />
+						<choice name="Steven Cummings" id="32408864" odd="750.00" />
+						<choice name="Fredrik Kessiakoff" id="32408818" odd="200.00" />
+						<choice name="Jakob Fuglsang" id="32408816" odd="150.00" />
+						<choice name="Edvals Boasson Hagen" id="32408833" odd="350.00" />
+						<choice name="Joaquin Rodriguez Oliver" id="32408799" odd="16.00" />
+						<choice name="Nicolas Roche" id="32408852" odd="500.00" />
+						<choice name="Tony Martin" id="32408830" odd="250.00" />
+						<choice name="Michele Scarponi" id="32408827" odd="250.00" />
+						<choice name="Janez Brajkovic" id="32408820" odd="200.00" />
+						<choice name="Jerome Coppel" id="32408863" odd="750.00" />
+						<choice name="Rigoberto Uran" id="32408828" odd="250.00" />
+						<choice name="Pierre Rolland" id="32408807" odd="65.00" />
+						<choice name="Tiago Machado" id="32408865" odd="750.00" />
+						<choice name="Peter Sagan" id="32408838" odd="350.00" />
+						<choice name="Rein Taaramae" id="32408822" odd="200.00" />
+						<choice name="Domenico Pozzovivo" id="32408825" odd="250.00" />
+						<choice name="Jean-Christophe Péraud" id="32408846" odd="500.00" />
+						<choice name="Daniel Martin" id="32408843" odd="500.00" />
+						<choice name="Richard Porte" id="32408840" odd="350.00" />
+						<choice name="Robert Kiserlovski" id="32408853" odd="500.00" />
+						<choice name="Bauke Mollema" id="32408817" odd="200.00" />
+						<choice name="Steven Kruijswijk" id="32408854" odd="500.00" />
+						<choice name="Tejay Van Garderen" id="32408802" odd="28.00" />
+						<choice name="Lars Petter Nordhaug" id="32408848" odd="500.00" />
+						<choice name="Benat Intxausti" id="32408832" odd="350.00" />
+						<choice name="Thomas De Gendt" id="32408811" odd="100.00" />
+						<choice name="Lieuwe Westra" id="32408835" odd="350.00" />
+						<choice name="Fabio Duarte" id="32408845" odd="500.00" />
+						<choice name="Chris Anker Sorensen" id="32408858" odd="750.00" />
+						<choice name="Wouter Poels" id="32408857" odd="500.00" />
+						<choice name="Sergio Luis Henao" id="32408823" odd="200.00" />
+						<choice name="Nairo Quintana" id="32408813" odd="125.00" />
+						<choice name="Thibaut Pinot" id="32408810" odd="100.00" />
+						<choice name="Moreno Moser" id="32408837" odd="350.00" />
+						<choice name="Jonathan Tiernan-Locke" id="32408826" odd="250.00" />
+						<choice name="Rui Costa" id="32408841" odd="350.00" />
+						<choice name="Wilco Kelderman" id="32408856" odd="500.00" />
+						<choice name="Jelle Vandendert" id="32408862" odd="750.00" />
+						<choice name="Andrew Talansky" id="32408815" odd="150.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Golf" id="7">
+		<event name="US Masters" id="16">
+			<match name="US Masters 2013" id="449571" start_date="2013-04-08T12:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Glf_Win" name="Winner" id="3285133">
+						<choice name="Darren Clarke" id="28272610" odd="300.00" />
+						<choice name="Luke Donald" id="28272551" odd="18.00" />
+						<choice name="Ernie Els" id="28272577" odd="80.00" />
+						<choice name="Jim Furyk" id="28272572" odd="70.00" />
+						<choice name="Sergio Garcia" id="28272563" odd="50.00" />
+						<choice name="Retief Goosen" id="28272579" odd="80.00" />
+						<choice name="Padraig Harrington" id="28272573" odd="70.00" />
+						<choice name="Phil Mickelson" id="28272549" odd="12.00" />
+						<choice name="Adam Scott" id="28272553" odd="30.00" />
+						<choice name="Vijay Singh" id="28272604" odd="150.00" />
+						<choice name="David Toms" id="28272597" odd="150.00" />
+						<choice name="Lee Westwood" id="28272550" odd="18.00" />
+						<choice name="Tiger Woods" id="28272547" odd="8.00" />
+						<choice name="Aaron Baddeley" id="28272595" odd="125.00" />
+						<choice name="Paul Casey" id="28272578" odd="80.00" />
+						<choice name="Stewart Cink" id="28272609" odd="200.00" />
+						<choice name="Fred Couples" id="28272590" odd="125.00" />
+						<choice name="Ben Crane" id="28272588" odd="100.00" />
+						<choice name="Fredrik Jacobson" id="28272598" odd="150.00" />
+						<choice name="Zach Johnson" id="28272585" odd="100.00" />
+						<choice name="Matt Kuchar" id="28272562" odd="50.00" />
+						<choice name="Hunter Mahan" id="28272555" odd="35.00" />
+						<choice name="Kevin Na" id="28272605" odd="150.00" />
+						<choice name="Geoff Ogilvy" id="28272571" odd="70.00" />
+						<choice name="Sean OHair" id="28272603" odd="125.00" />
+						<choice name="Ian Poulter" id="28272566" odd="40.00" />
+						<choice name="Justin Rose" id="28272552" odd="30.00" />
+						<choice name="John Senden" id="28272591" odd="100.00" />
+						<choice name="Steve Stricker" id="28272564" odd="50.00" />
+						<choice name="Bo Van Pelt" id="28272575" odd="80.00" />
+						<choice name="Nick Watney" id="28272557" odd="40.00" />
+						<choice name="Mark Wilson" id="28272606" odd="150.00" />
+						<choice name="Angel Cabrera" id="28272580" odd="80.00" />
+						<choice name="Thomas Bjorn" id="28272594" odd="100.00" />
+						<choice name="Henrik Stenson" id="28272587" odd="100.00" />
+						<choice name="Miguel Angel Jimenez" id="28272592" odd="100.00" />
+						<choice name="Graeme McDowell" id="28272570" odd="60.00" />
+						<choice name="Trevor Immelman" id="28272583" odd="100.00" />
+						<choice name="Bubba Watson" id="28272554" odd="28.00" />
+						<choice name="Charl Schwartzel" id="28272560" odd="40.00" />
+						<choice name="Bill Haas" id="28272574" odd="80.00" />
+						<choice name="Peter Hanson" id="28272567" odd="60.00" />
+						<choice name="Francesco Molinari" id="28272586" odd="100.00" />
+						<choice name="Robert Karlsson" id="28272601" odd="150.00" />
+						<choice name="Louis Oosthuizen" id="28272561" odd="50.00" />
+						<choice name="Alvaro Quiros" id="28272596" odd="150.00" />
+						<choice name="Edoardo Molinari" id="28272607" odd="200.00" />
+						<choice name="Paul Lawrie" id="28272593" odd="100.00" />
+						<choice name="Jason Dufner" id="28272582" odd="80.00" />
+						<choice name="Jason Day" id="28272559" odd="50.00" />
+						<choice name="Johnson Wagner" id="28272599" odd="150.00" />
+						<choice name="Martin Kaymer" id="28272568" odd="60.00" />
+						<choice name="Brandt Snedeker" id="28272569" odd="70.00" />
+						<choice name="Dustin Johnson" id="28272558" odd="40.00" />
+						<choice name="Rory McIlroy" id="28272548" odd="7.00" />
+						<choice name="Ryo Ishikawa" id="28272608" odd="200.00" />
+						<choice name="Webb Simpson" id="28272565" odd="40.00" />
+						<choice name="Martin Laird" id="28272600" odd="100.00" />
+						<choice name="Rickie Fowler" id="28272581" odd="40.00" />
+						<choice name="Sang-Moon Bae" id="28272602" odd="150.00" />
+						<choice name="Gary Woodland" id="28272584" odd="100.00" />
+						<choice name="Matteo Manassero" id="28859159" odd="100.00" />
+						<choice name="YE Yang" id="28272653" odd="100.00" />
+						<choice name="K J Choi" id="28272576" odd="80.00" />
+						<choice name="Keegan Bradley" id="28272556" odd="40.00" />
+						<choice name="C Howell III" id="28272589" odd="100.00" />
+						<choice name="Yong Eun Yang" id="28859160" odd="100.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Volleyball" id="8">
+		<event name="Greece A1" id="547">
+			<match name="Ethnikos Alexandroupoli - Olympiakos Piraeus" id="499171"
+				start_date="2012-11-26T16:00:00" live_id="61305" streaming="0">
+				<bets>
+					<bet code="Vlb_Mr2" name="Match Result" id="4142516">
+						<choice name="%1%" id="32993239" odd="3.30" />
+						<choice name="%2%" id="32993240" odd="1.28" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Polish PlusLiga W." id="3726">
+			<match name="Dabrowa Gornicza W. - PTPS Pila W." id="499192"
+				start_date="2012-11-26T17:00:00" live_id="61306" streaming="0">
+				<bets>
+					<bet code="Vlb_Mr2" name="Match Result" id="4142607">
+						<choice name="%1%" id="32993365" odd="1.12" />
+						<choice name="%2%" id="32993366" odd="5.25" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Handball" id="9">
+		<event name="Swedish Elitserien" id="562">
+			<match name="Skövde - Redbergslids" id="499081" start_date="2012-11-26T18:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Hdb_Mr2" name="Match Result" id="4142041">
+						<choice name="%1%" id="32991251" odd="1.55" />
+						<choice name="Draw" id="32991252" odd="10.00" />
+						<choice name="%2%" id="32991253" odd="2.80" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Malmö - HK Aranäs" id="499082" start_date="2012-11-26T18:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Hdb_Mr2" name="Match Result" id="4142045">
+						<choice name="%1%" id="32991256" odd="1.20" />
+						<choice name="Draw" id="32991257" odd="12.00" />
+						<choice name="%2%" id="32991258" odd="5.25" />
+					</bet>
+				</bets>
+			</match>
+			<match name="VästeråsIrsta HF - Guif" id="499083" start_date="2012-11-26T18:15:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Hdb_Mr2" name="Match Result" id="4142049">
+						<choice name="%1%" id="32991261" odd="6.00" />
+						<choice name="Draw" id="32991262" odd="13.00" />
+						<choice name="%2%" id="32991263" odd="1.16" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Cricket" id="11">
+		<event name="World Cup" id="43">
+			<match name="World Cup 2015" id="343886" start_date="2015-02-01T00:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Cri_Win" name="Outright Winner" id="1939166">
+						<choice name="Australia" id="20063434" odd="4.50" />
+						<choice name="Bangladesh" id="20063442" odd="80.00" />
+						<choice name="England" id="20063437" odd="8.00" />
+						<choice name="India" id="20063436" odd="5.50" />
+						<choice name="New Zealand" id="20063440" odd="15.00" />
+						<choice name="Pakistan" id="20063439" odd="8.00" />
+						<choice name="South Africa" id="20063435" odd="5.00" />
+						<choice name="Sri Lanka" id="20063438" odd="8.00" />
+						<choice name="West Indies" id="20063441" odd="20.00" />
+						<choice name="Zimbabwe" id="20063443" odd="250.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Ice Hockey" id="13">
+		<event name="World Championship" id="108">
+			<match name="World Championship Men 2013" id="462996"
+				start_date="2013-05-19T18:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ihk_Win" name="Outright Winner" id="3495525">
+						<choice name="Canada" id="29394782" odd="4.50" />
+						<choice name="Czech Republic" id="29394784" odd="8.50" />
+						<choice name="Sweden" id="29394781" odd="3.50" />
+						<choice name="Russia" id="29394780" odd="3.00" />
+						<choice name="Slovakia" id="29394786" odd="25.00" />
+						<choice name="United States" id="29394785" odd="18.00" />
+						<choice name="Finland" id="29394783" odd="6.50" />
+						<choice name="Switzerland" id="29394787" odd="40.00" />
+						<choice name="Latvia" id="29394792" odd="300.00" />
+						<choice name="Germany" id="29394788" odd="80.00" />
+						<choice name="Belarus" id="29394791" odd="300.00" />
+						<choice name="Norway" id="29394789" odd="80.00" />
+						<choice name="Slovenia" id="29394795" odd="1500.00" />
+						<choice name="Denmark" id="29394790" odd="300.00" />
+						<choice name="Austria" id="29394794" odd="1000.00" />
+						<choice name="France" id="29394793" odd="750.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Russian KHL" id="1977">
+			<match name="Dynamo Moscow - Atlant Mytishi" id="500217"
+				start_date="2012-11-26T15:45:00" live_id="61304" streaming="0">
+				<bets>
+					<bet code="Ihk_Mrs" name="Match Result" id="4159377">
+						<choice name="%1%" id="33080670" odd="1.38" />
+						<choice name="Draw" id="33080671" odd="5.00" />
+						<choice name="%2%" id="33080672" odd="6.25" />
+					</bet>
+					<bet code="Ihk_Mnl" name="Match Winner" id="4159378">
+						<choice name="%1%" id="33080673" odd="1.20" />
+						<choice name="%2%" id="33080674" odd="4.00" />
+					</bet>
+					<bet code="Ihk_Tgl" name="Total Goals" id="4159381">
+						<choice name="Over 5.5" id="33113288" odd="2.10" />
+						<choice name="Under 5.5" id="33113287" odd="1.65" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Czech Extraliga" id="2019">
+			<match name="Zlin - Slavia Prague" id="500177" start_date="2012-11-26T16:30:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Ihk_Mrs" name="Match Result" id="4159017">
+						<choice name="%1%" id="33079910" odd="1.82" />
+						<choice name="Draw" id="33079911" odd="4.20" />
+						<choice name="%2%" id="33079912" odd="3.35" />
+					</bet>
+					<bet code="Ihk_Mnl" name="Match Winner" id="4159018">
+						<choice name="%1%" id="33079913" odd="1.52" />
+						<choice name="%2%" id="33079914" odd="2.35" />
+					</bet>
+					<bet code="Ihk_Tgl" name="Total Goals" id="4159021">
+						<choice name="Over 5.5" id="33113286" odd="1.95" />
+						<choice name="Under 5.5" id="33113285" odd="1.75" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="American Football" id="14">
+		<event name="NFL" id="84">
+			<match name="Philadelphia Eagles - Carolina Panthers" id="499385"
+				start_date="2012-11-27T01:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Amf_Mrs" name="Match Winner" id="4147407">
+						<choice name="%1%" id="33013932" odd="2.20" />
+						<choice name="%2%" id="33013933" odd="1.60" />
+					</bet>
+					<bet code="Amf_Han" name="Handicap Result" id="4147408">
+						<choice name="%2% -2.5" id="33065051" odd="1.75" />
+						<choice name="%1% +2.5" id="33065050" odd="1.95" />
+					</bet>
+					<bet code="Amf_Tpt" name="Total Points" id="4147409">
+						<choice name="Over 40.5" id="33083822" odd="1.85" />
+						<choice name="Under 40.5" id="33083823" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+			<match name="NFL 2012-2013" id="427940" start_date="2013-02-03T23:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Nfl_Win" name="Outright Winner" id="2940469">
+						<choice name="Indianapolis Colts" id="26088210" odd="80.00" />
+						<choice name="New England Patriots" id="26088184" odd="5.50" />
+						<choice name="Pittsburgh Steelers" id="26088189" odd="40.00" />
+						<choice name="Seattle Seahawks" id="26088204" odd="50.00" />
+						<choice name="Denver Broncos" id="26088206" odd="7.00" />
+						<choice name="San Diego Chargers" id="26088192" odd="150.00" />
+						<choice name="Carolina Panthers" id="26088200" odd="750.00" />
+						<choice name="Cincinnati Bengals" id="26088197" odd="75.00" />
+						<choice name="Chicago Bears" id="26088198" odd="15.00" />
+						<choice name="Philadelphia Eagles" id="26088188" odd="300.00" />
+						<choice name="New York Giants" id="26088191" odd="11.00" />
+						<choice name="Dallas Cowboys" id="26088195" odd="80.00" />
+						<choice name="Washington Redskins" id="26088207" odd="100.00" />
+						<choice name="Tampa Bay Buccaneers" id="26088214" odd="100.00" />
+						<choice name="Miami Dolphins" id="26088201" odd="250.00" />
+						<choice name="Atlanta Falcons" id="26088194" odd="9.00" />
+						<choice name="Jacksonville Jaguars" id="26088211" odd="5000.00" />
+						<choice name="Minnesota Vikings" id="26088212" odd="250.00" />
+						<choice name="Baltimore Ravens" id="26088187" odd="12.00" />
+						<choice name="St. Louis Rams" id="26088213" odd="500.00" />
+						<choice name="Detroit Lions" id="26088190" odd="500.00" />
+						<choice name="Arizona Cardinals" id="26088199" odd="750.00" />
+						<choice name="Oakland Raiders" id="26088203" odd="1000.00" />
+						<choice name="Buffalo Bills" id="26088208" odd="500.00" />
+						<choice name="Cleveland Browns" id="26088209" odd="1000.00" />
+						<choice name="Green Bay Packers" id="26088183" odd="10.00" />
+						<choice name="New York Jets" id="26088196" odd="500.00" />
+						<choice name="Tennessee Titans" id="26088205" odd="500.00" />
+						<choice name="Houston Texans" id="26088186" odd="5.50" />
+						<choice name="San Francisco 49ers" id="26088193" odd="6.00" />
+						<choice name="New Orleans Saints" id="26088185" odd="50.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Boxing" id="16">
+		<event name="Title Fights" id="15872">
+			<match name="Trout Austin - Miguel Cotto" id="495625"
+				start_date="2012-12-02T02:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Box_Mrs" name="Match Result" id="4077715">
+						<choice name="%1%" id="32642457" odd="3.00" />
+						<choice name="Draw" id="32642458" odd="25.00" />
+						<choice name="%2%" id="32642459" odd="1.33" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Mikkel Kessler - Brian Magee" id="495626"
+				start_date="2012-12-08T21:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Box_Mrs" name="Match Result" id="4077720">
+						<choice name="%1%" id="32642494" odd="1.13" />
+						<choice name="Draw" id="32642495" odd="28.00" />
+						<choice name="%2%" id="32642496" odd="5.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="Non-Title Fights" id="15873">
+			<match name="Manny Pacquiao - Juan Manuel Marquez" id="495632"
+				start_date="2012-12-09T03:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Box_Mrs" name="Match Result" id="4077790">
+						<choice name="%1%" id="32643201" odd="1.33" />
+						<choice name="Draw" id="32643202" odd="22.00" />
+						<choice name="%2%" id="32643203" odd="3.20" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Amir Khan - Carlos Molina" id="495633"
+				start_date="2012-12-16T02:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Box_Mrs" name="Match Result" id="4077795">
+						<choice name="%1%" id="32643238" odd="1.06" />
+						<choice name="Draw" id="32643239" odd="30.00" />
+						<choice name="%2%" id="32643240" odd="8.00" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Tomasz Adamek - Steve Cunningham" id="495634"
+				start_date="2012-12-22T02:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Box_Mrs" name="Match Result" id="4077800">
+						<choice name="%1%" id="32643275" odd="1.28" />
+						<choice name="Draw" id="32643276" odd="25.00" />
+						<choice name="%2%" id="32643277" odd="3.30" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Martial Arts" id="23">
+		<event name="UFC on Fox" id="16110">
+			<match name="Ben Henderson - Nate Diaz" id="499748"
+				start_date="2012-12-09T02:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Mma_Mrs" name="Match Result" id="4151454">
+						<choice name="%1%" id="33033599" odd="1.65" />
+						<choice name="%2%" id="33033600" odd="2.10" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Mauricio Rua - Alexander Gustafsson" id="499749"
+				start_date="2012-12-09T02:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Mma_Mrs" name="Match Result" id="4151456">
+						<choice name="%1%" id="33033603" odd="2.35" />
+						<choice name="%2%" id="33033604" odd="1.52" />
+					</bet>
+				</bets>
+			</match>
+			<match name="B.J. Penn - Rory MacDonald" id="499750"
+				start_date="2012-12-09T02:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Mma_Mrs" name="Match Result" id="4151458">
+						<choice name="%1%" id="33033607" odd="2.90" />
+						<choice name="%2%" id="33033608" odd="1.35" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Table Tennis" id="32">
+		<event name="Challenger Series" id="15800">
+			<match name="Peter Musko - Petr David" id="500673" start_date="2012-11-26T13:30:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Tbt_Mwi" name="Match Winner" id="4169533">
+						<choice name="%1%" id="33124766" odd="2.20" />
+						<choice name="%2%" id="33124767" odd="1.60" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Lubomir Pistej - Adam Lindner" id="500674"
+				start_date="2012-11-26T14:10:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Tbt_Mwi" name="Match Winner" id="4169543">
+						<choice name="%1%" id="33124782" odd="2.30" />
+						<choice name="%2%" id="33124783" odd="1.55" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Darts" id="53">
+		<event name="PDC World Champs." id="4152">
+			<match name="PDC World Championships 2013" id="423190"
+				start_date="2013-01-03T19:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Dar_Win" name="Outright Winner" id="2877300">
+						<choice name="Phil Taylor" id="25733896" odd="3.50" />
+						<choice name="Raymond van Barneveld" id="25733904" odd="10.00" />
+						<choice name="James Wade" id="25733899" odd="18.00" />
+						<choice name="Gary Anderson" id="25733898" odd="16.00" />
+						<choice name="Mervyn King" id="25733906" odd="40.00" />
+						<choice name="Adrian Lewis" id="25733897" odd="10.00" />
+						<choice name="Mark Walsh" id="25733921" odd="125.00" />
+						<choice name="Colin Osborne" id="25733929" odd="200.00" />
+						<choice name="Terry Jenkins" id="25733909" odd="60.00" />
+						<choice name="John Part" id="25733916" odd="125.00" />
+						<choice name="Robert Thornton" id="25733923" odd="30.00" />
+						<choice name="Ronnie Baxter" id="25733930" odd="150.00" />
+						<choice name="Alan Tabern" id="25733938" odd="250.00" />
+						<choice name="Kevin Painter" id="25733910" odd="80.00" />
+						<choice name="Jelle Klaasen" id="25733932" odd="250.00" />
+						<choice name="Colin Lloyd" id="25733922" odd="125.00" />
+						<choice name="Co Stompe" id="25733918" odd="200.00" />
+						<choice name="Vincent van der Voort" id="25733917" odd="150.00" />
+						<choice name="Michael van Gerwen" id="25733915" odd="4.00" />
+						<choice name="Wayne Mardle" id="25733947" odd="500.00" />
+						<choice name="Mark Dudbridge" id="25733943" odd="300.00" />
+						<choice name="Jamie Caven" id="25733944" odd="200.00" />
+						<choice name="Dennis Priestley" id="25733945" odd="500.00" />
+						<choice name="Andy Smith" id="25733933" odd="200.00" />
+						<choice name="Wayne Jones" id="25733925" odd="200.00" />
+						<choice name="Wes Newton" id="25733905" odd="25.00" />
+						<choice name="Denis Ovens" id="25733940" odd="250.00" />
+						<choice name="Steve Beaton" id="25733931" odd="150.00" />
+						<choice name="Peter Wright" id="25733919" odd="150.00" />
+						<choice name="Brendan Dolan" id="25733939" odd="200.00" />
+						<choice name="Paul Nicholson" id="25733903" odd="50.00" />
+						<choice name="Simon Whitlock" id="25733900" odd="14.00" />
+						<choice name="Mark Webster" id="25733902" odd="70.00" />
+						<choice name="Peter Manley" id="25733946" odd="750.00" />
+						<choice name="Scott Waites" id="25733912" odd="100.00" />
+						<choice name="Ted Hankey" id="25733924" odd="150.00" />
+						<choice name="Steve Brown" id="25733937" odd="200.00" />
+						<choice name="John Henderson" id="25733936" odd="200.00" />
+						<choice name="Dave Chisnall" id="25733901" odd="20.00" />
+						<choice name="Antonio Alcinas" id="25733926" odd="200.00" />
+						<choice name="Steve Farmer" id="25733942" odd="300.00" />
+						<choice name="Mark Hylton" id="25733927" odd="200.00" />
+						<choice name="Justin Pipe" id="25733913" odd="50.00" />
+						<choice name="Arron Monk" id="25733928" odd="200.00" />
+						<choice name="Nigel Heydon" id="25733941" odd="300.00" />
+						<choice name="Joe Cullen" id="25733935" odd="200.00" />
+						<choice name="Richie Burnett" id="25733920" odd="125.00" />
+						<choice name="Dean Winstanley" id="25733911" odd="65.00" />
+						<choice name="Andy Hamilton" id="25733908" odd="40.00" />
+						<choice name="Scott Rand" id="25733907" odd="150.00" />
+						<choice name="Devon Petersen" id="25733934" odd="200.00" />
+						<choice name="Kim Huybrechts" id="25733914" odd="40.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Snooker" id="54">
+		<event name="World Championship" id="3019">
+			<match name="World Championship 2013" id="457975" start_date="2013-05-06T12:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Snk_Win" name="Outright Winner" id="3432888">
+						<choice name="Mark Allen" id="29032299" odd="15.00" />
+						<choice name="Stuart Bingham" id="29032312" odd="50.00" />
+						<choice name="Nigel Bond" id="29032403" odd="350.00" />
+						<choice name="Jamie Burnett" id="29032342" odd="300.00" />
+						<choice name="Marcus Campbell" id="29032333" odd="200.00" />
+						<choice name="Ali Carter" id="29032301" odd="30.00" />
+						<choice name="Liu Chuang" id="29032334" odd="250.00" />
+						<choice name="Jamie Cope" id="29032313" odd="100.00" />
+						<choice name="Dominic Dale" id="29032330" odd="300.00" />
+						<choice name="Mark Davis" id="29032323" odd="125.00" />
+						<choice name="Steve Davis" id="29032426" odd="500.00" />
+						<choice name="Ryan Day" id="29032306" odd="80.00" />
+						<choice name="Ken Doherty" id="29032337" odd="250.00" />
+						<choice name="Graeme Dott" id="29032304" odd="45.00" />
+						<choice name="Tony Drago" id="29032427" odd="500.00" />
+						<choice name="Adam Duffy" id="29032331" odd="250.00" />
+						<choice name="Mike Dunn" id="29032413" odd="300.00" />
+						<choice name="Peter Ebdon" id="29032307" odd="65.00" />
+						<choice name="Tom Ford" id="29032326" odd="200.00" />
+						<choice name="Marco Fu" id="29032311" odd="80.00" />
+						<choice name="David Gilbert" id="29032327" odd="150.00" />
+						<choice name="Martin Gould" id="29032309" odd="100.00" />
+						<choice name="David Grace" id="29032420" odd="500.00" />
+						<choice name="Gerard Greene" id="29032332" odd="250.00" />
+						<choice name="Adrian Gunnell" id="29032407" odd="500.00" />
+						<choice name="Xiao Guodong" id="29032336" odd="200.00" />
+						<choice name="Anthony Hamilton" id="29032321" odd="200.00" />
+						<choice name="Dave Harold" id="29032410" odd="500.00" />
+						<choice name="Barry Hawkins" id="29032310" odd="80.00" />
+						<choice name="Andy Hicks" id="29032405" odd="400.00" />
+						<choice name="John Higgins" id="29032296" odd="8.00" />
+						<choice name="Andrew Higginson" id="29032319" odd="125.00" />
+						<choice name="Michael Holt" id="29032324" odd="200.00" />
+						<choice name="Jamie Jones" id="29032305" odd="80.00" />
+						<choice name="Mark Joyce" id="29032402" odd="350.00" />
+						<choice name="Ding Junhui" id="29032295" odd="12.00" />
+						<choice name="Mark King" id="29032320" odd="200.00" />
+						<choice name="Rod Lawler" id="29032406" odd="400.00" />
+						<choice name="Stephen Lee" id="29032302" odd="30.00" />
+						<choice name="Peter Lines" id="29032346" odd="300.00" />
+						<choice name="Kurt Maflin" id="29032418" odd="500.00" />
+						<choice name="Stephen Maguire" id="29032297" odd="15.00" />
+						<choice name="Ian McCulloch" id="29032421" odd="500.00" />
+						<choice name="Rory McLeod" id="29032345" odd="250.00" />
+						<choice name="Alan McManus" id="29032422" odd="500.00" />
+						<choice name="Aditya Mehta" id="29032414" odd="250.00" />
+						<choice name="Robert Milkins" id="29032325" odd="200.00" />
+						<choice name="David Morris" id="29032415" odd="400.00" />
+						<choice name="Shaun Murphy" id="29032298" odd="15.00" />
+						<choice name="Fergal O'Brien" id="29032341" odd="350.00" />
+						<choice name="Andrew Pagett" id="29032408" odd="500.00" />
+						<choice name="Tiang Pengfei" id="29032339" odd="250.00" />
+						<choice name="Joe Perry" id="29032315" odd="150.00" />
+						<choice name="Barry Pinches" id="29032409" odd="500.00" />
+						<choice name="Jimmy Robertson" id="29032401" odd="350.00" />
+						<choice name="Neil Robertson" id="29032293" odd="8.00" />
+						<choice name="Mark Selby" id="29032294" odd="10.00" />
+						<choice name="Matthew Selt" id="29032344" odd="350.00" />
+						<choice name="Liu Song" id="29032335" odd="300.00" />
+						<choice name="Matthew Stevens" id="29032303" odd="40.00" />
+						<choice name="Passakorn Suwannawat" id="29032419" odd="400.00" />
+						<choice name="Joe Swail" id="29032412" odd="500.00" />
+						<choice name="Judd Trump" id="29032292" odd="5.00" />
+						<choice name="Ricky Walden" id="29032308" odd="65.00" />
+						<choice name="James Wattana" id="29032416" odd="400.00" />
+						<choice name="Daniel Wells" id="29032423" odd="500.00" />
+						<choice name="Liang Wenbo" id="29032314" odd="100.00" />
+						<choice name="Jimmy White" id="29032425" odd="500.00" />
+						<choice name="Michael White" id="29032317" odd="150.00" />
+						<choice name="Mark Williams" id="29032300" odd="20.00" />
+						<choice name="Ben Woollaston" id="29032322" odd="200.00" />
+						<choice name="Li Yan" id="29032338" odd="250.00" />
+						<choice name="Igor Figueiredo" id="29032424" odd="500.00" />
+						<choice name="Luca Brecel" id="29032316" odd="150.00" />
+						<choice name="Jack Lisowski" id="29032328" odd="200.00" />
+						<choice name="Cao Yupeng" id="29032318" odd="150.00" />
+						<choice name="Yu Delu" id="29032329" odd="250.00" />
+						<choice name="Alfie Burden" id="29032340" odd="250.00" />
+						<choice name="Adam Wicheard" id="29032399" odd="300.00" />
+						<choice name="Joe Jogia" id="29032411" odd="500.00" />
+						<choice name="Sam Craigie" id="29032404" odd="350.00" />
+						<choice name="Liam Highfield" id="29032343" odd="350.00" />
+						<choice name="Kacper Filipiak" id="29032428" odd="500.00" />
+						<choice name="Anthony McGill" id="29032400" odd="300.00" />
+						<choice name="Justin Astley" id="29032417" odd="500.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+	<sport name="Biathlon" id="62">
+		<event name="World Cup M." id="4478">
+			<match name="World Cup M. 2012-2013" id="462261" start_date="2013-03-17T12:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Bia_Win" name="Outright Winner" id="3486921">
+						<choice name="Ole Einar Bjorndalen" id="29343690" odd="20.00" />
+						<choice name="Bjorn Ferry" id="29343700" odd="60.00" />
+						<choice name="Christoph Sumann" id="29343703" odd="100.00" />
+						<choice name="Arnd Peiffer" id="29343689" odd="13.00" />
+						<choice name="Martin Fourcade" id="29343685" odd="2.50" />
+						<choice name="Andreas Birnbacher" id="29343688" odd="13.00" />
+						<choice name="Andrei Makoveev" id="29343698" odd="50.00" />
+						<choice name="Michal Slesingr" id="29343704" odd="100.00" />
+						<choice name="Daniel Mesotitsch" id="29343706" odd="150.00" />
+						<choice name="Tarjei Boe" id="29343687" odd="5.50" />
+						<choice name="Emil Hegle Svendsen" id="29343686" odd="3.00" />
+						<choice name="Dominik Landertinger" id="29343701" odd="80.00" />
+						<choice name="Carl-Johan Bergman" id="29343694" odd="25.00" />
+						<choice name="Simon Fourcade" id="29343691" odd="22.00" />
+						<choice name="Evgeni Ustyugov" id="29343695" odd="30.00" />
+						<choice name="Anton Shipulin" id="29343693" odd="25.00" />
+						<choice name="Jakov Fak" id="29343699" odd="50.00" />
+						<choice name="Lukas Hofer" id="29343705" odd="150.00" />
+						<choice name="Alexis Boeuf" id="29343707" odd="150.00" />
+						<choice name="Fredrik Lindstroem" id="29343696" odd="30.00" />
+						<choice name="Benjamin Weger" id="29343702" odd="80.00" />
+						<choice name="Dmitry Malyshko" id="29343692" odd="25.00" />
+						<choice name="Evgeniy Garanichev" id="29343697" odd="35.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="World Cup W." id="4479">
+			<match name="World Cup W. 2012-2013" id="462262" start_date="2013-03-17T12:00:00"
+				live_id="" streaming="0">
+				<bets>
+					<bet code="Bia_Win" name="Outright Winner" id="3486923">
+						<choice name="Olga Zaitseva" id="29535275" odd="10.00" />
+						<choice name="Andrea Henkel" id="29535276" odd="15.00" />
+						<choice name="Svetlana Sleptsova" id="29535281" odd="40.00" />
+						<choice name="Tora Berger" id="29535273" odd="5.00" />
+						<choice name="Darya Domracheva" id="29535271" odd="1.80" />
+						<choice name="Anastasiya Kuzmina" id="29535277" odd="25.00" />
+						<choice name="Vita Semerenko" id="29535282" odd="50.00" />
+						<choice name="Kaisa Mäkäräinen" id="29535272" odd="5.00" />
+						<choice name="Marie Laure Brunet" id="29535274" odd="10.00" />
+						<choice name="Valj Semerenko" id="29535283" odd="50.00" />
+						<choice name="Teja Gregorin" id="29535286" odd="100.00" />
+						<choice name="Marie Dorin" id="29535278" odd="25.00" />
+						<choice name="Tina Bachmann" id="29535284" odd="60.00" />
+						<choice name="Weronika Nowakowska" id="29535291" odd="250.00" />
+						<choice name="Miriam Gossner" id="29535285" odd="80.00" />
+						<choice name="Veronika Vitkova" id="29535288" odd="100.00" />
+						<choice name="Synnoeve Solemdal" id="29535280" odd="40.00" />
+						<choice name="Elise Ringen" id="29535287" odd="100.00" />
+						<choice name="Franziska Hildebrand" id="29535289" odd="150.00" />
+						<choice name="Olga Vilukhina" id="29535279" odd="35.00" />
+						<choice name="Nastassia Dubarezava" id="29535290" odd="150.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="15 km Individual W. Oestersund" id="4511">
+			<match name="15 km Individual W. Oestersund 2012-2013" id="500442"
+				start_date="2012-11-29T16:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bia_Rwi" name="Winner" id="4164391">
+						<choice name="Olga Zaitseva" id="33105143" odd="8.00" />
+						<choice name="Andrea Henkel" id="33105145" odd="10.00" />
+						<choice name="Svetlana Sleptsova" id="33105151" odd="35.00" />
+						<choice name="Tora Berger" id="33105142" odd="3.75" />
+						<choice name="Darya Domracheva" id="33105141" odd="3.50" />
+						<choice name="Anastasiya Kuzmina" id="33105150" odd="25.00" />
+						<choice name="Vita Semerenko" id="33105148" odd="20.00" />
+						<choice name="Kaisa Mäkäräinen" id="33105144" odd="8.50" />
+						<choice name="Kathrin Hitzer" id="33105160" odd="80.00" />
+						<choice name="Marie Laure Brunet" id="33105146" odd="11.00" />
+						<choice name="Michaela Ponza" id="33105163" odd="100.00" />
+						<choice name="Eva Tofalvi" id="33105161" odd="80.00" />
+						<choice name="Teja Gregorin" id="33105152" odd="50.00" />
+						<choice name="Marie Dorin" id="33105147" odd="15.00" />
+						<choice name="Tina Bachmann" id="33105153" odd="50.00" />
+						<choice name="Anna Maria Nilsson" id="33105156" odd="60.00" />
+						<choice name="Agnieszka Cyl" id="33105165" odd="100.00" />
+						<choice name="Iana Romanova" id="33105157" odd="60.00" />
+						<choice name="Miriam Gossner" id="33105154" odd="50.00" />
+						<choice name="Olena Pidhrushna" id="33105162" odd="80.00" />
+						<choice name="Anais Bescond" id="33105167" odd="100.00" />
+						<choice name="Synnoeve Solemdal" id="33105166" odd="100.00" />
+						<choice name="Elise Ringen" id="33105168" odd="100.00" />
+						<choice name="Franziska Hildebrand" id="33105155" odd="60.00" />
+						<choice name="Krystyna Palka" id="33105164" odd="100.00" />
+						<choice name="Olga Vilukhina" id="33105149" odd="20.00" />
+						<choice name="Ekaterina Glazyrina" id="33105158" odd="60.00" />
+						<choice name="Natalya Burdyga" id="33105159" odd="80.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event name="20 km Individual M. Oestersund" id="4512">
+			<match name="20 km Individual M. Oestersund 2012-2013" id="500441"
+				start_date="2012-11-28T16:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bia_Rwi" name="Winner" id="4164388">
+						<choice name="Ole Einar Bjorndalen" id="33105082" odd="10.00" />
+						<choice name="Michael Greis" id="33105101" odd="40.00" />
+						<choice name="Bjorn Ferry" id="33105096" odd="40.00" />
+						<choice name="Christoph Sumann" id="33105097" odd="40.00" />
+						<choice name="Arnd Peiffer" id="33105085" odd="20.00" />
+						<choice name="Martin Fourcade" id="33105080" odd="3.50" />
+						<choice name="Andreas Birnbacher" id="33105083" odd="11.00" />
+						<choice name="Andrei Makoveev" id="33105087" odd="20.00" />
+						<choice name="Michal Slesingr" id="33105093" odd="35.00" />
+						<choice name="Tim Burke" id="33105102" odd="80.00" />
+						<choice name="Daniel Mesotitsch" id="33105094" odd="35.00" />
+						<choice name="Emil Hegle Svendsen" id="33105081" odd="4.25" />
+						<choice name="Dominik Landertinger" id="33105095" odd="40.00" />
+						<choice name="Simon Eder" id="33105103" odd="100.00" />
+						<choice name="Carl-Johan Bergman" id="33105090" odd="25.00" />
+						<choice name="Evgeni Ustyugov" id="33105084" odd="20.00" />
+						<choice name="Anton Shipulin" id="33105088" odd="20.00" />
+						<choice name="Klemen Bauer" id="33105106" odd="100.00" />
+						<choice name="Jakov Fak" id="33105086" odd="20.00" />
+						<choice name="Serguei Sednev" id="33105104" odd="100.00" />
+						<choice name="Simon Schempp" id="33105099" odd="40.00" />
+						<choice name="Alexis Boeuf" id="33105105" odd="100.00" />
+						<choice name="Fredrik Lindstroem" id="33105091" odd="25.00" />
+						<choice name="Benjamin Weger" id="33105098" odd="40.00" />
+						<choice name="Dmitry Malyshko" id="33105092" odd="35.00" />
+						<choice name="Timofey Lapshin" id="33105100" odd="40.00" />
+						<choice name="Evgeniy Garanichev" id="33105089" odd="20.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

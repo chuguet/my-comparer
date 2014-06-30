@@ -1,0 +1,116 @@
+<category name="Basketball" timeGenerated="2013-04-03T07:00:07" Bookmaker="Boyle Sports">
+	<event name="NBA Championship 2012/13" eventid="1714473.10" date="20130408" time="2205" meeting="" venue="" sporttype="Basketball" sport="Basketball - NBA">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2" suspended="false" name="Outright Winner" inrunning="0" bettypeid="7915070.10">
+			<bet name="Milwaukee Bucks" id="182615658.10" price="250/1" priceDecimal="251.00" active-price-types="CP"/>
+			<bet name="LA Lakers" id="176250227.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="LA Clippers" id="176250228.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="San Antonio Spurs" id="176250229.10" price="6/1" priceDecimal="7.00" active-price-types="CP"/>
+			<bet name="Miami Heat" id="176250230.10" price="10/11" priceDecimal="1.91" active-price-types="CP"/>
+			<bet name="Oklahoma City Thunder" id="176250231.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet name="Boston Celtics" id="176250232.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Indiana Pacers" id="176250233.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Chicago Bulls" id="176250235.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Denver Nuggets" id="176250236.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Memphis Grizzlies" id="176250237.10" price="28/1" priceDecimal="29.00" active-price-types="CP"/>
+			<bet name="Houston Rockets" id="176250239.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="Utah Jazz" id="176250240.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+			<bet name="Golden State Warriors" id="176250248.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Dallas Mavericks" id="176250242.10" price="200/1" priceDecimal="201.00" active-price-types="CP"/>
+			<bet name="Atlanta Hawks" id="176250243.10" price="100/1" priceDecimal="101.00" active-price-types="CP"/>
+			<bet name="New York Knicks" id="176250244.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Brooklyn Nets" id="176250245.10" price="40/1" priceDecimal="41.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Mens EuroBasket 2013" eventid="1717903.10" date="" time="" meeting="" venue="" sporttype="Basketball" sport="Basketball - Europe">
+		<bettype suspended="false" name="Outright Winner" inrunning="0" bettypeid="7943669.10">
+			<bet name="Slovenia" id="177271251.10" price="20/1" priceDecimal="21.00" active-price-types="AP"/>
+			<bet name="France" id="177271252.10" price="7/1" priceDecimal="8.00" active-price-types="AP"/>
+			<bet name="Great Britain" id="177271253.10" price="250/1" priceDecimal="251.00" active-price-types="AP"/>
+			<bet name="Greece" id="177271254.10" price="16/1" priceDecimal="17.00" active-price-types="AP"/>
+			<bet name="Lithuania" id="177271255.10" price="14/1" priceDecimal="15.00" active-price-types="AP"/>
+			<bet name="Macedonia" id="177271256.10" price="66/1" priceDecimal="67.00" active-price-types="AP"/>
+			<bet name="Russia" id="177271257.10" price="9/2" priceDecimal="5.50" active-price-types="AP"/>
+			<bet name="Spain" id="177271258.10" price="10/11" priceDecimal="1.91" active-price-types="AP"/>
+			<bet name="Serbia" id="176620621.10" price="16/1" priceDecimal="17.00" active-price-types="AP"/>
+			<bet name="Montenegro" id="176620622.10" price="33/1" priceDecimal="34.00" active-price-types="AP"/>
+			<bet name="Israel" id="176620623.10" price="200/1" priceDecimal="201.00" active-price-types="AP"/>
+			<bet name="Sweden" id="176620627.10" price="500/1" priceDecimal="501.00" active-price-types="AP"/>
+			<bet name="Germany" id="176620630.10" price="50/1" priceDecimal="51.00" active-price-types="AP"/>
+			<bet name="Ukraine" id="176620633.10" price="150/1" priceDecimal="151.00" active-price-types="AP"/>
+			<bet name="Croatia" id="176620635.10" price="33/1" priceDecimal="34.00" active-price-types="AP"/>
+			<bet name="Bosnia &amp; Herzegovina" id="176620638.10" price="100/1" priceDecimal="101.00" active-price-types="AP"/>
+			<bet name="Latvia" id="176620639.10" price="150/1" priceDecimal="151.00" active-price-types="AP"/>
+			<bet name="Georgia" id="176620640.10" price="150/1" priceDecimal="151.00" active-price-types="AP"/>
+			<bet name="Poland" id="176620641.10" price="150/1" priceDecimal="151.00" active-price-types="AP"/>
+			<bet name="Belgium" id="176620642.10" price="500/1" priceDecimal="501.00" active-price-types="AP"/>
+			<bet name="Finland" id="176620645.10" price="300/1" priceDecimal="301.00" active-price-types="AP"/>
+			<bet name="Czech Republic" id="176620647.10" price="300/1" priceDecimal="301.00" active-price-types="AP"/>
+			<bet name="Italy" id="176620648.10" price="40/1" priceDecimal="41.00" active-price-types="AP"/>
+			<bet name="Turkey" id="176620650.10" price="20/1" priceDecimal="21.00" active-price-types="AP"/>
+		</bettype>
+	</event>
+	<event name="NBA Conferences 2012/13" eventid="1777297.10" date="20130408" time="2205" meeting="" venue="" sporttype="Basketball" sport="Basketball - NBA">
+		<bettype suspended="false" name="Eastern Conference Winner" inrunning="0" bettypeid="8368504.10">
+			<bet name="Miami Heat" id="182615839.10" price="2/9" priceDecimal="1.22" active-price-types="CP"/>
+			<bet name="Chicago Bulls" id="182615840.10" price="14/1" priceDecimal="15.00" active-price-types="CP"/>
+			<bet name="Boston Celtics" id="182615841.10" price="25/1" priceDecimal="26.00" active-price-types="CP"/>
+			<bet name="Brooklyn Nets" id="182615842.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="New York Knicks" id="182615843.10" price="10/1" priceDecimal="11.00" active-price-types="CP"/>
+			<bet name="Indiana Pacers" id="182615844.10" price="15/2" priceDecimal="8.50" active-price-types="CP"/>
+			<bet name="Atlanta Hawks" id="182615846.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+			<bet name="Milwaukee Bucks" id="182615847.10" price="150/1" priceDecimal="151.00" active-price-types="CP"/>
+		</bettype>
+		<bettype suspended="false" name="Western Conference Winner" inrunning="0" bettypeid="8368505.10">
+			<bet name="Los Angeles Lakers" id="182616020.10" price="12/1" priceDecimal="13.00" active-price-types="CP"/>
+			<bet name="Oklahoma City Thunder" id="182616021.10" price="6/4" priceDecimal="2.50" active-price-types="CP"/>
+			<bet name="San Antonio Spurs" id="182616022.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Los Angeles Clippers" id="182616023.10" price="13/2" priceDecimal="7.50" active-price-types="CP"/>
+			<bet name="Memphis Grizzlies" id="182616024.10" price="16/1" priceDecimal="17.00" active-price-types="CP"/>
+			<bet name="Dallas Mavericks" id="182616025.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Denver Nuggets" id="182616026.10" price="8/1" priceDecimal="9.00" active-price-types="CP"/>
+			<bet name="Utah Jazz" id="182616028.10" price="125/1" priceDecimal="126.00" active-price-types="CP"/>
+			<bet name="Houston Rockets" id="182616029.10" price="66/1" priceDecimal="67.00" active-price-types="CP"/>
+			<bet name="Golden State Warriors" id="182616031.10" price="50/1" priceDecimal="51.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Trefl Sopot v PGE Turow Zgorzelec" eventid="2004822.10" date="20130403" time="1830" meeting="" venue="" sporttype="Basketball" sport="Basketball - Europe">
+		<bettype suspended="false" name="Match Betting" inrunning="0" bettypeid="10297702.10">
+			<bet had-value="AWAY" name="PGE Turow Zgorzelec" id="207735245.10" price="6/4" priceDecimal="2.50" active-price-types="CP"/>
+			<bet had-value="HOME" name="Trefl Sopot" id="207735244.10" price="1/2" priceDecimal="1.50" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-4.50" suspended="false" name="Match Handicap" inrunning="0" bettypeid="10297703.10">
+			<bet had-value="HOME" name="Trefl Sopot" id="207735246.10" handicap-id="4147878" handicap="-4.50" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet had-value="AWAY" name="PGE Turow Zgorzelec" id="207735247.10" handicap-id="4147879" handicap="4.50" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="New Yorker Phantoms Braunschweig v Oldenburg" eventid="2009769.10" date="20130403" time="1800" meeting="" venue="" sporttype="Basketball" sport="Basketball - Europe">
+		<bettype suspended="false" name="Match Betting" inrunning="0" bettypeid="10341981.10">
+			<bet had-value="HOME" name="New Yorker Phantoms Braunschweig" id="208279612.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Oldenburg" id="208279613.10" price="2/5" priceDecimal="1.40" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="5.50" suspended="false" name="Match Handicap" inrunning="0" bettypeid="10341982.10">
+			<bet had-value="HOME" name="New Yorker Phantoms Braunschweig" id="208279614.10" handicap-id="4147880" handicap="5.50" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Oldenburg" id="208279615.10" handicap-id="4147881" handicap="-5.50" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Bonn v Phoenix Hagen" eventid="2009771.10" date="20130403" time="1830" meeting="" venue="" sporttype="Basketball" sport="Basketball - Europe">
+		<bettype suspended="false" name="Match Betting" inrunning="0" bettypeid="10341984.10">
+			<bet had-value="HOME" name="Bonn" id="208279620.10" price="4/9" priceDecimal="1.44" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Phoenix Hagen" id="208279621.10" price="13/8" priceDecimal="2.63" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="-5" suspended="false" name="Match Handicap" inrunning="0" bettypeid="10341985.10">
+			<bet had-value="HOME" name="Bonn" id="208279622.10" handicap-id="4147882" handicap="-5.00" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Phoenix Hagen" id="208279623.10" handicap-id="4147883" handicap="5.00" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Anwil Wloclawek v Zastal" eventid="2012212.10" date="20130403" time="1715" meeting="" venue="" sporttype="Basketball" sport="Basketball - Europe">
+		<bettype suspended="false" name="Match Betting" inrunning="0" bettypeid="10364105.10">
+			<bet had-value="HOME" name="Anwil Wloclawek" id="208531993.10" price="11/10" priceDecimal="2.10" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Zastal" id="208531994.10" price="4/6" priceDecimal="1.67" active-price-types="CP"/>
+		</bettype>
+		<bettype handicap="1" suspended="false" name="Match Handicap" inrunning="0" bettypeid="10364106.10">
+			<bet had-value="HOME" name="Anwil Wloclawek" id="208531995.10" handicap-id="4147876" handicap="1.00" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Zastal" id="208531996.10" handicap-id="4147877" handicap="-1.00" price="5/6" priceDecimal="1.83" active-price-types="CP"/>
+		</bettype>
+	</event>
+</category>

@@ -1,0 +1,14 @@
+<category name="Tennis" timeGenerated="2013-02-20T09:45:31"
+	Bookmaker="Boyle Sports">
+	<event name="Gilles Simon v Roger Federer" eventid="2068841.10"
+		date="20130516" time="2130" meeting="" venue="" sporttype="Football"
+		sport="Roland Garros">
+		<bettype suspended="false" name="Match Winner" inrunning="0"
+			bettypeid="10929719.10">
+			<bet had-value="HOME" name="Gilles Simon" id="215223643.10"
+				price="4/1" priceDecimal="5.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Roger Federer" id="215223650.10"
+				price="1/6" priceDecimal="1.17" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>
