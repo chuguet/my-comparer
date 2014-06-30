@@ -1,0 +1,33 @@
+<odds last_modified="2012/10/04 00:12:16" date_format="YYYY/MM/DD" timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="Spain" regionid="168.1">
+			<group name="La Liga" groupid="5823.1">
+				<event name="Zaragoza v Osasuna" eventid="373918.1" betend="2012/10/07 18:00:00">
+					<bet name="Match Result" betid="2890203.1">
+						<selection name="Zaragoza" priceup="6" pricedown="5" odd="2.20" selectionid="15389268.1"/>
+						<selection name="Draw" priceup="6" pricedown="4" odd="2.50" selectionid="15389270.1"/>
+						<selection name="Osasuna" priceup="31" pricedown="10" odd="4.10" selectionid="15389271.1"/>
+					</bet>
+					<bet name="Match Winner" betid="3006951.1">
+						<selection name="Zaragoza" priceup="81" pricedown="50" odd="2.62" selectionid="15985971.1"/>
+						<selection name="Osasuna" priceup="47" pricedown="100" odd="1.47" selectionid="15985974.1"/>
+					</bet>
+					<bet name="Half-time Result" betid="2889928.1">
+						<selection name="Zaragoza" priceup="29" pricedown="10" odd="3.90" selectionid="15387216.1"/>
+						<selection name="Draw" priceup="109" pricedown="100" odd="2.09" selectionid="15387218.1"/>
+						<selection name="Osasuna" priceup="87" pricedown="50" odd="2.74" selectionid="15387220.1"/>
+					</bet>
+					<bet name="Half-time Totals Over/Under" betid="2889922.1">
+						<selection name="Over 1.5" priceup="19" pricedown="10" odd="2.90" selectionid="15387123.1"/>
+						<selection name="Under 1.5" priceup="9" pricedown="25" odd="1.36" selectionid="15387125.1"/>
+					</bet>
+					<bet name="Handicap 1" betid="2993058.1">
+						<selection name="Zaragoza" priceup="69" pricedown="10" odd="7.90" handicap="-1" selectionid="15908515.1"/>
+						<selection name="Handicap Tie" priceup="41" pricedown="10" odd="5.10" handicap="1" selectionid="15908516.1"/>
+						<selection name="Osasuna" priceup="29" pricedown="100" odd="1.29" handicap="1" selectionid="15908517.1"/>
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>

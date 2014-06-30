@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Odds>
+	<Game id="50000174403" name="Real Madrid - Deportivo La Coruna">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-30 19:50:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-30 19:50:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Spain" role="1" id="9000000215">Real Madrid</Participant>
+		<Participant info="Spain" role="2" id="138">Deportivo La Coruna</Participant>
+		<OutcomeSet type="Result" id="50001393210" name="Real Madrid - Deportivo La Coruna">
+			<Outcome odds="1.13" id="50058873040" name="1">
+				<Participant info="Spain" id="9000000215">Real Madrid</Participant>
+			</Outcome>
+			<Outcome odds="7.25" id="50058873041" name="X"/>
+			<Outcome odds="21.0" id="50058873042" name="2">
+				<Participant info="Spain" id="138">Deportivo La Coruna</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174402" name="Malaga - Real Betis">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-29 18:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-29 18:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Spain" role="1" id="9000002235">Malaga</Participant>
+		<Participant info="Spain" role="2" id="148">Real Betis</Participant>
+		<OutcomeSet type="Result" id="50001394858" name="Malaga - Real Betis">
+			<Outcome odds="1.75" id="50058912130" name="1">
+				<Participant info="Spain" id="9000002235">Malaga</Participant>
+			</Outcome>
+			<Outcome odds="3.55" id="50058912131" name="X"/>
+			<Outcome odds="4.6" id="50058912132" name="2">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174052" name="Real Betis - Atletico Madrid">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-26 21:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-26 21:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Spain" role="1" id="148">Real Betis</Participant>
+		<Participant info="Spain" role="2" id="154">Atletico Madrid</Participant>
+		<OutcomeSet id="50001371271" name="Real Betis - Atletico Madrid (Both teams to score in 2nd half)">
+			<Outcome odds="3.25" id="50058884126" name="Yes"/>
+			<Outcome odds="1.28" id="50058884127" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371269" name="Real Betis - Atletico Madrid (Both teams to score in 1st half)">
+			<Outcome odds="4.5" id="50058884124" name="Yes"/>
+			<Outcome odds="1.15" id="50058884125" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371276" name="Real Betis - Atletico Madrid (Home team to win both halves)">
+			<Outcome odds="14.0" id="50058884026" name="Yes"/>
+			<Outcome odds="1.01" id="50058884027" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371268" name="Real Betis - Atletico Madrid (Home team clean sheet in 1st half)">
+			<Outcome odds="1.8" id="50058884012" name="Yes"/>
+			<Outcome odds="1.87" id="50058884013" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001371288" name="Real Betis - Atletico Madrid H(0 - 1)">
+			<Outcome odds="7.25" id="50058883824" name="1">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="5.15" id="50058883825" name="X"/>
+			<Outcome odds="1.3" id="50058883826" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>1.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Team" id="50001371287" name="Real Betis - Atletico Madrid (under/over Real Betis: 1.5)">
+			<Outcome odds="2.65" id="50058883819" name="over">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.4" id="50058883820" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Team" id="50001371286" name="Real Betis - Atletico Madrid (under/over Atletico Madrid: 1.5)">
+			<Outcome odds="2.02" id="50058883817" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.67" id="50058883818" name="under">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371284" name="Real Betis - Atletico Madrid (Total goals 2nd half) (under/over: 2.5)">
+			<Outcome odds="4.55" id="50058883995" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="1.15" id="50058883998" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371283" name="Real Betis - Atletico Madrid (Total goals 2nd half) (under/over: 1.5)">
+			<Outcome odds="2.02" id="50058883987" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="1.7" id="50058883988" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371282" name="Real Betis - Atletico Madrid (Total goals 1st half) (under/over: 2.5)">
+			<Outcome odds="7.5" id="50058883959" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="1.05" id="50058883960" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371281" name="Real Betis - Atletico Madrid (Total goals 1st half) (under/over: 1.5)">
+			<Outcome odds="2.7" id="50058883957" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="1.41" id="50058883958" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001371280" name="Real Betis - Atletico Madrid (under/over: 4.5)">
+			<Outcome odds="6.05" id="50058883811" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.11" id="50058883812" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001371279" name="Real Betis - Atletico Madrid (under/over: 3.5)">
+			<Outcome odds="3.05" id="50058883809" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.35" id="50058883810" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371277" name="Real Betis - Atletico Madrid (Exact score 2nd half)">
+			<Outcome odds="3.7" id="50057992992" name="0-0"/>
+			<Outcome odds="5.45" id="50057992993" name="1-0"/>
+			<Outcome odds="4.55" id="50057992994" name="0-1"/>
+			<Outcome odds="6.5" id="50057992997" name="1-1"/>
+			<Outcome odds="16.5" id="50057992998" name="2-0"/>
+			<Outcome odds="11.25" id="50057992999" name="0-2"/>
+			<Outcome odds="20.0" id="50057993000" name="2-1"/>
+			<Outcome odds="16.5" id="50057993001" name="1-2"/>
+			<Outcome odds="47.0" id="50057993002" name="2-2"/>
+			<Outcome odds="225.0" id="50057993003" name="3-2"/>
+			<Outcome odds="180.0" id="50057993004" name="2-3"/>
+			<Outcome odds="800.0" id="50057993005" name="3-3"/>
+			<Outcome odds="3000.0" id="50057993006" name="4-3"/>
+			<Outcome odds="3000.0" id="50057993007" name="3-4"/>
+			<Outcome odds="3000.0" id="50057993008" name="4-4"/>
+			<Outcome odds="75.0" id="50057993010" name="3-0"/>
+			<Outcome odds="42.0" id="50057993013" name="0-3"/>
+			<Outcome odds="90.0" id="50057993015" name="3-1"/>
+			<Outcome odds="60.0" id="50057993016" name="1-3"/>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001371278" name="Real Betis - Atletico Madrid (under/over: 2.5)">
+			<Outcome odds="1.8" id="50058883762" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>2.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="1.95" id="50058883763" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>2.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371275" name="Real Betis - Atletico Madrid (Away team to win both halves)">
+			<Outcome odds="7.5" id="50058884030" name="Yes"/>
+			<Outcome odds="1.05" id="50058884031" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371274" name="Real Betis - Atletico Madrid (Away team clean sheet in 2nd half)">
+			<Outcome odds="1.82" id="50058884024" name="Yes"/>
+			<Outcome odds="1.85" id="50058884025" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371273" name="Real Betis - Atletico Madrid (Away team clean sheet in 1st half)">
+			<Outcome odds="1.57" id="50058884022" name="Yes"/>
+			<Outcome odds="2.2" id="50058884023" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371272" name="Real Betis - Atletico Madrid (Home team clean sheet in 2nd half)">
+			<Outcome odds="2.15" id="50058884018" name="Yes"/>
+			<Outcome odds="1.6" id="50058884019" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371270" name="Real Betis - Atletico Madrid (Time of 1st goal (36 min))">
+			<Outcome odds="1.55" id="50058884006" name="00:00-35:59"/>
+			<Outcome odds="2.3" id="50058884005" name="36:00 min or later/No goal"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371267" name="Real Betis - Atletico Madrid (Most scoring half)">
+			<Outcome odds="3.05" id="50058883972" name="1st half"/>
+			<Outcome odds="3.65" id="50058883975" name="Equal"/>
+			<Outcome odds="2.02" id="50058883978" name="2nd half"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371266" name="Real Betis - Atletico Madrid (Both teams to score?)">
+			<Outcome odds="1.65" id="50057992965" name="Yes"/>
+			<Outcome odds="2.1" id="50057992967" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371265" name="Real Betis - Atletico Madrid (Exact score half time)">
+			<Outcome odds="2.95" id="50058883974" name="0-0"/>
+			<Outcome odds="5.1" id="50058883983" name="1-0"/>
+			<Outcome odds="4.2" id="50058883976" name="0-1"/>
+			<Outcome odds="7.65" id="50058883981" name="1-1"/>
+			<Outcome odds="19.0" id="50058883969" name="2-0"/>
+			<Outcome odds="13.25" id="50058883979" name="0-2"/>
+			<Outcome odds="25.0" id="50058883985" name="1-2"/>
+			<Outcome odds="30.0" id="50058883971" name="2-1"/>
+			<Outcome odds="90.0" id="50058883967" name="2-2"/>
+			<Outcome odds="550.0" id="50058883989" name="3-2"/>
+			<Outcome odds="450.0" id="50058883968" name="2-3"/>
+			<Outcome odds="2500.0" id="50058883986" name="3-3"/>
+			<Outcome odds="3000.0" id="50058883993" name="4-3"/>
+			<Outcome odds="3000.0" id="50058883991" name="3-4"/>
+			<Outcome odds="3000.0" id="50058883994" name="4-4"/>
+			<Outcome odds="110.0" id="50058883996" name="3-0"/>
+			<Outcome odds="60.0" id="50058883980" name="0-3"/>
+			<Outcome odds="170.0" id="50058883990" name="3-1"/>
+			<Outcome odds="120.0" id="50058883984" name="1-3"/>
+		</OutcomeSet>
+		<OutcomeSet type="Exact Score" id="50001371260" name="Real Betis - Atletico Madrid (exact score)">
+			<Outcome odds="55.0" id="50058657717" name="0-4">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="200.0" id="50058657718" name="0-5">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="800.0" id="50058657719" name="0-6">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="2500.0" id="50058657751" name="4-5">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657752" name="4-6">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="10.5" id="50058657721" name="0-0">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="10.0" id="50058657715" name="0-2">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="21.0" id="50058657724" name="0-3">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="120.0" id="50058657744" name="4-0">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="85.0" id="50058657745" name="4-1">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="13.75" id="50058657709" name="2-2">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="29.0" id="50058657711" name="2-3">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="14.5" id="50058657712" name="2-0">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="10.0" id="50058657720" name="2-1">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="1250.0" id="50058657713" name="2-6">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="7.25" id="50058657722" name="0-1">
+				<OptionalValue1>0.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="80.0" id="50058657723" name="2-4">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="275.0" id="50058657716" name="2-5">
+				<OptionalValue1>2.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="6.0" id="50058657725" name="1-1">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="8.75" id="50058657726" name="1-0">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="17.0" id="50058657727" name="1-3">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="8.25" id="50058657728" name="1-2">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="160.0" id="50058657729" name="1-5">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="47.0" id="50058657730" name="1-4">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="700.0" id="50058657731" name="1-6">
+				<OptionalValue1>1.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="250.0" id="50058657749" name="4-3">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657734" name="6-6">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="650.0" id="50058657750" name="4-4">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657736" name="6-4">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657737" name="6-5">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="2500.0" id="50058657740" name="6-2">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657741" name="6-3">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="2500.0" id="50058657742" name="6-0">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="1750.0" id="50058657743" name="6-1">
+				<OptionalValue1>6.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657733" name="5-5">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="2500.0" id="50058657710" name="5-4">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="120.0" id="50058657747" name="4-2">
+				<OptionalValue1>4.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657732" name="5-6">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="350.0" id="50058657735" name="5-1">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="500.0" id="50058657764" name="5-0">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="1000.0" id="50058657714" name="5-3">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="475.0" id="50058657753" name="5-2">
+				<OptionalValue1>5.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="3000.0" id="50058657754" name="3-6">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>6.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="700.0" id="50058657755" name="3-5">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>5.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="200.0" id="50058657757" name="3-4">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>4.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="60.0" id="50058657758" name="3-3">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>3.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="35.0" id="50058657760" name="3-2">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>2.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="25.0" id="50058657762" name="3-1">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>1.0</OptionalValue2>
+			</Outcome>
+			<Outcome odds="37.0" id="50058657763" name="3-0">
+				<OptionalValue1>3.0</OptionalValue1>
+				<OptionalValue2>0.0</OptionalValue2>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371264" name="Real Betis - Atletico Madrid (Number of goals - odd/even)">
+			<Outcome odds="1.9" id="50058883849" name="Odd"/>
+			<Outcome odds="1.87" id="50058883848" name="Even"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371263" name="Real Betis - Atletico Madrid (1st team to score (3-way))">
+			<Outcome odds="2.2" id="50057992910" name="Real Betis"/>
+			<Outcome odds="10.5" id="50057992914" name="No goal"/>
+			<Outcome odds="1.82" id="50057992916" name="Atletico Madrid"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371262" name="Real Betis - Atletico Madrid (Time of 1st goal (28 min))">
+			<Outcome odds="1.87" id="50058883842" name="00:00-27:59"/>
+			<Outcome odds="1.85" id="50058883839" name="28:00 min or later/No goal"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371261" name="Real Betis - Atletico Madrid (Time of 1st goal (24 mins))">
+			<Outcome odds="2.1" id="50058883843" name="00:00-23:59"/>
+			<Outcome odds="1.65" id="50058883844" name="24:00 min or later/No Goal"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001371259" name="Real Betis - Atletico Madrid (Total goals 2nd half) (under/over: 0.5)">
+			<Outcome odds="1.22" id="50058883970" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="3.85" id="50058883973" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371258" name="Real Betis - Atletico Madrid (Total goals 1st half) (under/over: 0.5)">
+			<Outcome odds="1.35" id="50058883955" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="2.95" id="50058883956" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371257" name="Real Betis - Atletico Madrid (Winner 2nd half)">
+			<Outcome odds="3.45" id="50058883845" name="1">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+			<Outcome odds="2.5" id="50058883846" name="X"/>
+			<Outcome odds="2.45" id="50058883847" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371256" name="Real Betis - Atletico Madrid (Halftime result)">
+			<Outcome odds="3.85" id="50058883999" name="1">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+			<Outcome odds="2.1" id="50058884000" name="X"/>
+			<Outcome odds="2.75" id="50058884001" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50001371255" name="Real Betis - Atletico Madrid (drawnobet)">
+			<Outcome odds="2.3" id="50058883837" name="1">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+			<Outcome odds="1.57" id="50058883838" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Double Chance" id="50001371254" name="Real Betis - Atletico Madrid">
+			<Outcome odds="1.3" id="50058883832" name="X2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+			<Outcome odds="1.63" id="50058883834" name="1X">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+			<Outcome odds="1.22" id="50058883836" name="12"/>
+		</OutcomeSet>
+		<OutcomeSet type="Result Half/Full" id="50001371253" name="Real Betis - Atletico Madrid (half/full time)">
+			<Outcome odds="5.65" id="50058883827" name="X/2"/>
+			<Outcome odds="34.0" id="50058883828" name="1/2"/>
+			<Outcome odds="5.1" id="50058883829" name="1/1"/>
+			<Outcome odds="7.75" id="50058883830" name="X/1"/>
+			<Outcome odds="5.85" id="50058883831" name="X/X"/>
+			<Outcome odds="17.0" id="50058883833" name="1/X"/>
+			<Outcome odds="17.0" id="50058883835" name="2/X"/>
+			<Outcome odds="45.0" id="50058883840" name="2/1"/>
+			<Outcome odds="3.3" id="50058883841" name="2/2"/>
+		</OutcomeSet>
+		<OutcomeSet type="Handicap" id="50001371252" name="Real Betis - Atletico Madrid H(1 - 0)">
+			<Outcome odds="1.63" id="50058883821" name="1">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>1.0</OptionalValue1>
+			</Outcome>
+			<Outcome odds="4.1" id="50058883822" name="X"/>
+			<Outcome odds="4.1" id="50058883823" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Team" id="50001371251" name="Real Betis - Atletico Madrid (under/over Atletico Madrid: 0.5)">
+			<Outcome odds="1.18" id="50058883815" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>0.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="4.25" id="50058883816" name="under">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>0.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Team" id="50001371250" name="Real Betis - Atletico Madrid (under/over Real Betis: 0.5)">
+			<Outcome odds="1.3" id="50058883813" name="over">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>0.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="3.1" id="50058883814" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>0.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Under/Over Match" id="50001371249" name="Real Betis - Atletico Madrid (under/over: 1.5)">
+			<Outcome odds="1.22" id="50058883571" name="over">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+			<Outcome odds="4.0" id="50058883572" name="under">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+				<OptionalValue1>1.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001371243" name="Real Betis - Atletico Madrid">
+			<Outcome odds="3.2" id="50058883445" name="1">
+				<Participant info="Spain" id="148">Real Betis</Participant>
+			</Outcome>
+			<Outcome odds="3.3" id="50058883446" name="X"/>
+			<Outcome odds="2.2" id="50058883447" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174404" name="Sevilla - Barcelona">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-29 22:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-29 22:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Spain" role="1" id="9000001536">Sevilla</Participant>
+		<Participant info="Spain" role="2" id="10000007457">Barcelona</Participant>
+		<OutcomeSet type="Result" id="50001393205" name="Sevilla - Barcelona">
+			<Outcome odds="5.95" id="50058872836" name="1">
+				<Participant info="Spain" id="9000001536">Sevilla</Participant>
+			</Outcome>
+			<Outcome odds="4.25" id="50058872837" name="X"/>
+			<Outcome odds="1.5" id="50058872838" name="2">
+				<Participant info="Spain" id="10000007457">Barcelona</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174400" name="Real Sociedad - Athletic Bilbao">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-29 20:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-29 20:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Spain" role="1" id="9000002594">Real Sociedad</Participant>
+		<Participant info="Spain" role="2" id="150">Athletic Bilbao</Participant>
+		<OutcomeSet type="Result" id="50001394861" name="Real Sociedad - Athletic Bilbao">
+			<Outcome odds="2.3" id="50058912268" name="1">
+				<Participant info="Spain" id="9000002594">Real Sociedad</Participant>
+			</Outcome>
+			<Outcome odds="3.3" id="50058912269" name="X"/>
+			<Outcome odds="3.0" id="50058912270" name="2">
+				<Participant info="Spain" id="150">Athletic Bilbao</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174401" name="Espanyol - Atletico Madrid">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-30 21:30:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-30 21:30:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Spain" role="1" id="146">Espanyol</Participant>
+		<Participant info="Spain" role="2" id="154">Atletico Madrid</Participant>
+		<OutcomeSet type="Result" id="50001394979" name="Espanyol - Atletico Madrid">
+			<Outcome odds="3.4" id="50058914518" name="1">
+				<Participant info="Spain" id="146">Espanyol</Participant>
+			</Outcome>
+			<Outcome odds="3.35" id="50058914519" name="X"/>
+			<Outcome odds="2.1" id="50058914520" name="2">
+				<Participant info="Spain" id="154">Atletico Madrid</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174395" name="Valencia - Real Zaragoza">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-29 16:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-29 16:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Spain" role="1" id="140">Valencia</Participant>
+		<Participant info="Spain" role="2" id="152">Real Zaragoza</Participant>
+		<OutcomeSet type="Result" id="50001394853" name="Valencia - Real Zaragoza">
+			<Outcome odds="1.4" id="50058911974" name="1">
+				<Participant info="Spain" id="140">Valencia</Participant>
+			</Outcome>
+			<Outcome odds="4.25" id="50058911975" name="X"/>
+			<Outcome odds="8.25" id="50058911976" name="2">
+				<Participant info="Spain" id="152">Real Zaragoza</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174397" name="Granada CF - Celta Vigo">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-30 12:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-30 12:00:00 CEST</BettingEndTime>
+		<LiveBet>True</LiveBet>
+		<Participant info="Football, Spain" role="1" id="10000042430">Granada CF</Participant>
+		<Participant info="Spain" role="2" id="3376">Celta Vigo</Participant>
+		<OutcomeSet type="Result" id="50001394866" name="Granada CF - Celta Vigo">
+			<Outcome odds="2.2" id="50058912352" name="1">
+				<Participant info="Football, Spain" id="10000042430">Granada CF</Participant>
+			</Outcome>
+			<Outcome odds="3.3" id="50058912353" name="X"/>
+			<Outcome odds="3.2" id="50058912354" name="2">
+				<Participant info="Spain" id="3376">Celta Vigo</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174396" name="Real Valladolid - Rayo Vallecano">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-30 16:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-30 16:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Spain Soccer" role="1" id="50000012479">Real Valladolid</Participant>
+		<Participant info="Spain" role="2" id="9000000723">Rayo Vallecano</Participant>
+		<OutcomeSet type="Result" id="50001394871" name="Real Valladolid - Rayo Vallecano">
+			<Outcome odds="1.8" id="50058912431" name="1">
+				<Participant info="Spain Soccer" id="50000012479">Real Valladolid</Participant>
+			</Outcome>
+			<Outcome odds="3.5" id="50058912432" name="X"/>
+			<Outcome odds="4.35" id="50058912433" name="2">
+				<Participant info="Spain" id="9000000723">Rayo Vallecano</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000174399" name="Osasuna - Levante">
+		<Sport>Football</Sport>
+		<Region>Spain</Region>
+		<Season>Primera Liga</Season>
+		<BreadCrumbs>Football - Spain - Primera Liga</BreadCrumbs>
+		<GameStartTime>2012-09-30 18:00:00 CEST</GameStartTime>
+		<BettingEndTime>2012-09-30 18:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="Spain" role="1" id="156">Osasuna</Participant>
+		<Participant info="Spain" role="2" id="145">Levante</Participant>
+		<OutcomeSet type="Result" id="50001394900" name="Osasuna - Levante">
+			<Outcome odds="1.95" id="50058912964" name="1">
+				<Participant info="Spain" id="156">Osasuna</Participant>
+			</Outcome>
+			<Outcome odds="3.4" id="50058912965" name="X"/>
+			<Outcome odds="3.8" id="50058912966" name="2">
+				<Participant info="Spain" id="145">Levante</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

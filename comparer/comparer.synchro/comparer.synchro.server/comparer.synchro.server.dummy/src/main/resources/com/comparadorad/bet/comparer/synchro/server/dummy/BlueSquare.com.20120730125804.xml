@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BSQDictionary version="1.0" Date="Mon Jul 30 12:05:05 BST 2012">
+	<Class>
+		<Title>Football Matches</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=385.xml</URL>
+	</Class>
+	<Class>
+		<Title>Football Long Term</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=386.xml</URL>
+	</Class>
+	<Class>
+		<Title>UK Racing</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=2.xml</URL>
+	</Class>
+	<Class>
+		<Title>Cricket</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=3.xml</URL>
+	</Class>
+	<Class>
+		<Title>Ante-Post</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=5.xml</URL>
+	</Class>
+	<Class>
+		<Title>Golf</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=6.xml</URL>
+	</Class>
+	<Class>
+		<Title>Tennis</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=7.xml</URL>
+	</Class>
+	<Class>
+		<Title>Rugby Union</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=8.xml</URL>
+	</Class>
+	<Class>
+		<Title>Snooker</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=9.xml</URL>
+	</Class>
+	<Class>
+		<Title>Greyhounds</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=10.xml</URL>
+	</Class>
+	<Class>
+		<Title>Boxing</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=11.xml</URL>
+	</Class>
+	<Class>
+		<Title>American Football</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=12.xml</URL>
+	</Class>
+	<Class>
+		<Title>Darts</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=13.xml</URL>
+	</Class>
+	<Class>
+		<Title>Politics</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=14.xml</URL>
+	</Class>
+	<Class>
+		<Title>Baseball</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=122.xml</URL>
+	</Class>
+	<Class>
+		<Title>Poker</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=124.xml</URL>
+	</Class>
+	<Class>
+		<Title>Cycling</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=126.xml</URL>
+	</Class>
+	<Class>
+		<Title>Olympics 2012</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=133.xml</URL>
+	</Class>
+	<Class>
+		<Title>Basketball</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=136.xml</URL>
+	</Class>
+	<Class>
+		<Title>Motor Sport</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=144.xml</URL>
+	</Class>
+	<Class>
+		<Title>International</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=145.xml</URL>
+	</Class>
+	<Class>
+		<Title>Ice Hockey</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=148.xml</URL>
+	</Class>
+	<Class>
+		<Title>Irish Racing</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=267.xml</URL>
+	</Class>
+	<Class>
+		<Title>TV Specials</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=270.xml</URL>
+	</Class>
+	<Class>
+		<Title>Tote Pools</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=357.xml</URL>
+	</Class>
+	<Class>
+		<Title>Virtual Racing</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=372.xml</URL>
+	</Class>
+	<Class>
+		<Title>Gaelic Games</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=365.xml</URL>
+	</Class>
+	<Class>
+		<Title>Rugby League</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=375.xml</URL>
+	</Class>
+	<Class>
+		<Title>UFC</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=387.xml</URL>
+	</Class>
+	<Class>
+		<Title>Virtual Horse Racing</Title>
+		<URL>http://cubs.bluesq.com/cubs/cubs.php?action=getpage&amp;thepage=409.xml</URL>
+	</Class>
+</BSQDictionary>

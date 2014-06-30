@@ -1,0 +1,303 @@
+<Betradar>
+	<OO>
+		<Sport>American Football</Sport>
+		<Category />
+		<Tournament>Austria</Tournament>
+		<Date>2012-06-02T17:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Danube Dragons</HomeTeam>
+			<AwayTeam>Swarco Raiders Tirol</AwayTeam>
+			<HomeOdds>8.00</HomeOdds>
+			<AwayOdds>1.02</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>American Football</Sport>
+		<Category />
+		<Tournament>Austria</Tournament>
+		<Date>2012-06-02T17:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Turek Graz Giants</HomeTeam>
+			<AwayTeam>Raiffeisen Vikings Vienna</AwayTeam>
+			<HomeOdds>4.00</HomeOdds>
+			<AwayOdds>1.15</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>American Football</Sport>
+		<Category />
+		<Tournament>Austria</Tournament>
+		<Date>2012-06-03T14:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Prague Panthers</HomeTeam>
+			<AwayTeam>Kornmesser Rangers</AwayTeam>
+			<HomeOdds>1.02</HomeOdds>
+			<AwayOdds>8.00</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>WNBA</Tournament>
+		<Date>2012-05-30T04:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Los Angeles Sparks</HomeTeam>
+			<AwayTeam>Tulsa Shock</AwayTeam>
+			<HomeOdds>1.02</HomeOdds>
+			<AwayOdds>10.00</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>NBA</Tournament>
+		<Date>2012-05-30T03:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>San Antonio Spurs</HomeTeam>
+			<AwayTeam>Oklahoma City Thunder</AwayTeam>
+			<HomeOdds>1.45</HomeOdds>
+			<AwayOdds>2.70</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>NBA</Tournament>
+		<Date>2012-05-30T03:00:00</Date>
+		<AC>1</AC>
+		<OddsType>Spread</OddsType>
+		<OddsData>
+			<HomeTeam>San Antonio Spurs</HomeTeam>
+			<AwayTeam>Oklahoma City Thunder</AwayTeam>
+			<SpreadHome>-4.50</SpreadHome>
+			<SpreadAway>+4.50</SpreadAway>
+			<HomeOdds>1.85</HomeOdds>
+			<AwayOdds>1.85</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>NBA</Tournament>
+		<Date>2012-05-30T03:00:00</Date>
+		<AC>1</AC>
+		<OddsType>Total</OddsType>
+		<OddsData>
+			<HomeTeam>San Antonio Spurs</HomeTeam>
+			<AwayTeam>Oklahoma City Thunder</AwayTeam>
+			<Totalscore>201.50</Totalscore>
+			<OverOdds>1.85</OverOdds>
+			<UnderOdds>1.85</UnderOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Brazil Men</Tournament>
+		<Date>2012-06-02T15:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Sao Jose Unimed Vinac</HomeTeam>
+			<AwayTeam>Uniceub BRB Brasilia</AwayTeam>
+			<HomeOdds>1.90</HomeOdds>
+			<AwayOdds>1.60</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Germany Bundesliga</Tournament>
+		<Date>2012-06-03T15:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Brose Baskets Bamberg</HomeTeam>
+			<AwayTeam>Ratiopharm Ulm</AwayTeam>
+			<HomeOdds>1.12</HomeOdds>
+			<AwayOdds>5.50</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>France Pro B</Tournament>
+		<Date>2012-05-29T20:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Aix Maurienne S B</HomeTeam>
+			<AwayTeam>Fos Ouest Provence Basket</AwayTeam>
+			<HomeOdds>1.45</HomeOdds>
+			<AwayOdds>2.20</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>France Pro B</Tournament>
+		<Date>2012-05-29T20:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Boulazac Basket Dordogne</HomeTeam>
+			<AwayTeam>Som Boulogne-Sur-Mer</AwayTeam>
+			<HomeOdds>1.20</HomeOdds>
+			<AwayOdds>3.40</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>France Pro B</Tournament>
+		<Date>2012-05-29T20:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Champagne Chalons Reims Basket</HomeTeam>
+			<AwayTeam>JSA Bordeaux Basket</AwayTeam>
+			<HomeOdds>1.15</HomeOdds>
+			<AwayOdds>4.00</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>France Pro B</Tournament>
+		<Date>2012-05-29T20:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Limoges CSP Elite</HomeTeam>
+			<AwayTeam>Sems Alm Evreux</AwayTeam>
+			<HomeOdds>1.15</HomeOdds>
+			<AwayOdds>4.00</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>France Pro A</Tournament>
+		<Date>2012-05-29T20:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Le Mans Sarthe Basket</HomeTeam>
+			<AwayTeam>Sluc Nancy Basket Association</AwayTeam>
+			<HomeOdds>1.45</HomeOdds>
+			<AwayOdds>2.50</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>France Pro A</Tournament>
+		<Date>2012-05-29T20:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Gravelines Grand Fort BCM</HomeTeam>
+			<AwayTeam>Cholet Basket</AwayTeam>
+			<HomeOdds>1.30</HomeOdds>
+			<AwayOdds>3.20</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Italy Lega 2</Tournament>
+		<Date>2012-05-29T20:45:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Givova Scafati</HomeTeam>
+			<AwayTeam>Giorgio Tesi Group Pistoia</AwayTeam>
+			<HomeOdds>1.35</HomeOdds>
+			<AwayOdds>2.50</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Italy A1</Tournament>
+		<Date>2012-05-29T20:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>EA7-Emporio Armani Milano</HomeTeam>
+			<AwayTeam>Scavolini Siviglia Pesaro</AwayTeam>
+			<HomeOdds>1.20</HomeOdds>
+			<AwayOdds>4.20</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Croatia</Tournament>
+		<Date>2012-05-29T20:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Cedevita Zagreb</HomeTeam>
+			<AwayTeam>KK Cibona VIP Zagreb</AwayTeam>
+			<HomeOdds>1.60</HomeOdds>
+			<AwayOdds>1.90</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Poland Tauron Basket Liga</Tournament>
+		<Date>2012-05-29T18:30:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Trefl Sopot</HomeTeam>
+			<AwayTeam>Asseco Prokom Gdynia</AwayTeam>
+			<HomeOdds>2.10</HomeOdds>
+			<AwayOdds>1.60</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category>Poland Tauron Basket Liga Champion 2011/12</Category>
+		<Tournament>Poland Tauron Basket Liga Champion</Tournament>
+		<Date>2012-06-01T08:00:00</Date>
+		<AC>1</AC>
+		<OddsType>Outright</OddsType>
+		<OddsData>
+			<OutCome>
+				<Team>Asseco Prokom Gdynia</Team>
+				<Odds>1.07</Odds>
+			</OutCome>
+			<OutCome>
+				<Team>Trefl Sopot</Team>
+				<Odds>7.00</Odds>
+			</OutCome>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Basketball</Sport>
+		<Category />
+		<Tournament>Serbia Superliga</Tournament>
+		<Date>2012-05-29T18:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Crvena Zvezda Diva</HomeTeam>
+			<AwayTeam>BC Radnicki Kragujevac</AwayTeam>
+			<HomeOdds>1.35</HomeOdds>
+			<AwayOdds>2.50</AwayOdds>
+		</OddsData>
+	</OO>
+</Betradar>

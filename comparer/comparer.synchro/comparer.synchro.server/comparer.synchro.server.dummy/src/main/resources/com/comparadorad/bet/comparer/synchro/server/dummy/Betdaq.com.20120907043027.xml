@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root ID="1">
+	<SPORT NAME="Soccer" ID="100003">
+		<EVENT NAME="Spanish Soccer" ID="190667">
+			<SUBEVENT NAME="La Liga 2012/13" ID="1081496" DATE="2012-08-10 12:00:00">
+				<SUBEVENT1 NAME="La Liga : Outright" ID="1081497" DATE="2012-08-18 18:00:00">
+					<MARKET NAME="Win Market" ID="2607687" ODDS_SYSTEM="BL">
+						<LINK URL="http://www.betdaq.com?mktid=2607687"/>
+						<SELECTION NAME="Real Madrid" ID="14059811">
+							<OUTCOME NAME="Back Real Madrid">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="3.05">
+										<AMOUNT CURRENCY="USD" VALUE="471"/>
+										<AMOUNT CURRENCY="GBP" VALUE="294"/>
+										<AMOUNT CURRENCY="EUR" VALUE="368"/>
+									</PRICE>
+									<PRICE VALUE="2.97">
+										<AMOUNT CURRENCY="USD" VALUE="405"/>
+										<AMOUNT CURRENCY="GBP" VALUE="253"/>
+										<AMOUNT CURRENCY="EUR" VALUE="317"/>
+									</PRICE>
+									<PRICE VALUE="2.93">
+										<AMOUNT CURRENCY="USD" VALUE="539"/>
+										<AMOUNT CURRENCY="GBP" VALUE="336"/>
+										<AMOUNT CURRENCY="EUR" VALUE="422"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Real Madrid">
+								<ODDS POLARITY="LAY">
+									<PRICE VALUE="3.55">
+										<AMOUNT CURRENCY="USD" VALUE="151"/>
+										<AMOUNT CURRENCY="GBP" VALUE="94"/>
+										<AMOUNT CURRENCY="EUR" VALUE="118"/>
+									</PRICE>
+									<PRICE VALUE="3.70">
+										<AMOUNT CURRENCY="USD" VALUE="52"/>
+										<AMOUNT CURRENCY="GBP" VALUE="32"/>
+										<AMOUNT CURRENCY="EUR" VALUE="41"/>
+									</PRICE>
+									<PRICE VALUE="3.90">
+										<AMOUNT CURRENCY="USD" VALUE="70"/>
+										<AMOUNT CURRENCY="GBP" VALUE="43"/>
+										<AMOUNT CURRENCY="EUR" VALUE="54"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Barcelona" ID="14059812">
+							<OUTCOME NAME="Back Barcelona">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="1.45">
+										<AMOUNT CURRENCY="USD" VALUE="837"/>
+										<AMOUNT CURRENCY="GBP" VALUE="522"/>
+										<AMOUNT CURRENCY="EUR" VALUE="654"/>
+									</PRICE>
+									<PRICE VALUE="1.41">
+										<AMOUNT CURRENCY="USD" VALUE="894"/>
+										<AMOUNT CURRENCY="GBP" VALUE="558"/>
+										<AMOUNT CURRENCY="EUR" VALUE="699"/>
+									</PRICE>
+									<PRICE VALUE="1.37">
+										<AMOUNT CURRENCY="USD" VALUE="1189"/>
+										<AMOUNT CURRENCY="GBP" VALUE="742"/>
+										<AMOUNT CURRENCY="EUR" VALUE="930"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Barcelona">
+								<ODDS POLARITY="LAY">
+									<PRICE VALUE="1.61">
+										<AMOUNT CURRENCY="USD" VALUE="150"/>
+										<AMOUNT CURRENCY="GBP" VALUE="93"/>
+										<AMOUNT CURRENCY="EUR" VALUE="117"/>
+									</PRICE>
+									<PRICE VALUE="1.62">
+										<AMOUNT CURRENCY="USD" VALUE="286"/>
+										<AMOUNT CURRENCY="GBP" VALUE="179"/>
+										<AMOUNT CURRENCY="EUR" VALUE="224"/>
+									</PRICE>
+									<PRICE VALUE="1.66">
+										<AMOUNT CURRENCY="USD" VALUE="381"/>
+										<AMOUNT CURRENCY="GBP" VALUE="238"/>
+										<AMOUNT CURRENCY="EUR" VALUE="298"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Malaga" ID="14059813">
+							<OUTCOME NAME="Back Malaga">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="220.00">
+										<AMOUNT CURRENCY="USD" VALUE="6"/>
+										<AMOUNT CURRENCY="GBP" VALUE="3"/>
+										<AMOUNT CURRENCY="EUR" VALUE="4"/>
+									</PRICE>
+									<PRICE VALUE="215.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="198.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Malaga">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Valencia" ID="14059814">
+							<OUTCOME NAME="Back Valencia">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="196.00">
+										<AMOUNT CURRENCY="USD" VALUE="7"/>
+										<AMOUNT CURRENCY="GBP" VALUE="4"/>
+										<AMOUNT CURRENCY="EUR" VALUE="6"/>
+									</PRICE>
+									<PRICE VALUE="194.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="10"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="186.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Valencia">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Atletico Madrid" ID="14059815">
+							<OUTCOME NAME="Back Atletico Madrid">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="72.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="64.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="56.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Atletico Madrid">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Atletico Bilbao" ID="14059816">
+							<OUTCOME NAME="Back Atletico Bilbao">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Atletico Bilbao">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Sevilla" ID="14059817">
+							<OUTCOME NAME="Back Sevilla">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="495.00">
+										<AMOUNT CURRENCY="USD" VALUE="3"/>
+										<AMOUNT CURRENCY="GBP" VALUE="1"/>
+										<AMOUNT CURRENCY="EUR" VALUE="2"/>
+									</PRICE>
+									<PRICE VALUE="490.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="470.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Sevilla">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Levante" ID="14059818">
+							<OUTCOME NAME="Back Levante">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Levante">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Betis" ID="14059819">
+							<OUTCOME NAME="Back Betis">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Betis">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Espanyol" ID="14059820">
+							<OUTCOME NAME="Back Espanyol">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Espanyol">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Getafe" ID="14059821">
+							<OUTCOME NAME="Back Getafe">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Getafe">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Mallorca" ID="14059822">
+							<OUTCOME NAME="Back Mallorca">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Mallorca">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Osasuna" ID="14059823">
+							<OUTCOME NAME="Back Osasuna">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Osasuna">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Sociedad" ID="14059824">
+							<OUTCOME NAME="Back Sociedad">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Sociedad">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Rayo Vallecano" ID="14059825">
+							<OUTCOME NAME="Back Rayo Vallecano">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Rayo Vallecano">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Zaragoza" ID="14059826">
+							<OUTCOME NAME="Back Zaragoza">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Zaragoza">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Granada" ID="14059827">
+							<OUTCOME NAME="Back Granada">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Granada">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Deportivo" ID="14259693">
+							<OUTCOME NAME="Back Deportivo">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Deportivo">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Celta Vigo" ID="14259694">
+							<OUTCOME NAME="Back Celta Vigo">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Celta Vigo">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+						<SELECTION NAME="Valladolid" ID="14259695">
+							<OUTCOME NAME="Back Valladolid">
+								<ODDS POLARITY="BACK">
+									<PRICE VALUE="885.00">
+										<AMOUNT CURRENCY="USD" VALUE="17"/>
+										<AMOUNT CURRENCY="GBP" VALUE="11"/>
+										<AMOUNT CURRENCY="EUR" VALUE="13"/>
+									</PRICE>
+									<PRICE VALUE="865.00">
+										<AMOUNT CURRENCY="USD" VALUE="23"/>
+										<AMOUNT CURRENCY="GBP" VALUE="14"/>
+										<AMOUNT CURRENCY="EUR" VALUE="18"/>
+									</PRICE>
+									<PRICE VALUE="845.00">
+										<AMOUNT CURRENCY="USD" VALUE="31"/>
+										<AMOUNT CURRENCY="GBP" VALUE="19"/>
+										<AMOUNT CURRENCY="EUR" VALUE="24"/>
+									</PRICE>
+								</ODDS>
+							</OUTCOME>
+							<OUTCOME NAME="Lay Valladolid">
+								<ODDS POLARITY="LAY"/>
+							</OUTCOME>
+						</SELECTION>
+					</MARKET>
+				</SUBEVENT1>
+			</SUBEVENT>
+		</EVENT>
+	</SPORT>
+</root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Odds>
+	<Game id="50000139381" name="Portugal - Spain">
+		<Sport>Football</Sport>
+		<Region>International</Region>
+		<Season>EURO 2012 Matches</Season>
+		<BreadCrumbs>Football - UEFA - EURO 2012  - EURO 2012 Matches</BreadCrumbs>
+		<GameStartTime>2014-06-27 20:45:00 CEST</GameStartTime>
+		<BettingEndTime>2014-06-27 20:45:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<Participant info="EURO 2012" role="1" id="10000043292">Portugal</Participant>
+		<Participant info="EURO 2012" role="2" id="10000043294">Spain</Participant>
+		<OutcomeSet id="50001044337" name="Portugal - Spain (Top scorer H2H)">
+			<Outcome odds="3.85" id="50042941416" name="Cristiano Ronaldo"/>
+			<Outcome odds="4.65" id="50042941417" name="Cesc Fàbregas"/>
+			<Outcome odds="1.6" id="50042941418" name="Equal"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001044336" name="Portugal - Spain (Top scorer H2H)">
+			<Outcome odds="3.95" id="50042941217" name="Cristiano Ronaldo"/>
+			<Outcome odds="4.15" id="50042941218" name="Fernando Torres"/>
+			<Outcome odds="1.65" id="50042941219" name="Equal"/>
+		</OutcomeSet>
+		<OutcomeSet id="50001044329" name="Portugal - Spain (Both teams to score)">
+			<Outcome odds="2.2" id="50042940117" name="Yes"/>
+			<Outcome odds="1.6" id="50042940118" name="No"/>
+		</OutcomeSet>
+		<OutcomeSet type="Result" id="50001037477" name="Portugal - Spain">
+			<Outcome odds="4.35" id="50042834470" name="1">
+				<Participant info="EURO 2012" id="10000043292">Portugal</Participant>
+			</Outcome>
+			<Outcome odds="3.3" id="50042834471" name="X"/>
+			<Outcome odds="1.9" id="50042834472" name="2">
+				<Participant info="EURO 2012" id="10000043294">Spain</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

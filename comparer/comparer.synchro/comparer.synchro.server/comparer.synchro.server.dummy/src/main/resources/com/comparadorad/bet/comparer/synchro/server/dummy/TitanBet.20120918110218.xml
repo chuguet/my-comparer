@@ -1,0 +1,17 @@
+<!-- edited with XMLSpy v2010 (http://www.altova.com) by MESMERiZE (MiZE) -->
+<bookmaker name="titanbet">
+	<sport id="6" name="Football">
+		<group id="40313" name="Spain - La Liga">
+			<event id="850551" name="Real Zaragoza - Osasuna" date="2012-09-22 14:00:00" BRI="2834417">
+				<participants>
+					<participant id="40319" team="Real Zaragoza" type="1"/>
+					<participant id="40322" team="Osasuna" type="2"/>
+				</participants>
+				<market tid="2" name="Total Goals O/U">
+					<outcome id="20953267" name="Over 2, 2.5" odds="1.95" american_odds="-105" fra_odds="19/20"/>
+					<outcome id="20953268" name="Under 2, 2.5" odds="1.8" american_odds="-125" fra_odds="4/5"/>
+				</market>
+			</event>
+		</group>
+	</sport>
+</bookmaker>

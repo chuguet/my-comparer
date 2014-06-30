@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Odds feedtime="1347963147000">
+	<Sport id="1" name="Soccer">
+		<League id="5" name="Spain Primera Division">
+			<Event id="487291" name="Zaragoza - Osasuna" date="2012-09-22" time="16:00" hometeam="Zaragoza" homeid="87" awayteam="Osasuna" awayid="92">
+				<Subevent id="1765317" title="Zaragoza - Osasuna" type="Match 1x2" date="2012-09-22" time="16:00">
+					<Selection name="Zaragoza" id="7858228" odds="2.25"/>
+					<Selection name="Draw" id="7858229" odds="3.30"/>
+					<Selection name="Osasuna" id="7858230" odds="3.30"/>
+				</Subevent>
+				<Subevent id="1765318" title="Zaragoza - Osasuna: Total goals scored" type="Odd/Even" date="2012-09-22" time="16:00">
+					<Selection name="Odd" id="7858231" odds="1.95"/>
+					<Selection name="Even" id="7858232" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487292" name="Celta Vigo - Getafe" date="2012-09-22" time="18:00" hometeam="Celta Vigo" homeid="91" awayteam="Getafe" awayid="1822">
+				<Subevent id="1765319" title="Celta Vigo - Getafe" type="Match 1x2" date="2012-09-22" time="18:00">
+					<Selection name="Celta Vigo" id="7858233" odds="2.00"/>
+					<Selection name="Draw" id="7858234" odds="3.40"/>
+					<Selection name="Getafe" id="7858235" odds="3.90"/>
+				</Subevent>
+				<Subevent id="1765320" title="Celta Vigo - Getafe: Total goals scored" type="Odd/Even" date="2012-09-22" time="18:00">
+					<Selection name="Odd" id="7858236" odds="1.95"/>
+					<Selection name="Even" id="7858237" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487293" name="Betis - Espanyol" date="2012-09-22" time="20:00" hometeam="Betis" homeid="101" awayteam="Espanyol" awayid="93">
+				<Subevent id="1765321" title="Betis - Espanyol" type="Match 1x2" date="2012-09-22" time="20:00">
+					<Selection name="Betis" id="7858238" odds="2.00"/>
+					<Selection name="Draw" id="7858239" odds="3.40"/>
+					<Selection name="Espanyol" id="7858240" odds="3.90"/>
+				</Subevent>
+				<Subevent id="1765322" title="Betis - Espanyol: Total goals scored" type="Odd/Even" date="2012-09-22" time="20:00">
+					<Selection name="Odd" id="7858241" odds="1.95"/>
+					<Selection name="Even" id="7858242" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487294" name="Barcelona - Granada CF" date="2012-09-22" time="22:00" hometeam="Barcelona" homeid="104" awayteam="Granada CF" awayid="74915">
+				<Subevent id="1765323" title="Barcelona - Granada CF" type="Match 1x2" date="2012-09-22" time="22:00">
+					<Selection name="Barcelona" id="7858243" odds="1.05"/>
+					<Selection name="Draw" id="7858244" odds="15.00"/>
+					<Selection name="Granada CF" id="7858245" odds="33.00"/>
+				</Subevent>
+				<Subevent id="1765324" title="Barcelona - Granada CF: Total goals scored" type="Odd/Even" date="2012-09-22" time="22:00">
+					<Selection name="Odd" id="7858246" odds="1.95"/>
+					<Selection name="Even" id="7858247" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487295" name="Mallorca - Valencia" date="2012-09-23" time="12:00" hometeam="Mallorca" homeid="98" awayteam="Valencia" awayid="102">
+				<Subevent id="1765325" title="Mallorca - Valencia" type="Match 1x2" date="2012-09-23" time="12:00">
+					<Selection name="Mallorca" id="7858248" odds="3.10"/>
+					<Selection name="Draw" id="7858249" odds="3.30"/>
+					<Selection name="Valencia" id="7858250" odds="2.35"/>
+				</Subevent>
+				<Subevent id="1765326" title="Mallorca - Valencia: Total goals scored" type="Odd/Even" date="2012-09-23" time="12:00">
+					<Selection name="Odd" id="7858251" odds="1.95"/>
+					<Selection name="Even" id="7858252" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487296" name="Levante - Real Sociedad" date="2012-09-23" time="16:00" hometeam="Levante" homeid="1821" awayteam="Real Sociedad" awayid="103">
+				<Subevent id="1765327" title="Levante - Real Sociedad" type="Match 1x2" date="2012-09-23" time="16:00">
+					<Selection name="Levante" id="7858253" odds="2.20"/>
+					<Selection name="Draw" id="7858254" odds="3.30"/>
+					<Selection name="Real Sociedad" id="7858255" odds="3.40"/>
+				</Subevent>
+				<Subevent id="1765328" title="Levante - Real Sociedad: Total goals scored" type="Odd/Even" date="2012-09-23" time="16:00">
+					<Selection name="Odd" id="7858256" odds="1.95"/>
+					<Selection name="Even" id="7858257" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487297" name="Atl. Madrid - Valladolid" date="2012-09-23" time="18:00" hometeam="Atl. Madrid" homeid="88" awayteam="Valladolid" awayid="95">
+				<Subevent id="1765329" title="Atl. Madrid - Valladolid" type="Match 1x2" date="2012-09-23" time="18:00">
+					<Selection name="Atl. Madrid" id="7858258" odds="1.35"/>
+					<Selection name="Draw" id="7858259" odds="5.00"/>
+					<Selection name="Valladolid" id="7858260" odds="9.00"/>
+				</Subevent>
+				<Subevent id="1765330" title="Atl. Madrid - Valladolid: Total goals scored" type="Odd/Even" date="2012-09-23" time="18:00">
+					<Selection name="Odd" id="7858261" odds="1.95"/>
+					<Selection name="Even" id="7858262" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487298" name="Athl. Bilbao - Malaga" date="2012-09-23" time="19:50" hometeam="Athl. Bilbao" homeid="86" awayteam="Malaga" awayid="105">
+				<Subevent id="1765331" title="Athl. Bilbao - Malaga" type="Match 1x2" date="2012-09-23" time="19:50">
+					<Selection name="Athl. Bilbao" id="7858263" odds="2.20"/>
+					<Selection name="Draw" id="7858264" odds="3.40"/>
+					<Selection name="Malaga" id="7858265" odds="3.30"/>
+				</Subevent>
+				<Subevent id="1765332" title="Athl. Bilbao - Malaga: Total goals scored" type="Odd/Even" date="2012-09-23" time="19:50">
+					<Selection name="Odd" id="7858266" odds="1.95"/>
+					<Selection name="Even" id="7858267" odds="1.85"/>
+				</Subevent>
+			</Event>
+			<Event id="487299" name="Rayo Vallecano - Real Madrid" date="2012-09-23" time="21:30" hometeam="Rayo Vallecano" homeid="41007" awayteam="Real Madrid" awayid="89">
+				<Subevent id="1765333" title="Rayo Vallecano - Real Madrid" type="Match 1x2" date="2012-09-23" time="21:30">
+					<Selection name="Rayo Vallecano" id="7858268" odds="8.50"/>
+					<Selection name="Draw" id="7858269" odds="5.20"/>
+					<Selection name="Real Madrid" id="7858270" odds="1.35"/>
+				</Subevent>
+				<Subevent id="1765334" title="Rayo Vallecano - Real Madrid: Total goals scored" type="Odd/Even" date="2012-09-23" time="21:30">
+					<Selection name="Odd" id="7858271" odds="1.95"/>
+					<Selection name="Even" id="7858272" odds="1.85"/>
+				</Subevent>
+			</Event>
+		</League>
+	</Sport>
+</Odds>
