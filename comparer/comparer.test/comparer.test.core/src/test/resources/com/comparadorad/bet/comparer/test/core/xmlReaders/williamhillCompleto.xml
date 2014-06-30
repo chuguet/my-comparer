@@ -1,0 +1,82 @@
+<oxip version="7.1" created="2013-05-14 15:50:27" lastMsgId=""
+	requestTime="1.8508">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="46" name="Football" maxRepDate="2013-05-14"
+				maxRepTime="15:03:11">
+				<type id="295" name="English Premier League"
+					url="http://sports.williamhill.com/bet/betting/t/295"
+					lastUpdateDate="2013-05-07" lastUpdateTime="09:20:12">
+					<market id="76093529" name="English Premier League - Outright - Outright"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4357647/English%2dPremier%2dLeague%2d%2d%2dOutright"
+						date="2013-08-17" time="15:00:00" betTillDate="2013-08-17"
+						betTillTime="15:00:00" lastUpdateDate="2013-06-07" lastUpdateTime="11:50:46"
+						ewPlaces="2" ewReduction="1/3">
+						<participant name="Man City" id="288762804" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2013-06-12" lastUpdateTime="15:46:04"
+							handicap="" />
+						<participant name="Man Utd" id="288762801" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2013-06-12" lastUpdateTime="15:46:04"
+							handicap="" />
+						<participant name="Chelsea" id="288762805" odds="2/1"
+							oddsDecimal="3.00" lastUpdateDate="2013-06-12" lastUpdateTime="15:46:04"
+							handicap="" />
+						<participant name="West Ham" id="305044160" odds="1500/1"
+							oddsDecimal="1501.00" lastUpdateDate="2013-06-25" lastUpdateTime="15:10:18"
+							handicap="" />
+						<participant name="Aston Villa" id="305044161" odds="1500/1"
+							oddsDecimal="1501.00" lastUpdateDate="2013-06-25" lastUpdateTime="15:10:18"
+							handicap="" />
+					</market>
+					<market id="88883412" name="Man Utd v Aston Villa - Match Handicaps"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4594955/Arsenal%2dv%2dAston%2dVilla"
+						date="2013-08-17" time="15:00:00" betTillDate="2013-08-17"
+						betTillTime="15:00:00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:26">
+						<participant name="Tie - Man Utd (+1 goal) vs Aston Villa (-1)"
+							id="329299964" odds="17/2" oddsDecimal="9.50" lastUpdateDate="2013-06-20"
+							lastUpdateTime="16:22:24" handicap="" />
+						<participant name="Man Utd +1 goal" id="329299963"
+							odds="1/33" oddsDecimal="1.03" lastUpdateDate="2013-06-20"
+							lastUpdateTime="16:22:24" handicap="" />
+						<participant name="Aston Villa -1 goal" id="329299965"
+							odds="18/1" oddsDecimal="19.00" lastUpdateDate="2013-06-20"
+							lastUpdateTime="16:22:24" handicap="" />
+					</market>
+					<market id="88883437"
+						name="Man Utd v Aston Villa - Total Match Goals Under/Over"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4594955/Arsenal%2dv%2dAston%2dVilla"
+						date="2013-08-17" time="15:00:00" betTillDate="2013-08-17"
+						betTillTime="15:00:00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:24">
+						<participant name="Under 5.5" id="329300142" odds="1/20"
+							oddsDecimal="1.05" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:23"
+							handicap="" />
+						<participant name="Over 5.5" id="329300141" odds="8/1"
+							oddsDecimal="9.00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:23"
+							handicap="" />
+						<participant name="Under 4.5" id="329300140" odds="1/5"
+							oddsDecimal="1.20" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:23"
+							handicap="" />
+						<participant name="Over 4.5" id="329300139" odds="10/3"
+							oddsDecimal="4.33" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:23"
+							handicap="" />
+					</market>
+					<market id="88885377" name="Man Utd v Aston Villa - Match Betting"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4594955/Arsenal%2dv%2dAston%2dVilla"
+						date="2013-08-17" time="15:00:00" betTillDate="2013-08-17"
+						betTillTime="15:00:00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:26">
+						<participant name="Aston Villa" id="329308706" odds="6/1"
+							oddsDecimal="7.00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:26"
+							handicap="" />
+						<participant name="Man Utd" id="329308704" odds="4/11"
+							oddsDecimal="1.36" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:26"
+							handicap="" />
+						<participant name="Draw" id="329308705" odds="3/1"
+							oddsDecimal="4.00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:26"
+							handicap="" />
+					</market>
+				</type>
+			</class>
+		</williamhill>
+	</response>
+</oxip>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<betbrain sport="SOCCER">
+	<event hometeam="" awayteam="" eventName="World Cup" date="15/06/2014" time="18:00" datetime="2013-06-05T18:00:00+02:00">
+		<subevent title="winner" dsymbol="PN_Z">
+			<selection name="Spain" odds="3.0000" slipURL="https://www.betgun.com/en/add-bet/6737-27052013,1"/>
+			<selection name="Germany" odds="4.1500" slipURL="https://www.betgun.com/en/add-bet/6738-27052013,1"/>
+			<selection name="Argentina" odds="6.2500" slipURL="https://www.betgun.com/en/add-bet/6739-27052013,1"/>
+			<selection name="Netherlands" odds="6.5000" slipURL="https://www.betgun.com/en/add-bet/6740-27052013,1"/>
+			<selection name="Brazil" odds="6.7500" slipURL="https://www.betgun.com/en/add-bet/6741-27052013,1"/>
+		</subevent>
+	</event>
+	<event hometeam="Real Madrid" awayteam="Atletico Madrid" eventName="Real Madrid - Atletico Madrid" date="17/05/2013" time="20:30" datetime="2013-06-04T20:30:00+02:00">
+		<subevent title="Regular game time" dsymbol="KOSZ_R">
+			<selection name="1" odds="1.7500" slipURL="https://www.betgun.com/en/add-bet/2354-02062013,1"/>
+			<selection name="2" odds="2.1500" slipURL="https://www.betgun.com/en/add-bet/2354-02062013,2"/>
+			<selection name="x" odds="15.0000" slipURL="https://www.betgun.com/en/add-bet/2354-02062013,0"/>
+		</subevent>
+	</event>
+	<event hometeam="Gilles Simon" awayteam="Roger Federer" eventName="Gilles Simon-Roger Federer" date="16/05/2013" time="03:00" datetime="2013-06-05T03:00:00+02:00">
+		<subevent title="final result" dsymbol="H_12">
+			<selection name="1" odds="2.0800" slipURL="https://www.betgun.com/en/add-bet/2966-04062013,1"/>
+			<selection name="2" odds="1.7500" slipURL="https://www.betgun.com/en/add-bet/2966-04062013,2"/>
+		</subevent>
+	</event>
+	<event hometeam="NY Knicks" awayteam="Indiana Pacers" eventName="NY Knicks - Indiana Pacers" date="17/05/2013" time="20:30" datetime="2013-06-04T20:30:00+02:00">
+		<subevent title="handicap" dsymbol="KOSZ_H">
+			<selection name="home" odds="1.9000" slipURL="https://www.betgun.com/en/add-bet/2355-02062013,1" value="2.5-0"/>
+			<selection name="away" odds="1.9000" slipURL="https://www.betgun.com/en/add-bet/2355-02062013,2" value="2.5-0"/>
+			<selection name="home" odds="1.7000" slipURL="https://www.betgun.com/en/add-bet/2356-02062013,1" value="4.5-0"/>
+			<selection name="away" odds="2.1000" slipURL="https://www.betgun.com/en/add-bet/2356-02062013,2" value="4.5-0"/>
+		</subevent>
+	</event>
+	<event hometeam="Getafe" awayteam="Valencia" eventName="Getafe - Valencia" date="18/05/2013" time="03:00" datetime="2013-06-05T03:00:00+02:00">
+		<subevent title="under/over" dsymbol="H_LB">
+			<selection name="under" odds="2.0500" slipURL="https://www.betgun.com/en/add-bet/2970-04062013,1" value="-2.5+"/>
+			<selection name="over" odds="1.7700" slipURL="https://www.betgun.com/en/add-bet/2970-04062013,2" value="-2.5+"/>
+		</subevent>
+	</event>
+</betbrain>

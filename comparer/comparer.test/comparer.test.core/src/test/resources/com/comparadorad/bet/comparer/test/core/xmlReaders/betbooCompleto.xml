@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+	<OddsObject>
+		<Sport>Football</Sport>
+		<Category>"England"</Category>
+		<Tournament>"Premier League"</Tournament>
+		<MatchId>1027363</MatchId>
+		<Date>2013-08-17T09:00:00</Date>
+		<AC>1</AC>
+		<OddsType>3W</OddsType>
+		<OddsData>
+			<HomeTeam>"Manchester United"</HomeTeam>
+			<AwayTeam>"Aston Villa"</AwayTeam>
+			<HomeOdds>1.90</HomeOdds>
+			<DrawOdds>3.40</DrawOdds>
+			<AwayOdds>3.90</AwayOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport>Football</Sport>
+		<Category>"England"</Category>
+		<Tournament>"Premier League"</Tournament>
+		<MatchId>1027361</MatchId>
+		<Date>2013-08-17T09:00:00</Date>
+		<AC>1</AC>
+		<OddsType>Total</OddsType>
+		<OddsData>
+			<HomeTeam>"Manchester United"</HomeTeam>
+			<AwayTeam>"Aston Villa"</AwayTeam>
+			<Total>2.5</Total>
+			<UnderOdds>2.00</UnderOdds>
+			<OverOdds>1.70</OverOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport>Football</Sport>
+		<Category>"England"</Category>
+		<Tournament>"Premier League"</Tournament>
+		<MatchId>1058165</MatchId>
+		<Date>2013-08-17T09:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>"Manchester United"</HomeTeam>
+			<AwayTeam>"Aston Villa"</AwayTeam>
+			<HomeOdds>1.30</HomeOdds>
+			<AwayOdds>3.10</AwayOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport>Football</Sport>
+		<Category>"England"</Category>
+		<Tournament>"Premier League"</Tournament>
+		<MatchId>1037268</MatchId>
+		<Date>2013-08-17T09:00:00</Date>
+		<AC>1</AC>
+		<OddsType>Spread</OddsType>
+		<OddsData>
+			<HomeTeam>"Manchester United"</HomeTeam>
+			<AwayTeam>"Aston Villa"</AwayTeam>
+			<SpreadHome>-2</SpreadHome>
+			<SpreadAway>+2</SpreadAway>
+			<SpreadOddsHome>1.93</SpreadOddsHome>
+			<SpreadOddsAway>1.88</SpreadOddsAway>
+		</OddsData>
+	</OddsObject>
+</List>

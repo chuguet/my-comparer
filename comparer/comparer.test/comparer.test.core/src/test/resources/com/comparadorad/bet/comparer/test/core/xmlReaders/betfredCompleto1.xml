@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Football-Premiership" timeGenerated="2013-07-21T18:37:45"
+	Bookmaker="Betfred">
+	<event name="Man Utd v Aston Villa" eventid="2552888.20" date="20130803"
+		time="1215" meeting="" venue="">
+		<bettype bet-start-date="20130803" bet-start-time="1215"
+			suspended="false" name="Match Result" inrunning="0" bettypeid="6574519.20">
+			<bet had-value="HOME" name="Man Utd" short-name="Man Utd" id="138208511.20"
+				price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="138208512.20"
+				price="12/5" priceDecimal="3.40" priceUS="240.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Aston Villa" short-name="Aston Vil"
+				id="138208513.20" price="11/8" priceDecimal="2.38" priceUS="137.50"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130803" bet-start-time="1215"
+			suspended="false" name="Money Line" inrunning="0" bettypeid="6900346.20">
+			<bet had-value="HOME" name="Man Utd" short-name="Man Utd" id="141548922.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Aston Villa" short-name="Aston Vil"
+				id="141548923.20" price="8/11" priceDecimal="1.73" priceUS="-72.73"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

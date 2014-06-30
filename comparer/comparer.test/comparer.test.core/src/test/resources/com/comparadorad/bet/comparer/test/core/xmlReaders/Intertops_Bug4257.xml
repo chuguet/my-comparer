@@ -1,0 +1,17 @@
+<Odds type="odds">
+	<Competition id="NBA" sprtyp="BK" compno="1070">
+		<Name>NBA Lines</Name>
+		<Match id="1001822">
+			<Name>New York Knicks v Los Angeles Clippers</Name>
+			<Rotation>725</Rotation>
+			<Date>11/27/2013 23:35:00</Date>
+			<hasLiveBetting>Yes</hasLiveBetting>
+			<Bet type="HL" id="1001822">
+				<line name="points1">+5.5</line>
+				<line name="odds1">1.9091</line>
+				<line name="points2">-5.5</line>
+				<line name="odds2">1.9091</line>
+			</Bet>
+		</Match>
+	</Competition>
+</Odds>

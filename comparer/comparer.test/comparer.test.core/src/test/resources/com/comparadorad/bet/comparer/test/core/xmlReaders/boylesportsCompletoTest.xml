@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Soccer" timeGenerated="2013-05-14T09:29:53"
+	Bookmaker="Boyle Sports">
+	<event name="Premier League 2013/2014" eventid="1948339.10" date=""
+		time="" meeting="" venue="" sporttype="Football" sport="Football U.K.">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2"
+			suspended="false" name="Outright Betting" inrunning="0" bettypeid="9745326.10">
+			<bet name="Aston Villa" id="216203564.10" price="1000/1"
+				priceDecimal="1001.00" active-price-types="CP" />
+			<bet name="West Ham" id="216203568.10" price="2000/1"
+				priceDecimal="2001.00" active-price-types="CP" />
+			<bet name="Man United" id="201199406.10" price="9/4"
+				priceDecimal="1.25" active-price-types="CP" />
+			<bet name="Man City" id="201199407.10" price="9/4" priceDecimal="3.25"
+				active-price-types="CP" />
+			<bet name="Chelsea" id="201199408.10" price="9/4" priceDecimal="3.25"
+				active-price-types="CP" />
+		</bettype>
+		<bettype ewreduction="4" ewplaceterms="4" eachway="1/4 Odds Place 1,2,3,4"
+			suspended="false" name="Top Goalscorer" inrunning="0" bettypeid="11093899.10">
+			<bet name="Silva, David" id="223265737.10" price="80/1"
+				priceDecimal="1.05" active-price-types="CP" />
+			<bet name="Van Persie, Robin" id="223265524.10" price="4/1"
+				priceDecimal="5.00" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

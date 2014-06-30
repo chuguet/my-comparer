@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<betbrain sport="SOCCER">
+	<event hometeam="FC Zenit St Petersburg" awayteam="Athletico Madrid"
+		eventName="FC Zenit St Petersburg-Athletico Madrid" date="30/11/2013"
+		time="16:00" datetime="2013-11-30T16:00:00+01:00">
+		<subevent title="handicap" dsymbol="PN_H">
+			<selection name="home" odds="3.6000"
+				slipURL="https://www.betgun.com/en/add-bet/2812-26112013,1" value="0-1" />
+			<selection name="draw" odds="3.5000"
+				slipURL="https://www.betgun.com/en/add-bet/2812-26112013,0" value="0-1" />
+		</subevent>
+	</event>
+</betbrain>

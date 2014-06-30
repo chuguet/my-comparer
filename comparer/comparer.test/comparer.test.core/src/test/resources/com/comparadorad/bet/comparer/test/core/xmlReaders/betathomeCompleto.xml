@@ -1,0 +1,108 @@
+<Betradar>
+	<OO>
+		<Sport>Football</Sport>
+		<Category>Who will win World Cup 2014?</Category>
+		<Tournament>World Cup</Tournament>
+		<Date>2014-06-15T10:00:00</Date>
+		<AC>1</AC>
+		<OddsType>Outright</OddsType>
+		<OddsData>
+			<OutCome>
+				<Team>Argentina</Team>
+				<Odds>2.40</Odds>
+			</OutCome>
+			<OutCome>
+				<Team>Brazil</Team>
+				<Odds>4.30</Odds>
+			</OutCome>
+			<OutCome>
+				<Team>Holland</Team>
+				<Odds>4.00</Odds>
+			</OutCome>
+			<OutCome>
+				<Team>Spain</Team>
+				<Odds>5.50</Odds>
+			</OutCome>
+			<OutCome>
+				<Team>Germany</Team>
+				<Odds>25.00</Odds>
+			</OutCome>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Football</Sport>
+		<Category />
+		<Tournament>World Cup</Tournament>
+		<Date>2013-05-17T15:00:00</Date>
+		<AC>3</AC>
+		<OddsType>3W</OddsType>
+		<OddsData>
+			<HomeTeam>Real Madrid</HomeTeam>
+			<AwayTeam>Atletico Madrid</AwayTeam>
+			<HomeOdds>1.70</HomeOdds>
+			<DrawOdds>3.60</DrawOdds>
+			<AwayOdds>3.60</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Football</Sport>
+		<Category />
+		<Tournament>World Cup</Tournament>
+		<Date>2013-05-16T13:00:00</Date>
+		<AC>1</AC>
+		<OddsType>2W</OddsType>
+		<OddsData>
+			<HomeTeam>Gilles Simon</HomeTeam>
+			<AwayTeam>Roger Federer</AwayTeam>
+			<HomeOdds>4.50</HomeOdds>
+			<AwayOdds>1.35</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Football</Sport>
+		<Category />
+		<Tournament>World Cup</Tournament>
+		<Date>2013-05-17T20:15:00</Date>
+		<AC>1</AC>
+		<OddsType>Spread</OddsType>
+		<OddsData>
+			<HomeTeam>NY Knicks</HomeTeam>
+			<AwayTeam>Indiana Pacers</AwayTeam>
+			<SpreadHome>-5.0</SpreadHome>
+			<SpreadAway>+5.0</SpreadAway>
+			<HomeOdds>1.95</HomeOdds>
+			<AwayOdds>1.70</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Football</Sport>
+		<Category />
+		<Tournament>World Cup</Tournament>
+		<Date>2013-05-20T18:00:00</Date>
+		<AC>1</AC>
+		<OddsType>HC</OddsType>
+		<OddsData>
+			<HomeTeam>Mallorca</HomeTeam>
+			<AwayTeam>Betis</AwayTeam>
+			<Handicap>0:1</Handicap>
+			<HomeOdds>3.60</HomeOdds>
+			<DrawOdds>3.55</DrawOdds>
+			<AwayOdds>1.65</AwayOdds>
+		</OddsData>
+	</OO>
+	<OO>
+		<Sport>Football</Sport>
+		<Category />
+		<Tournament>World Cup</Tournament>
+		<Date>2013-05-18T15:30:00</Date>
+		<AC>1</AC>
+		<OddsType>Total</OddsType>
+		<OddsData>
+			<HomeTeam>Getafe</HomeTeam>
+			<AwayTeam>Valencia</AwayTeam>
+			<Totalscore>2.5</Totalscore>
+			<OverOdds>1.40</OverOdds>
+			<UnderOdds>2.70</UnderOdds>
+		</OddsData>
+	</OO>
+</Betradar>

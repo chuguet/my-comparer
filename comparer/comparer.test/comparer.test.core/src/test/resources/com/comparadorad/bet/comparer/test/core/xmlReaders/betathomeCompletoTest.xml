@@ -1,0 +1,134 @@
+<List generatedAt="2013-08-23T12:26:28">
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1144807</MatchId>
+		<Date>2013-08-26T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="100" oddType="3" betTypeGroup="1"
+			defaultName="Tip" groupName="Tip" betName="Tip">3W</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester United</HomeTeam>
+			<AwayTeam>Aston Villa</AwayTeam>
+			<HomeOdds oddId="1144807_7018920_1" linkId="7018920_1">2.35</HomeOdds>
+			<DrawOdds oddId="1144807_7018920_0" linkId="7018920_0">3.25</DrawOdds>
+			<AwayOdds oddId="1144807_7018920_2" linkId="7018920_2">2.95</AwayOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1144807</MatchId>
+		<Date>2013-08-26T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="501" oddType="2" betTypeGroup="1"
+			defaultName="Tip" groupName="Tip" betName="Tip">2W</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester United</HomeTeam>
+			<AwayTeam>Aston Villa</AwayTeam>
+			<HomeOdds oddId="1140894_6978155_1" linkId="6978155_1">8.00</HomeOdds>
+			<AwayOdds oddId="1140894_6978155_2" linkId="6978155_2">1.02</AwayOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1144807</MatchId>
+		<Date>2013-08-26T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="603" oddType="2" betTypeGroup="3"
+			defaultName="Spread" groupName="Spread" betName="Spread">Spread</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester United</HomeTeam>
+			<AwayTeam>Aston Villa</AwayTeam>
+			<SpreadHome>-4.5</SpreadHome>
+			<SpreadAway>+4.5</SpreadAway>
+			<SpreadOddsHome oddId="611216_2044748_1">1.85</SpreadOddsHome>
+			<SpreadOddsAway oddId="611216_2044748_2">1.85</SpreadOddsAway>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1144807</MatchId>
+		<Date>2013-08-26T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="106" oddType="2" betTypeGroup="7"
+			defaultName="Under/Over" groupName="Under/Over" betName="Under/Over">Total
+		</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester United</HomeTeam>
+			<AwayTeam>Aston Villa</AwayTeam>
+			<Total>2.5</Total>
+			<UnderOdds oddId="1144807_7018979_1" linkId="7018979_1">1.95
+			</UnderOdds>
+			<OverOdds oddId="1144807_7018979_2" linkId="7018979_2">1.70</OverOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="197">Premier League</Tournament>
+		<MatchId>1144807</MatchId>
+		<Date>2013-08-26T21:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="102" oddType="3" betTypeGroup="2"
+			defaultName="Handicap" groupName="Handicap" betName="Handicap">HC</OddsType>
+		<OddsData>
+			<HomeTeam>Manchester United</HomeTeam>
+			<AwayTeam>Aston Villa</AwayTeam>
+			<Handicap>0:1</Handicap>
+			<HomeOdds oddId="1144807_7018921_1" linkId="7018921_1">4.60</HomeOdds>
+			<DrawOdds oddId="1144807_7018921_0" linkId="7018921_0">3.60</DrawOdds>
+			<AwayOdds oddId="1144807_7018921_2" linkId="7018921_2">1.50</AwayOdds>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="4819">Premier League Top Goal scorer</Tournament>
+		<MatchId>1128792</MatchId>
+		<Date>2014-05-11T18:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="101" oddType="1" betTypeGroup="1"
+			defaultName="Long term" groupName="Long term"
+			betName="England Premier League top scorer 2013/14">Outright</OddsType>
+		<OddsData>
+			<Outcomes>
+				<Outcome oddId="1128792_6822213_11454668" linkId="6822213_11454668"
+					name="Robin Van Persie">1.00</Outcome>
+				<Outcome oddId="1128792_6822213_11454801" linkId="6822213_11454801"
+					name="David Silva">100.00</Outcome>
+			</Outcomes>
+		</OddsData>
+	</OddsObject>
+	<OddsObject>
+		<Sport id="1">Football</Sport>
+		<Category id="247">England</Category>
+		<Tournament id="4456">Premier League Champion</Tournament>
+		<MatchId>1097073</MatchId>
+		<Date>2014-05-11T18:00:00</Date>
+		<AC>1</AC>
+		<OddsType betTypeId="101" oddType="1" betTypeGroup="1"
+			defaultName="Long term" groupName="Long term"
+			betName="England Premier League overall winner 2013/14">Outright</OddsType>
+		<OddsData>
+			<Outcomes>
+				<Outcome oddId="1097073_6459320_10985366" linkId="6459320_10985366"
+					name="Manchester United">2.00</Outcome>
+				<Outcome oddId="1097073_6459320_10985367" linkId="6459320_10985367"
+					name="Manchester City">2.70</Outcome>
+				<Outcome oddId="1097073_6459320_10985369" linkId="6459320_10985369"
+					name="Chelsea FC">3.00</Outcome>
+				<Outcome oddId="1097073_6459320_10985390" linkId="6459320_10985390"
+					name="West Ham United">500.00</Outcome>
+				<Outcome oddId="1097073_6459320_10985391" linkId="6459320_10985391"
+					name="Aston Villa">500.00</Outcome>
+			</Outcomes>
+		</OddsData>
+	</OddsObject>
+</List>

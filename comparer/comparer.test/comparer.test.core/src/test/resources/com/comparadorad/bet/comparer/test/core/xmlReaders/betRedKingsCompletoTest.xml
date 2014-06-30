@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Football>
+	<Sport id="1" name="Football">
+		<Country id="77" name="GB1">
+			<Tournament id="206369842" name="Premier League 2013/2014"
+				sortName="null">
+				<StartDate type="GMT">2013-07-31 09:00:00</StartDate>
+				<Participants>
+					<Participant id="4" name="Chelsea" />
+					<Participant id="2" name="Aston Villa" />
+					<Participant id="11" name="Manchester United FC" />
+					<Participant id="19" name="West Ham United" />
+					<Participant id="50" name="Manchester City" />
+				</Participants>
+				<TournamentOdds>
+					<BettingOffer typeId="7" scopeId="0" type="Winner"
+						scope="Full event">
+						<Odds id="22314343100701" participantId="2">1000.00</Odds>
+						<Odds id="22061495100701" participantId="4">3.25</Odds>
+						<Odds id="22061495000701" participantId="11">1.50</Odds>
+						<Odds id="22314343300701" participantId="19">1000.00</Odds>
+						<Odds id="22061494900701" participantId="50">3.25</Odds>
+					</BettingOffer>
+				</TournamentOdds>
+				<Match id="206795938">
+					<Participants>
+						<Participant id="2" type="away" name="Aston Villa" />
+						<Participant id="10" type="home" name="Manchester United FC" />
+					</Participants>
+					<StartDate type="GMT">2013-08-24 16:30:00</StartDate>
+					<MatchOdds>
+						<BettingOffer typeId="8" scopeId="3" type="Home Draw Away With Handicap" scope="First half">
+							<Odds id="33990551700801" outcome="2" handicap="-1.0">18.00</Odds>
+							<Odds id="33990553200801" outcome="2" handicap="1.0">1.44</Odds>
+							<Odds id="33990551900801" outcome="1" handicap="1.0">1.17</Odds>
+							<Odds id="33990551400801" outcome="X" handicap="-1.0">5.20</Odds>
+							<Odds id="33990553400801" outcome="1" handicap="-1.0">8.20</Odds>
+							<Odds id="33990553300801" outcome="X" handicap="1.0">3.40</Odds>
+							<Odds id="33990551600801" outcome="1" handicap="-2.0">25.00</Odds>
+							<Odds id="33990551500801" outcome="X" handicap="-2.0">10.00</Odds>
+							<Odds id="33990551800801" outcome="2" handicap="2.0">1.04</Odds>
+						</BettingOffer>
+						<BettingOffer typeId="43" scopeId="2" type="Home Draw Away"
+							scope="Full time excluding overtime">
+							<Odds id="25769080306901" outcome="2">1.90</Odds>
+							<Odds id="25769080106901" outcome="1">3.75</Odds>
+							<Odds id="25769080206901" outcome="X">3.40</Odds>
+						</BettingOffer>
+						<BettingOffer typeId="47" scopeId="2" type="Over Under"
+							scope="Full time excluding overtime">
+							<Odds id="26743268104701" outcome="under" score="0.5">22.00</Odds>
+							<Odds id="26743265904701" outcome="over" score="1.5">1.04</Odds>
+							<Odds id="26743264104701" outcome="over" score="0.5">0.99</Odds>
+							<Odds id="26743268604701" outcome="under" score="1.5">7.40</Odds>
+						</BettingOffer>
+						<BettingOffer typeId="48" scopeId="2" type="Asian Handicap"
+							scope="Full time excluding overtime">
+							<Odds id="26742242904801" outcome="1" handicap="-2.0">1.65</Odds>
+							<Odds id="26742242804801" outcome="2" handicap="2.0">2.06</Odds>
+						</BettingOffer>
+						<BettingOffer typeId="46" scopeId="2"
+							type="Home Away With Impossible Draw" scope="Full time excluding overtime">
+							<Odds id="26719627811201" outcome="2">1,001.00</Odds>
+							<Odds id="26719627711201" outcome="1">0.99</Odds>
+						</BettingOffer>
+					</MatchOdds>
+				</Match>
+			</Tournament>
+		</Country>
+	</Sport>
+</Football>

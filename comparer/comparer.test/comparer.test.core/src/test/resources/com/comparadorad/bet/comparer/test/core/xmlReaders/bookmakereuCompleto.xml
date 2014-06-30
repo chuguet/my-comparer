@@ -1,0 +1,23 @@
+<xml ErrorCode="0" ErrorMessage="">
+<Leagues> 
+	<league IdLeague="12251" IdSport="SOC" Description="ENGLAND - PREMIER LEAGUE">
+		<banner ab="True" vtm="ENGLAND - PREMIER LEAGUE - Jul 15" htm=""/>
+		<game idgm="1600111" gdesc="" idgmtyp="3" gmdt="20130715" idlg="12251" gmtm="09:00:00" idspt="SOC" vpt="" hpt="" vnum="40629" hnum="40630" evtyp="" idgp="1600111" gpd="Game" vtm="ASTON VILLA" htm="MANCHESTER UNITED" stats="false">
+			<line voddst="230" hoddst="105" ovt="-2" ovoddst="-125" unt="2" unoddst="-105" vsprdt="12" vsprdoddst="-400" hsprdt="-12" hsprdoddst="-115" vspt="0" vspoddst="200" hspt="" hspoddst="" voddsh=" 3.30" hoddsh=" 2.05" vsprdh="" hsprdh="" ovh="o2 1.80" unh="u2 1.95" vsph=" 3.00" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="True" EmptyGame="False"/>
+		</game>
+		<game idgm="1600111" gdesc="" idgmtyp="3" gmdt="20130715" idlg="12251" gmtm="09:00:00" idspt="SOC" vpt="" hpt="" vnum="40629" hnum="40630" evtyp="" idgp="1600111" gpd="Game" vtm="WEST HAM UNITED" htm="CHELSEA FC" stats="false">
+			<line voddst="230" hoddst="-2000" ovt="-2" ovoddst="-125" unt="2" unoddst="-105" vsprdt="12" vsprdoddst="-400" hsprdt="-12" hsprdoddst="-115" vspt="0" vspoddst="" hspt="" hspoddst="" voddsh=" 3.30" hoddsh=" 2.05" vsprdh="" hsprdh="" ovh="o2 1.80" unh="u2 1.95" vsph=" 3.00" hsph="" voddshr="0" vsprdhr="0" ovhr="0" vsphr="0" btot="False" bsprd="False" bml="False" haschild="False" related="True" EmptyGame="False"/>
+		</game>
+	</league>
+	<league IdLeague="12068" IdSport="TNT" Description="SOCCER FUTURES">
+		<banner ab="True" vtm="SOCCER FUTURES - Aug 17" htm=""/>
+		<game idgm="1599735" gdesc="" idgmtyp="3" gmdt="20130817" idlg="0" gmtm="07:00:00" idspt="TNT" vpt="" hpt="" vnum="0" hnum="0" evtyp="" idgp="0" gpd="" vtm="" htm="TO WIN - ENGLAND PREMIER LEAGUE 2013/14" stats="false">
+			<line tmnum="88081" tmname="MANCHESTER UNITED" odds="185" oddsh=" 2.85" bml="False" related="True"/>
+			<line tmnum="88082" tmname="MANCHESTER CITY" odds="200" oddsh=" 3.00" bml="False" related="True"/>
+			<line tmnum="88083" tmname="CHELSEA FC" odds="200" oddsh=" 3.00" bml="False" related="True"/>
+			<line tmnum="88092" tmname="ASTON VILLA" odds="10000" oddsh=" 101.00" bml="False" related="True"/>
+			<line tmnum="88093" tmname="WEST HAM UNITED" odds="12500" oddsh=" 126.00" bml="False" related="True"/>
+		</game>
+	</league>
+</Leagues>
+</xml>

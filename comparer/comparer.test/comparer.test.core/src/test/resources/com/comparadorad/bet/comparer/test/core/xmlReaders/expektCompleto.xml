@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<punter-odds id="123">
+	<game id="24275965" date="20130817" time="1600">
+		<description>
+			<category id="SOCMENEURENGFST" order="4100">Eng. Premier League
+			</category>
+			Manchester Utd - Aston Villa
+		</description>
+		<type id="0" />
+		<alternatives>
+			<alternative odds="1.35" team="124">1</alternative>
+			<alternative odds="4.65" team="124">X</alternative>
+			<alternative odds="8.50" team="119">2</alternative>
+		</alternatives>
+	</game>
+	<game id="24571631" date="20130817" time="1200">
+		<description>
+			<category id="SOCMENEURENGFST" order="29800">Eng. Premier League
+			</category>
+			Manchester Utd - Aston Villa: Over/Under
+		</description>
+		<type id="40" />
+		<alternatives>
+			<alternative odds="2.70" team="-1">Under 2.5 goals
+			</alternative>
+			<alternative odds="1.40" team="-1">Over 2.5 goals
+			</alternative>
+		</alternatives>
+	</game>
+	<game id="24477124" date="20130817" time="0200">
+		<description>
+			<category id="SOCMENEURENGFST" order="25400">Eng. Premier League
+			</category>
+			Manchester Utd - Aston Villa: Draw No Bet
+		</description>
+		<type id="140" />
+		<alternatives>
+			<alternative odds="1.95" team="25398">Manchester Utd
+			</alternative>
+			<alternative odds="1.80" team="285858">Aston Villa</alternative>
+		</alternatives>
+	</game>
+	<game id="24479863" date="20130817" time="1800">
+		<description>
+			<category id="SOCMENEURENGFST" order="37900">Eng. Premier League
+			</category>
+			Manchester Utd - Aston Villa: Asian handicap
+		</description>
+		<type id="11" />
+		<alternatives>
+			<alternative odds="1.25" team="-1">1 (-1.0)</alternative>
+			<alternative odds="0.00" team="-1">X</alternative>
+			<alternative odds="6.55" team="-1">2 (+1.0)</alternative>
+		</alternatives>
+	</game>
+	<game id="24478663" date="20130817" time="1800">
+		<description>
+			<category id="SOCMENEURENGFST" order="35900">Eng. Premier League
+			</category>
+			Manchester Utd - Aston Villa: Handicap
+		</description>
+		<type id="10" />
+		<alternatives>
+			<alternative odds="2.25" team="-1">1 (-1.0)</alternative>
+			<alternative odds="3.75" team="-1">X</alternative>
+			<alternative odds="2.45" team="-1">2 (+1.0)</alternative>
+		</alternatives>
+	</game>
+	<game id="24572304" date="20130813" time="1345">
+		<description>
+			<category id="SOCMENEURENGFST" order="39300">England - Premier League
+			</category>
+			Eng. Premier League 2013/14: Winner
+		</description>
+		<type id="70" />
+		<alternatives>
+			<alternative odds="1.25" team="87573">Manchester Utd
+			</alternative>
+			<alternative odds="1.25" team="1190">Manchester City
+			</alternative>
+			<alternative odds="3.25" team="130">Chelsea</alternative>
+			<alternative odds="1001.00" team="119">Aston Villa
+			</alternative>
+			<alternative odds="3001.00" team="122">West Ham</alternative>
+		</alternatives>
+	</game>
+</punter-odds>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1373621590521</PinnacleFeedTime>
+	<lastContest>18459905</lastContest>
+	<lastGame>104701637</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2013-08-17 14:00</event_datetimeGMT>
+			<gamenumber>310112374</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Eng. Premier</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Manchester United</participant_name>
+					<contestantnum>4001</contestantnum>
+					<rotnum>4001</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Aston Villa</participant_name>
+					<contestantnum>4002</contestantnum>
+					<rotnum>4002</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>4003</contestantnum>
+					<rotnum>4003</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-08-17 14:00
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>1000</spread_maximum>
+					<moneyline_maximum>10000</moneyline_maximum>
+					<total_maximum>1000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>130</moneyline_visiting>
+						<moneyline_home>215</moneyline_home>
+						<moneyline_draw>260</moneyline_draw>
+					</moneyline>
+					<moneyline>
+						<moneyline_visiting>120</moneyline_visiting>
+						<moneyline_home>-200</moneyline_home>
+					</moneyline>
+					<spread>
+						<spread_visiting>1.25</spread_visiting>
+						<spread_adjust_visiting>114</spread_adjust_visiting>
+						<spread_home>-1.25</spread_home>
+						<spread_adjust_home>-126</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>3</total_points>
+						<over_adjust>-103</over_adjust>
+						<under_adjust>-108</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-08-17 14:00</event_datetimeGMT>
+			<gamenumber>310112374</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>Eng. Premier OT Incl</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Manchester United</participant_name>
+					<contestantnum>4001</contestantnum>
+					<rotnum>4001</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Aston Villa</participant_name>
+					<contestantnum>4002</contestantnum>
+					<rotnum>4002</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>4003</contestantnum>
+					<rotnum>4003</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-08-17 14:00
+					</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>1000</spread_maximum>
+					<moneyline_maximum>10000</moneyline_maximum>
+					<total_maximum>1000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>100</moneyline_visiting>
+						<moneyline_home>-125</moneyline_home>
+					</moneyline>
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-07-12 17:05</event_datetimeGMT>
+			<gamenumber>312245197</gamenumber>
+			<sporttype>Soccer Futures</sporttype>
+			<league>English Premier League 2013-2014: Outright Winner</league>
+			<contest_maximum>1000</contest_maximum>
+			<description>Team To Win English Premier League</description>
+			<participants>
+				<participant>
+					<participant_name>Manchester United</participant_name>
+					<contestantnum>312245198</contestantnum>
+					<rotnum>7501</rotnum>
+					<odds>
+						<moneyline_value>196</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Manchester City</participant_name>
+					<contestantnum>312245199</contestantnum>
+					<rotnum>7502</rotnum>
+					<odds>
+						<moneyline_value>252</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Chelsea</participant_name>
+					<contestantnum>312245200</contestantnum>
+					<rotnum>7503</rotnum>
+					<odds>
+						<moneyline_value>255</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Aston Villa</participant_name>
+					<contestantnum>312245201</contestantnum>
+					<rotnum>7504</rotnum>
+					<odds>
+						<moneyline_value>317</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>West Ham United</participant_name>
+					<contestantnum>312245202</contestantnum>
+					<rotnum>7505</rotnum>
+					<odds>
+						<moneyline_value>500</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2014-02-04 17:05</event_datetimeGMT>
+			<gamenumber>352692389</gamenumber>
+			<sporttype>Tennis</sporttype>
+			<league>WTA Birmingham</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Morita A.</participant_name>
+					<contestantnum>8203</contestantnum>
+					<rotnum>8203</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Van Uytvanck A.</participant_name>
+					<contestantnum>8204</contestantnum>
+					<rotnum>8204</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Match</period_description>
+					<periodcutoff_datetimeGMT>2014-02-04 17:05
+					</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>2500</spread_maximum>
+					<moneyline_maximum>5000</moneyline_maximum>
+					<total_maximum>1250</total_maximum>
+					<moneyline>
+						<moneyline_visiting>167</moneyline_visiting>
+						<moneyline_home>-186</moneyline_home>
+					</moneyline>
+					<spread>
+						<spread_visiting>1.5</spread_visiting>
+						<spread_adjust_visiting>167</spread_adjust_visiting>
+						<spread_home>-1.5</spread_home>
+						<spread_adjust_home>-186</spread_adjust_home>
+					</spread>
+					<total>
+						<total_points>21.5</total_points>
+						<over_adjust>-186</over_adjust>
+						<under_adjust>167</under_adjust>
+					</total>
+				</period>
+				<period>
+					<period_number>1</period_number>
+					<period_description>1st Set Winner</period_description>
+					<periodcutoff_datetimeGMT>2014-02-04 17:05
+					</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>500</spread_maximum>
+					<moneyline_maximum>500</moneyline_maximum>
+					<total_maximum>500</total_maximum>
+					<moneyline>
+						<moneyline_visiting>167</moneyline_visiting>
+						<moneyline_home>-186</moneyline_home>
+					</moneyline>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

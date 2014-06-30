@@ -1,0 +1,174 @@
+<bestlinesports_line_feed>
+	<event>
+		<event_datetimeGMT>2013-06-15 15:00</event_datetimeGMT>
+		<sporttype>Soccer</sporttype>
+		<scheduletext>Cup				</scheduletext>
+		<league>World</league>
+		<participant>
+			<participant_name>Atletico Madrid</participant_name>
+			<rotnum>11201</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>-400</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Real Madrid</participant_name>
+			<rotnum>11202</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>950</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>11203</drawrotnum>
+		<drawmoneyline>440</drawmoneyline>
+		<drawTitle>Draw</drawTitle>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-05-17 15:00</periodcutoff_datetimeGMT>
+			<period_status>I</period_status>
+			<spread>
+				<spread_visiting>-1.5</spread_visiting>
+				<spread_adjust_visiting>-130</spread_adjust_visiting>
+				<spread_home>1.5</spread_home>
+				<spread_adjust_home>110</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>3</total_points>
+				<over_adjust>-106</over_adjust>
+				<under_adjust>-114</under_adjust>
+			</total>
+		</period>
+	</event>
+	<event>
+		<event_datetimeGMT>2013-06-03 11:30</event_datetimeGMT>
+		<sporttype>Football</sporttype>
+		<scheduletext>Cup</scheduletext>
+		<league>World</league>
+		<participant>
+			<participant_name>Roger Federer</participant_name>
+			<rotnum>4747</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>475</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Gilles Simon</participant_name>
+			<rotnum>4748</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>-590</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>0</drawrotnum>
+		<drawmoneyline>0</drawmoneyline>
+		<drawTitle/>
+		<period>
+			<period_description>1st Set</period_description>
+			<periodcutoff_datetimeGMT>2013-06-03 11:30</periodcutoff_datetimeGMT>
+			<period_status>O</period_status>
+			<spread>
+				<spread_visiting/>
+				<spread_adjust_visiting/>
+				<spread_home/>
+				<spread_adjust_home/>
+			</spread>
+			<total>
+				<total_points/>
+				<over_adjust/>
+				<under_adjust/>
+			</total>
+		</period>
+	</event>
+	<event>
+		<event_datetimeGMT>2013-06-15 15:00</event_datetimeGMT>
+		<sporttype>Soccer</sporttype>
+		<scheduletext>Cup</scheduletext>
+		<league>World</league>
+		<participant>
+			<participant_name>Indiana Pacers</participant_name>
+			<rotnum>11201</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>-400</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>NY Knicks</participant_name>
+			<rotnum>11202</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>950</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>11203</drawrotnum>
+		<drawmoneyline>440</drawmoneyline>
+		<drawTitle>Draw</drawTitle>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-05-17 15:00</periodcutoff_datetimeGMT>
+			<period_status>I</period_status>
+			<spread>
+				<spread_visiting>-5.0</spread_visiting>
+				<spread_adjust_visiting>-130</spread_adjust_visiting>
+				<spread_home>5.0</spread_home>
+				<spread_adjust_home>110</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>3</total_points>
+				<over_adjust>-106</over_adjust>
+				<under_adjust>-114</under_adjust>
+			</total>
+		</period>
+	</event>
+	<event>
+		<event_datetimeGMT>2013-06-15 15:00</event_datetimeGMT>
+		<sporttype>Soccer</sporttype>
+		<scheduletext>Cup</scheduletext>
+		<league>World</league>
+		<participant>
+			<participant_name>Valencia</participant_name>
+			<rotnum>11201</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>-400</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<participant>
+			<participant_name>Getafe</participant_name>
+			<rotnum>11202</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>950</moneyline>
+			</odds>
+			<pitcher/>
+		</participant>
+		<drawrotnum>11203</drawrotnum>
+		<drawmoneyline>440</drawmoneyline>
+		<drawTitle>Draw</drawTitle>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-05-16 15:00</periodcutoff_datetimeGMT>
+			<period_status>I</period_status>
+			<spread>
+				<spread_visiting>-5.0</spread_visiting>
+				<spread_adjust_visiting>-130</spread_adjust_visiting>
+				<spread_home>5.0</spread_home>
+				<spread_adjust_home>110</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>2.5</total_points>
+				<over_adjust>-106</over_adjust>
+				<under_adjust>-114</under_adjust>
+			</total>
+		</period>
+	</event>
+</bestlinesports_line_feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odds last_modified="2013/05/16 11:56:11" date_format="YYYY/MM/DD" timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="International" regionid="2625.1">
+			<group name="World Cup 2014" groupid="4680.1">
+				<event name="World Cup 2014" eventid="126159.1" betend="2014/06/15 18:00:00">
+					<bet name=".Winner" betid="324766.1">
+						<selection name="Brazil" priceup="333" pricedown="100" odd="1.33" selectionid="2504947.1"/>
+						<selection name="Argentina" priceup="9" pricedown="2" odd="1.50" selectionid="2504948.1"/>
+						<selection name="Spain" priceup="11" pricedown="2" odd="6.50" selectionid="2504949.1"/>
+						<selection name="Germany" priceup="11" pricedown="2" odd="6.50" selectionid="2504950.1"/>
+						<selection name="Netherlands" priceup="20" pricedown="1" odd="21.00" selectionid="2504954.1"/>
+					</bet>
+				</event>
+				<event name="Real Madrid vs Atletico Madrid" eventid="506079.1" betend="2013/05/17 21:30:00">
+					<bet name="Match betting" betid="5037981.1">
+						<selection name="Real Madrid" priceup="13" pricedown="25" odd="1.52" selectionid="25282131.1"/>
+						<selection name="Draw" priceup="161" pricedown="50" odd="4.22" selectionid="25282132.1"/>
+						<selection name="Atletico Madrid" priceup="239" pricedown="50" odd="5.78" selectionid="25282133.1"/>
+					</bet>
+				</event>
+				<event name="Gilles Simon v Roger Federer" eventid="520477.1" betend="2013/05/16 22:00:00">
+					<bet name="Match Winner" betid="5554625.1">
+						<selection name="Gilles Simon" priceup="15" pricedown="4" odd="4.75" selectionid="27202124.1"/>
+						<selection name="Roger Federer" priceup="13" pricedown="100" odd="1.13" selectionid="27202129.1"/>
+					</bet>
+				</event>
+				<event name="New York Knicks v Indiana Pacers" eventid="520628.1" betend="2013/05/17 02:05:00">
+					<bet name="Handicap (No Draw) -5.0" betid="5562013.1">
+						<selection name="New York Knicks -5.0" priceup="1" pricedown="2" odd="1.50" selectionid="27228556.1"/>
+						<selection name="Indiana Pacers +5.0" priceup="27" pricedown="20" odd="2.35" selectionid="27228557.1"/>
+					</bet>
+				</event>
+				<event name="Mallorca v Real Betis" eventid="522260.1" betend="2013/05/20 22:00:00">
+					<bet name="Handicap -1" betid="5620881.1">
+						<selection name="Mallorca -1" priceup="71" pricedown="20" odd="4.55" selectionid="27457501.1"/>
+						<selection name="Draw (Mallorca -1)" priceup="59" pricedown="20" odd="3.95" selectionid="27457507.1"/>
+						<selection name="Real Betis +1" priceup="27" pricedown="50" odd="1.54" selectionid="27457513.1"/>
+					</bet>
+				</event>
+				<event name="Getafe CF vs Valencia CF" eventid="493738.1" betend="2013/05/18 18:00:00">
+					<bet name="Total goals Over/Under 2.5" betid="5499436.1">
+						<selection name="Under 2.5" priceup="28" pricedown="25" odd="2.12" selectionid="27009612.1"/>
+						<selection name="Over 2.5" priceup="16" pricedown="25" odd="1.64" selectionid="27009611.1"/>
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>

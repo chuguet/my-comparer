@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pinnacle_line_feed>
+	<PinnacleFeedTime>1368686381697</PinnacleFeedTime>
+	<lastContest>17588268</lastContest>
+	<lastGame>101872594</lastGame>
+	<events>
+		<event>
+			<event_datetimeGMT>2014-06-15 18:59</event_datetimeGMT>
+			<gamenumber>303846326</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>World Cup 2014: Outright Winner</league>
+			<contest_maximum>1000</contest_maximum>
+			<description>Who will Win the World Cup?</description>
+			<participants>
+				<participant>
+					<participant_name>Spain</participant_name>
+					<contestantnum>302971986</contestantnum>
+					<rotnum>6151</rotnum>
+					<odds>
+						<moneyline_value>-235</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Argentina</participant_name>
+					<contestantnum>302971987</contestantnum>
+					<rotnum>6152</rotnum>
+					<odds>
+						<moneyline_value>210</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Brazil</participant_name>
+					<contestantnum>302971987</contestantnum>
+					<rotnum>6153</rotnum>
+					<odds>
+						<moneyline_value>210</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Germany</participant_name>
+					<contestantnum>302971987</contestantnum>
+					<rotnum>6154</rotnum>
+					<odds>
+						<moneyline_value>210</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+				<participant>
+					<participant_name>Netherlands</participant_name>
+					<contestantnum>302971987</contestantnum>
+					<rotnum>6155</rotnum>
+					<odds>
+						<moneyline_value>210</moneyline_value>
+						<to_base>0</to_base>
+					</odds>
+				</participant>
+			</participants>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-05-17 19:29</event_datetimeGMT>
+			<gamenumber>294034550</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>World Cup</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Real Madrid</participant_name>
+					<contestantnum>8301</contestantnum>
+					<rotnum>8301</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Atletico Madrid</participant_name>
+					<contestantnum>8302</contestantnum>
+					<rotnum>8302</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>8303</contestantnum>
+					<rotnum>8303</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-05-17 19:29</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>6000</spread_maximum>
+					<moneyline_maximum>3000</moneyline_maximum>
+					<total_maximum>4000</total_maximum>
+					<moneyline>
+						<moneyline_visiting>513</moneyline_visiting>
+						<moneyline_home>-179</moneyline_home>
+						<moneyline_draw>364</moneyline_draw>
+					</moneyline>
+<!-- 					<spread> -->
+<!-- 						<spread_visiting>1</spread_visiting> -->
+<!-- 						<spread_adjust_visiting>-101</spread_adjust_visiting> -->
+<!-- 						<spread_home>-1</spread_home> -->
+<!-- 						<spread_adjust_home>-108</spread_adjust_home> -->
+<!-- 					</spread> -->
+<!-- 					<total> -->
+<!-- 						<total_points>3</total_points> -->
+<!-- 						<over_adjust>-125</over_adjust> -->
+<!-- 						<under_adjust>111</under_adjust> -->
+<!-- 					</total> -->
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-05-16 19:05</event_datetimeGMT>
+			<gamenumber>305319256</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>World Cup</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>G. Simon</participant_name>
+					<contestantnum>4315</contestantnum>
+					<rotnum>4315</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>R. Federer</participant_name>
+					<contestantnum>4316</contestantnum>
+					<rotnum>4316</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-05-16 19:05</periodcutoff_datetimeGMT>
+					<period_status>O</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>9375</spread_maximum>
+					<moneyline_maximum>9375</moneyline_maximum>
+					<total_maximum>2500</total_maximum>
+					<moneyline>
+						<moneyline_visiting>419</moneyline_visiting>
+						<moneyline_home>-478</moneyline_home>
+					</moneyline>
+<!-- 					<spread> -->
+<!-- 						<spread_visiting>4.5</spread_visiting> -->
+<!-- 						<spread_adjust_visiting>-108</spread_adjust_visiting> -->
+<!-- 						<spread_home>-4.5</spread_home> -->
+<!-- 						<spread_adjust_home>-102</spread_adjust_home> -->
+<!-- 					</spread> -->
+<!-- 					<total> -->
+<!-- 						<total_points>21</total_points> -->
+<!-- 						<over_adjust>-107</over_adjust> -->
+<!-- 						<under_adjust>-103</under_adjust> -->
+<!-- 					</total> -->
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-05-17 00:00</event_datetimeGMT>
+			<gamenumber>305171356</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>World Cup</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Indiana Pacers</participant_name>
+					<contestantnum>739</contestantnum>
+					<rotnum>739</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>New York Knicks</participant_name>
+					<contestantnum>740</contestantnum>
+					<rotnum>740</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-05-17 00:00</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>30000</spread_maximum>
+					<moneyline_maximum>10000</moneyline_maximum>
+					<total_maximum>5000</total_maximum>
+<!-- 					<moneyline> -->
+<!-- 						<moneyline_visiting>172</moneyline_visiting> -->
+<!-- 						<moneyline_home>-191</moneyline_home> -->
+<!-- 					</moneyline> -->
+					<spread>
+						<spread_visiting>5.0</spread_visiting>
+						<spread_adjust_visiting>101</spread_adjust_visiting>
+						<spread_home>-5.0</spread_home>
+						<spread_adjust_home>-111</spread_adjust_home>
+					</spread>
+<!-- 					<total> -->
+<!-- 						<total_points>179</total_points> -->
+<!-- 						<over_adjust>-108</over_adjust> -->
+<!-- 						<under_adjust>-102</under_adjust> -->
+<!-- 					</total> -->
+				</period>
+			</periods>
+		</event>
+		<event>
+			<event_datetimeGMT>2013-05-18 16:00</event_datetimeGMT>
+			<gamenumber>302832112</gamenumber>
+			<sporttype>Soccer</sporttype>
+			<league>World Cup</league>
+			<IsLive>No</IsLive>
+			<participants>
+				<participant>
+					<participant_name>Getafe</participant_name>
+					<contestantnum>8151</contestantnum>
+					<rotnum>8151</rotnum>
+					<visiting_home_draw>Home</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Valencia</participant_name>
+					<contestantnum>8152</contestantnum>
+					<rotnum>8152</rotnum>
+					<visiting_home_draw>Visiting</visiting_home_draw>
+				</participant>
+				<participant>
+					<participant_name>Draw</participant_name>
+					<contestantnum>8153</contestantnum>
+					<rotnum>8153</rotnum>
+					<visiting_home_draw>Draw</visiting_home_draw>
+				</participant>
+			</participants>
+			<periods>
+				<period>
+					<period_number>0</period_number>
+					<period_description>Game</period_description>
+					<periodcutoff_datetimeGMT>2013-05-18 16:00</periodcutoff_datetimeGMT>
+					<period_status>I</period_status>
+					<period_update>open</period_update>
+					<spread_maximum>2000</spread_maximum>
+					<moneyline_maximum>1000</moneyline_maximum>
+					<total_maximum>2000</total_maximum>
+<!-- 					<moneyline> -->
+<!-- 						<moneyline_visiting>-120</moneyline_visiting> -->
+<!-- 						<moneyline_home>346</moneyline_home> -->
+<!-- 						<moneyline_draw>299</moneyline_draw> -->
+<!-- 					</moneyline> -->
+<!-- 					<spread> -->
+<!-- 						<spread_visiting>-0.5</spread_visiting> -->
+<!-- 						<spread_adjust_visiting>-120</spread_adjust_visiting> -->
+<!-- 						<spread_home>0.5</spread_home> -->
+<!-- 						<spread_adjust_home>112</spread_adjust_home> -->
+<!-- 					</spread> -->
+					<total>
+						<total_points>2.75</total_points>
+						<over_adjust>-114</over_adjust>
+						<under_adjust>104</under_adjust>
+					</total>
+				</period>
+			</periods>
+		</event>
+	</events>
+</pinnacle_line_feed>

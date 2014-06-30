@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2013-04-22T07:07:01.370">
+	<sport name="Tennis" id="1">
+		<event name="WTA Birmingham" id="3">
+			<match name="Morita A. - Van Uytvanck A." id="542370" start_date="2013-06-10T13:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Match Result" id="5231116">
+						<choice name="%1%" id="41019817" odd="1.22"/>
+						<choice name="%2%" id="41019821" odd="10.00"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

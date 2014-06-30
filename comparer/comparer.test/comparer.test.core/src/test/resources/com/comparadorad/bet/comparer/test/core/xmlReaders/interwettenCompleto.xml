@@ -1,0 +1,39 @@
+<FEED xmlns="" NAME="BettingOffers" DESCRIPTION="All current betting offers for the given kind of sports" LAST_REFRESH="2013-07-25T14:33:00" NEXT_REFRESH="2013-07-25T14:53:00" DOMAIN="www.interwetten.com" LANGUAGE="EN">
+	 <KINDOFSPORT NAME="Football">
+	
+	
+<!-- 	<KINDOFSPORT NAME="Tennis"> 
+		<LEAGUE NAME="WTA Birmingham" ID="407286">
+			<EVENT NAME="Van Uytvanck A. - Morita A." START_TIME="2014-02-07T22:50:00"
+				OPEN_TILL="2014-02-07T22:50:00" EVENTID="9922567">
+				<BET ID="37954824" TYPEID="13" TYPENAME="Match" PLAYER1="Van Uytvanck A. "
+					PLAYER2="Morita A." TIP="1" QUOTE="3,00" />
+				<BET ID="37954823" TYPEID="13" TYPENAME="Match" PLAYER1="Van Uytvanck A. "
+					PLAYER2="Morita A." TIP="2" QUOTE="1,30" />
+			</EVENT>
+		</LEAGUE> -->
+		 <LEAGUE NAME="England Premier League" ID="1021">
+			<EVENT NAME="Manchester United - Aston Villa" START_TIME="2013-08-17T16:00:00" OPEN_TILL="2013-08-17T16:00:00" EVENTID="9813947">
+				<BET ID="28392256" TYPEID="13" TYPENAME="Match" PLAYER1="Manchester United " PLAYER2="Aston Villa" TIP="1" QUOTE="1,37"/>
+				<BET ID="28392254" TYPEID="13" TYPENAME="Match" PLAYER1="Manchester United " PLAYER2="Aston Villa" TIP="2" QUOTE="7,50"/>
+				<BET ID="28392255" TYPEID="13" TYPENAME="Match" PLAYER1="Manchester United " PLAYER2="Aston Villa" TIP="X" QUOTE="4,60"/>
+				<BET ID="28392251" TYPEID="37" TYPENAME="Over/Under" PLAYER1="Manchester United - Aston Villa" PLAYER2="0-2" TIP=" " QUOTE="2,20"/>
+				<BET ID="28392250" TYPEID="37" TYPENAME="Over/Under" PLAYER1="Manchester United - Aston Villa" PLAYER2="3 or more" TIP=" " QUOTE="1,55"/>
+ 				<BET ID="28392251" TYPEID="88" TYPENAME="Over/Under" PLAYER1="Manchester United - Aston Villa" PLAYER2="Under 43.5" TIP=" " QUOTE="2,20"/> 
+ 				<BET ID="28392250" TYPEID="88" TYPENAME="Over/Under" PLAYER1="Manchester United - Aston Villa" PLAYER2="Over 43.5" TIP=" " QUOTE="1,55"/> 
+				<BET ID="28392432" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="Manchester United " PLAYER2="Aston Villa" TIP="1" QUOTE="2,10"/>
+				<BET ID="28392430" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="Manchester United " PLAYER2="Aston Villa" TIP="2" QUOTE="2,75"/>
+				<BET ID="28392431" TYPEID="32" TYPENAME="Handicap 0:1" PLAYER1="Manchester United " PLAYER2="Aston Villa" TIP="X" QUOTE="3,60"/>
+				<BET ID="27605246" TYPEID="69" TYPENAME="Asia Handicap  0/0" PLAYER1="Manchester United (-8.5) " PLAYER2="Aston Villa(+8.5)" TIP="1" QUOTE="1,85"/>
+				<BET ID="27605245" TYPEID="69" TYPENAME="Asia Handicap  0/0" PLAYER1="Manchester United (-8.5) " PLAYER2="Aston Villa(+8.5)" TIP="2" QUOTE="1,85"/>
+			</EVENT>
+			<EVENT NAME="Champions 2013/14" START_TIME="2013-08-10T16:00:00" OPEN_TILL="2013-08-10T16:00:00" EVENTID="9807398">
+				<BET ID="27829262" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="Champions 2013/14" PLAYER2="Chelsea" TIP=" " QUOTE="3,00"/>
+				<BET ID="27829256" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="Champions 2013/14" PLAYER2="Manchester City" TIP=" " QUOTE="2,95"/>
+				<BET ID="27829255" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="Champions 2013/14" PLAYER2="Manchester United" TIP=" " QUOTE="2,95"/>
+				<BET ID="27829264" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="Champions 2013/14" PLAYER2="Aston Villa" TIP=" " QUOTE="1500,00"/>
+				<BET ID="27829246" TYPEID="70" TYPENAME="Longterm Team" PLAYER1="Champions 2013/14" PLAYER2="West Ham" TIP=" " QUOTE="1000,00"/>
+			</EVENT>
+		</LEAGUE>
+	</KINDOFSPORT>
+</FEED>	

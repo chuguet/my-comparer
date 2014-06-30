@@ -1,0 +1,856 @@
+{
+  "events": [
+    {
+      "name": "Premier League 2013/2014",
+      "homeName": "Premier League 2013/2014",
+      "start": "2013-12-23T21:30Z",
+      "group": "Premier League",
+      "type": "ET_COMPETITION",
+      "sport": "Football",
+      "id": 1001579848,
+      "groupId": 1000094985,
+      "sportId": 1000093190
+    },
+    {
+      "name": "Manchester United - West Ham",
+      "homeName": "Manchester United",
+      "awayName": "West Ham",
+      "start": "2013-12-21T15:00Z",
+      "group": "Premier League",
+      "type": "ET_MATCH",
+      "sport": "Football",
+      "liveBetOffers": true,
+      "openForLiveBetting": false,
+      "id": 1001664535,
+      "groupId": 1000094985,
+      "sportId": 1000093190
+    },
+    {
+      "name": "Indiana Pacers - Detroit Pistons",
+      "homeName": "Indiana Pacers",
+      "awayName": "Detroit Pistons",
+      "start": "2013-12-17T00:05Z",
+      "group": "NBA",
+      "type": "ET_MATCH",
+      "sport": "Basketball",
+      "liveBetOffers": true,
+      "openForLiveBetting": false,
+      "streamed": true,
+      "id": 1001792494,
+      "groupId": 1000093652,
+      "sportId": 1000093204,
+      "streams": [
+        {
+          "channelId": 1
+        },
+        {
+          "channelId": 3
+        }
+      ]
+    }
+  ],
+  "betoffers": [
+    {
+      "id": 1014275499,
+      "eventId": 1001579848,
+      "closed": "2013-12-21T12:45Z",
+      "criterion": {
+        "id": 1001221607,
+        "label": "Winner"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "Winner"
+      },
+      "outcomes": [
+        {
+          "id": 52748176,
+          "odds": 4750,
+          "label": "Chelsea",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52748180,
+          "odds": 2200,
+          "label": "Manchester City",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52748181,
+          "odds": 22000,
+          "label": "Manchester United",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52748186,
+          "odds": 100000,
+          "label": "West Ham",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52834733,
+          "odds": 300000,
+          "label": "Aston Villa",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-08T18:29:49Z"
+        }
+      ]
+    },
+    {
+      "id": 1014297006,
+      "eventId": 1001579848,
+      "closed": "2013-12-21T12:45Z",
+      "criterion": {
+        "id": 1001221607,
+        "label": "Winner"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "(1-4)"
+      },
+      "outcomes": [
+        {
+          "id": 52834721,
+          "odds": 1040,
+          "label": "Manchester City",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52834722,
+          "odds": 2350,
+          "label": "Manchester United",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52834723,
+          "odds": 1150,
+          "label": "Chelsea",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:23:03Z"
+        },
+        {
+          "id": 52834733,
+          "odds": 300000,
+          "label": "Aston Villa",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-08T18:29:49Z"
+        }
+      ]
+    },
+    {
+      "id": 1015257460,
+      "eventId": 1001579848,
+      "closed": "2013-12-21T12:45Z",
+      "criterion": {
+        "id": 1001304945,
+        "label": "To score most goals in the Tournament/League"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "Winner"
+      },
+      "outcomes": [
+        {
+          "id": 56489004,
+          "odds": 1500,
+          "label": "Van Persie, Robin",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:26:40Z"
+        },
+        {
+          "id": 56489005,
+          "odds": 2100,
+          "label": "Silva, David",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:26:40Z"
+        }
+      ]
+    },
+    {
+      "id": 1014408744,
+      "eventId": 1001579848,
+      "closed": "2013-12-21T12:45Z",
+      "criterion": {
+        "id": 1001228428,
+        "label": "To be relegated"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "(1-3)"
+      },
+      "outcomes": [
+        {
+          "id": 53256211,
+          "odds": 3750,
+          "label": "West Ham",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-14T20:45:13Z"
+        },
+        {
+          "id": 53256213,
+          "odds": 15000,
+          "label": "Aston Villa",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-15T18:30:03Z"
+        }
+      ]
+    },
+    {
+      "id": 1018800838,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "main": true,
+      "criterion": {
+        "id": 1001159858,
+        "label": "Full Time",
+        "isDefault": true
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69509761,
+          "odds": 1330,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T01:36:01Z"
+        },
+        {
+          "id": 69509762,
+          "odds": 5250,
+          "label": "X",
+          "type": "OT_CROSS",
+          "changedDate": "2013-12-16T01:36:01Z"
+        },
+        {
+          "id": 69509763,
+          "odds": 9000,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T01:36:01Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862504,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159666,
+        "label": "Draw No Bet"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740297,
+          "odds": 1090,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740299,
+          "odds": 7500,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862488,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1000105110,
+        "label": "First Goal. Draw No Bet"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740261,
+          "odds": 1250,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740263,
+          "odds": 3350,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862487,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001582443,
+        "label": "Last Goal. Draw No Bet"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740258,
+          "odds": 1250,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740260,
+          "odds": 3350,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862486,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1000316018,
+        "label": "Half Time"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740255,
+          "odds": 1750,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740256,
+          "odds": 2550,
+          "label": "X",
+          "type": "OT_CROSS",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740257,
+          "odds": 7500,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862484,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159884,
+        "label": "Draw No Bet - 1st Half"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740249,
+          "odds": 1120,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740251,
+          "odds": 4800,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862479,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159826,
+        "label": "2nd Half"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740237,
+          "odds": 1530,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740238,
+          "odds": 3100,
+          "label": "X",
+          "type": "OT_CROSS",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740239,
+          "odds": 7000,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862477,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001421321,
+        "label": "Draw No Bet - 2nd Half"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match"
+      },
+      "outcomes": [
+        {
+          "id": 69740231,
+          "odds": 1090,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740233,
+          "odds": 5000,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862495,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159926,
+        "label": "Total Goals"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Over/Under"
+      },
+      "outcomes": [
+        {
+          "id": 69740276,
+          "odds": 9500,
+          "line": 5500,
+          "label": "Over",
+          "type": "OT_OVER",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740277,
+          "odds": 1060,
+          "line": 5500,
+          "label": "Under",
+          "type": "OT_UNDER",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862492,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159967,
+        "label": "Total Goals by Home Team"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Over/Under"
+      },
+      "outcomes": [
+        {
+          "id": 69740270,
+          "odds": 4500,
+          "line": 3500,
+          "label": "Over",
+          "type": "OT_OVER",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740271,
+          "odds": 1170,
+          "line": 3500,
+          "label": "Under",
+          "type": "OT_UNDER",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862489,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159633,
+        "label": "Total Goals by Away Team"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Over/Under"
+      },
+      "outcomes": [
+        {
+          "id": 69740264,
+          "odds": 16000,
+          "line": 2500,
+          "label": "Over",
+          "type": "OT_OVER",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740265,
+          "odds": 1010,
+          "line": 2500,
+          "label": "Under",
+          "type": "OT_UNDER",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862480,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001159532,
+        "label": "Total Goals - 1st Half"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Over/Under"
+      },
+      "outcomes": [
+        {
+          "id": 69740240,
+          "odds": 5750,
+          "line": 2500,
+          "label": "Over",
+          "type": "OT_OVER",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740241,
+          "odds": 1110,
+          "line": 2500,
+          "label": "Under",
+          "type": "OT_UNDER",
+          "changedDate": "2013-12-16T02:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862473,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001243173,
+        "label": "Total Goals - 2nd Half"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Over/Under"
+      },
+      "outcomes": [
+        {
+          "id": 69740222,
+          "odds": 3800,
+          "line": 2500,
+          "label": "Over",
+          "type": "OT_OVER",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740223,
+          "odds": 1220,
+          "line": 2500,
+          "label": "Under",
+          "type": "OT_UNDER",
+          "changedDate": "2013-12-16T02:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862501,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001224081,
+        "label": "3-Way Handicap"
+      },
+      "betOfferType": {
+        "id": 11,
+        "name": "3-Way Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69740288,
+          "odds": 1900,
+          "line": -1000,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740289,
+          "odds": 3600,
+          "line": -1000,
+          "label": "X",
+          "type": "OT_CROSS",
+          "changedDate": "2013-12-16T02:36:07Z"
+        },
+        {
+          "id": 69740290,
+          "odds": 3350,
+          "line": -1000,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:07Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862483,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001568620,
+        "label": "3-Way Handicap - 1st Half"
+      },
+      "betOfferType": {
+        "id": 11,
+        "name": "3-Way Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69740246,
+          "odds": 4200,
+          "line": -1000,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740247,
+          "odds": 2900,
+          "line": -1000,
+          "label": "X",
+          "type": "OT_CROSS",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740248,
+          "odds": 1900,
+          "line": -1000,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": 1018862476,
+      "eventId": 1001664535,
+      "closed": "2013-12-21T15:00Z",
+      "criterion": {
+        "id": 1001568621,
+        "label": "3-Way Handicap - 2nd Half"
+      },
+      "betOfferType": {
+        "id": 11,
+        "name": "3-Way Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69740228,
+          "odds": 3150,
+          "line": -1000,
+          "label": "1",
+          "type": "OT_ONE",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740229,
+          "odds": 3000,
+          "line": -1000,
+          "label": "X",
+          "type": "OT_CROSS",
+          "changedDate": "2013-12-16T02:36:06Z"
+        },
+        {
+          "id": 69740230,
+          "odds": 2250,
+          "line": -1000,
+          "label": "2",
+          "type": "OT_TWO",
+          "changedDate": "2013-12-16T02:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": 1018871032,
+      "eventId": 1001792494,
+      "closed": "2013-12-17T00:05Z",
+      "criterion": {
+        "id": 1001159512,
+        "label": "Handicap - Including overtime"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69775177,
+          "odds": 1730,
+          "line": -9500,
+          "label": "Indiana Pacers",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        },
+        {
+          "id": 69775178,
+          "odds": 2120,
+          "line": 9500,
+          "label": "Detroit Pistons",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        }
+      ]
+    },
+    {
+      "id": 1018871039,
+      "eventId": 1001792494,
+      "closed": "2013-12-17T00:05Z",
+      "criterion": {
+        "id": 1001159940,
+        "label": "Handicap - 1st Half"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69775195,
+          "odds": 1900,
+          "line": -5500,
+          "label": "Indiana Pacers",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        },
+        {
+          "id": 69775196,
+          "odds": 1920,
+          "line": 5500,
+          "label": "Detroit Pistons",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        }
+      ]
+    },
+    {
+      "id": 1018871040,
+      "eventId": 1001792494,
+      "closed": "2013-12-17T00:05Z",
+      "criterion": {
+        "id": 1001159576,
+        "label": "Handicap - Quarter 1"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69775197,
+          "odds": 1830,
+          "line": -2500,
+          "label": "Indiana Pacers",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        },
+        {
+          "id": 69775198,
+          "odds": 2000,
+          "line": 2500,
+          "label": "Detroit Pistons",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        }
+      ]
+    },
+    {
+      "id": 1018871146,
+      "eventId": 1001792494,
+      "closed": "2013-12-17T00:05Z",
+      "criterion": {
+        "id": 1001159653,
+        "label": "Handicap - Result at end of Quarter 3"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "outcomes": [
+        {
+          "id": 69775457,
+          "odds": 1770,
+          "line": -7500,
+          "label": "Indiana Pacers",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        },
+        {
+          "id": 69775458,
+          "odds": 2060,
+          "line": 7500,
+          "label": "Detroit Pistons",
+          "type": "OT_UNTYPED",
+          "changedDate": "2013-12-16T14:45:09Z"
+        }
+      ]
+    }
+  ]
+}

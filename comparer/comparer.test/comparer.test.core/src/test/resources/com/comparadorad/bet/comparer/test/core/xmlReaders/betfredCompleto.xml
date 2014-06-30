@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Football-Premiership" timeGenerated="2013-07-21T18:37:45"
+	Bookmaker="Betfred">
+	<event name="Premier League 2013-14" eventid="2288783.20" date=""
+		time="" meeting="" venue="">
+		<bettype ewreduction="3" ewplaceterms="2" eachway="1/3 Odds Place 1,2"
+			suspended="false" name="Outright" inrunning="0" bettypeid="5654109.20">
+			<bet name="Man City" short-name="MAN CTY" id="136320865.20"
+				price="5/1" priceDecimal="3.00" priceUS="500.00" active-price-types="CP" />
+			<bet name="Man Utd" short-name="Man Utd" id="136320866.20" price="5/1"
+				priceDecimal="2.00" priceUS="500.00" active-price-types="CP" />
+			<bet name="Chelsea" short-name="Chelsea" id="136320867.20" price="6/1"
+				priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+			<bet name="Aston Villa" short-name="Aston Vil" id="136320894.20"
+				price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet name="West Ham" short-name="West Ham" id="136320952.20"
+				price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype suspended="false" name="Top Goalscorer" inrunning="0"
+			bettypeid="4200030.20">
+			<bet name="Silva, David" short-name="Silva, Da" id="107841302.20"
+				price="4/9" priceDecimal="1.44" priceUS="-44.44" active-price-types="CP" />
+			<bet name="Van Persie, Robin" short-name="VAN PERSI" id="107841308.20"
+				price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

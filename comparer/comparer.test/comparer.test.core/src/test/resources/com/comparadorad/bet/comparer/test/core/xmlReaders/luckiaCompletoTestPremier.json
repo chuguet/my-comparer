@@ -1,0 +1,765 @@
+{
+  "betoffers": [
+    {
+      "id": 1019267585,
+      "closed": "2014-01-22T19:45Z",
+      "criterion": {
+        "id": 1001228512,
+        "label": "Próximo equipo que cambiará a su entrenador"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "Ganador"
+      },
+      "eventId": 1001579848,
+      "outcomes": [
+        {
+          "id": 71202178,
+          "label": "Arsenal",
+          "odds": 100000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000085,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        },
+        {
+          "id": 71202179,
+          "label": "Cardiff City",
+          "odds": 50000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000019,
+          "oddsFractional": "49/1",
+          "oddsAmerican": "4900"
+        },
+        {
+          "id": 71202180,
+          "label": "Chelsea",
+          "odds": 100000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000080,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        },
+        {
+          "id": 71202181,
+          "label": "Everton",
+          "odds": 100000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000047,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        },
+        {
+          "id": 71202182,
+          "label": "Hull City",
+          "odds": 50000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000066582,
+          "oddsFractional": "49/1",
+          "oddsAmerican": "4900"
+        },
+        {
+          "id": 71202183,
+          "label": "Liverpool",
+          "odds": 100000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000087,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        },
+        {
+          "id": 71202184,
+          "label": "Manchester City",
+          "odds": 100000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000139,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        },
+        {
+          "id": 71202185,
+          "label": "Manchester United",
+          "odds": 15000,
+          "prevOdds": [
+            30000,
+            15000,
+            20000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000000086,
+          "oddsFractional": "14/1",
+          "oddsAmerican": "1400"
+        },
+        {
+          "id": 71202186,
+          "label": "Newcastle United",
+          "odds": 35000,
+          "prevOdds": [
+            25000,
+            10000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000000044,
+          "oddsFractional": "34/1",
+          "oddsAmerican": "3400"
+        },
+        {
+          "id": 71202187,
+          "label": "Norwich City",
+          "odds": 3750,
+          "prevOdds": [
+            1750,
+            12000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000078305,
+          "oddsFractional": "11/4",
+          "oddsAmerican": "275"
+        },
+        {
+          "id": 71202188,
+          "label": "Stoke City",
+          "odds": 40000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000047250,
+          "oddsFractional": "39/1",
+          "oddsAmerican": "3900"
+        },
+        {
+          "id": 71202189,
+          "label": "Swansea City",
+          "odds": 20000,
+          "prevOdds": [
+            35000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000009871,
+          "oddsFractional": "19/1",
+          "oddsAmerican": "1900"
+        },
+        {
+          "id": 71202190,
+          "label": "Tottenham",
+          "odds": 25000,
+          "prevOdds": [
+            75000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000000083,
+          "oddsFractional": "24/1",
+          "oddsAmerican": "2400"
+        },
+        {
+          "id": 71202192,
+          "label": "West Ham",
+          "odds": 2500,
+          "prevOdds": [
+            7500,
+            1330
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000000082,
+          "oddsFractional": "6/4",
+          "oddsAmerican": "150"
+        },
+        {
+          "id": 71202194,
+          "label": "Aston Villa",
+          "odds": 15000,
+          "prevOdds": [
+            10000,
+            9000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000000045,
+          "oddsFractional": "14/1",
+          "oddsAmerican": "1400"
+        },
+        {
+          "id": 71202195,
+          "label": "Fulham",
+          "odds": 40000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:57Z",
+          "participantId": 1000000103,
+          "oddsFractional": "39/1",
+          "oddsAmerican": "3900"
+        },
+        {
+          "id": 71202196,
+          "label": "Southampton",
+          "odds": 8500,
+          "prevOdds": [
+            4000,
+            40000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000000081,
+          "oddsFractional": "15/2",
+          "oddsAmerican": "750"
+        },
+        {
+          "id": 71202197,
+          "label": "Sunderland",
+          "odds": 40000,
+          "prevOdds": [
+            30000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-21T13:17:06Z",
+          "participantId": 1000010221,
+          "oddsFractional": "39/1",
+          "oddsAmerican": "3900"
+        },
+        {
+          "id": 71202198,
+          "label": "Crystal Palace",
+          "odds": 100000,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019267585,
+          "changedDate": "2014-01-06T10:29:58Z",
+          "participantId": 1000013415,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        }
+      ],
+      "startingPrice": false
+    },
+    {
+      "id": 1014275499,
+      "closed": "2014-01-28T19:45Z",
+      "criterion": {
+        "id": 1001221607,
+        "label": "Ganador"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "Ganador"
+      },
+      "eventId": 1001579848,
+      "outcomes": [        
+        {
+          "id": 52748176,
+          "label": "Chelsea",
+          "odds": 4750,
+          "prevOdds": [
+            4000,
+            3750,
+            4000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014275499,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000080,
+          "oddsFractional": "5/2",
+          "oddsAmerican": "250"
+        },
+        {
+          "id": 52748180,
+          "label": "Manchester City",
+          "odds": 2200,
+          "prevOdds": [
+            1900,
+            2100,
+            2000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014275499,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000139,
+          "oddsFractional": "Evens",
+          "oddsAmerican": "100"
+        },
+        {
+          "id": 52748181,
+          "label": "Manchester United",
+          "odds": 2000,
+          "prevOdds": [
+            50000,
+            40000,
+            30000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014275499,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000086,
+          "oddsFractional": "79/1",
+          "oddsAmerican": "7900"
+        }
+      ],
+      "startingPrice": false
+    },
+    {
+      "id": 1014297006,
+      "closed": "2014-01-28T19:45Z",
+      "criterion": {
+        "id": 1001221607,
+        "label": "Ganador"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "(1-4)"
+      },
+      "placeLimit": 4,
+      "eventId": 1001579848,
+      "outcomes": [
+        {
+          "id": 52834721,
+          "label": "Manchester City",
+          "odds": 1000,
+          "prevOdds": [
+            1010,
+            1020,
+            1010
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000139,
+          "oddsFractional": "1.00",
+          "oddsAmerican": "1.00"
+        },
+        {
+          "id": 52834722,
+          "label": "Manchester United",
+          "odds": 3500,
+          "prevOdds": [
+            2700,
+            2900,
+            2700
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000086,
+          "oddsFractional": "5/2",
+          "oddsAmerican": "250"
+        },
+        {
+          "id": 52834723,
+          "label": "Chelsea",
+          "odds": 1030,
+          "prevOdds": [
+            1050,
+            1070,
+            1080
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000080,
+          "oddsFractional": "1/34",
+          "oddsAmerican": "-3335"
+        },
+        {
+          "id": 52834724,
+          "label": "Arsenal",
+          "odds": 1080,
+          "prevOdds": [
+            1100,
+            1140,
+            1170
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000085,
+          "oddsFractional": "1/13",
+          "oddsAmerican": "-1250"
+        },
+        {
+          "id": 52834725,
+          "label": "Tottenham",
+          "odds": 3200,
+          "prevOdds": [
+            4500,
+            4000,
+            5000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000083,
+          "oddsFractional": "11/5",
+          "oddsAmerican": "220"
+        },
+        {
+          "id": 52834726,
+          "label": "Liverpool",
+          "odds": 1800,
+          "prevOdds": [
+            1750,
+            1620,
+            1650
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000087,
+          "oddsFractional": "4/5",
+          "oddsAmerican": "-125"
+        },
+        {
+          "id": 52834727,
+          "label": "Everton",
+          "odds": 5000,
+          "prevOdds": [
+            4750,
+            4250,
+            4500
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-19T18:17:05Z",
+          "participantId": 1000000047,
+          "oddsFractional": "4/1",
+          "oddsAmerican": "400"
+        },
+        {
+          "id": 52834728,
+          "label": "Newcastle United",
+          "odds": 50000,
+          "prevOdds": [
+            80000,
+            60000,
+            40000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-18T19:57:18Z",
+          "participantId": 1000000044,
+          "oddsFractional": "49/1",
+          "oddsAmerican": "4900"
+        },
+        {
+          "id": 52834729,
+          "label": "Southampton",
+          "odds": 150000,
+          "prevOdds": [
+            100000,
+            80000,
+            60000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014297006,
+          "changedDate": "2014-01-12T18:47:44Z",
+          "participantId": 1000000081,
+          "oddsFractional": "149/1",
+          "oddsAmerican": "14900"
+        }
+      ],
+      "place": true,
+      "startingPrice": false
+    },
+    {
+      "id": 1015257460,
+      "closed": "2014-01-28T19:45Z",
+      "criterion": {
+        "id": 1001304945,
+        "label": "Marcará más goles en el torneo/la liga"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "Ganador"
+      },
+      "eventId": 1001579848,
+      "outcomes": [        
+        {
+          "id": 56489004,
+          "label": "Van Persie, R",
+          "odds": 1500,
+          "prevOdds": [
+            40000,
+            30000,
+            22000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1015257460,
+          "changedDate": "2014-01-12T18:58:22Z",
+          "participantId": 1000073680,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        },
+        {
+          "id": 59878359,
+          "label": "Silva, David",
+          "odds": 2100,
+          "prevOdds": [
+            100000,
+            80000,
+            75000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1015257460,
+          "changedDate": "2014-01-19T18:22:26Z",
+          "participantId": 1000000831,
+          "oddsFractional": "99/1",
+          "oddsAmerican": "9900"
+        }
+      ],
+      "startingPrice": false
+    },
+    {
+      "id": 1014408744,
+      "closed": "2014-01-28T19:45Z",
+      "criterion": {
+        "id": 1001228428,
+        "label": "Descenderá"
+      },
+      "betOfferType": {
+        "id": 4,
+        "name": "(1-3)"
+      },
+      "placeLimit": 3,
+      "eventId": 1001579848,
+      "outcomes": [
+        {
+          "id": 53256198,
+          "label": "Cardiff City",
+          "odds": 1900,
+          "prevOdds": [
+            1950,
+            2000,
+            2500
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-18T20:00:52Z",
+          "participantId": 1000000019,
+          "oddsFractional": "9/10",
+          "oddsAmerican": "-112"
+        },
+        {
+          "id": 53256201,
+          "label": "Hull City",
+          "odds": 7000,
+          "prevOdds": [
+            6000,
+            5500,
+            4250
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-12T18:52:25Z",
+          "participantId": 1000066582,
+          "oddsFractional": "6/1",
+          "oddsAmerican": "600"
+        },
+        {
+          "id": 53256206,
+          "label": "Norwich City",
+          "odds": 5000,
+          "prevOdds": [
+            4750,
+            3500,
+            3750
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-19T18:19:50Z",
+          "participantId": 1000078305,
+          "oddsFractional": "4/1",
+          "oddsAmerican": "400"
+        },
+        {
+          "id": 53256207,
+          "label": "Stoke City",
+          "odds": 7000,
+          "prevOdds": [
+            7500,
+            9000,
+            7000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-19T10:16:27Z",
+          "participantId": 1000047250,
+          "oddsFractional": "6/1",
+          "oddsAmerican": "600"
+        },
+        {
+          "id": 53256208,
+          "label": "Swansea City",
+          "odds": 10000,
+          "prevOdds": [
+            15000,
+            17000,
+            15000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-19T18:19:50Z",
+          "participantId": 1000009871,
+          "oddsFractional": "9/1",
+          "oddsAmerican": "900"
+        },
+        {
+          "id": 53256210,
+          "label": "West Bromwich",
+          "odds": 7000,
+          "prevOdds": [
+            8000,
+            9000,
+            6500
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-20T22:18:55Z",
+          "participantId": 1000000072,
+          "oddsFractional": "6/1",
+          "oddsAmerican": "600"
+        },
+        {
+          "id": 53256211,
+          "label": "West Ham",
+          "odds": 2500,
+          "prevOdds": [
+            3200,
+            3000,
+            2350
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-18T20:00:52Z",
+          "participantId": 1000000082,
+          "oddsFractional": "6/4",
+          "oddsAmerican": "150"
+        },
+        {
+          "id": 53256213,
+          "label": "Aston Villa",
+          "odds": 9000,
+          "prevOdds": [
+            8000,
+            7500,
+            9000
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-19T18:19:50Z",
+          "participantId": 1000000045,
+          "oddsFractional": "8/1",
+          "oddsAmerican": "800"
+        },
+        {
+          "id": 53256214,
+          "label": "Fulham",
+          "odds": 2000,
+          "prevOdds": [
+            2050,
+            2100,
+            2800
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-18T20:00:52Z",
+          "participantId": 1000000103,
+          "oddsFractional": "Evens",
+          "oddsAmerican": "100"
+        },
+        {
+          "id": 53256216,
+          "label": "Sunderland",
+          "odds": 2350,
+          "prevOdds": [
+            2300,
+            2150,
+            1650
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-13T22:38:25Z",
+          "participantId": 1000010221,
+          "oddsFractional": "27/20",
+          "oddsAmerican": "135"
+        },
+        {
+          "id": 53256217,
+          "label": "Crystal Palace",
+          "odds": 1720,
+          "prevOdds": [
+            1530,
+            1500,
+            1570
+          ],
+          "type": "OT_UNTYPED",
+          "betOfferId": 1014408744,
+          "changedDate": "2014-01-18T20:00:52Z",
+          "participantId": 1000013415,
+          "oddsFractional": "7/10",
+          "oddsAmerican": "-143"
+        }
+      ],
+      "place": true,
+      "startingPrice": false
+    }
+  ],
+  "events": [
+    {
+      "id": 1001579848,
+      "name": "Premier League 2013/2014",
+      "homeName": "Premier League 2013/2014",
+      "start": "2014-05-11T14:01Z",
+      "group": "Premier League",
+      "type": "ET_COMPETITION",
+      "nonLiveBoCount": 5,
+      "boUri": "/offering/api/v2/eges/betoffer/event/1001579848.json",
+      "groupId": 1000094985,
+      "hideStartNo": true,
+      "sportId": 1000093190,
+      "sport": "FOOTBALL",
+      "path": [
+        {
+          "id": 1000093190,
+          "name": "Fútbol",
+          "englishName": "Football"
+        },
+        {
+          "id": 1000461733,
+          "name": "Inglaterra",
+          "englishName": "England"
+        },
+        {
+          "id": 1000094985,
+          "name": "Premier League",
+          "englishName": "Premier League"
+        }
+      ],
+      "englishName": "Premier League 2013/2014"
+    }
+  ]
+}

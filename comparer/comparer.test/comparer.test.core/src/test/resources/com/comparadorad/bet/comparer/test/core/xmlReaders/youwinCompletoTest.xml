@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odds last_modified="2013/07/19 09:34:17" date_format="YYYY/MM/DD"
+	timezone="Europe/Malta">
+	<sport name="Football" sportid="21.1">
+		<region name="England" regionid="23.1">
+			<group name="Week 1 Premier League" groupid="10948.1">
+				<event name="Man Utd v Aston Villa" eventid="538084.1"
+					betend="2013/08/17 16:00:00">
+					<bet name="Match betting" betid="6101062.1">
+						<selection name="Man Utd" priceup="35" pricedown="100"
+							odd="1.35" selectionid="29217312.1" />
+						<selection name="Aston Villa" priceup="15" pricedown="2"
+							odd="8.50" selectionid="29217313.1" />
+						<selection name="Draw" priceup="7" pricedown="2" odd="4.50"
+							selectionid="29218295.1" />
+					</bet>
+					<bet name="Draw no bet" betid="6261387.1">
+						<selection name="Man Utd" priceup="3" pricedown="50"
+							odd="1.06" selectionid="29775366.1" />
+						<selection name="Aston Villa" priceup="6" pricedown="1"
+							odd="7.00" selectionid="29775367.1" />
+					</bet>
+					<bet name="European handicaps +1:0" betid="6261389.1">
+						<selection name="Man Utd +1" priceup="1" pricedown="25"
+							odd="1.04" selectionid="29775372.1" />
+						<selection name="Draw -1" priceup="13" pricedown="2"
+							odd="7.50" selectionid="29775373.1" />
+						<selection name="Aston Villa -1" priceup="45" pricedown="1"
+							odd="46.00" selectionid="29775374.1" />
+					</bet>
+					<bet name="Total goals Over/Under 0.5" betid="6261394.1">
+						<selection name="Under 0.5" priceup="17" pricedown="2"
+							odd="9.50" selectionid="29775386.1" />
+						<selection name="Over 0.5" priceup="1" pricedown="50"
+							odd="1.02" selectionid="29775385.1" />
+					</bet>
+					<bet name="Points Spread 7.5" betid="6498443.1">
+						<selection name="Man Utd +7.5" priceup="13"
+							pricedown="10" odd="2.30" selectionid="30696309.1" />
+						<selection name="Aston Villa -7.5" priceup="1"
+							pricedown="2" odd="1.50" selectionid="30696310.1" />
+					</bet>
+					<bet name="Point Spread" betid="5748958.1">
+						<selection name="Man Utd" priceup="23" pricedown="20"
+							odd="2.15" handicap="-4" selectionid="27931665.1" />
+						<selection name="Aston Villa" priceup="20" pricedown="27"
+							odd="1.74" handicap="4" selectionid="27931666.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+	<sport name="Soccer Futures" sportid="2514.1">
+		<region name="England" regionid="2515.1">
+			<group name="English Premier League 2013-2014" groupid="12287.1">
+				<event name="England - Premier League 2013-14" eventid="509324.1"
+					betend="2013/08/17 13:45:00">
+					<bet name="Winner" betid="5141457.1">
+						<selection name="Manchester United" priceup="5"
+							pricedown="2" odd="1.50" selectionid="25670883.1" />
+						<selection name="Manchester City" priceup="23"
+							pricedown="10" odd="3.30" selectionid="25670884.1" />
+						<selection name="Chelsea" priceup="9" pricedown="4" odd="3.25"
+							selectionid="25670885.1" />
+						<selection name="Aston Villa" priceup="2000" pricedown="1"
+							odd="2001.00" selectionid="30284104.1" />
+						<selection name="West Ham" priceup="2000" pricedown="1"
+							odd="2001.00" selectionid="30284110.1" />
+					</bet>
+				</event>
+			</group>
+		</region>
+	</sport>
+</odds>

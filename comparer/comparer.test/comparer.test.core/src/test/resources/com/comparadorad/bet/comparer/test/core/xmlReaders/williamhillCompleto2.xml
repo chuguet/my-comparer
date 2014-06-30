@@ -1,0 +1,37 @@
+<oxip version="7.1" created="2013-05-14 15:50:27" lastMsgId=""
+	requestTime="1.8508">
+	<response request="getHierarchyByMarketType" code="001"
+		message="success" debug="">
+		<williamhill>
+			<class id="273" name="Basketball" maxRepDate="2013-05-14"
+				maxRepTime="15:03:11">
+				<type id="295" name="NBA"
+					url="http://sports.williamhill.com/bet/betting/t/295"
+					lastUpdateDate="2013-05-07" lastUpdateTime="09:20:12">
+					<market id="88883411" name="San Antonio Spurs v Miami Heat - Money Line"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4594955/Arsenal%2dv%2dAston%2dVilla"
+						date="2013-08-17" time="15:00:00" betTillDate="2013-08-17"
+						betTillTime="15:00:00" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:22">
+						<participant name="Miami Heat" id="329299947" odds="11/2"
+							oddsDecimal="6.50" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:21"
+							handicap="" />
+						<participant name="San Antonio Spurs" id="329299946" odds="1/10"
+							oddsDecimal="1.10" lastUpdateDate="2013-06-20" lastUpdateTime="16:22:21"
+							handicap="" />
+					</market>
+					<market id="93143964" name="San Antonio Spurs v Miami Heat - Alternative Handicap 1"
+						url="http://sports.williamhill.com/bet/en-gb/betting/e/4679653/Greece%2dv%2dSerbia"
+						date="2013-08-17" time="15:00:00" betTillDate="2013-07-10"
+						betTillTime="16:00:00" lastUpdateDate="2013-07-10" lastUpdateTime="11:31:16">
+						<participant name="Miami Heat" id="343073542" odds="2/5"
+							oddsDecimal="1.40" lastUpdateDate="2013-07-10" lastUpdateTime="09:46:27"
+							handicap="-2.5" />
+						<participant name="San Antonio Spurs" id="343073540" odds="1/5"
+							oddsDecimal="1.20" lastUpdateDate="2013-07-10" lastUpdateTime="09:46:27"
+							handicap="2.5" />
+					</market>
+				</type>
+			</class>
+		</williamhill>
+	</response>
+</oxip>

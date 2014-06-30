@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2013-04-22T07:07:01.370">
+	<sport name="Baseball" id="20">
+		<event name="Major League" id="243">			
+			<match name="DET Tigers (A. Sanchez) - WAS Nationals (S. Strasburg)" 
+				id="578846" start_date="2013-07-31T00:05:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Bkb_Mr2" name="Match Winner" id="3440728">
+						<choice name="%1%" id="29083697" odd="1.68" />
+						<choice name="%2%" id="29083698" odd="2.05" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="3440734">
+						<choice name="%1% -2.5" id="29132931" odd="1.90" />
+						<choice name="%2% +2.5" id="29132932" odd="1.80" />
+					</bet>
+					<bet code="Bkb_Mrs" name="Match Result" id="3440731">
+						<choice name="%1%" id="29083720" odd="1.72" />
+						<choice name="Draw" id="29083721" odd="14.00" />
+						<choice name="%2%" id="29083722" odd="2.15" />
+					</bet>
+					<bet code="Bkb_Tpt" name="Total Points" id="3440735">
+						<choice name="Under 151.5" id="29132934" odd="1.85" />
+						<choice name="Over 151.5" id="29132933" odd="1.85" />
+					</bet>
+				</bets>
+			</match>
+		</event>	
+	</sport>
+	<sport name="Football" id="1">
+		<event name="Eng. Premier League" id="3">
+			<match name="Manchester United - Aston Villa" id="541329"
+				start_date="2013-04-22T20:00:00" live_id="68282" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Match Result" id="5231116">
+						<choice name="%1%" id="41019817" odd="1.22" />
+						<choice name="Draw" id="41019819" odd="6.50" />
+						<choice name="%2%" id="41019821" odd="10.00" />
+					</bet>
+					<bet code="Bkb_Han" name="Handicap Result" id="5482719">
+						<choice name="%1% -4.5" id="43151455" odd="1.85" />
+						<choice name="%2% +4.5" id="43151456" odd="1.88" />
+					</bet>
+					<bet code="Ftb_WinM" name="Match Winner" id="6314283">
+						<choice name="%1%" id="48956336" odd="1.12" />
+						<choice name="%2%" id="48956339" odd="5.25" />
+					</bet>
+				</bets>
+			</match>
+			<match name="Eng. Premier League 2013-2014" id="555116"
+				start_date="2014-05-25T15:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Win" name="Outright Winner" id="5617987">
+						<choice name="Aston Villa" id="43802465" odd="500.00" />
+						<choice name="Chelsea" id="43802467" odd="3.25" />
+						<choice name="Manchester City" id="43802475" odd="3.25" />
+						<choice name="Manchester United" id="43802477" odd="2.00" />
+						<choice name="West Ham" id="43802491" odd="500.00" />
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

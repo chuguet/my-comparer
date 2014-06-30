@@ -1,0 +1,17 @@
+<Odds type="odds">
+	<Competition id="SOC" sprtyp="FB" compno="922">
+		<Name>UEFA Champions League</Name>
+		<Match id="998949">
+			<Name>FC Zenit St Petersburg v Athletico Madrid</Name>
+			<Rotation>0</Rotation>
+			<Date>11/26/2013 13:00:00</Date>
+			<hasLiveBetting>Yes</hasLiveBetting>
+			<Bet type="AL" id="998949">
+				<line name="points1">-0.5</line>
+				<line name="odds1">2</line>
+				<line name="points2">+0.5</line>
+				<line name="odds2">1.8</line>
+			</Bet>
+		</Match>
+	</Competition>
+</Odds>

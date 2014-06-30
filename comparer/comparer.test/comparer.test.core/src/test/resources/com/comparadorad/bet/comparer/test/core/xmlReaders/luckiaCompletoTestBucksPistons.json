@@ -1,0 +1,636 @@
+{
+  "betoffers": [
+    {
+      "id": 1019683738,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159512,
+        "label": "Handicap - Incluyendo prórroga"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677566,
+          "label": "Milwaukee Bucks",
+          "odds": 1730,
+          "line": -9500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683738,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000219,
+          "oddsFractional": "9/10",
+          "oddsAmerican": "-112"
+        },
+        {
+          "id": 72677567,
+          "label": "Detroit Pistons",
+          "odds": 2120,
+          "line": 9500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683738,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000217,
+          "oddsFractional": "9/10",
+          "oddsAmerican": "-112"
+        }
+      ]
+    },
+    {
+      "id": 1019683751,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159855,
+        "label": "Total de puntos del equipo local - Incluyendo prórroga"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Más/Menos de"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677598,
+          "label": "Más de",
+          "odds": 1870,
+          "line": 95500,
+          "type": "OT_OVER",
+          "betOfferId": 1019683751,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "5/6",
+          "oddsAmerican": "-120"
+        },
+        {
+          "id": 72677599,
+          "label": "Menos de",
+          "odds": 1950,
+          "line": 95500,
+          "type": "OT_UNDER",
+          "betOfferId": 1019683751,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "19/20",
+          "oddsAmerican": "-106"
+        }
+      ]
+    },
+    {
+      "id": 1019683752,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159837,
+        "label": "Total de puntos del equipo visitante - Incluyendo prórroga"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Más/Menos de"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677600,
+          "label": "Más de",
+          "odds": 1880,
+          "line": 99500,
+          "type": "OT_OVER",
+          "betOfferId": 1019683752,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "22/25",
+          "oddsAmerican": "-114"
+        },
+        {
+          "id": 72677601,
+          "label": "Menos de",
+          "odds": 1920,
+          "line": 99500,
+          "type": "OT_UNDER",
+          "betOfferId": 1019683752,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "10/11",
+          "oddsAmerican": "-110"
+        }
+      ]
+    },
+    {
+      "id": 1019683741,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001657521,
+        "label": "Dobles -  Resultado al final del 4.er cuarto"
+      },
+      "betOfferType": {
+        "id": 12,
+        "name": "Dobles"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677573,
+          "label": "1X",
+          "odds": 2330,
+          "type": "OT_ONE_OR_CROSS",
+          "betOfferId": 1019683741,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "33/25",
+          "oddsAmerican": "133"
+        },
+        {
+          "id": 72677574,
+          "label": "12",
+          "odds": 1030,
+          "type": "OT_ONE_OR_TWO",
+          "betOfferId": 1019683741,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "1/34",
+          "oddsAmerican": "-3335"
+        },
+        {
+          "id": 72677575,
+          "label": "X2",
+          "odds": 1400,
+          "type": "OT_CROSS_OR_TWO",
+          "betOfferId": 1019683741,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "2/5",
+          "oddsAmerican": "-250"
+        }
+      ]
+    },
+    {
+      "id": 1019683742,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001223479,
+        "label": "Total de puntos Par/Impar - Incluyendo prórroga"
+      },
+      "betOfferType": {
+        "id": 10,
+        "name": "Impar/Par"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677576,
+          "label": "Impar",
+          "odds": 1870,
+          "type": "OT_ODD",
+          "betOfferId": 1019683742,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "5/6",
+          "oddsAmerican": "-120"
+        },
+        {
+          "id": 72677577,
+          "label": "Par",
+          "odds": 1960,
+          "type": "OT_EVEN",
+          "betOfferId": 1019683742,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "19/20",
+          "oddsAmerican": "-106"
+        }
+      ]
+    },
+    {
+      "id": 1019683746,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159940,
+        "label": "Handicap - 1.ª parte"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677587,
+          "label": "Milwaukee Bucks",
+          "odds": 1900,
+          "line": -5500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683746,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000219,
+          "oddsFractional": "5/6",
+          "oddsAmerican": "-120"
+        },
+        {
+          "id": 72677588,
+          "label": "Detroit Pistons",
+          "odds": 1920,
+          "line": 5500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683746,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000217,
+          "oddsFractional": "19/20",
+          "oddsAmerican": "-106"
+        }
+      ]
+    },
+    {
+      "id": 1019683753,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159863,
+        "label": "Dobles - 1.ª parte"
+      },
+      "betOfferType": {
+        "id": 12,
+        "name": "Dobles"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677602,
+          "label": "1X",
+          "odds": 2200,
+          "type": "OT_ONE_OR_CROSS",
+          "betOfferId": 1019683753,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "6/5",
+          "oddsAmerican": "120"
+        },
+        {
+          "id": 72677603,
+          "label": "12",
+          "odds": 1010,
+          "type": "OT_ONE_OR_TWO",
+          "betOfferId": 1019683753,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "1/100",
+          "oddsAmerican": "-10000"
+        },
+        {
+          "id": 72677604,
+          "label": "X2",
+          "odds": 1500,
+          "type": "OT_CROSS_OR_TWO",
+          "betOfferId": 1019683753,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "1/2",
+          "oddsAmerican": "-200"
+        }
+      ]
+    },
+    {
+      "id": 1019683774,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159567,
+        "label": "Total de puntos del equipo local - 1.ª parte"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Más/Menos de"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677651,
+          "label": "Más de",
+          "odds": 1830,
+          "line": 47500,
+          "type": "OT_OVER",
+          "betOfferId": 1019683774,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "4/5",
+          "oddsAmerican": "-125"
+        },
+        {
+          "id": 72677652,
+          "label": "Menos de",
+          "odds": 2000,
+          "line": 47500,
+          "type": "OT_UNDER",
+          "betOfferId": 1019683774,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "Evens",
+          "oddsAmerican": "100"
+        }
+      ]
+    },
+    {
+      "id": 1019683773,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159579,
+        "label": "Total de puntos del equipo visitante - 1.ª parte"
+      },
+      "betOfferType": {
+        "id": 6,
+        "name": "Más/Menos de"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677649,
+          "label": "Más de",
+          "odds": 1980,
+          "line": 50500,
+          "type": "OT_OVER",
+          "betOfferId": 1019683773,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "49/50",
+          "oddsAmerican": "-103"
+        },
+        {
+          "id": 72677650,
+          "label": "Menos de",
+          "odds": 1830,
+          "line": 50500,
+          "type": "OT_UNDER",
+          "betOfferId": 1019683773,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "4/5",
+          "oddsAmerican": "-125"
+        }
+      ]
+    },
+    {
+      "id": 1019683747,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159576,
+        "label": "Handicap - Cuarto 1"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677589,
+          "label": "Milwaukee Bucks",
+          "odds": 1830,
+          "line": -2500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683747,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000219,
+          "oddsFractional": "5/6",
+          "oddsAmerican": "-120"
+        },
+        {
+          "id": 72677590,
+          "label": "Detroit Pistons",
+          "odds": 2000,
+          "line": 2500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683747,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000217,
+          "oddsFractional": "19/20",
+          "oddsAmerican": "-106"
+        }
+      ]
+    },
+    {
+      "id": 1019683754,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159514,
+        "label": "Dobles - Cuarto 1"
+      },
+      "betOfferType": {
+        "id": 12,
+        "name": "Dobles"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677605,
+          "label": "1X",
+          "odds": 2060,
+          "type": "OT_ONE_OR_CROSS",
+          "betOfferId": 1019683754,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "21/20",
+          "oddsAmerican": "106"
+        },
+        {
+          "id": 72677606,
+          "label": "12",
+          "odds": 1030,
+          "type": "OT_ONE_OR_TWO",
+          "betOfferId": 1019683754,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "1/34",
+          "oddsAmerican": "-3335"
+        },
+        {
+          "id": 72677607,
+          "label": "X2",
+          "odds": 1550,
+          "type": "OT_CROSS_OR_TWO",
+          "betOfferId": 1019683754,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "8/15",
+          "oddsAmerican": "-186"
+        }
+      ]
+    },
+    {
+      "id": 1019683772,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159852,
+        "label": "Resultado al final del cuarto 3"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "1X2"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677646,
+          "label": "1",
+          "odds": 2550,
+          "type": "OT_ONE",
+          "betOfferId": 1019683772,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "31/20",
+          "oddsAmerican": "155"
+        },
+        {
+          "id": 72677647,
+          "label": "X",
+          "odds": 22000,
+          "type": "OT_CROSS",
+          "betOfferId": 1019683772,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "21/1",
+          "oddsAmerican": "2100"
+        },
+        {
+          "id": 72677648,
+          "label": "2",
+          "odds": 1580,
+          "type": "OT_TWO",
+          "betOfferId": 1019683772,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "4/7",
+          "oddsAmerican": "-175"
+        }
+      ]
+    },
+    {
+      "id": 1019683770,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159791,
+        "label": "Apuesta sin empate - Resultado al final del cuarto 3"
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "1X2"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677641,
+          "label": "1",
+          "odds": 2500,
+          "type": "OT_ONE",
+          "betOfferId": 1019683770,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "6/4",
+          "oddsAmerican": "150"
+        },
+        {
+          "id": 72677643,
+          "label": "2",
+          "odds": 1550,
+          "type": "OT_TWO",
+          "betOfferId": 1019683770,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "8/15",
+          "oddsAmerican": "-186"
+        }
+      ]
+    },
+    {
+      "id": 1019683775,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159481,
+        "label": "Handicap 3-Way - Resultado al final del cuarto 3"
+      },
+      "betOfferType": {
+        "id": 11,
+        "name": "Handicap 3-Way "
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677653,
+          "label": "1",
+          "odds": 1980,
+          "line": 3000,
+          "type": "OT_ONE",
+          "betOfferId": 1019683775,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "49/50",
+          "oddsAmerican": "-103"
+        },
+        {
+          "id": 72677654,
+          "label": "X",
+          "odds": 20000,
+          "line": 3000,
+          "type": "OT_CROSS",
+          "betOfferId": 1019683775,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "19/1",
+          "oddsAmerican": "1900"
+        },
+        {
+          "id": 72677655,
+          "label": "2",
+          "odds": 1900,
+          "line": 3000,
+          "type": "OT_TWO",
+          "betOfferId": 1019683775,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "oddsFractional": "9/10",
+          "oddsAmerican": "-112"
+        }
+      ]
+    },
+    {
+      "id": 1019683771,
+      "closed": "2014-01-23T01:05Z",
+      "criterion": {
+        "id": 1001159653,
+        "label": "Handicap - Resultado al final del cuarto 3"
+      },
+      "betOfferType": {
+        "id": 1,
+        "name": "Handicap"
+      },
+      "eventId": 1001792749,
+      "outcomes": [
+        {
+          "id": 72677644,
+          "label": "Milwaukee Bucks",
+          "odds": 1880,
+          "line": 3500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683771,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000219,
+          "oddsFractional": "22/25",
+          "oddsAmerican": "-114"
+        },
+        {
+          "id": 72677645,
+          "label": "Detroit Pistons",
+          "odds": 1940,
+          "line": -3500,
+          "type": "OT_UNTYPED",
+          "betOfferId": 1019683771,
+          "changedDate": "2014-01-21T22:56:23Z",
+          "participantId": 1000000217,
+          "oddsFractional": "10/11",
+          "oddsAmerican": "-110"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1001792749,
+      "name": "Milwaukee Bucks - Detroit Pistons",
+      "homeName": "Milwaukee Bucks",
+      "awayName": "Detroit Pistons",
+      "start": "2014-01-23T01:05Z",
+      "group": "NBA",
+      "type": "ET_MATCH",
+      "nonLiveBoCount": 54,
+      "boUri": "/offering/api/v2/eges/betoffer/event/1001792749.json",
+      "groupId": 1000093652,
+      "hideStartNo": true,
+      "sportId": 1000093204,
+      "sport": "BASKETBALL",
+      "path": [
+        {
+          "id": 1000093204,
+          "name": "Baloncesto",
+          "englishName": "Basketball"
+        },
+        {
+          "id": 1000093652,
+          "name": "NBA",
+          "englishName": "NBA"
+        }
+      ],
+      "englishName": "Milwaukee Bucks - Detroit Pistons"
+    }
+  ]
+}

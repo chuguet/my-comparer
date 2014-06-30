@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+	<params legend="False" catId="-1" sportId="12" matchId="-1"
+		delta="6000" deltaUtc="2013-12-15T11:40" utc="2013-12-19T15:40"
+		includeCent="False" includeFraction="False" /><![CDATA[For detailed information see http://xmlfeed.intertops.com/XMLOddsFeed/default.aspx
+Dates are UTC
+QSTRING options:
+	delta = changes since x minutes
+	catId = limit to comp cat id
+	sportId = limit to sport cat id
+	matchId = limit to match id (multiple markets can be linked using an mid)	
+	includeFraction = true to include fractional odds
+	includeCent = true to include cent line odds]]><data>
+	<s id="12" n="Soccer">
+		<cat id="944" n="English Premier League">
+			<m id="1007912" n="Manchester United v Aston Villa" mid="568744"
+				dt="2013-12-22T20:00">
+				<t id="1" n="Single Match">
+					<l id="15014609" i="0" o="4.75">Draw</l>
+					<l id="15014608" i="1" o="1.35">Manchester United</l>
+					<l id="15014607" i="2" o="7.5">Aston Villa</l>
+				</t>
+				<t id="4" n="Point Score">
+					<l id="15014611" i="1" o="1.44" p="2.5">Game Total OVER 2.5</l>
+					<l id="15014610" i="2" o="2.75" p="2.5">Game Total UNDER 2.5</l>
+				</t>
+				<t id="9" n="Correct Score">
+					<l id="15014618" i="1" o="13">0 - 0</l>
+					<l id="15014619" i="2" o="7.5">0 - 1</l>
+					<l id="15014620" i="3" o="7.5">0 - 2</l>
+					<l id="15014621" i="4" o="9.5">0 - 3</l>
+					<l id="15014622" i="5" o="21">0 - 4</l>
+					<l id="15014623" i="6" o="51">0 - 5</l>
+					<l id="15014624" i="7" o="13">1 - 0</l>
+					<l id="15014625" i="8" o="8.5">1 - 1</l>
+					<l id="15014626" i="9" o="6.5">1 - 2</l>
+					<l id="15014627" i="10" o="9">1 - 3</l>
+					<l id="15014628" i="11" o="21">1 - 4</l>
+					<l id="15014629" i="12" o="41">1 - 5</l>
+					<l id="15014630" i="13" o="29">2 - 0</l>
+					<l id="15014631" i="14" o="13">2 - 1</l>
+					<l id="15014632" i="15" o="13">2 - 2</l>
+					<l id="15014633" i="16" o="23">2 - 3</l>
+					<l id="15014634" i="17" o="41">2 - 4</l>
+					<l id="15014635" i="18" o="67">3 - 0</l>
+					<l id="15014636" i="19" o="41">3 - 1</l>
+					<l id="15014637" i="20" o="34">3 - 2</l>
+					<l id="15014638" i="21" o="51">3 - 3</l>
+					<l id="15014639" i="22" o="81">4 - 2</l>
+					<l id="15017527" i="23" o="81">1 - 6</l>
+				</t>
+				<t id="14" n="Half Time / Full Time">
+					<l id="15014643" i="1" o="7">Manchester United - Manchester United
+					</l>
+					<l id="15014644" i="2" o="22">Manchester United - Aston Villa</l>
+					<l id="15014645" i="3" o="15">Manchester United - Draw</l>
+					<l id="15014646" i="4" o="9">Draw - Manchester United</l>
+					<l id="15014647" i="5" o="5.5">Draw - Draw</l>
+					<l id="15014648" i="6" o="4.5">Draw - Aston Villa</l>
+					<l id="15014649" i="7" o="35">Aston Villa - Manchester United</l>
+					<l id="15014650" i="8" o="16">Aston Villa - Draw</l>
+					<l id="15014651" i="9" o="2.4">Aston Villa - Aston Villa</l>
+				</t>
+				<t id="17" n="Half Time Result">
+					<l id="15014615" i="1" o="5">Manchester United</l>
+					<l id="15014616" i="2" o="2.1">Aston Villa</l>
+					<l id="15014617" i="3" o="2.2">Draw</l>
+				</t>
+				<t id="20" n="Double Chance">
+					<l id="15014640" i="1" o="2.16">Manchester United or draw</l>
+					<l id="15014641" i="2" o="1.14">Aston Villa or draw</l>
+					<l id="15014642" i="3" o="1.22">Manchester United or Aston Villa</l>
+				</t>
+				<t id="22" n="Both Halves">
+					<l id="15014662" i="1" o="14">Manchester United</l>
+					<l id="15014663" i="2" o="2.75">Aston Villa</l>
+				</t>
+				<t id="27" n="Time of First Goal">
+					<l id="15014652" i="1" o="4.5">0 - 10 Minutes</l>
+					<l id="15014653" i="2" o="4.3">11 - 20 Minutes</l>
+					<l id="15014654" i="3" o="5.5">21 - 30 Minutes</l>
+					<l id="15014655" i="4" o="7.5">31 - 40 Minutes</l>
+					<l id="15014656" i="5" o="8">41 - 50 Minutes</l>
+					<l id="15014657" i="6" o="8">51 - 60 Minutes</l>
+					<l id="15014658" i="7" o="10">61 - 70 Minutes</l>
+					<l id="15014659" i="8" o="12">71 - 80 Minutes</l>
+					<l id="15014660" i="9" o="14">81 - Final Whistle</l>
+					<l id="15014661" i="10" o="13">No Goals Scored</l>
+				</t>
+				<t id="33" n="Handicap">
+					<l id="15014612" i="0" o="3.8" p="1">Draw</l>
+					<l id="15014613" i="1" o="2.16" p="1">Manchester United (+1)</l>
+					<l id="15014614" i="2" o="2.5" p="-1">Aston Villa (-1)</l>
+				</t>
+			</m>
+			<m id="946876" n="English Premier League 2013/14: To Win Outright"
+				dt="2013-12-21T19:00">
+				<t id="3" n="FreeForm">
+					<l id="13900812" i="2" o="1.05">Manchester United</l>
+					<l id="13900818" i="5" o="3">Chelsea FC</l>
+					<l id="13900818" i="5" o="3.25">Manchester City</l>
+					<l id="13900818" i="5" o="1001">Aston Villa</l>
+					<l id="13900818" i="5" o="1501">West Ham United</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+
+	<s id="26" n="Tennis">
+		<cat id="462" n="WTA Birmingham">
+			<m id="1019783" n="Van Uytvanck A. v Morita A." mid="576774"
+				rot="8003" dt="2014-02-03T15:30">
+				<t id="1" n="Single Match">
+					<l id="15236629" i="1" o="3">Van Uytvanck A.</l>
+					<l id="15236630" i="2" o="1.3">Morita A.</l>
+				</t>
+			</m>
+		</cat>
+
+		<cat id="1801" n="WTA Birmingham">
+			<m id="1011415" n="WTA Birmingham: To Win Outright" dt="2014-04-04T01:00">
+				<t id="3" n="FreeForm">
+					<l id="15086846" i="3" o="2.2">Van Uytvanck A.</l>
+					<l id="15086850" i="5" o="3">Morita A.</l>
+				</t>
+			</m>
+		</cat>
+	</s>
+</data>
+</result>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2013-06-22T07:07:01.370">
+	<sport name="Football" id="1">
+		<event name="Eng. Premier League" id="3">
+			<match name="Manchester City - Aston Villa" id="541329" start_date="2013-06-22T20:00:00" live_id="68282" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Total Points" id="5231116">
+						<choice name="Under 0.5" id="46204679" odd="1.88"/>
+						<choice name="Over 0.5" id="46204678" odd="1.88"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>

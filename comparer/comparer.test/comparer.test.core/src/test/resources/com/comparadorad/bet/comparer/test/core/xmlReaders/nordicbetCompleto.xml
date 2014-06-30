@@ -1,0 +1,180 @@
+<Odds>
+	<Game id="50000330486" name="Manchester United - Aston Villa">
+		<Sport>Football</Sport>
+		<Region>England</Region>
+		<Season>Premier League</Season>
+		<BreadCrumbs>Football - England - Premier League</BreadCrumbs>
+		<GameStartTime>2013-08-17 16:00:00 CEST</GameStartTime>
+		<BettingEndTime>2013-08-17 16:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant id="9000000724" info="England" role="1">Manchester United</Participant>
+		<Participant id="798" info="England" role="2">Aston Villa</Participant>
+		<OutcomeSet id="50002877743" name="Manchester United - Aston Villa"	type="Result">
+			<Outcome id="50139932508" name="1" odds="1.73">
+				<Participant id="9000000724" info="England">Manchester United</Participant>
+			</Outcome>
+			<Outcome id="50139932506" name="X" odds="3.55" />
+			<Outcome id="50139932505" name="2" odds="4.5">
+				<Participant id="798" info="England">Aston Villa</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50003104135"
+			name="Manchester United - Aston Villa (under/over: 4.5)" type="Under/Over Match">
+			<Outcome id="50156700398" name="over" odds="1.04">
+				<Participant id="146" info="Spain">Manchester United</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+			<Outcome id="50156700400" name="under" odds="9.25">
+				<Participant id="3376" info="Spain">Aston Villa</Participant>
+				<OptionalValue1>4.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50002766917" name="Manchester United - Aston Villa"
+			type="Result Winner">
+			<Outcome id="50132026876" name="Manchester United" odds="1.85">
+				<Participant id="33" info="England">Manchester United</Participant>
+			</Outcome>
+			<Outcome id="50132026877" name="Aston Villa" odds="1.55">
+				<Participant id="134" info="England">Aston Villa</Participant>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50003026273" name="Manchester United - Aston Villa H(0 - 1)"
+			type="Handicap">
+			<Outcome id="50152079631" name="1" odds="2.1">
+				<Participant id="20000002893" info="England">Manchester United</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome id="50152079632" name="X" odds="2.35" />
+			<Outcome id="50152079634" name="2" odds="3.65">
+				<Participant id="9000002460" info="England">Aston Villa
+				</Participant>
+				<OptionalValue1>1.0</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+		<OutcomeSet id="50003039792"
+			name="Manchester United - Aston Villa (Most corners - Handicap) H(0 - 3.5)"
+			type="Handicap">
+			<Outcome id="50152202017" name="1" odds="1.3">
+				<Participant id="10000045730" info="England">Manchester United</Participant>
+				<OptionalValue1>0.0</OptionalValue1>
+			</Outcome>
+			<Outcome id="50152202018" name="2" odds="3.2">
+				<Participant id="10000045731" info="England">Aston Villa</Participant>
+				<OptionalValue1>3.5</OptionalValue1>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000311838" name="Winner Premier League 2013/2014">
+		<Sport>Football</Sport>
+		<Region>England</Region>
+		<Season>Premier League Season Bets</Season>
+		<BreadCrumbs>Football - England - Premier League Season Bets
+		</BreadCrumbs>
+		<GameStartTime>2013-08-17 16:00:00 CEST</GameStartTime>
+		<BettingEndTime>2013-08-17 16:00:00 CEST</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant id="9000000724" info="England" role="participant">Manchester United</Participant>
+		<Participant id="9000001869" info="England" role="participant">Manchester City</Participant>
+		<Participant id="134" info="England" role="participant">Chelsea</Participant>
+		<Participant id="9000002816" info="England" role="participant">Aston Villa</Participant>
+		<Participant id="57" info="England" role="participant">West Ham United</Participant>
+		<OutcomeSet id="50002657898" name="Winner Premier League 2013/2014"	type="Result Winner">
+			<Outcome id="50141783782" name="Manchester United" odds="2.7">
+				<Participant id="9000000724" info="England">Manchester United</Participant>
+			</Outcome>
+			<Outcome id="50141783780" name="Manchester City" odds="2.65">
+			    <Participant id="9000001869" info="England">Manchester City</Participant>
+			</Outcome>
+			<Outcome id="50141783767" name="Chelsea" odds="2.65">
+				<Participant id="134" info="England">Chelsea</Participant>
+			</Outcome>
+			<Outcome id="50141783772" name="Aston Villa" odds="1500.0">
+				<Participant id="9000002816" info="England">Aston Villa</Participant>
+			</Outcome>
+			<Outcome id="50141783763" name="West Ham United" odds="1000.0">
+				<Participant id="57" info="England">West Ham United</Participant>
+			</Outcome>
+		</OutcomeSet>
+	</Game>
+	<Game id="50000350943" name="Winner of NBA Season 2013/14 (Inc. Play-offs)">
+		<Sport>Basketball</Sport>
+		<Region>United States of America</Region>
+		<Season>NBA Season Bets</Season>
+		<BreadCrumbs>Basketball - USA - NBA Season Bets</BreadCrumbs>
+		<GameStartTime>2013-10-30 03:00:00 EET</GameStartTime>
+		<BettingEndTime>2013-10-30 03:00:00 EET</BettingEndTime>
+		<LiveBet>False</LiveBet>
+		<IsRunning>False</IsRunning>
+		<Participant info="NBA" id="317">New Jersey Nets</Participant>
+		<Participant info="NBA" role="participant" id="10000017487">Oklahoma City Thunder</Participant>
+		<Participant info="NBA" role="participant" id="300">Atlanta Hawks</Participant>
+		<Participant info="NBA" role="participant" id="301">Boston Celtics</Participant>
+		<Participant info="NBA" role="participant" id="303">Chicago Bulls</Participant>
+		<Participant info="NBA" role="participant" id="304">Cleveland Cavaliers</Participant>
+		<Participant info="NBA" role="participant" id="305">Dallas Mavericks</Participant>
+		<Participant info="NBA" role="participant" id="306">Denver Nuggets</Participant>
+		<Participant info="NBA" role="participant" id="307">Detroit Pistons</Participant>
+		<Participant info="NBA" role="participant" id="308">Golden State Warriors</Participant>
+		<Participant info="NBA" role="participant" id="309">Houston Rockets</Participant>
+		<Participant info="NBA" role="participant" id="310">Indiana Pacers</Participant>
+		<Participant info="NBA" role="participant" id="311">Los Angeles Clippers</Participant>
+		<Participant info="NBA" role="participant" id="312">Los Angeles Lakers</Participant>
+		<Participant info="NBA" role="participant" id="313">Memphis Grizzlies</Participant>
+		<Participant info="NBA" role="participant" id="314">Miami Heat</Participant>
+		<Participant info="NBA" role="participant" id="315">Milwaukee Bucks</Participant>
+		<Participant info="NBA" role="participant" id="316">Minnesota Timberwolves</Participant>
+		<Participant info="NBA" role="participant" id="318">New York Knicks</Participant>
+		<Participant info="NBA" role="participant" id="319">Orlando Magic</Participant>
+		<Participant info="NBA" role="participant" id="320">Philadelphia 76ers</Participant>
+		<Participant info="NBA" role="participant" id="321">Phoenix Suns</Participant>
+		<Participant info="NBA" role="participant" id="322">Portland Trail Blazers</Participant>
+		<Participant info="NBA" role="participant" id="323">Sacramento Kings</Participant>
+		<Participant info="NBA" role="participant" id="324">San Antonio Spurs</Participant>
+		<Participant info="NBA" role="participant" id="326">Toronto Raptors</Participant>
+		<Participant info="NBA" role="participant" id="327">Utah Jazz</Participant>
+		<Participant info="NBA" role="participant" id="328">Washington Wizards</Participant>
+		<Participant info="NBA" role="participant" id="329">Charlotte Bobcats</Participant>
+		<Participant info="NBA" role="participant" id="50000020622">Brooklyn Nets</Participant>
+		<Participant info="NBA" role="participant" id="50000032461">New Orleans Pelicans</Participant>
+		<OutcomeSet type="Custom Side Bet" id="50003162861"
+			name="Winner of NBA Season 2013/14 (Inc. Play-offs) (Winner of NBA Season 2013/14 (Inc. Play-offs))">
+			<Outcome odds="3.0" id="50164395085" name="Miami Heat" />
+			<Outcome odds="1.4" id="50164395084" name="Any Other Team" />
+		</OutcomeSet>
+		<OutcomeSet type="Result Winner" id="50003162854"
+			name="Winner of NBA Season 2013/14 (Inc. Play-offs)">
+			<Outcome odds="120.0" id="50164394917" name="Atlanta Hawks">...</Outcome>
+			<Outcome odds="150.0" id="50164394918" name="Boston Celtics">...</Outcome>
+			<Outcome odds="11.0" id="50164394919" name="Chicago Bulls">...</Outcome>
+			<Outcome odds="80.0" id="50164394920" name="Cleveland Cavaliers">...</Outcome>
+			<Outcome odds="50.0" id="50164394921" name="Dallas Mavericks">...</Outcome>
+			<Outcome odds="40.0" id="50164394922" name="Denver Nuggets">...</Outcome>
+			<Outcome odds="120.0" id="50164394923" name="Detroit Pistons">...</Outcome>
+			<Outcome odds="23.0" id="50164394915" name="Golden State Warriors">...</Outcome>
+			<Outcome odds="11.0" id="50164394916" name="Houston Rockets">...</Outcome>
+			<Outcome odds="13.0" id="50164394900" name="Indiana Pacers">...</Outcome>
+			<Outcome odds="13.0" id="50164394899" name="Los Angeles Clippers">...</Outcome>
+			<Outcome odds="45.0" id="50164394898" name="Los Angeles Lakers">...</Outcome>
+			<Outcome odds="25.0" id="50164394897" name="Memphis Grizzlies">...</Outcome>
+			<Outcome odds="3.0" id="50164394903" name="Miami Heat">...</Outcome>
+			<Outcome odds="250.0" id="50164394902" name="Milwaukee Bucks">...</Outcome>
+			<Outcome odds="100.0" id="50164394901" name="Minnesota Timberwolves">...</Outcome>
+			<Outcome odds="25.0" id="50164394896" name="New York Knicks">...</Outcome>
+			<Outcome odds="300.0" id="50164394895" name="Orlando Magic">...</Outcome>
+			<Outcome odds="400.0" id="50164394908" name="Philadelphia 76ers">...</Outcome>
+			<Outcome odds="400.0" id="50164394909" name="Phoenix Suns">...</Outcome>
+			<Outcome odds="125.0" id="50164394906" name="Portland Trail Blazers">...</Outcome>
+			<Outcome odds="250.0" id="50164394907" name="Sacramento Kings">...</Outcome>
+			<Outcome odds="12.0" id="50164394912" name="San Antonio Spurs">...</Outcome>
+			<Outcome odds="300.0" id="50164394910" name="Toronto Raptors">...</Outcome>
+			<Outcome odds="150.0" id="50164394911" name="Utah Jazz">...</Outcome>
+			<Outcome odds="125.0" id="50164394913" name="Washington Wizards">...</Outcome>
+			<Outcome odds="500.0" id="50164394914" name="Charlotte Bobcats">...</Outcome>
+			<Outcome odds="12.0" id="50164394905" name="Brooklyn Nets">...</Outcome>
+			<Outcome odds="125.0" id="50164394904" name="New Orleans Pelicans">...</Outcome>
+			<Outcome odds="7.0" id="50164394924" name="Oklahoma City Thunder">...</Outcome>
+		</OutcomeSet>
+	</Game>
+</Odds>

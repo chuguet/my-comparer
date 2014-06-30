@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Football-Championship" timeGenerated="2013-03-19T13:32:15"
+	Bookmaker="Betfred">
+	<event name="Wade, J v Van Barneveld, R" eventid="2357389.20"
+		date="20130321" time="2150" meeting="" venue="">
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Match Result (With Draw)" inrunning="0"
+			bettypeid="5867125.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129836104.20"
+				price="8/5" priceDecimal="2.60" priceUS="160.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="129836106.20"
+				price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129836108.20" price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			handicap="1.50" suspended="false" name="Handicap Result (No Tie) -1.5"
+			inrunning="0" bettypeid="5867128.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129836120.20"
+				handicap-id="3538270.20" handicap="1.5" price="4/6" priceDecimal="1.67"
+				priceUS="-66.67" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129836121.20" handicap-id="3538271.20" handicap="-1.5" price="11/10"
+				priceDecimal="2.10" priceUS="110.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5867132.20">
+			<bet had-value="HOME" name="Wade, J 7-0" short-name="Wade, J 7"
+				id="129836128.20" price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-1" short-name="Wade, J 7"
+				id="129836129.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-2" short-name="Wade, J 7"
+				id="129836130.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-3" short-name="Wade, J 7"
+				id="129836131.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-4" short-name="Wade, J 7"
+				id="129836132.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J 7-5" short-name="Wade, J 7"
+				id="129836133.20" price="17/2" priceDecimal="9.50" priceUS="850.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 6-6" short-name="Draw 6-6" id="129836134.20"
+				price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-0" short-name="Van Barne"
+				id="129836135.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-1" short-name="Van Barne"
+				id="129836136.20" price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-2" short-name="Van Barne"
+				id="129836137.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-3" short-name="Van Barne"
+				id="129836138.20" price="13/2" priceDecimal="7.50" priceUS="650.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-4" short-name="Van Barne"
+				id="129836139.20" price="8/1" priceDecimal="9.00" priceUS="800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R 7-5" short-name="Van Barne"
+				id="129836140.20" price="5/1" priceDecimal="6.00" priceUS="500.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Most 180s" inrunning="0" bettypeid="5876070.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="129938220.20"
+				price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938221.20"
+				price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938223.20" price="4/7" priceDecimal="1.57" priceUS="-57.14"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="First 180" inrunning="0" bettypeid="5876071.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938249.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938251.20" price="4/6" priceDecimal="1.67" priceUS="-66.67"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Last 180" inrunning="0" bettypeid="5876073.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938360.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938362.20" price="4/6" priceDecimal="1.67" priceUS="-66.67"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Total 180s" inrunning="0" bettypeid="5876074.20">
+			<bet name="Under 6.5" short-name="Under 6.5" id="129938418.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 6.5" short-name="Over 6.5" id="129938419.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="Highest Checkout" inrunning="0" bettypeid="5876075.20">
+			<bet had-value="DRAW" name="Tie" short-name="Tie" id="129938458.20"
+				price="20/1" priceDecimal="21.00" priceUS="2000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129938459.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129938461.20" price="4/5" priceDecimal="1.80" priceUS="-80.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			suspended="false" name="What Will The Highest Checkout Be?"
+			inrunning="0" bettypeid="5876076.20">
+			<bet name="Under 120.5" short-name="120.5" id="129938553.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+			<bet name="Over 120.5" short-name="120.5" id="129938554.20"
+				price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130321" bet-start-time="2150"
+			handicap="2.50" suspended="false" name="Handicap Result (No Tie) -2.5"
+			inrunning="0" bettypeid="5878059.20">
+			<bet had-value="HOME" name="Wade, J" short-name="Wade, J" id="129961610.20"
+				handicap-id="3543384.20" handicap="2.5" price="4/11" priceDecimal="1.36"
+				priceUS="-36.36" active-price-types="CP" />
+			<bet had-value="AWAY" name="Van Barneveld, R" short-name="Van Barne"
+				id="129961611.20" handicap-id="3543385.20" handicap="-2.5" price="2/1"
+				priceDecimal="3.00" priceUS="200.00" active-price-types="CP" />
+		</bettype>
+	</event>
+	<event name="MLB World Series 2013" eventid="2278834.20" date="" time="" meeting="" venue="">
+		<bettype suspended="false" name="World Series Outright" inrunning="0" bettypeid="5625490.20">
+			<bet name="Arizona Diamondbacks" short-name="Arizona D" id="126641466.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+			<bet name="Atlanta Braves" short-name="Atlanta B" id="126641467.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="CP"/>
+			<bet name="Baltimore Orioles" short-name="Baltimore" id="126641468.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Getafe v Real Zaragoza" eventid="2320396.20" date="20130301" time="2000" meeting="" venue="">
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Match Betting" inrunning="0" bettypeid="5755168.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128298864.20"
+				price="12/5" priceDecimal="3.40" priceUS="240.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe" short-name="GETAFE" id="128298866.20"
+				price="4/5" priceDecimal="1.80" priceUS="-80.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza" short-name="Real Zara"
+				id="128298869.20" price="11/4" priceDecimal="3.75" priceUS="275.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Correct Score" inrunning="0" bettypeid="5755172.20">
+			<bet had-value="HOME" name="Getafe 1-0" short-name="Get 1-0" id="128298891.20"
+				price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 2-0" short-name="Get 2-0" id="128298894.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 2-1" short-name="Get 2-1" id="128298896.20"
+				price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 3-0" short-name="Get 3-0" id="128298898.20"
+				price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 3-1" short-name="Get 3-1" id="128298900.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 3-2" short-name="Get 3-2" id="128298902.20"
+				price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-0" short-name="Get 4-0" id="128298904.20"
+				price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-1" short-name="Get 4-1" id="128298908.20"
+				price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-2" short-name="Get 4-2" id="128298911.20"
+				price="40/1" priceDecimal="41.00" priceUS="4000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 4-3" short-name="Get 4-3" id="128298913.20"
+				price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 5-0" short-name="Get 5-0" id="128298916.20"
+				price="80/1" priceDecimal="81.00" priceUS="8000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 5-1" short-name="Get 5-1" id="128298918.20"
+				price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 5-2" short-name="Get 5-2" id="128298920.20"
+				price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 6-0" short-name="Get 6-0" id="128298925.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 6-1" short-name="Get 6-1" id="128298927.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 7-0" short-name="Get 7-0" id="128298930.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 7-1" short-name="Get 7-1" id="128298932.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 8-0" short-name="Get 8-0" id="128298935.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 9-0" short-name="Get 9-0" id="128298937.20"
+				price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe 10-0" short-name="Get 10-0"
+				id="128298939.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 0-0" short-name="DRAW 0-0" id="128298940.20"
+				price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 1-1" short-name="DRAW 1-1" id="128298941.20"
+				price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 2-2" short-name="DRAW 2-2" id="128298942.20"
+				price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw 3-3" short-name="DRAW 3-3" id="128298943.20"
+				price="50/1" priceDecimal="51.00" priceUS="5000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 1-0" short-name="Rea 1-0"
+				id="128298944.20" price="17/2" priceDecimal="9.50" priceUS="850.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 2-0" short-name="Rea 2-0"
+				id="128298945.20" price="18/1" priceDecimal="19.00" priceUS="1800.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 2-1" short-name="Rea 2-1"
+				id="128298946.20" price="14/1" priceDecimal="15.00" priceUS="1400.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-0" short-name="Rea 3-0"
+				id="128298947.20" price="66/1" priceDecimal="67.00" priceUS="6600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-1" short-name="Rea 3-1"
+				id="128298948.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 3-2" short-name="Rea 3-2"
+				id="128298950.20" price="33/1" priceDecimal="34.00" priceUS="3300.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-0" short-name="Rea 4-0"
+				id="128298952.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-1" short-name="Rea 4-1"
+				id="128298954.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-2" short-name="Rea 4-2"
+				id="128298955.20" price="100/1" priceDecimal="101.00" priceUS="10000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 4-3" short-name="Rea 4-3"
+				id="128298956.20" price="150/1" priceDecimal="151.00" priceUS="15000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-0" short-name="Rea 5-0"
+				id="128298957.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-1" short-name="Rea 5-1"
+				id="128298958.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 5-2" short-name="Rea 5-2"
+				id="128298959.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 6-0" short-name="Rea 6-0"
+				id="128298961.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 6-1" short-name="Rea 6-1"
+				id="128298963.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 7-0" short-name="Rea 7-0"
+				id="128298964.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 7-1" short-name="Rea 7-1"
+				id="128298965.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 8-0" short-name="Rea 8-0"
+				id="128298966.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 9-0" short-name="Rea 9-0"
+				id="128298967.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza 10-0" short-name="Rea 10-0"
+				id="128298968.20" price="200/1" priceDecimal="201.00" priceUS="20000.00"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Double Result" inrunning="0" bettypeid="5755187.20">
+			<bet had-value="HOME" name="Getafe - Getafe" short-name="Get - Get"
+				id="128299021.20" price="7/4" priceDecimal="2.75" priceUS="175.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Getafe - Draw" short-name="Get - Dra"
+				id="128299026.20" price="16/1" priceDecimal="17.00" priceUS="1600.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Getafe - Real Zaragoza" short-name="Get - Rea"
+				id="128299028.20" price="28/1" priceDecimal="29.00" priceUS="2800.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Draw - Getafe" short-name="Dra - Get"
+				id="128299031.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Draw - Draw" short-name="Dra - Dra"
+				id="128299035.20" price="9/2" priceDecimal="5.50" priceUS="450.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Draw - Real Zaragoza" short-name="Dra - Rea"
+				id="128299036.20" price="15/2" priceDecimal="8.50" priceUS="750.00"
+				active-price-types="CP" />
+			<bet had-value="HOME" name="Real Zaragoza - Getafe" short-name="Rea - Get"
+				id="128299040.20" price="25/1" priceDecimal="26.00" priceUS="2500.00"
+				active-price-types="CP" />
+			<bet had-value="DRAW" name="Real Zaragoza - Draw" short-name="Rea - Dra"
+				id="128299044.20" price="12/1" priceDecimal="13.00" priceUS="1200.00"
+				active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza - Real Zaragoza"
+				short-name="Rea - Rea" id="128299050.20" price="6/1" priceDecimal="7.00"
+				priceUS="600.00" active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="H/T Betting" inrunning="0" bettypeid="5755193.20">
+			<bet had-value="DRAW" name="Draw" short-name="Draw" id="128299067.20"
+				price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="CP" />
+			<bet had-value="HOME" name="Getafe" short-name="GETAFE" id="128299068.20"
+				price="8/5" priceDecimal="2.60" priceUS="160.00" active-price-types="CP" />
+			<bet had-value="AWAY" name="Real Zaragoza" short-name="Real Zara"
+				id="128299070.20" price="10/3" priceDecimal="4.33" priceUS="333.33"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130301" bet-start-time="2000"
+			suspended="false" name="Under/Over 2.5" inrunning="0" bettypeid="5755195.20">
+			<bet name="Under 2.5 Goals" short-name="Under 2.5" id="128299073.20"
+				price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="CP" />
+			<bet name="Over 2.5 Goals" short-name="Over 2.5" id="128299075.20"
+				price="11/10" priceDecimal="2.10" priceUS="110.00"
+				active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

@@ -1,0 +1,45 @@
+<bestlinesports_line_feed>
+<event>
+		<event_datetimeGMT>2013-08-17 10:00</event_datetimeGMT>
+		<sporttype>Soccer</sporttype>
+		<scheduletext>Barclays Premier League</scheduletext>
+		<league>England Soccer</league>
+		<participant>
+			<participant_name>Manchester United</participant_name>
+			<rotnum>10307</rotnum>
+			<visiting_home_draw>Home</visiting_home_draw>
+			<odds>
+				<moneyline>-260</moneyline>
+			</odds>
+			<pitcher />
+		</participant>
+		<participant>
+			<participant_name>Aston Villa</participant_name>
+			<rotnum>10308</rotnum>
+			<visiting_home_draw>Visiting</visiting_home_draw>
+			<odds>
+				<moneyline>540</moneyline>
+			</odds>
+			<pitcher />
+		</participant>
+		<drawrotnum>10309</drawrotnum>
+		<drawmoneyline>340</drawmoneyline>
+		<drawTitle>Draw</drawTitle>
+		<period>
+			<period_description>Game</period_description>
+			<periodcutoff_datetimeGMT>2013-08-17 10:00</periodcutoff_datetimeGMT>
+			<period_status>I</period_status>
+			<spread>
+				<spread_visiting>-1.25</spread_visiting>
+				<spread_adjust_visiting>-115</spread_adjust_visiting>
+				<spread_home>1.25</spread_home>
+				<spread_adjust_home>-105</spread_adjust_home>
+			</spread>
+			<total>
+				<total_points>3</total_points>
+				<over_adjust>-102</over_adjust>
+				<under_adjust>-118</under_adjust>
+			</total>
+		</period>
+	</event>
+</bestlinesports_line_feed>

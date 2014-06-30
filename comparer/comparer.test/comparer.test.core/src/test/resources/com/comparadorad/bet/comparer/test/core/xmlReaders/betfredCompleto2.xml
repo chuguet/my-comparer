@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Football-Premiership" timeGenerated="2013-07-21T18:37:45"
+	Bookmaker="Betfred">	
+	<event name="Man Utd v Aston Villa" eventid="2552888.20" date="20130803"
+		time="1215" meeting="" venue="">		
+		<bettype bet-start-date="20130803" bet-start-time="1215"
+			suspended="false" name="Total goals Over/Under 7.5" inrunning="0"
+			bettypeid="6900533.20">
+			<bet name="Over 7.5" short-name="Over 7.5" id="141551005.20"
+				price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+			<bet name="Under 7.5" short-name="Under 7.5" id="141551006.20"
+				price="10/11" priceDecimal="1.91" priceUS="-90.91"
+				active-price-types="CP" />
+		</bettype>
+		<bettype bet-start-date="20130803" bet-start-time="1215"
+			handicap="5.50" suspended="false" name="Point Spread -5.5"
+			inrunning="0" bettypeid="6903929.20">
+			<bet had-value="HOME" name="Man Utd" short-name="Man Utd" id="141574343.20"
+				handicap-id="4076724.20" handicap="5.5" price="5/6" priceDecimal="1.83"
+				priceUS="-83.33" active-price-types="CP" />
+			<bet had-value="AWAY" name="Aston Villa" short-name="Aston Vil"
+				id="141574344.20" handicap-id="4076725.20" handicap="-5.5" price="5/6"
+				priceDecimal="1.83" priceUS="-83.33" active-price-types="CP" />
+		</bettype>
+	</event>
+</category>

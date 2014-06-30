@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category name="Soccer" timeGenerated="2013-05-14T09:29:53" Bookmaker="Boyle Sports">
+	<event name="World Cup 2014 - Outright" eventid="923287.10" date="20140615" time="1800" meeting="" venue="" sporttype="Football" sport="Football International">
+		<bettype ewreduction="2" ewplaceterms="2" eachway="1/2 Odds Place 1,2" suspended="false" name="World Cup 2014 Winner" inrunning="0" bettypeid="3059656.10">
+			<bet name="Germany" id="100993331.10" price="5/1" priceDecimal="2.00" active-price-types="CP"/>
+			<bet name="Spain" id="100993332.10" price="11/2" priceDecimal="6.50" active-price-types="CP"/>
+			<bet name="Holland" id="100993334.10" price="20/1" priceDecimal="21.00" active-price-types="CP"/>
+			<bet name="Brazil" id="100993335.10" price="7/2" priceDecimal="4.50" active-price-types="CP"/>
+			<bet name="Argentina" id="100993336.10" price="5/1" priceDecimal="1.25" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Real Madrid v Atletico Madrid" eventid="2063577.10" date="20130517" time="2030" meeting="" venue="" sporttype="Football" sport="World Cup">
+		<bettype suspended="false" name="Match Betting" inrunning="0" bettypeid="10882938.10">
+			<bet name="Atletico Madrid" id="214628177.10" price="11/4" priceDecimal="3.75" active-price-types="CP"/>
+			<bet name="Draw" id="214628250.10" price="1/4" priceDecimal="2.25" active-price-types="CP"/>
+			<bet name="Real Madrid" id="214628250.10" price="1/4" priceDecimal="1.25" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Gilles Simon v Roger Federer" eventid="2068841.10" date="20130516" time="2130" meeting="" venue="" sporttype="Football" sport="World Cup">
+		<bettype suspended="false" name="Match Winner" inrunning="0" bettypeid="10929719.10">
+			<bet had-value="HOME" name="Gilles Simon" id="215223643.10" price="4/1" priceDecimal="5.00" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Roger Federer" id="215223650.10" price="1/6" priceDecimal="1.17" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="New York Knicks v Indiana Pacers (Best Of 7)" eventid="2054805.10" date="20130517" time="2100" meeting="" venue="" sporttype="Football" sport="World Cup">
+		<bettype handicap="-5.0" suspended="false" name="Match Handicap" inrunning="0" bettypeid="10788913.10">
+			<bet had-value="HOME" name="New York Knicks" id="213606127.10" handicap-id="4264532" handicap="-5.0" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Indiana Pacers" id="213606128.10" handicap-id="4264533" handicap="5.0" price="1/7" priceDecimal="1.14" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Mallorca v Betis" eventid="2054805.10" date="20130520" time="0100" meeting="" venue="" sporttype="Football" sport="World Cup">
+		<bettype handicap="-1" suspended="false" name="Match Handicap" inrunning="0" bettypeid="10788913.10">
+			<bet had-value="HOME" name="Mallorca" id="213606127.10" handicap-id="4264532" handicap="-1.0" price="9/2" priceDecimal="5.50" active-price-types="CP"/>
+			<bet had-value="DRAW" name="Handicap Tie" id="213606129.10" handicap-id="4264534" handicap="-1.0" price="9/2" priceDecimal="3.50" active-price-types="CP"/>
+			<bet had-value="AWAY" name="Betis" id="213606128.10" handicap-id="4264533" handicap="1.0" price="1/7" priceDecimal="1.14" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Getafe v Valencia" eventid="1600087.10" date="20130518" time="1600" meeting="" venue="" sporttype="Football" sport="World Cup">
+		<bettype suspended="false" name="Total Sets 2.5" inrunning="0" bettypeid="10364843.10">
+			<bet name="Over 2.5" id="208545735.10" band-id="3046820.10" price="5/6" priceDecimal="1.65" active-price-types="CP"/>
+			<bet name="Under 2.5" id="208545736.10" band-id="3046825.10" price="1/1" priceDecimal="2.00" active-price-types="CP"/>
+		</bettype>
+	</event>
+	<event name="Champions League 2012/2013" eventid="1631302.10" date="20130525" time="1945" meeting="" venue="" sporttype="Football" sport="Champions League 2012/2013">
+		<bettype suspended="false" name="Top Goalscorer" inrunning="0" bettypeid="7402543.10">
+			<bet name="Cristiano Ronaldo" id="168274205.10" price="2/5" priceDecimal="1.40" active-price-types="CP"/>
+			<bet name="Robert Lewandowski" id="168274209.10" price="7/4" priceDecimal="2.75" active-price-types="CP"/>
+			<bet name="Thomas Muller" id="168274209.10" price="7/4" priceDecimal="39" active-price-types="CP"/>
+		</bettype>
+	</event>
+</category>

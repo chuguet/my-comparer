@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports file_date="2013-05-14T10:54:01.473">
+	<sport name="Football" id="1">
+		<event name="World Cup" id="1">
+			<match name="World Cup 2014" id="523003" start_date="2014-06-15T20:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Win" name="Outright Winner" id="4744549">
+						<choice name="Argentina" id="37242443" odd="1.50"/>
+						<choice name="Brazil" id="37242455" odd="4.50"/>
+						<choice name="Holland" id="37242507" odd="18.00"/>
+						<choice name="Spain" id="37242545" odd="6.00"/>
+						<choice name="Germany" id="37242483" odd="7.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match name="Atletico Madrid - Real Madrid" id="547876" start_date="2013-05-17T20:30:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Match Result" id="5414086">
+						<choice name="%1%" id="42335113" odd="1.50"/>
+						<choice name="Draw" id="42335115" odd="4.25"/>
+						<choice name="%2%" id="42335117" odd="6.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match name="Gilles Simon - Roger Federer" id="557266" start_date="2013-05-16T20:00:00" live_id="69901" streaming="1">
+				<bets>
+					<bet code="Ten_Mr2" name="Match Winner" id="5662131">
+						<choice name="%1%" id="44105965" odd="4.75"/>
+						<choice name="%2%" id="44105967" odd="1.15"/>
+					</bet>
+				</bets>
+			</match>
+			<match name="NY Knicks - Indiana Pacers" id="555182" start_date="2013-05-17T21:00:00" live_id="69893" streaming="0">
+				<bets>
+					<bet code="Bkb_Han" name="Handicap Result" id="5619932">
+						<choice name="%1% -5.0" id="44105272" odd="1.85"/>
+						<choice name="%2% +5.0" id="44105273" odd="1.85"/>
+					</bet>
+				</bets>
+			</match>
+			<match name="Mallorca - Betis" id="550872" start_date="2013-05-20T21:00:00" live_id="70164" streaming="0">
+				<bets>
+					<bet code="Ftb_Mr3" name="Handicap Result" id="5506455">
+						<choice name="%1% -1" id="43007679" odd="2.60"/>
+						<choice name="Draw" id="43007681" odd="3.20"/>
+						<choice name="%2% +1" id="43007683" odd="2.60"/>
+					</bet>
+				</bets>
+			</match>
+			<match name="Getafe - Valencia" id="550878" start_date="2013-05-18T17:00:00" live_id="" streaming="0">
+				<bets>
+					<bet code="Ftb_10" name="Total Points" id="5506974">
+						<choice name="Over 2.5" id="43011371" odd="1.60"/>
+						<choice name="Under 2.5" id="43011369" odd="2.20"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>
