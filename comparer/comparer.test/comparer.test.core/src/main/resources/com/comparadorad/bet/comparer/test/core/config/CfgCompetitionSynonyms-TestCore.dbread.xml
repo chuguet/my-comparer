@@ -1,0 +1,785 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>30000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Eng. Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England - Barclays Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England - Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League Champion</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League Top Goal scorer</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>ENGLAND PREMIER LEAGUE 2013/14</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England Premier League Champion</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England Premier League Top Goal scorer</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Eng. Premier League 2013-2014</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England English Premier League 2013-2014</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England  Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>English Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Eng. Premier</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League 2013/2014</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League 2013-14</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League 2013-14 Top Goalscorer</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Premier League 2013-14 Outright</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Football-Premiership</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England - Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>ENGLAND - PREMIER LEAGUE</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Winner Premier League 2013/2014</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England England Premier League Season Bets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England Premier League Season Bets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England England Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>England Premier League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-01-13 16:59:58.571 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Eng. Premier OT Incl</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>30000</objectId>
+		</competition> 
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>40000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>World Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>World Cup 2014</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Football-World-Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>World Cup 2014 - Outright</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>FIFA World Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>International World Cup 2014 Outrights</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>International World Cup 2014</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>World - Cup</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Who will Win the World Cup?</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>40000</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>50000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Champions League 2012-2013</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>UEFA Champions League 2012/13</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>UEFA Champions League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Champions League 2012/2013</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>50000</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>60000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Football-Championship</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>60000</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>70000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>MLB</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>MLB World Series 2013</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>70000</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>80000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>WTA Birmingham</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>MLB World Series 2013</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>80000</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>90000</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>International Tour de France Tour de France</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>90000</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>90001</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>International International Friendlies</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>90001</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>90010</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Major League</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>90010</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+		<objectId>92210</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>NBA</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>BASKETBALL NBA</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>United States of America United States of America NBA Season Bets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>United States of America NBA Season Bets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>United States NBA</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Basketball NBA</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:58:58.171 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>NBA Lines</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonymWord>
+		</synonimWords>
+		<competition>
+			<objectId>92210</objectId>
+		</competition>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionSynonyms>
+</list>

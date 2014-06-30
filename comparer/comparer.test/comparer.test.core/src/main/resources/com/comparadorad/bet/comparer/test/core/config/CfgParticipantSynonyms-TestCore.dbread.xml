@@ -1,0 +1,1946 @@
+<list>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>111222</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Getafe</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Getafe CF</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>111222</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>70001</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Israel</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>70001</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>70002</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Poland</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>70002</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>222111</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Valencia</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Valencia CF</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>222111</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>333444</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Mallorca</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Real Mallorca</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>333444</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>444333</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Betis</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Real Betis</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>444333</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>444555</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>NY Knicks</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>New York Knicks</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>444555</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>555444</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Indiana Pacers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Indiana Pacers - Game 5</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>555444</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>555666</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Gilles Simon</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Simon, G</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>G. Simon</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>555666</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>666555</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Roger Federer</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Federer, R</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>R. Federer</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>666555</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>666777</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Real Madrid</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>666777</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>777666</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Atletico Madrid</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>777666</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>888777</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Argentina</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>888777</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>777888</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Brazil</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>777888</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>888999</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Holland</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Netherlands</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>888999</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>999888</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Spain</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>999888</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>999111</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Germany</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>999111</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>111999</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Cristiano Ronaldo</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>111999</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>222999</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Robert Lewandowski</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>222999</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>333999</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Thomas Muller</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Thomas Mueller</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>333999</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>132456</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Silva, David</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>David Silva</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>132456</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>124356</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Van Persie, Robin</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Van Persie, R</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Robin Van Persie</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>124356</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>123456</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Manchester United</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Manchester United FC</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Man Utd</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Man United</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Manchester Utd</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>MANCHESTER UNITED</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>			
+		</synonimWords>
+		<participant>
+			<objectId>123456</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>123789</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Manchester City</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Man City</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>MANCHESTER CITY</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>123789</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>456789</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Aston Villa</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>ASTON VILLA</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>456789</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>789456</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>West Ham</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>West Ham United</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>WEST HAM UNITED</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>789456</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>165432</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Chelsea FC</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Chelsea</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>CHELSEA FC</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>165432</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>159753</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Washington Nationals</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>159753</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951753</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>NY Mets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951753</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951754</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Morita A.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951754</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951755</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Van Uytvanck A.</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951755</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951756</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>AndrewTalansky</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951756</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951757</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>RuiCosta</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951757</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951758</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Washington Nationals - Game #2</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951758</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951759</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>New York Mets - Game #2</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>951759</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951760</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>DET Tigers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>961750</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>951761</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>WAS Nationals</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>961751</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80001</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Oklahoma City Thunder</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80001</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80002</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Atlanta Hawks</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80002</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80003</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Boston Celtics</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80003</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80004</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Chicago Bulls</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80004</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80005</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Cleveland Cavaliers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80005</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80006</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Dallas Mavericks</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80006</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80007</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Denver Nuggets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80007</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80008</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Detroit Pistons</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80008</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80009</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Golden State Warriors</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80009</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80010</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Houston Rockets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80010</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80011</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Indiana Pacers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80011</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80012</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Los Angeles Clippers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80012</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80013</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Los Angeles Lakers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80013</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80014</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Memphis Grizzlies</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80014</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80015</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Miami Heat</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80015</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80016</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Milwaukee Bucks</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80016</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80017</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Minnesota Timberwolves</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80017</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80018</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>New York Knicks</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80018</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80019</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Orlando Magic</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80019</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80020</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Philadelphia 76ers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80020</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80021</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Phoenix Suns</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80021</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80022</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Portland Trail Blazers</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80022</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80023</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Sacramento Kings</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80023</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80024</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>San Antonio Spurs</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80024</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80025</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Toronto Raptors</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80025</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80026</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Utah Jazz</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80026</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80027</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Washington Wizards</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80027</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80028</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Charlotte Bobcats</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80028</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80029</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Brooklyn Nets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80029</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80030</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>New Orleans Pelicans</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80030</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80031</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>New Jersey Nets</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80031</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80032</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>FC Zenit St Petersburg</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80032</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	
+	<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+		<objectId>80033</objectId>
+		<coreActiveElement>
+			<active>true</active>
+		</coreActiveElement>
+		<synonimWords>
+			<com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+				<historic class="com.comparadorad.bet.comparer.model.core.bean.Historic">
+					<historicList>
+						<com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+							<creationAction>true</creationAction>
+							<date>2013-02-13 16:59:02.761 UTC</date>
+							<user>WRITER_APP</user>
+						</com.comparadorad.bet.comparer.model.core.bean.HistoricChange>
+					</historicList>
+				</historic>
+				<word>Athletico Madrid</word>
+			</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord>
+		</synonimWords>
+		<participant>
+			<objectId>80033</objectId>
+		</participant>
+	</com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms>
+	
+	
+
+
+	
+</list>

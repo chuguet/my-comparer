@@ -1,0 +1,105 @@
+<list>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Football</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Maximo_Goleador</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Tennis</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Basketball</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Baseball</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Maximo_Goleador</string>
+      <string>Handicap_Asiatico</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Ice hockey</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Maximo_Goleador</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Handball</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Maximo_Goleador</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Motor</sportName>
+    <betsBySportAllowed class="set">
+      <string>Ganador</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Cycling</sportName>
+    <betsBySportAllowed class="set">
+      <string>Ganador</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>American football</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Maximo_Goleador</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+  <com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+    <sportName>Rugby LEAGUE</sportName>
+    <betsBySportAllowed class="set">
+      <string>Mas_Menos</string>
+      <string>Ganador_Partido</string>
+      <string>Handicap_Asiatico</string>
+      <string>1X2_Handicap</string>
+      <string>Ganador</string>
+      <string>1X2</string>
+    </betsBySportAllowed>
+  </com.comparadorad.bet.comparer.model.config.bean.CfgSportActive>
+</list>
