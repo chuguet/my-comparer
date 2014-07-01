@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<!-- En el core.gwt.xml del proyecto 'core' se encuentra la configuracion general -->
+	<inherits name="com.comparadorad.bet.comparer.web.client.gwt.core" />
+	<inherits name="com.comparadorad.bet.comparer.web.client.gwt.common.ui" />
+	<inherits name="com.comparadorad.bet.comparer.web.client.gwt.livebet.bean" />
+	
+	<source path="ui" />
+</module>

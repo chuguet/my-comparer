@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<!-- Inherit the core Web Toolkit stuff. -->
+	<!-- Cogemos el com.smartgwt.SmartGwtNoTheme que ya tiene una dependencia 
+		a "com.google.gwt.user.User" y viene sin tema -->
+	<!-- <inherits name="com.google.gwt.user.User" /> -->
+	<!-- <inherits name='com.smartgwt.SmartGwt' /> -->
+	<inherits name='com.smartgwt.SmartGwtNoTheme' />
+
+	<!-- Other module inherits -->
+	<inherits name="org.fusesource.restygwt.RestyGWT" />
+
+	<!-- LOG configuration -->
+	<inherits name="com.allen_sauer.gwt.log.gwt-log-DEBUG" />
+	<!-- MODO OFF -->
+	<!-- <inherits name="com.allen_sauer.gwt.log.gwt-log-OFF" /> -->
+	<!-- MODO DEBUG -->
+	<extend-property name="log_level" values="DEBUG" />
+	<!-- Enabled loggers -->
+	<set-property name="log_ConsoleLogger" value="ENABLED" />
+	<set-property name="log_FirebugLogger" value="ENABLED" />
+	<!-- Disabled loggers -->
+	<!-- Enable experimental WindowLogger, which logs messages to a separate 
+		popup window. There are currently a couple of restrictions: 1. When Firefox 
+		is configured to open new Windows as new tabs, WindowLogger does not work 
+		2. In GWT Development Mode, the windows are not automatically closed, although 
+		you can easily close them manually in the usual way -->
+	<set-property name="log_WindowLogger" value="DISABLED" />
+	<set-property name="log_DivLogger" value="DISABLED" />
+	<set-property name="log_GWTLogger" value="DISABLED" />
+	<set-property name="log_SystemLogger" value="DISABLED" />
+	<!-- Output pattern -->
+	<!-- yyyy-MM-dd HH:mm:ss,SSS [LOG LEVEL] (ClassName) logMsg -->
+	<set-configuration-property name="log_pattern" value="%d [%-5p] (%C{1}) %m%n" />
+
+	<!-- Nuestro propio tema -->
+	<inherits name="theme.comparer.Comparer" />
+
+	<!-- Specify the paths for translatable code -->
+	<source path="core" />
+</module>

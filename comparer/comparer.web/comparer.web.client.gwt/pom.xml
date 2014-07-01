@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.client.gwt</artifactId>
+	<packaging>pom</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<modules>
+		<module>comparer.web.client.gwt.theme.comparer</module>
+		<module>comparer.web.client.gwt.core</module>
+		<module>comparer.web.client.gwt.core.bean</module>
+		<module>comparer.web.client.gwt.common.bean</module>
+		<module>comparer.web.client.gwt.common.ui</module>
+		<module>comparer.web.client.gwt.toolbar.sports.bean</module>
+		<module>comparer.web.client.gwt.toolbar.sports</module>
+		<module>comparer.web.client.gwt.securebet.bean</module>
+		<module>comparer.web.client.gwt.securebet.ui</module>
+		<module>comparer.web.client.gwt.valuebet.bean</module>
+		<module>comparer.web.client.gwt.valuebet.ui</module>
+		<module>comparer.web.client.gwt.results.bean</module>
+		<module>comparer.web.client.gwt.results.ui</module>
+		<module>comparer.web.client.gwt.livebet.bean</module>
+		<module>comparer.web.client.gwt.livebet.ui</module>
+		<module>comparer.web.client.gwt.imageslider.bean</module>
+		<module>comparer.web.client.gwt.imageslider.ui</module>
+		
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<!-- sources need to be bundled with the jar, so they are visible to GWT's 
+			compiler -->
+
+		<!-- You can either setup a resource to point to your java sources ... 
+			<resources> <resource> <directory>src/main/java</directory> <includes> <include>**/*.java</include> 
+			<include>**/*.gwt.xml</include> </includes> </resource> </resources> -->
+
+		<plugins>
+
+
+		</plugins>
+		<pluginManagement>
+			<plugins>
+				<!-- ... or ask the plugin to detect them based on gwt modules files 
+					and copy the required java sources -->
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>gwt-maven-plugin</artifactId>
+					<configuration>
+						<skip>${gwt-maven-plugin-skip}</skip>
+						<i18nConstantsBundle>${project.groupId}.${project.artifactId}.Messages</i18nConstantsBundle>
+					</configuration>
+					<executions>
+						<execution>
+							<goals>
+								<goal>i18n</goal>
+								<goal>compile</goal>
+							</goals>
+						</execution>
+					</executions>
+				</plugin>
+
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-dependency-plugin</artifactId>
+					<executions>
+						<execution>
+							<id>unpack</id>
+							<phase>generate-resources</phase>
+							<goals>
+								<goal>unpack</goal>
+							</goals>
+							<configuration>
+								<artifactItems>
+									<artifactItem>
+										<groupId>com.comparadorad.bet</groupId>
+										<artifactId>comparer.web.images</artifactId>
+										<version>${project.version}</version>
+										<type>jar</type>
+										<overWrite>true</overWrite>
+										<outputDirectory>src/test/java/${gwt.test.images.dir}/public/</outputDirectory>
+										<includes>**/*.*</includes>
+									</artifactItem>
+									<artifactItem>
+										<groupId>com.smartgwt</groupId>
+										<artifactId>smartgwt.public</artifactId>
+										<version>${smartgwt.version}</version>
+										<type>jar</type>
+										<overWrite>true</overWrite>
+										<outputDirectory>src/test/java/${gwt.test.images.dir}/public/MainModule</outputDirectory>
+										<includes>**/*.*</includes>
+									</artifactItem>
+									<artifactItem>
+										<groupId>com.smartgwt</groupId>
+										<artifactId>smartgwt.public</artifactId>
+										<version>${smartgwt.version}</version>
+										<type>jar</type>
+										<overWrite>true</overWrite>
+										<outputDirectory>src/test/java/${gwt.test.images.dir}/public/</outputDirectory>
+										<includes>**/*.js</includes>
+									</artifactItem>
+									<artifactItem>
+										<groupId>com.comparadorad.bet</groupId>
+										<artifactId>comparer.web.client.gwt.theme.comparer</artifactId>
+										<version>${project.version}</version>
+										<classifier>public</classifier>
+										<type>jar</type>
+										<overWrite>true</overWrite>
+										<outputDirectory>src/test/java/${gwt.test.images.dir}/public/MainModule</outputDirectory>
+										<includes>**/*.*</includes>
+									</artifactItem>
+									<artifactItem>
+										<groupId>com.comparadorad.bet</groupId>
+										<artifactId>comparer.web.client.gwt.theme.comparer</artifactId>
+										<version>${project.version}</version>
+										<classifier>public</classifier>
+										<type>jar</type>
+										<overWrite>true</overWrite>
+										<outputDirectory>src/test/java/${gwt.test.images.dir}/public/</outputDirectory>
+										<includes>**/*.js</includes>
+									</artifactItem>
+								</artifactItems>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+				<plugin>
+					<artifactId>maven-eclipse-plugin</artifactId>
+					<version>2.9</version>
+					<configuration>
+						<wtpversion>2.0</wtpversion>
+						<additionalBuildcommands>
+							<buildcommand>com.google.gdt.eclipse.core.webAppProjectValidator</buildcommand>
+							<buildcommand>com.google.gwt.eclipse.core.gwtProjectValidator</buildcommand>
+						</additionalBuildcommands>
+						<additionalProjectnatures>
+							<projectnature>com.google.gwt.eclipse.core.gwtNature</projectnature>
+							<projectnature>org.sonar.ide.eclipse.core.sonarNature</projectnature>
+						</additionalProjectnatures>
+						<classpathContainers>
+							<classpathContainer>org.eclipse.jdt.launching.JRE_CONTAINER</classpathContainer>
+							<classpathContainer>com.google.gwt.eclipse.core.GWT_CONTAINER</classpathContainer>
+						</classpathContainers>
+						<additionalConfig>
+							<file>
+								<name>.settings/net.sf.jautodoc.prefs</name>
+								<content><![CDATA[#Wed Jul 09 08:41:59 CEST 2008
+add_header=true
+add_todo=false
+eclipse.preferences.version=1
+header_text=/**\r\n *\r\n * Copyright (C) FACTORIA ETSIA S.L.\r\n * All Rights Reserved.\r\n * www.factoriaetsia.com\r\n *\r\n */
+project_specific_settings=true
+replacements=<?xml version\="1.0" standalone\="yes"?>\n\n<replacements>\n<replacement key\="get" scope\="1" mode\="0">Gets the</replacement>\n<replacement key\="set" scope\="1" mode\="0">Sets the</replacement>\n<replacement key\="add" scope\="1" mode\="0">Adds the</replacement>\n<replacement key\="edit" scope\="1" mode\="0">Edits the</replacement>\n<replacement key\="remove" scope\="1" mode\="0">Removes the</replacement>\n<replacement key\="init" scope\="1" mode\="0">Inits the</replacement>\n<replacement key\="parse" scope\="1" mode\="0">Parses the</replacement>\n<replacement key\="create" scope\="1" mode\="0">Creates the</replacement>\n<replacement key\="build" scope\="1" mode\="0">Builds the</replacement>\n<replacement key\="is" scope\="1" mode\="0">Checks if is</replacement>\n<replacement key\="print" scope\="1" mode\="0">Prints the</replacement>\n<replacement key\="has" scope\="1" mode\="0">Checks for</replacement>\n</replacements>\n\n]]></content>
+
+							</file>
+							<file>
+								<name>.settings/org.sonar.ide.eclipse.core.prefs</name>
+								<content><![CDATA[analyseLocally=true
+eclipse.preferences.version=1
+projectArtifactId=${project.artifactId}
+projectBranch=
+projectGroupId=${project.groupId}
+serverUrl=http\://gestioninterna\:9000/sonar
+version=1]]></content>
+							</file>
+							<file>
+								<name>.settings/org.eclipse.m2e.core.prefs</name>
+								<content>.</content>
+							</file>
+							<file>
+								<name>.settings/com.google.gdt.eclipse.core.prefs</name>
+								<content><![CDATA[eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=
+launchConfigExternalUrlPrefix=
+warSrcDir=
+warSrcDirIsOutput=false]]></content>
+							</file>
+							<file>
+								<name>.settings/com.google.gwt.eclipse.core.prefs</name>
+								<content><![CDATA[eclipse.preferences.version=1
+entryPointModules=
+filesCopiedToWebInfLib=gwt-servlet.jar
+gwtCompileSettings=PGd3dC1jb21waWxlLXNldHRpbmdzPjxsb2ctbGV2ZWw+SU5GTzwvbG9nLWxldmVsPjxvdXRwdXQtc3R5bGU+T0JGVVNDQVRFRDwvb3V0cHV0LXN0eWxlPjxleHRyYS1hcmdzPjwhW0NEQVRBWy13YXIgc3JjL21haW4vd2ViYXBwXV0+PC9leHRyYS1hcmdzPjx2bS1hcmdzPjwhW0NEQVRBWy1YbXg1MTJtXV0+PC92bS1hcmdzPjxlbnRyeS1wb2ludC1tb2R1bGU+Y29tLmNvbXBhbnkuU29tZU1vZHVsZTwvZW50cnktcG9pbnQtbW9kdWxlPjwvZ3d0LWNvbXBpbGUtc2V0dGluZ3M+
+]]></content>
+							</file>
+						</additionalConfig>
+					</configuration>
+				</plugin>
+				<!--This plugin's configuration is used to store Eclipse m2e settings 
+					only. It has no influence on the Maven build itself. -->
+				<plugin>
+					<groupId>org.eclipse.m2e</groupId>
+					<artifactId>lifecycle-mapping</artifactId>
+					<version>1.0.0</version>
+					<configuration>
+						<lifecycleMappingMetadata>
+							<pluginExecutions>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>
+											org.codehaus.mojo
+										</groupId>
+										<artifactId>
+											gwt-maven-plugin
+										</artifactId>
+										<versionRange>
+											[2.4.0,)
+										</versionRange>
+										<goals>
+											<goal>resources</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+							</pluginExecutions>
+						</lifecycleMappingMetadata>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>net.sf.dozer</groupId>
+			<artifactId>dozer</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt</groupId>
+			<artifactId>gwt-user</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt</groupId>
+			<artifactId>gwt-user</artifactId>
+		</dependency>
+		<dependency>
+			<!-- My rest client library -->
+			<groupId>org.fusesource.restygwt</groupId>
+			<artifactId>restygwt</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt.inject</groupId>
+			<artifactId>gin</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>javax.ws.rs</groupId>
+			<artifactId>jsr311-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.smartgwt</groupId>
+			<artifactId>smartgwt</artifactId>
+		</dependency>
+	</dependencies>
+
+
+</project>

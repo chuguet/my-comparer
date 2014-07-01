@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.0.0//EN" "http://google-web-toolkit.googlecode.com/svn/tags/2.0.0/distro-source/core/src/gwt-module.dtd">
+<module>
+	<inherits name="com.comparadorad.bet.comparer.web.client.gwt.imageslider.ui" />
+
+	<!-- Specify the app entry point class -->
+	<entry-point
+		class='com.comparadorad.bet.comparer.web.client.gwt.imageslider.ui.view.ImageSliderTestEntryPoint' />
+
+	<source path="view" /> <!-- this is where the entry point is in the test/src -->
+</module>
