@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<!-- POM file generated with GWT webAppCreator -->
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.comparadorad.bet</groupId>
+	<artifactId>comparer</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0.0-RELEASE</version>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<properties>
+		<project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
+		<!-- VERSIONS - logging -->
+		<org.slf4j.version>1.7.1</org.slf4j.version>
+		<commons-logging.version>1.1.1</commons-logging.version>
+		<commons-lang.version>2.6</commons-lang.version>
+		<junit.version>4.11</junit.version>
+		<cglib.version>2.2.2</cglib.version>
+		<spring.version>3.2.2.RELEASE</spring.version>
+		<!-- Inicio: Se añade nueva version de librerias -->
+		<spring.data.mongo.version>1.2.1.RELEASE</spring.data.mongo.version>
+		<!-- Fin: Se añade nueva version de librerias -->
+		<spring.version.batch>2.1.9.RELEASE</spring.version.batch>
+		<aspectj.version>1.7.0</aspectj.version>
+		<mysql.driver.version>5.1.20</mysql.driver.version>
+		<querydsl.version>2.6.0</querydsl.version>
+		<ehcache.version>2.6.5</ehcache.version>
+		<ehcache.core.version>2.6.6</ehcache.core.version>
+		<javax.inject.version>1</javax.inject.version>
+		<jettyVersion>7.2.0.v20101020</jettyVersion>
+		<hibernate.validator>4.2.0.Final</hibernate.validator>
+		<gson.version>2.2.2</gson.version>
+		<gwt.version>2.4.0</gwt.version>
+		<h2.version>1.3.170</h2.version>
+		<entity.manager.version>3.4.0.GA</entity.manager.version>
+		<ejb3unit.version>2.0.0</ejb3unit.version>
+		<com.googlecode.genericdao.version>1.0.0</com.googlecode.genericdao.version>
+		<jasper.report.version>3.5.3</jasper.report.version>
+		<spring.amqp.version>1.2.0.RELEASE</spring.amqp.version>
+		<spring.integration.version>3.0.0.RELEASE</spring.integration.version>
+		<mockito.version>1.9.5</mockito.version>
+		<joda.version>2.1</joda.version>
+		<jsoup.version>1.7.2</jsoup.version>
+		<trove4j.version>3.0.3</trove4j.version>
+		<jackson.version>1.9.13</jackson.version>
+		<javax.mail.version>1.4.7</javax.mail.version>
+		<gwt.compile.environment>betcompara</gwt.compile.environment>
+	</properties>
+
+	<profiles>
+		<profile>
+			<id>betcomparaZERO</id>
+			<properties>
+				<gwt.compile.environment>betcomparaZERO</gwt.compile.environment>
+			</properties>
+		</profile>
+	</profiles>
+
+
+
+	<modules>
+		<module>comparer.util</module>
+		<module>comparer.model</module>
+		<module>comparer.synchro</module>
+		<module>comparer.web</module>
+		<module>comparer.app.util</module>
+		<module>comparer.autosender</module>
+		<module>comparer.communication</module>
+		<module>comparer.test</module>
+		<module>comparer.payment</module>
+		<module>comparer.integration</module>
+	</modules>
+	<scm>
+		<connection>scm:cvs:pserver:${username}:${password}@192.168.0.222:/comparadorad</connection>
+		<developerConnection>scm:cvs:pserver:${username}:${password}@192.168.0.222:/comparadorad</developerConnection>
+		<tag>HEAD</tag>
+		<!-- <url>http://127.0.0.1/websvn/my-project</url> -->
+	</scm>
+	<distributionManagement>
+		<!-- use the following if you're not using a snapshot version. -->
+		<repository>
+			<id>libs-releases-etsia</id>
+			<name>etsia repository</name>
+			<url>http://virtualserver:18080/artifactory/libs-releases-etsia</url>
+		</repository>
+		<!-- use the following if you ARE using a snapshot version. -->
+		<snapshotRepository>
+			<id>libs-snapshots-etsia</id>
+			<name>etsia snapshots repository</name>
+			<url>http://virtualserver:18080/artifactory/libs-snapshots-etsia</url>
+		</snapshotRepository>
+	</distributionManagement>
+	<developers>
+		<developer>
+			<name>Isaac Mayoral Orellana</name>
+			<id>imayoral</id>
+			<email>imayoral@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Architect</role>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Juan Carlos Garcia Pelaez</name>
+			<id>jgpelaez</id>
+			<email>jgpelaez@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Architect</role>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Angel Amuelas</name>
+			<id>amuelas</id>
+			<email>amuelas@factoriaetsia.com</email>
+			<roles>
+				<role>Java Architect</role>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Fernando Arce</name>
+			<id>farce</id>
+			<email>farce@factoriaetsia.com</email>
+			<roles>
+				<role>Java Architect</role>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Anna K. Lunden</name>
+			<id>alunden</id>
+			<email>alunden@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Javier Gonzalez Benito</name>
+			<id>zgonzalez</id>
+			<email>zgonzalez@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Carlos Huguet</name>
+			<id>chuguet</id>
+			<email>chuguet@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Paco Vizcaino</name>
+			<id>fvizvaino</id>
+			<email>fvizcaino@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Developer</role>
+				<role>tester</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Luis Ragan</name>
+			<email>lragan@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>tester</role>
+				<role>DB Configuration Operator</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Javier Neira</name>
+			<email>jneira@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Roberto Domingo</name>
+			<email>rdomingo@factoriaetsia.com</email>
+			<organization>Factora ETSIA S.L.</organization>
+			<roles>
+				<role>Java Developer</role>
+			</roles>
+		</developer>
+	</developers>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<artifactId>maven-war-plugin</artifactId>
+					<version>2.2</version>
+				</plugin>
+				<plugin>
+					<artifactId>maven-jar-plugin</artifactId>
+					<version>2.4</version>
+				</plugin>
+				<plugin>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>2.5.1</version>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-resources-plugin</artifactId>
+					<version>2.6</version>
+					<configuration>
+						<encoding>${project.build.sourceEncoding}</encoding>
+					</configuration>
+				</plugin>
+				<plugin>
+					<artifactId>maven-eclipse-plugin</artifactId>
+					<version>2.9</version>
+					<configuration>
+						<addGroupIdToProjectName>false</addGroupIdToProjectName>
+						<wtpversion>2.0</wtpversion>
+						<additionalConfig>
+							<file>
+								<name>.settings/net.sf.jautodoc.prefs</name>
+								<content><![CDATA[#Wed Jul 09 08:41:59 CEST 2008
+add_header=true
+add_todo=false
+eclipse.preferences.version=1
+header_text=/**\r\n *\r\n * Copyright (C) FACTORIA ETSIA S.L.\r\n * All Rights Reserved.\r\n * www.factoriaetsia.com\r\n *\r\n */
+project_specific_settings=true
+replacements=<?xml version\="1.0" standalone\="yes"?>\n\n<replacements>\n<replacement key\="get" scope\="1" mode\="0">Gets the</replacement>\n<replacement key\="set" scope\="1" mode\="0">Sets the</replacement>\n<replacement key\="add" scope\="1" mode\="0">Adds the</replacement>\n<replacement key\="edit" scope\="1" mode\="0">Edits the</replacement>\n<replacement key\="remove" scope\="1" mode\="0">Removes the</replacement>\n<replacement key\="init" scope\="1" mode\="0">Inits the</replacement>\n<replacement key\="parse" scope\="1" mode\="0">Parses the</replacement>\n<replacement key\="create" scope\="1" mode\="0">Creates the</replacement>\n<replacement key\="build" scope\="1" mode\="0">Builds the</replacement>\n<replacement key\="is" scope\="1" mode\="0">Checks if is</replacement>\n<replacement key\="print" scope\="1" mode\="0">Prints the</replacement>\n<replacement key\="has" scope\="1" mode\="0">Checks for</replacement>\n</replacements>\n\n]]></content>
+
+							</file>
+							<file>
+								<name>.settings/org.sonar.ide.eclipse.core.prefs</name>
+								<content><![CDATA[analyseLocally=true
+eclipse.preferences.version=1
+projectArtifactId=${project.artifactId}
+projectBranch=
+projectGroupId=${project.groupId}
+serverUrl=http\://hormigon\:9000/sonar
+version=1]]></content>
+							</file>
+							<file>
+								<name>.settings/org.eclipse.m2e.core.prefs</name>
+								<content>activeProfiles=
+									eclipse.preferences.version=1
+									resolveWorkspaceProjects=false
+									version=1</content>
+							</file>
+						</additionalConfig>
+						<additionalProjectnatures>
+							<projectnature>org.sonar.ide.eclipse.core.sonarNature</projectnature>
+						</additionalProjectnatures>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>gwt-maven-plugin</artifactId>
+					<version>${gwt.version}</version>
+					<configuration>
+						<skip>${gwt-maven-plugin-skip}</skip>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.mortbay.jetty</groupId>
+					<artifactId>maven-jetty-plugin</artifactId>
+					<version>6.1.10</version>
+				</plugin>
+				<plugin>
+					<groupId>org.eclipse.m2e</groupId>
+					<artifactId>lifecycle-mapping</artifactId>
+					<version>1.0.0</version>
+					<configuration>
+						<lifecycleMappingMetadata>
+							<pluginExecutions>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>org.apache.maven.plugins</groupId>
+										<artifactId>maven-resources-plugin</artifactId>
+										<versionRange>[2.0,)</versionRange>
+										<goals>
+											<goal>resources</goal>
+											<goal>testResources</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore />
+									</action>
+								</pluginExecution>
+							</pluginExecutions>
+						</lifecycleMappingMetadata>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>sonar-maven-plugin</artifactId>
+					<version>2.0</version>
+					<configuration>
+						<sonar.exclusions>com/comparadorad/bet/comparer/**/*Test.java,
+							com/comparadorad/bet/comparer/**/*Dummy.java,
+							com/comparadorad/bet/comparer/**/*Dummy*.java,
+							com/comparadorad/bet/comparer/web/client/gwt/**</sonar.exclusions>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.junithelper</groupId>
+					<artifactId>maven-junithelper-plugin</artifactId>
+					<version>1.11</version>
+				</plugin>
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>cobertura-maven-plugin</artifactId>
+					<version>2.5.1</version>
+					<configuration>
+						<formats>
+							<format>html</format>
+							<format>xml</format>
+						</formats>
+					</configuration>
+				</plugin>
+				<plugin>
+					<artifactId>maven-release-plugin</artifactId>
+					<version>2.3.2</version>
+					<configuration>
+						<tagNameFormat>v@{project.version}</tagNameFormat>
+					</configuration>
+				</plugin>
+				<plugin>
+					<artifactId>maven-changelog-plugin</artifactId>
+					<version>2.2</version>
+
+				</plugin>
+			</plugins>
+		</pluginManagement>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+					<fork>true</fork>
+					<executable>${JAVA_1_6_HOME_64_BIT}/bin/javac</executable>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-eclipse-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.eclipse.m2e</groupId>
+				<artifactId>lifecycle-mapping</artifactId>
+			</plugin>
+			<!-- <plugin> <groupId>org.jacoco</groupId> <artifactId>jacoco-maven-plugin</artifactId> 
+				<version>0.5.9.201207300726</version> <configuration> <skip>true</skip> <destfile>${basedir}/target/coverage-reports/jacoco-unit.exec</destfile> 
+				<datafile>${basedir}/target/coverage-reports/jacoco-unit.exec</datafile> 
+				</configuration> <executions> <execution> <id>jacoco-initialize</id> <goals> 
+				<goal>prepare-agent</goal> </goals> </execution> <execution> <id>jacoco-site</id> 
+				<phase>package</phase> <goals> <goal>report</goal> </goals> </execution> 
+				</executions> </plugin> -->
+		</plugins>
+	</build>
+
+	<dependencyManagement>
+		<dependencies>
+			<!-- logging -->
+			<dependency>
+				<groupId>commons-logging</groupId>
+				<artifactId>commons-logging</artifactId>
+				<version>${commons-logging.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>log4j</groupId>
+				<artifactId>log4j</artifactId>
+				<version>1.2.17</version>
+			</dependency>
+			<dependency>
+				<groupId>org.slf4j</groupId>
+				<artifactId>slf4j-api</artifactId>
+				<version>${org.slf4j.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.slf4j</groupId>
+				<artifactId>slf4j-log4j12</artifactId>
+				<version>${org.slf4j.version}</version>
+			</dependency>
+			<!-- -->
+			<dependency>
+				<groupId>commons-lang</groupId>
+				<artifactId>commons-lang</artifactId>
+				<version>${commons-lang.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-io</groupId>
+				<artifactId>commons-io</artifactId>
+				<version>2.3</version>
+			</dependency>
+			<dependency>
+				<groupId>commons-collections</groupId>
+				<artifactId>commons-collections</artifactId>
+				<version>3.2.1</version>
+			</dependency>
+			<dependency>
+				<groupId>javax.inject</groupId>
+				<artifactId>javax.inject</artifactId>
+				<version>${javax.inject.version}</version>
+			</dependency>
+			<!-- Spring dependencies -->
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-core</artifactId>
+				<version>${spring.version}</version>
+				<exclusions>
+					<exclusion>
+						<groupId>commons-logging</groupId>
+						<artifactId>commons-logging</artifactId>
+					</exclusion>
+				</exclusions>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-context</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-test</artifactId>
+				<version>${spring.version}</version>
+				<scope>test</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-jdbc</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-expression</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-aop</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-tx</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.data</groupId>
+				<artifactId>spring-data-commons-core</artifactId>
+				<version>${spring-data-commons-core.version}</version>
+				<exclusions>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-beans</artifactId>
+					</exclusion>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-expression</artifactId>
+					</exclusion>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-tx</artifactId>
+					</exclusion>
+				</exclusions>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.data</groupId>
+				<artifactId>spring-data-mongodb</artifactId>
+				<version>${spring.data.mongo.version}</version>
+				<exclusions>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-beans</artifactId>
+					</exclusion>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-expression</artifactId>
+					</exclusion>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-tx</artifactId>
+					</exclusion>
+				</exclusions>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.data</groupId>
+				<artifactId>spring-data-mongodb-log4j</artifactId>
+				<version>${spring.data.mongo.version}</version>
+				<exclusions>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-beans</artifactId>
+					</exclusion>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-expression</artifactId>
+					</exclusion>
+					<exclusion>
+						<groupId>org.springframework</groupId>
+						<artifactId>spring-tx</artifactId>
+					</exclusion>
+				</exclusions>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-beans</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.batch</groupId>
+				<artifactId>spring-batch-core</artifactId>
+				<version>${spring.version.batch}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-orm</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-test-mvc</artifactId>
+				<version>1.0.0.RC1</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>org.springframework.context.support</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.integration</groupId>
+				<artifactId>spring-integration-core</artifactId>
+				<version>${spring.integration.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.integration</groupId>
+				<artifactId>spring-integration-amqp</artifactId>
+				<version>${spring.integration.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.integration</groupId>
+				<artifactId>spring-integration-test</artifactId>
+				<version>${spring.integration.version}</version>
+			</dependency>
+			<!-- ###############3333 -->
+			<dependency>
+				<groupId>org.aspectj</groupId>
+				<artifactId>aspectjrt</artifactId>
+				<version>${aspectj.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.aspectj</groupId>
+				<artifactId>aspectjweaver</artifactId>
+				<version>${aspectj.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>cglib</groupId>
+				<artifactId>cglib-nodep</artifactId>
+				<version>${cglib.version}</version>
+				<scope>runtime</scope>
+			</dependency>
+			<dependency>
+				<groupId>mysql</groupId>
+				<artifactId>mysql-connector-java</artifactId>
+				<version>${mysql.driver.version}</version>
+			</dependency>
+			<!-- javax.validation (JSR-303) -->
+			<dependency>
+				<groupId>javax.validation</groupId>
+				<artifactId>validation-api</artifactId>
+				<version>1.0.0.GA</version>
+			</dependency>
+			<!-- Test libraries -->
+			<dependency>
+				<groupId>junit</groupId>
+				<artifactId>junit-dep</artifactId>
+				<version>${junit.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.hamcrest</groupId>
+				<artifactId>hamcrest-library</artifactId>
+				<version>1.2.1</version>
+			</dependency>
+			<dependency>
+				<groupId>org.hamcrest</groupId>
+				<artifactId>hamcrest-core</artifactId>
+				<version>1.2.1</version>
+			</dependency>
+			<dependency>
+				<groupId>com.thoughtworks.xstream</groupId>
+				<artifactId>xstream</artifactId>
+				<version>1.4.4</version>
+			</dependency>
+			<dependency>
+				<groupId>net.sf.ehcache</groupId>
+				<artifactId>ehcache</artifactId>
+				<version>${ehcache.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>net.sf.ehcache</groupId>
+				<artifactId>ehcache-core</artifactId>
+				<version>${ehcache.core.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.eclipse.jetty</groupId>
+				<artifactId>jetty-server</artifactId>
+				<version>${jettyVersion}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>net.sf.dozer</groupId>
+				<artifactId>dozer</artifactId>
+				<version>5.3.2</version>
+			</dependency>
+			<dependency>
+				<groupId>org.apache.xmlbeans</groupId>
+				<artifactId>xmlbeans</artifactId>
+				<version>2.5.0</version>
+			</dependency>
+			<dependency>
+				<groupId>com.jayway.jsonpath</groupId>
+				<artifactId>json-path</artifactId>
+				<version>0.5.5</version>
+			</dependency>
+			<dependency>
+				<groupId>org.hibernate</groupId>
+				<artifactId>hibernate-validator</artifactId>
+				<version>${hibernate.validator}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.google.code.gson</groupId>
+				<artifactId>gson</artifactId>
+				<version>${gson.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.h2database</groupId>
+				<artifactId>h2</artifactId>
+				<version>${h2.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.slf4j</groupId>
+				<artifactId>slf4j-simple</artifactId>
+				<version>${org.slf4j.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.bm</groupId>
+				<artifactId>ejb3unit</artifactId>
+				<version>${ejb3unit.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.googlecode.genericdao</groupId>
+				<artifactId>dao</artifactId>
+				<version>${com.googlecode.genericdao.version}</version>
+			</dependency>
+			<!-- This second one includes the Hibernate Entity Manager plugin for 
+				the framework -->
+			<dependency>
+				<groupId>com.googlecode.genericdao</groupId>
+				<artifactId>search-jpa-hibernate</artifactId>
+				<version>${com.googlecode.genericdao.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>jasperreports</groupId>
+				<artifactId>jasperreports</artifactId>
+				<version>${jasper.report.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.amqp</groupId>
+				<artifactId>spring-amqp</artifactId>
+				<version>${spring.amqp.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.amqp</groupId>
+				<artifactId>spring-rabbit</artifactId>
+				<version>${spring.amqp.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.mockito</groupId>
+				<artifactId>mockito-all</artifactId>
+				<version>${mockito.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>joda-time</groupId>
+				<artifactId>joda-time</artifactId>
+				<version>${joda.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>net.sf.trove4j</groupId>
+				<artifactId>trove4j</artifactId>
+				<version>${trove4j.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.codehaus.jackson</groupId>
+				<artifactId>jackson-mapper-asl</artifactId>
+				<version>${jackson.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>javax.mail</groupId>
+				<artifactId>mail</artifactId>
+				<version>${javax.mail.version}</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<dependencies>
+		<dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+			<version>${commons-logging.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit-dep</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-all</artifactId>
+		</dependency>
+	</dependencies>
+</project>
