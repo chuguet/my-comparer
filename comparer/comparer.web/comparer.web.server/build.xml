@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<project basedir=".">
+
+	<echo message="pulling in property files" />
+	<property file="build.properties" />
+	<property name="maven.commoncmd" value="" />
+	<condition property="maven.line" value="--offline ${maven.commoncmd}">
+		<istrue value="${offline}" />
+	</condition>
+	<condition property="maven.executable" value="mvn.bat">
+		<os family="windows" />
+	</condition>
+	<property name="maven.executable" value="maven" />
+	<property name="maven.line" value="${maven.commoncmd}" />
+
+	<presetdef name="maven">
+		<exec failonerror="true" executable="${maven.executable}">
+			<arg line="${maven.line}" />
+		</exec>
+	</presetdef>
+	<!-- ################################## -->
+	<target name="eclipse:eclipse" description="">
+		<maven>
+			<arg value="eclipse:eclipse" />
+		</maven>
+	</target>
+	<target name="install" description="">
+		<maven>
+			<arg value="install" />
+		</maven>
+	</target>
+
+	<target name="liferay:deploy" description="">
+		<maven>
+			<arg value="liferay:deploy" />
+		</maven>
+	</target>
+	<target name="liferay:deploy-install" depends="install" description="">
+		<maven>
+			<arg value="liferay:deploy" />
+		</maven>
+	</target>
+	<target name="liferay:deploy-install-withparams" depends="install" description="">
+		<maven>
+			<arg value="liferay:deploy" />
+			<arg value="-Dliferay.auto.deploy.dir=${liferay.auto.deploy.dir}" />
+		</maven>
+	</target>
+	<target name="liferay:deploy-withparams" description="">
+		<maven>
+			<arg value="liferay:deploy" />
+			<arg value="-Dliferay.auto.deploy.dir=${liferay.auto.deploy.dir}" />
+		</maven>
+	</target>
+</project>

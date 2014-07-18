@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server.portlet</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.portlet.systemHour</artifactId>
+	<packaging>war</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+		<gwtModuleName>SystemHourModule</gwtModuleName>
+	</properties>
+	
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.logger</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.portlet.core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.client.gwt.livebet.ui</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.systemhour</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.liferay.portal</groupId>
+			<artifactId>portal-impl</artifactId>
+			<version>6.1.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.liferay.portal</groupId>
+			<artifactId>portal-service</artifactId>
+			<version>${liferay.version}</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.liferay.portal</groupId>
+			<artifactId>util-java</artifactId>
+			<version>${liferay.version}</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+	       <groupId>com.liferay.portal</groupId>
+	       <artifactId>util-bridges</artifactId>
+	       <version>${liferay.version}</version>
+      	</dependency>
+		<dependency>
+			<groupId>javax.portlet</groupId>
+			<artifactId>portlet-api</artifactId>
+			<version>2.0</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.4</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet.jsp</groupId>
+			<artifactId>jsp-api</artifactId>
+			<version>2.0</version>
+			<scope>provided</scope>
+		</dependency>
+
+	</dependencies>
+
+</project>

@@ -1,0 +1,45 @@
+/* 0 */
+{
+  "_id" : "20000",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmakerAuthorization",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Bookmaker agrupation (Spain)"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Agrupación de casas de apuestas (España)"
+      }, {
+        "_id" : null,
+        "string" : "Agrupación de casas de apuestas (España)"
+      }]
+  },
+  "bookmakers" : [{
+      "$ref" : "cfgBookmaker",
+      "$id" : "85"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "103"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "19"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "100"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "24"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "77"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "79"
+    }, {
+      "$ref" : "cfgBookmaker",
+      "$id" : "106"
+    }]
+}

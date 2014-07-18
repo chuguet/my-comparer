@@ -1,0 +1,33 @@
+div.content {
+	background-image: url("../images/background_footer.png");
+	height: 70px;
+	width: 1024px;
+}
+
+ul.links {
+	list-style-type: none;
+	text-align: center;
+	padding: 14px;
+}
+
+li.links {
+	display: inline;
+	text-align: center;
+	margin: 0 -8px 0 0;
+	
+}
+
+p.links  {
+	color: white ;
+	display: inline;
+	text-align: center;
+	margin: 0 10px 0 0;
+}
+
+a.links, a.links:visited {
+	padding: 2px 7px 2px 7px;
+	color: #666;
+	background-color: #eeeeee;
+	border: 1px solid #ccc;
+	text-decoration: none;
+}

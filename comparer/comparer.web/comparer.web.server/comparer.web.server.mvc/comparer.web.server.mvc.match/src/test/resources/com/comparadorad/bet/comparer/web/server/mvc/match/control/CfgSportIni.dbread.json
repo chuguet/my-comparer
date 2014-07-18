@@ -1,0 +1,1535 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "football",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Football"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Futbol"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Fútbol"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "fotboll"
+      }, {
+        "_id" : null,
+        "string" : "Fútbol"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Football"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "basketball",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Baloncesto"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Basket"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Bàsquet"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Baloncesto"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Basket-ball"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Basketball"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 2 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "tennis",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Tennis"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Tenis"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Tennis"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Tennis"
+      }, {
+        "_id" : null,
+        "string" : "Tenis"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Tenis"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 3 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "paddle",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Paddle"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Pàdel"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Paddle"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Pádel"
+      }, {
+        "_id" : null,
+        "string" : "Pádel"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Paddle"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 4 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "table_tennis",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Table tennis"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Table tennis"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Table tennis"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Tenis de mesa"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Tenis taula"
+      }, {
+        "_id" : null,
+        "string" : "Tenis de mesa"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 5 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "f1",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "F1"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "F1"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "F1"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "F1"
+      }, {
+        "_id" : null,
+        "string" : "F1"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "F1"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 6 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "motorcycling",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Motociclisme"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Motorcycling"
+      }, {
+        "_id" : null,
+        "string" : "Motociclismo"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Motociclismo"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Motorcycling"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Motorcycling"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 7 */
+{
+  "_id" : "8",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "rally",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Rally"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Rally"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Rally"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Rally"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Ral·li"
+      }, {
+        "_id" : null,
+        "string" : "Rally"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 8 */
+{
+  "_id" : "9",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "nascar",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Náscar"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Nascar"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Nascar"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Náscar"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Nàscar"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Nascar"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 9 */
+{
+  "_id" : "10",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "darts",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Darts"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Darts"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Dardos"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Dards"
+      }, {
+        "_id" : null,
+        "string" : "Dardos"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Darts"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 10 */
+{
+  "_id" : "11",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "snooker",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Snooker"
+      }, {
+        "_id" : null,
+        "string" : "Snooker"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Snooker"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Snooker"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Snooker"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Snooker"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 11 */
+{
+  "_id" : "12",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "golf",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Golf"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Golf"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Golf"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Golf"
+      }, {
+        "_id" : null,
+        "string" : "Golf"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Golf"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 12 */
+{
+  "_id" : "13",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "athletics",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Atletismo"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Athletics"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Atletisme"
+      }, {
+        "_id" : null,
+        "string" : "Atletismo"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Athletics"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Athletics"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 13 */
+{
+  "_id" : "14",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "cycling",
+  "configured" : true,
+  "hashKeyParticipants" : true,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Ciclismo"
+      }, {
+        "_id" : null,
+        "string" : "Ciclismo"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Ciclisme"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Cycling"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Cycling"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Cycling"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 14 */
+{
+  "_id" : "15",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "triathlon",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Triathlon"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Triatló"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Triathlon"
+      }, {
+        "_id" : null,
+        "string" : "Triatlón"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Triathlon"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Triatlón"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 15 */
+{
+  "_id" : "16",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "greyhounds",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Greyhounds"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Carreras de galgos"
+      }, {
+        "_id" : null,
+        "string" : "Carreras de galgos"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Curses de galgos"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Greyhounds"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Greyhounds"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 16 */
+{
+  "_id" : "17",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "horse_racing",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Curses de cavalls"
+      }, {
+        "_id" : null,
+        "string" : "Carreras de caballos"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Horse Racing"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Carreras de caballos"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Horse Racing"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Horse Racing"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 17 */
+{
+  "_id" : "18",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "handball",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Handball"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Handball"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Handball"
+      }, {
+        "_id" : null,
+        "string" : "Balonmano"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Handbol"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Balonmano"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 18 */
+{
+  "_id" : "19",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "volleyball",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Voleibol"
+      }, {
+        "_id" : null,
+        "string" : "Voleibol"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Voleibol"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Volleyball"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Voleibol"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Voleibol"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 19 */
+{
+  "_id" : "20",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "boxing",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Boxeo"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Boxa"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Boxing"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Boxing"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Boxing"
+      }, {
+        "_id" : null,
+        "string" : "Boxeo"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 20 */
+{
+  "_id" : "21",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "combatSports",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Deportes de combate"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Combat sports"
+      }, {
+        "_id" : null,
+        "string" : "Deportes de combate"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Combat sports"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Esports de lluita"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Combat sports"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 21 */
+{
+  "_id" : "22",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "cross_country_skiing",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Cross-country skiing"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Cross-country skiing"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Esquí de fondo"
+      }, {
+        "_id" : null,
+        "string" : "Esquí de fondo"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Esquí de fons"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Cross-country skiing"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 22 */
+{
+  "_id" : "23",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "ski",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Esquí"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Esquí"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Ski"
+      }, {
+        "_id" : null,
+        "string" : "Esquí"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Ski"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Ski"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 23 */
+{
+  "_id" : "24",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "ice_hockey",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Ice hockey"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Hoquei sobre gel"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Hockey sobre hielo"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Ice hockey"
+      }, {
+        "_id" : null,
+        "string" : "Hockey sobre hielo"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Ice hockey"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 24 */
+{
+  "_id" : "25",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "cricket",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Cricket"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Cricket"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Cricket"
+      }, {
+        "_id" : null,
+        "string" : "Cricket"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Cricket"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Cricket"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 25 */
+{
+  "_id" : "26",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "american_fotball",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "American football"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "American football"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Fútbol americano"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "American football"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Futbol americà"
+      }, {
+        "_id" : null,
+        "string" : "Fútbol americano"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 26 */
+{
+  "_id" : "27",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "baseball",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Baseball"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Baseball"
+      }, {
+        "_id" : null,
+        "string" : "Béisbol"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Béisbol"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Baseball"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Beisbol"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 27 */
+{
+  "_id" : "28",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "rowing",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Remo"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Rowing"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Remo"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Rem"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Rowing"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Rowing"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 28 */
+{
+  "_id" : "29",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "lacrosse",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Lacrosse"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Lacrosse"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Lacrosse"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Lacrosse"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Lacrosse"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Lacrosse"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 29 */
+{
+  "_id" : "30",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "aussie_rules",
+  "configured" : false,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Aussie Rules"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Aussie Rules"
+      }, {
+        "_id" : null,
+        "string" : "Aussie Rules"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Aussie Rules"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Aussie Rules"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Aussie Rules"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 30 */
+{
+  "_id" : "31",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "cycling",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Cycling"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Ciclisme"
+      }, {
+        "_id" : null,
+        "string" : "Ciclismo"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Ciclismo"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Cycling"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Cycling"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}
+
+/* 31 */
+{
+  "_id" : "32",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSport",
+  "code" : "rugby_league",
+  "configured" : true,
+  "hashKeyParticipants" : false,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Rugby League"
+      }, {
+        "_id" : null,
+        "locale" : "sw",
+        "string" : "Rugby League"
+      }, {
+        "_id" : null,
+        "locale" : "fr",
+        "string" : "Rugby League"
+      }, {
+        "_id" : null,
+        "locale" : "en",
+        "string" : "Rugby League"
+      }, {
+        "_id" : null,
+        "locale" : "es",
+        "string" : "Rugby League"
+      }, {
+        "_id" : null,
+        "locale" : "ca",
+        "string" : "Rugby League"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  }
+}

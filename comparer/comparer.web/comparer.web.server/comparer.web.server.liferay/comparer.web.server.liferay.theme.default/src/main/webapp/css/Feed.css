@@ -1,0 +1,9 @@
+.feedList{width:126px; list-style:none outside none;background-color:#FFFFFF;  color:#3E3E3E; margin: 0}
+.feedList li{border-bottom:1px solid #3475C8; padding:7px 1px; text-align: left;}
+.feedList li:last-child{border-bottom:none;}
+.itemTitle a{font-weight:bold; color:#568BCE !important; text-decoration:none }
+.itemTitle a:hover{ text-decoration:underline }
+.itemDate{font-size:11px;color:#AAAAAA;}
+#tabsFeed{
+	margin-top: 11px;
+}

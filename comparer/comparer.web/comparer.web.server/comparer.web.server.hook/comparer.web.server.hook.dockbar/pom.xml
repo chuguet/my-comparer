@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server.hook</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.hook.dockbar</artifactId>
+	<packaging>war</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>unpack</id>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>unpack</goal>
+						</goals>
+						<configuration>
+							<artifactItems>
+								<artifactItem>
+									<groupId>com.comparadorad.bet</groupId>
+									<artifactId>comparer.web.images</artifactId>
+									<version>${project.version}</version>
+									<type>jar</type>
+									<overWrite>true</overWrite>
+									<outputDirectory>src/main/webapp/WEB-INF/custom_jsps/html</outputDirectory>
+									<includes>**/*.*</includes>
+								</artifactItem>
+							</artifactItems>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			
+		</plugins>
+	</build>
+</project>

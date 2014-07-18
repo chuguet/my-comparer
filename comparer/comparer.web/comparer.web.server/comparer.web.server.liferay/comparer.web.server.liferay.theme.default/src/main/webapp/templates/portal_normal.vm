@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+
+#parse ($init)
+
+<html class="#language("lang.dir")" dir="#language("lang.dir")" lang="$w3c_language_id">
+
+<head>
+	<title>$the_title - $company_name</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	$theme.include($top_head_include)
+	
+
+	
+	<script type="text/javascript">
+  		var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-40151842-1']);
+
+		 (function() {
+		   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		 })();
+	</script>
+
+	
+<!-- UserVoice JavaScript SDK (only needed once on a page) -->
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/yFtUbo7EZyN1HmOi64eadQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+
+<!-- A tab to launch the Classic Widget -->
+<script>
+UserVoice = window.UserVoice || [];
+UserVoice.push(['showTab', 'classic_widget', {
+mode: 'full',
+primary_color: '#007cbf',
+link_color: '#007cbf',
+default_mode: 'feedback',
+forum_id: 214381,
+tab_label: 'Comentarios y soporte',
+tab_color: '#007cbf',
+tab_position: 'middle-right',
+tab_inverted: false
+}]);
+</script>
+
+<script src="$javascript_folder/jquery-1.9.1-min.js" type="text/javascript" ></script>
+<script src="$javascript_folder/jquery-ui-min.js" type="text/javascript" ></script>
+<script src="$javascript_folder/Feed-min.js" type="text/javascript" ></script>
+<script src="$javascript_folder/theme.js" type="text/javascript" ></script>
+	
+</head>
+
+	<script type="text/javascript">
+ 			function getHashParam(name){
+				var hash=window.location.hash; if(!hash) return "-1";
+				var comienzo=hash.indexOf(name);
+				if(comienzo==-1) return "-1";
+				comienzo=comienzo+name.length+1;
+				cantidad=hash.indexOf(";", comienzo)-comienzo; if(cantidad<=0) cantidad=hash.length;
+				return hash.substr(comienzo, cantidad);
+			}
+			
+			
+			function fire(event,id,idSec,msn){
+				window.Liferay.fire(event, {
+						objectId : id,
+						objectIdSec : idSec,
+						message : msn,
+				});
+			
+			}
+			
+			function hashProcess(){
+			
+				var head = getHashParam('head');
+				var betType = getHashParam('betType');
+				var betTypeEvent = getHashParam('betTypeEvent');
+    			var competitionC = getHashParam('competition');
+    			
+   				 if(competitionC!="-1"){
+   				 	if(head!="-1" && betType!="-1"){
+   				 		fire('toolbarCompetitionEvent',competitionC,'','competitionHeadBetType');
+   				 		return;
+   				 	}else if(head!="-1"){
+   				 		fire('toolbarCompetitionEvent',competitionC,'','competitionHead');
+   				 		return;
+   				 	}else{
+   				 		fire('toolbarCompetitionEvent',competitionC,'','');
+   				 		return;
+   				 	}
+				}
+				
+				var eventC = getHashParam('event');
+     			if(eventC!="-1"){
+     				if(head!="-1" && betType!="-1" && betTypeEvent!="-1"){
+     					fire('nextEventMatchEvent',eventC,'','eventHeadBetTypeBetTypeEvent');
+     					return;
+     				}else if(head!="-1" && betType!="-1"){
+     					fire('nextEventMatchEvent',eventC,'','eventHeadBetType');
+     					return;
+     				}else if(head!="-1"){
+     					fire('nextEventMatchEvent',eventC,'','eventHead');
+     					return;
+     				}else{
+     					fire('nextEventMatchEvent',eventC,'','');
+     					return;
+     				}
+   				}
+   				
+   				var sportC = getHashParam('sport');
+   				var countryCoC = getHashParam('country');
+   			   if(sportC!="-1" && countryCoC=="-1"){
+   			   		if(head!="-1"){
+   			   			fire('resultsSportEvent',sportC,'','deporteHead');
+   			   			return;
+   			   		}else{
+    			 		fire('resultsSportEvent',sportC,'','');
+    			 		return;
+    			 	}
+    			}
+    			
+    			var countrySpC = getHashParam('sport');
+   			   if(countrySpC!="-1" && countryCoC!="-1"){
+   			   		if(head!="-1"){
+   			   			fire('resultsCountryEvent',countrySpC,countryCoC,'paisHead');
+   			   			return;
+   			   		}else{
+   			   			fire('resultsCountryEvent',countrySpC,countryCoC,'');
+   			   			return;
+   			  		}
+    		  	
+    			 }
+    			fire('resultsMainEvent','','','');
+    			return;
+   			}
+			
+			
+			
+			function changeTabNavigation(newViewName) {
+				window._navigation = newViewName;
+			}
+			
+	</script>
+ 
+<body class="$css_class"  onhashchange="OnHashChange (event);">
+
+
+
+<div id="wrapper">
+	<a href="#main-content" id="skip-to-content">#language("skip-to-content")</a>
+
+	<header id="banner" role="banner">
+		<hgroup id="heading">
+
+
+	<div class="row1">
+		<div class="row1-1">
+			<div class="time">
+				$theme.runtime("systemHour_WAR_comcomparadoradbetcomparerwebserverportletsystemHour")
+			</div>
+			<!--<div class="juego_seguro">
+				<img alt="Juego Seguro" src="$images_folder/juego_seguro.png"  />
+			</div>-->
+			#if($is_signed_in)
+				#dockbar()
+			#end
+		</div>
+		<div class="language">
+			<!-- $theme.runtime("82") -->
+		</div>
+	</div>	
+	<div class="clear"></div>
+	<div class="row2">
+		<div class="logo">
+			$theme.runtime("56_INSTANCE_odCB4Xy6n4dY")
+		</div>
+		<div class="banners">
+			$theme.runtime("56_INSTANCE_oySD6smaFxAl")
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="row3">	
+		<div class="value_bets">
+			$theme.runtime("links_WAR_comcomparadoradbetcomparerwebserverportletlinks")
+		</div>
+		<div class="bookmakers">
+			$theme.runtime("56_INSTANCE_rYV03BFPzYXe")
+		</div>
+		
+		
+		#if ($has_navigation)
+			#parse ("$full_templates_path/navigation.vm")
+		#end
+		
+	</div>
+	<div class="clear"></div>	
+				
+		</hgroup>
+
+		
+	</header>
+
+	<div id="content">
+		<nav class="site-breadcrumbs" id="breadcrumbs">
+			<h1>
+				<span>#language("breadcrumbs")</span>
+			</h1>
+
+			<!--#breadcrumbs()-->
+		</nav>
+		
+		<div style="display: none;" id="dialog-close-session" title="Ha finalizado tu sesión">
+			Tras un tiempo de inactividad, tu sesión ha finalizado. Por favor, vuelve a entrar haciendo clic en el botón acceder.
+		</div>
+		<div style="display: none;" id="dialog-active" title="¿Aún sigues aquí?">
+			Hemos detectado que llevas tiempo sin actividad, haz clic en el botón "Continuar conectado" 
+			para seguir recibiendo las mejores cuotas.
+		</div>
+		
+		#if ($selectable)
+			$theme.include($content_include)
+		#else
+			$portletDisplay.recycle()
+
+			$portletDisplay.setTitle($the_title)
+
+			$theme.wrapPortlet("portlet.vm", $content_include)
+		#end
+	</div>
+
+</div>
+
+
+
+</body>
+
+$theme.include($bottom_include)
+
+</html>

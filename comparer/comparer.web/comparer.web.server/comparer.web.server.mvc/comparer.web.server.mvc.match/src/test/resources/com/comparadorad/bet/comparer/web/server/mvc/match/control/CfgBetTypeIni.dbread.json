@@ -1,0 +1,139 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 10
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "1 x 2"
+      }]
+  },
+  "nameId" : "1X2"
+}
+
+/* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 20
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ganador de partido"
+      }]
+  },
+  "nameId" : "Ganador_Partido"
+}
+
+/* 2 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 30
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ganador"
+      }]
+  },
+  "nameId" : "Ganador"
+}
+
+/* 3 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 40
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Handicap Asiatico"
+      }]
+  },
+  "nameId" : "Handicap_Asiatico"
+}
+
+/* 4 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 50
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "1X2 Handicap"
+      }]
+  },
+  "nameId" : "1X2_Handicap"
+}
+
+/* 5 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 60
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mas o menos"
+      }]
+  },
+  "nameId" : "Mas_Menos"
+}
+
+/* 6 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetType",
+  "order" : {
+    "priority" : 70
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Maximo goleador"
+      }]
+  },
+  "nameId" : "Maximo_Goleador"
+}

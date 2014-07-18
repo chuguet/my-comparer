@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server.mvc</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.mvc.systemhour</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+
+	</properties>
+	<modules>
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+	</build>
+	<dependencies>
+  		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-mongodb</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-all</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.core</artifactId>
+			<version>${project.version}</version>
+			<scope>compile</scope>
+		</dependency>
+		<!-- -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.core</artifactId>
+			<version>${project.version}</version>
+			<classifier>tests</classifier>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+		</dependency>
+		<!-- Spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<!-- TEST -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test-mvc</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.jayway.jsonpath</groupId>
+			<artifactId>json-path</artifactId>
+			<optional>true</optional>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.liferay.portal</groupId>
+			<artifactId>portal-service</artifactId>
+			<version>${liferay.version}</version>
+		</dependency>
+		<!-- Servlet -->
+		<dependency>
+			<groupId>org.apache.geronimo.specs</groupId>
+			<artifactId>geronimo-servlet_3.0_spec</artifactId>
+			<version>1.0</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+</project>

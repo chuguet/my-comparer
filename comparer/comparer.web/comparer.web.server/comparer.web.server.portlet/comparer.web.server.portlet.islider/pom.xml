@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server.portlet</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.portlet.islider</artifactId>
+	<packaging>war</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+		<gwtModuleName>ImgSliderModule</gwtModuleName>
+	</properties>
+
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<!--<configuration> <modules> <module>org.codehaus.jackson.map.JsonSerializer</module> 
+					</modules> </configuration> -->
+			</plugin>
+		</plugins>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.logger</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.portlet.core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.client.gwt.imageslider.ui</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.imageslider</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.client.gwt.imageslider.bean</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.client.gwt.theme.comparer</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.commons</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
+
+</project>

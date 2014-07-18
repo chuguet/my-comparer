@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server.mvc</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.mvc.imageslider</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+
+	</properties>
+	<modules>
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-mongodb</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt</groupId>
+			<artifactId>gwt-user</artifactId>
+		</dependency>
+		<!-- Spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.bet.service</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.core</artifactId>
+			<version>${project.version}</version>
+			<classifier>tests</classifier>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.core</artifactId>
+			<version>${project.version}</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.client.gwt.imageslider.bean</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.redirection.core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.test.mongo</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.cache</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- TEST -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test-mvc</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.liferay.portal</groupId>
+			<artifactId>portal-service</artifactId>
+			<version>${liferay.version}</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.jayway.jsonpath</groupId>
+			<artifactId>json-path</artifactId>
+
+
+		</dependency>
+	</dependencies>
+</project>

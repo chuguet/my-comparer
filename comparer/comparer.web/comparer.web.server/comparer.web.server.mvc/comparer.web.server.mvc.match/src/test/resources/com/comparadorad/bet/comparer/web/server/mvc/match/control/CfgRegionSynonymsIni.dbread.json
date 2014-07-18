@@ -1,0 +1,296 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["otros"],
+      "word" : "Otros",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "1"
+  }
+}
+
+/* 1 */
+{
+  "_id" : "10",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["alemania"],
+      "word" : "Alemania",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "10"
+  }
+}
+
+/* 2 */
+{
+  "_id" : "12",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["usa"],
+      "word" : "USA",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "12"
+  }
+}
+
+/* 3 */
+{
+  "_id" : "16",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["polonia"],
+      "word" : "Polonia",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "16"
+  }
+}
+
+/* 4 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["internacional"],
+      "word" : "Internacional",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "2"
+  }
+}
+
+/* 5 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["europa"],
+      "word" : "Europa",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "3"
+  }
+}
+
+/* 6 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["asia"],
+      "word" : "Asia",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "4"
+  }
+}
+
+/* 7 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["africa"],
+      "word" : "África",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "5"
+  }
+}
+
+/* 8 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["oceania"],
+      "word" : "Oceanía",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "6"
+  }
+}
+
+/* 9 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["norteamerica"],
+      "word" : "Norteamérica",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "7"
+  }
+}
+
+/* 10 */
+{
+  "_id" : "8",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["sudamerica"],
+      "word" : "Sudamérica",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2013-02-13T16:59:01.043Z"),
+            "user" : "WRITER_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegionSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "region" : {
+    "$ref" : "cfgRegion",
+    "$id" : "8"
+  }
+}

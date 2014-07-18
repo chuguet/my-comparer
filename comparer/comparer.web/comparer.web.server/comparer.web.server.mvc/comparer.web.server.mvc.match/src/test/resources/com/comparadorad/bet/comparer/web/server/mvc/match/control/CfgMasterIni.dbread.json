@@ -1,0 +1,659 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgMaster",
+  "listaAlgoritmos" : [{
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLink",
+        "characterBasedStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLinkToken",
+          "matched" : 0.0,
+          "tr" : 0.30000001192092896,
+          "tSize" : 0.0,
+          "uSize" : 0.0,
+          "largestIndex" : 0,
+          "ESTIMATEDTIMINGCONST" : 0.00019796386186499149
+        },
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "ESTIMATEDTIMINGCONST" : 0.0006186370737850666
+      },
+      "limit" : 0.91
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.BlockDistance",
+        "ESTIMATEDTIMINGCONST" : 6.4457140979357064E-05,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.8
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh",
+          "ESTIMATEDTIMINGCONST" : 4.5000000682193786E-05,
+          "windowSize" : 2147483647,
+          "dCostFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.SubCost5_3_Minus3"
+          },
+          "gGapFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.AffineGap5_1"
+          }
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.OverlapCoefficient",
+        "ESTIMATEDTIMINGCONST" : 0.00014000000373926014,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.ChapmanMatchingSoundex",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Soundex",
+          "ESTIMATEDTIMINGCONST" : 0.00052000000141561031,
+          "internalStringMetric" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler",
+            "ESTIMATEDTIMINGCONST" : 4.3420001020422205E-05,
+            "internalStringMetric" : {
+              "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro",
+              "ESTIMATEDTIMINGCONST" : 4.1200000850949436E-05
+            }
+          }
+        }
+      },
+      "limit" : 0.97
+    }],
+  "timeToProcess" : NumberLong(1200000),
+  "algorithmPrecission" : 2.5,
+  "competitionPrecissionPercent" : "",
+  "strikeConfigList" : [{
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.8",
+      "minimumStrikeNormalized" : "0.9",
+      "numberOfChar" : 15
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.7",
+      "minimumStrikeNormalized" : "0.8",
+      "numberOfChar" : 25
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.65",
+      "minimumStrikeNormalized" : "0.75"
+    }, { }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-10T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "CfgBetType"
+}
+
+/* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgMaster",
+  "listaAlgoritmos" : [{
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLink",
+        "characterBasedStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLinkToken",
+          "matched" : 0.0,
+          "tr" : 0.30000001192092896,
+          "tSize" : 0.0,
+          "uSize" : 0.0,
+          "largestIndex" : 0,
+          "ESTIMATEDTIMINGCONST" : 0.00019796386186499149
+        },
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "ESTIMATEDTIMINGCONST" : 0.0006186370737850666
+      },
+      "limit" : 0.91
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.BlockDistance",
+        "ESTIMATEDTIMINGCONST" : 6.4457140979357064E-05,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.8
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh",
+          "ESTIMATEDTIMINGCONST" : 4.5000000682193786E-05,
+          "windowSize" : 2147483647,
+          "dCostFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.SubCost5_3_Minus3"
+          },
+          "gGapFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.AffineGap5_1"
+          }
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.OverlapCoefficient",
+        "ESTIMATEDTIMINGCONST" : 0.00014000000373926014,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.ChapmanMatchingSoundex",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Soundex",
+          "ESTIMATEDTIMINGCONST" : 0.00052000000141561031,
+          "internalStringMetric" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler",
+            "ESTIMATEDTIMINGCONST" : 4.3420001020422205E-05,
+            "internalStringMetric" : {
+              "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro",
+              "ESTIMATEDTIMINGCONST" : 4.1200000850949436E-05
+            }
+          }
+        }
+      },
+      "limit" : 0.97
+    }],
+  "timeToProcess" : NumberLong(1200000),
+  "algorithmPrecission" : 2.5,
+  "competitionPrecissionPercent" : "70",
+  "strikeConfigList" : [{
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.8",
+      "minimumStrikeNormalized" : "0.9",
+      "numberOfChar" : 15
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.7",
+      "minimumStrikeNormalized" : "0.8",
+      "numberOfChar" : 25
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.65",
+      "minimumStrikeNormalized" : "0.75"
+    }, { }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-10T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "CfgCompetition"
+}
+
+/* 2 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgMaster",
+  "listaAlgoritmos" : [{
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLink",
+        "characterBasedStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLinkToken",
+          "matched" : 0.0,
+          "tr" : 0.30000001192092896,
+          "tSize" : 0.0,
+          "uSize" : 0.0,
+          "largestIndex" : 0,
+          "ESTIMATEDTIMINGCONST" : 0.00019796386186499149
+        },
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "ESTIMATEDTIMINGCONST" : 0.0006186370737850666
+      },
+      "limit" : 0.91
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.BlockDistance",
+        "ESTIMATEDTIMINGCONST" : 6.4457140979357064E-05,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.8
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh",
+          "ESTIMATEDTIMINGCONST" : 4.5000000682193786E-05,
+          "windowSize" : 2147483647,
+          "dCostFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.SubCost5_3_Minus3"
+          },
+          "gGapFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.AffineGap5_1"
+          }
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.OverlapCoefficient",
+        "ESTIMATEDTIMINGCONST" : 0.00014000000373926014,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.ChapmanMatchingSoundex",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Soundex",
+          "ESTIMATEDTIMINGCONST" : 0.00052000000141561031,
+          "internalStringMetric" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler",
+            "ESTIMATEDTIMINGCONST" : 4.3420001020422205E-05,
+            "internalStringMetric" : {
+              "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro",
+              "ESTIMATEDTIMINGCONST" : 4.1200000850949436E-05
+            }
+          }
+        }
+      },
+      "limit" : 0.97
+    }],
+  "timeToProcess" : NumberLong(1200000),
+  "algorithmPrecission" : 2.5,
+  "competitionPrecissionPercent" : "",
+  "strikeConfigList" : [{
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.8",
+      "minimumStrikeNormalized" : "0.9",
+      "numberOfChar" : 15
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.7",
+      "minimumStrikeNormalized" : "0.8",
+      "numberOfChar" : 25
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.65",
+      "minimumStrikeNormalized" : "0.75"
+    }, { }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-10T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "CfgParticipant"
+}
+
+/* 3 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgMaster",
+  "listaAlgoritmos" : [{
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLink",
+        "characterBasedStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLinkToken",
+          "matched" : 0.0,
+          "tr" : 0.30000001192092896,
+          "tSize" : 0.0,
+          "uSize" : 0.0,
+          "largestIndex" : 0,
+          "ESTIMATEDTIMINGCONST" : 0.00019796386186499149
+        },
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "ESTIMATEDTIMINGCONST" : 0.0006186370737850666
+      },
+      "limit" : 0.91
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.BlockDistance",
+        "ESTIMATEDTIMINGCONST" : 6.4457140979357064E-05,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.8
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh",
+          "ESTIMATEDTIMINGCONST" : 4.5000000682193786E-05,
+          "windowSize" : 2147483647,
+          "dCostFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.SubCost5_3_Minus3"
+          },
+          "gGapFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.AffineGap5_1"
+          }
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.OverlapCoefficient",
+        "ESTIMATEDTIMINGCONST" : 0.00014000000373926014,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.ChapmanMatchingSoundex",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Soundex",
+          "ESTIMATEDTIMINGCONST" : 0.00052000000141561031,
+          "internalStringMetric" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler",
+            "ESTIMATEDTIMINGCONST" : 4.3420001020422205E-05,
+            "internalStringMetric" : {
+              "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro",
+              "ESTIMATEDTIMINGCONST" : 4.1200000850949436E-05
+            }
+          }
+        }
+      },
+      "limit" : 0.97
+    }],
+  "timeToProcess" : NumberLong(1200000),
+  "algorithmPrecission" : 2.5,
+  "competitionPrecissionPercent" : "",
+  "strikeConfigList" : [{
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.8",
+      "minimumStrikeNormalized" : "0.9",
+      "numberOfChar" : 15
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.7",
+      "minimumStrikeNormalized" : "0.8",
+      "numberOfChar" : 25
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.65",
+      "minimumStrikeNormalized" : "0.75"
+    }, { }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-10T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "REGION"
+}
+
+/* 4 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgMaster",
+  "listaAlgoritmos" : [{
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLink",
+        "characterBasedStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.TagLinkToken",
+          "matched" : 0.0,
+          "tr" : 0.30000001192092896,
+          "tSize" : 0.0,
+          "uSize" : 0.0,
+          "largestIndex" : 0,
+          "ESTIMATEDTIMINGCONST" : 0.00019796386186499149
+        },
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "ESTIMATEDTIMINGCONST" : 0.0006186370737850666
+      },
+      "limit" : 0.91
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.BlockDistance",
+        "ESTIMATEDTIMINGCONST" : 6.4457140979357064E-05,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.8
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.MongeElkan",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWatermanGotoh",
+          "ESTIMATEDTIMINGCONST" : 4.5000000682193786E-05,
+          "windowSize" : 2147483647,
+          "dCostFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.SubCost5_3_Minus3"
+          },
+          "gGapFunc" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions.AffineGap5_1"
+          }
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.OverlapCoefficient",
+        "ESTIMATEDTIMINGCONST" : 0.00014000000373926014,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        }
+      },
+      "limit" : 0.995
+    }, {
+      "algorithm" : {
+        "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.ChapmanMatchingSoundex",
+        "ESTIMATEDTIMINGCONST" : 0.034400001168251038,
+        "tokeniser" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.tokenisers.TokeniserWhitespace",
+          "stopWordHandler" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.wordhandlers.DummyStopTermHandler"
+          },
+          "delimiters" : "\r\n\t  "
+        },
+        "internalStringMetric" : {
+          "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Soundex",
+          "ESTIMATEDTIMINGCONST" : 0.00052000000141561031,
+          "internalStringMetric" : {
+            "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler",
+            "ESTIMATEDTIMINGCONST" : 4.3420001020422205E-05,
+            "internalStringMetric" : {
+              "_class" : "uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro",
+              "ESTIMATEDTIMINGCONST" : 4.1200000850949436E-05
+            }
+          }
+        }
+      },
+      "limit" : 0.97
+    }],
+  "timeToProcess" : NumberLong(1200000),
+  "algorithmPrecission" : 2.5,
+  "competitionPrecissionPercent" : "",
+  "strikeConfigList" : [{
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.8",
+      "minimumStrikeNormalized" : "0.9",
+      "numberOfChar" : 15
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.7",
+      "minimumStrikeNormalized" : "0.8",
+      "numberOfChar" : 25
+    }, {
+      "customizedMinimumStrike" : "0.2",
+      "minimumStrike" : "0.65",
+      "minimumStrikeNormalized" : "0.75"
+    }, { }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-10T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "CfgSport"
+}

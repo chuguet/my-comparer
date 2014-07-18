@@ -1,0 +1,5090 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "internacional",
+  "alfanumeric3Code" : "internacional",
+  "numericCode" : 1,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Otros"
+      }]
+  }
+}
+
+/* 1 */
+{
+  "_id" : "10",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AQ",
+  "alfanumeric3Code" : "ATA",
+  "numericCode" : 10,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Antártida"
+      }, {
+        "_id" : null,
+        "string" : "Antártida"
+      }]
+  }
+}
+
+/* 2 */
+{
+  "_id" : "100",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BG",
+  "alfanumeric3Code" : "BGR",
+  "numericCode" : 100,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bulgaria"
+      }, {
+        "_id" : null,
+        "string" : "Bulgaria"
+      }]
+  }
+}
+
+/* 3 */
+{
+  "_id" : "104",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MM",
+  "alfanumeric3Code" : "MMR",
+  "numericCode" : 104,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Myanmar"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Myanmar"
+      }]
+  }
+}
+
+/* 4 */
+{
+  "_id" : "108",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BI",
+  "alfanumeric3Code" : "BDI",
+  "numericCode" : 108,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Burundi"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Burundi"
+      }]
+  }
+}
+
+/* 5 */
+{
+  "_id" : "112",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BY",
+  "alfanumeric3Code" : "BLR",
+  "numericCode" : 112,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bielorrusia"
+      }, {
+        "_id" : null,
+        "string" : "Bielorrusia"
+      }]
+  }
+}
+
+/* 6 */
+{
+  "_id" : "116",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KH",
+  "alfanumeric3Code" : "KHM",
+  "numericCode" : 116,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Camboya"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Camboya"
+      }]
+  }
+}
+
+/* 7 */
+{
+  "_id" : "12",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "DZ",
+  "alfanumeric3Code" : "DZA",
+  "numericCode" : 12,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Argel"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Argel"
+      }]
+  }
+}
+
+/* 8 */
+{
+  "_id" : "120",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CM",
+  "alfanumeric3Code" : "CMR",
+  "numericCode" : 120,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Camerún"
+      }, {
+        "_id" : null,
+        "string" : "Camerún"
+      }]
+  }
+}
+
+/* 9 */
+{
+  "_id" : "124",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CA",
+  "alfanumeric3Code" : "CAN",
+  "numericCode" : 124,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Canadá"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Canadá"
+      }]
+  }
+}
+
+/* 10 */
+{
+  "_id" : "132",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CV",
+  "alfanumeric3Code" : "CPV",
+  "numericCode" : 132,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cabo Verde"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Cabo Verde"
+      }]
+  }
+}
+
+/* 11 */
+{
+  "_id" : "136",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KY",
+  "alfanumeric3Code" : "CYM",
+  "numericCode" : 136,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Caimán"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Caimán"
+      }]
+  }
+}
+
+/* 12 */
+{
+  "_id" : "140",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CF",
+  "alfanumeric3Code" : "CAF",
+  "numericCode" : 140,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "República Centro-Africana"
+      }, {
+        "_id" : null,
+        "string" : "República Centro-Africana"
+      }]
+  }
+}
+
+/* 13 */
+{
+  "_id" : "144",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LK",
+  "alfanumeric3Code" : "LKA",
+  "numericCode" : 144,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sri Lanka"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Sri Lanka"
+      }]
+  }
+}
+
+/* 14 */
+{
+  "_id" : "148",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TD",
+  "alfanumeric3Code" : "TCD",
+  "numericCode" : 148,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Chad"
+      }, {
+        "_id" : null,
+        "string" : "Chad"
+      }]
+  }
+}
+
+/* 15 */
+{
+  "_id" : "152",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CL",
+  "alfanumeric3Code" : "CHL",
+  "numericCode" : 152,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Chile"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Chile"
+      }]
+  }
+}
+
+/* 16 */
+{
+  "_id" : "156",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CN",
+  "alfanumeric3Code" : "CHN",
+  "numericCode" : 156,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "China"
+      }, {
+        "_id" : null,
+        "string" : "China"
+      }]
+  }
+}
+
+/* 17 */
+{
+  "_id" : "158",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TW",
+  "alfanumeric3Code" : "TWN",
+  "numericCode" : 158,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Taiwán"
+      }, {
+        "_id" : null,
+        "string" : "Taiwán"
+      }]
+  }
+}
+
+/* 18 */
+{
+  "_id" : "16",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AS",
+  "alfanumeric3Code" : "ASM",
+  "numericCode" : 16,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Samoa Americana"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Samoa Americana"
+      }]
+  }
+}
+
+/* 19 */
+{
+  "_id" : "162",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CX",
+  "alfanumeric3Code" : "CXR",
+  "numericCode" : 162,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Christmas"
+      }, {
+        "_id" : null,
+        "string" : "Islas Christmas"
+      }]
+  }
+}
+
+/* 20 */
+{
+  "_id" : "166",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CC",
+  "alfanumeric3Code" : "CCK",
+  "numericCode" : 166,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Cocos"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Cocos"
+      }]
+  }
+}
+
+/* 21 */
+{
+  "_id" : "170",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CO",
+  "alfanumeric3Code" : "COL",
+  "numericCode" : 170,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Colombia"
+      }, {
+        "_id" : null,
+        "string" : "Colombia"
+      }]
+  }
+}
+
+/* 22 */
+{
+  "_id" : "174",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KM",
+  "alfanumeric3Code" : "COM",
+  "numericCode" : 174,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Comoros"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Comoros"
+      }]
+  }
+}
+
+/* 23 */
+{
+  "_id" : "175",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "YT",
+  "alfanumeric3Code" : "MYT",
+  "numericCode" : 175,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mayotte"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mayotte"
+      }]
+  }
+}
+
+/* 24 */
+{
+  "_id" : "178",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CG",
+  "alfanumeric3Code" : "COG",
+  "numericCode" : 178,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Congo"
+      }, {
+        "_id" : null,
+        "string" : "Congo"
+      }]
+  }
+}
+
+/* 25 */
+{
+  "_id" : "184",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CK",
+  "alfanumeric3Code" : "COK",
+  "numericCode" : 184,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Cook"
+      }, {
+        "_id" : null,
+        "string" : "Islas Cook"
+      }]
+  }
+}
+
+/* 26 */
+{
+  "_id" : "188",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CR",
+  "alfanumeric3Code" : "CRI",
+  "numericCode" : 188,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Costa Rica"
+      }, {
+        "_id" : null,
+        "string" : "Costa Rica"
+      }]
+  }
+}
+
+/* 27 */
+{
+  "_id" : "191",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "HR",
+  "alfanumeric3Code" : "HRV",
+  "numericCode" : 191,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Croacia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Croacia"
+      }]
+  }
+}
+
+/* 28 */
+{
+  "_id" : "192",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CU",
+  "alfanumeric3Code" : "CUB",
+  "numericCode" : 192,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Cuba"
+      }, {
+        "_id" : null,
+        "string" : "Cuba"
+      }]
+  }
+}
+
+/* 29 */
+{
+  "_id" : "196",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CY",
+  "alfanumeric3Code" : "CYP",
+  "numericCode" : 196,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Chipre"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Chipre"
+      }]
+  }
+}
+
+/* 30 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "internacional",
+  "alfanumeric3Code" : "internacional",
+  "numericCode" : 2,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Internacional"
+      }]
+  }
+}
+
+/* 31 */
+{
+  "_id" : "20",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AD",
+  "alfanumeric3Code" : "AND",
+  "numericCode" : 20,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Andorra"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Andorra"
+      }]
+  }
+}
+
+/* 32 */
+{
+  "_id" : "203",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CZ",
+  "alfanumeric3Code" : "CZE",
+  "numericCode" : 203,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "República Checa"
+      }, {
+        "_id" : null,
+        "string" : "República Checa"
+      }]
+  }
+}
+
+/* 33 */
+{
+  "_id" : "204",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BJ",
+  "alfanumeric3Code" : "BEN",
+  "numericCode" : 204,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Benin"
+      }, {
+        "_id" : null,
+        "string" : "Benin"
+      }]
+  }
+}
+
+/* 34 */
+{
+  "_id" : "208",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "DK",
+  "alfanumeric3Code" : "DNK",
+  "numericCode" : 208,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Dinamarca"
+      }, {
+        "_id" : null,
+        "string" : "Dinamarca"
+      }]
+  }
+}
+
+/* 35 */
+{
+  "_id" : "212",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "DM",
+  "alfanumeric3Code" : "DMA",
+  "numericCode" : 212,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Dominica"
+      }, {
+        "_id" : null,
+        "string" : "Dominica"
+      }]
+  }
+}
+
+/* 36 */
+{
+  "_id" : "214",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "DO",
+  "alfanumeric3Code" : "DOM",
+  "numericCode" : 214,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "República Dominicana"
+      }, {
+        "_id" : null,
+        "string" : "República Dominicana"
+      }]
+  }
+}
+
+/* 37 */
+{
+  "_id" : "218",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "EC",
+  "alfanumeric3Code" : "ECU",
+  "numericCode" : 218,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ecuador"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Ecuador"
+      }]
+  }
+}
+
+/* 38 */
+{
+  "_id" : "222",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SV",
+  "alfanumeric3Code" : "SLV",
+  "numericCode" : 222,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "El Salvador"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "El Salvador"
+      }]
+  }
+}
+
+/* 39 */
+{
+  "_id" : "226",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GQ",
+  "alfanumeric3Code" : "GNQ",
+  "numericCode" : 226,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guinea Ecuatorial"
+      }, {
+        "_id" : null,
+        "string" : "Guinea Ecuatorial"
+      }]
+  }
+}
+
+/* 40 */
+{
+  "_id" : "231",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ET",
+  "alfanumeric3Code" : "ETH",
+  "numericCode" : 231,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Etiopía"
+      }, {
+        "_id" : null,
+        "string" : "Etiopía"
+      }]
+  }
+}
+
+/* 41 */
+{
+  "_id" : "232",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ER",
+  "alfanumeric3Code" : "ERI",
+  "numericCode" : 232,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Eritrea"
+      }, {
+        "_id" : null,
+        "string" : "Eritrea"
+      }]
+  }
+}
+
+/* 42 */
+{
+  "_id" : "233",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "EE",
+  "alfanumeric3Code" : "EST",
+  "numericCode" : 233,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Estonia"
+      }, {
+        "_id" : null,
+        "string" : "Estonia"
+      }]
+  }
+}
+
+/* 43 */
+{
+  "_id" : "234",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "FO",
+  "alfanumeric3Code" : "FRO",
+  "numericCode" : 234,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Faroe"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Faroe"
+      }]
+  }
+}
+
+/* 44 */
+{
+  "_id" : "238",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "FK",
+  "alfanumeric3Code" : "KLK",
+  "numericCode" : 238,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Malvinas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Malvinas"
+      }]
+  }
+}
+
+/* 45 */
+{
+  "_id" : "239",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GS",
+  "alfanumeric3Code" : "SGS",
+  "numericCode" : 239,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Georgia del Sur e Islas Sandwich del Sur"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Georgia del Sur e Islas Sandwich del Sur"
+      }]
+  }
+}
+
+/* 46 */
+{
+  "_id" : "24",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AO",
+  "alfanumeric3Code" : "AGO",
+  "numericCode" : 24,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Angola"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Angola"
+      }]
+  }
+}
+
+/* 47 */
+{
+  "_id" : "242",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "FJ",
+  "alfanumeric3Code" : "FJI",
+  "numericCode" : 242,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Fiji"
+      }, {
+        "_id" : null,
+        "string" : "Fiji"
+      }]
+  }
+}
+
+/* 48 */
+{
+  "_id" : "246",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "FI",
+  "alfanumeric3Code" : "FIN",
+  "numericCode" : 246,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Finlandia"
+      }, {
+        "_id" : null,
+        "string" : "Finlandia"
+      }]
+  }
+}
+
+/* 49 */
+{
+  "_id" : "248",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AX",
+  "alfanumeric3Code" : "ALA",
+  "numericCode" : 248,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Åland"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Åland"
+      }]
+  }
+}
+
+/* 50 */
+{
+  "_id" : "250",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "FR",
+  "alfanumeric3Code" : "FRA",
+  "numericCode" : 250,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Francia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Francia"
+      }]
+  }
+}
+
+/* 51 */
+{
+  "_id" : "254",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GF",
+  "alfanumeric3Code" : "GUF",
+  "numericCode" : 254,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Guayana Francesa"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guayana Francesa"
+      }]
+  }
+}
+
+/* 52 */
+{
+  "_id" : "258",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PF",
+  "alfanumeric3Code" : "PYF",
+  "numericCode" : 258,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Polinesia Francesa"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Polinesia Francesa"
+      }]
+  }
+}
+
+/* 53 */
+{
+  "_id" : "260",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TF",
+  "alfanumeric3Code" : "ATF",
+  "numericCode" : 260,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Territorios Australes Franceses"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Territorios Australes Franceses"
+      }]
+  }
+}
+
+/* 54 */
+{
+  "_id" : "262",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "DJ",
+  "alfanumeric3Code" : "DJI",
+  "numericCode" : 262,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Yibuti"
+      }, {
+        "_id" : null,
+        "string" : "Yibuti"
+      }]
+  }
+}
+
+/* 55 */
+{
+  "_id" : "266",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GA",
+  "alfanumeric3Code" : "GAB",
+  "numericCode" : 266,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Gabón"
+      }, {
+        "_id" : null,
+        "string" : "Gabón"
+      }]
+  }
+}
+
+/* 56 */
+{
+  "_id" : "268",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GE",
+  "alfanumeric3Code" : "GEO",
+  "numericCode" : 268,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Georgia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Georgia"
+      }]
+  }
+}
+
+/* 57 */
+{
+  "_id" : "270",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GM",
+  "alfanumeric3Code" : "GMB",
+  "numericCode" : 270,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Gambia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Gambia"
+      }]
+  }
+}
+
+/* 58 */
+{
+  "_id" : "275",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PS",
+  "alfanumeric3Code" : "PSE",
+  "numericCode" : 275,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Palestina"
+      }, {
+        "_id" : null,
+        "string" : "Palestina"
+      }]
+  }
+}
+
+/* 59 */
+{
+  "_id" : "276",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "DE",
+  "alfanumeric3Code" : "DEU",
+  "numericCode" : 276,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Alemania"
+      }, {
+        "_id" : null,
+        "string" : "Alemania"
+      }]
+  }
+}
+
+/* 60 */
+{
+  "_id" : "28",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AG",
+  "alfanumeric3Code" : "ATG",
+  "numericCode" : 28,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Antigua y Barbuda"
+      }, {
+        "_id" : null,
+        "string" : "Antigua y Barbuda"
+      }]
+  }
+}
+
+/* 61 */
+{
+  "_id" : "288",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GH",
+  "alfanumeric3Code" : "GHA",
+  "numericCode" : 288,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ghana"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Ghana"
+      }]
+  }
+}
+
+/* 62 */
+{
+  "_id" : "292",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GI",
+  "alfanumeric3Code" : "GIB",
+  "numericCode" : 292,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Gibraltar"
+      }, {
+        "_id" : null,
+        "string" : "Gibraltar"
+      }]
+  }
+}
+
+/* 63 */
+{
+  "_id" : "296",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KI",
+  "alfanumeric3Code" : "KIR",
+  "numericCode" : 296,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Kiribati"
+      }, {
+        "_id" : null,
+        "string" : "Kiribati"
+      }]
+  }
+}
+
+/* 64 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "europa",
+  "alfanumeric3Code" : "europa",
+  "numericCode" : 3,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Europa"
+      }]
+  }
+}
+
+/* 65 */
+{
+  "_id" : "300",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GR",
+  "alfanumeric3Code" : "GRC",
+  "numericCode" : 300,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Grecia"
+      }, {
+        "_id" : null,
+        "string" : "Grecia"
+      }]
+  }
+}
+
+/* 66 */
+{
+  "_id" : "304",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GL",
+  "alfanumeric3Code" : "GRL",
+  "numericCode" : 304,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Groenlandia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Groenlandia"
+      }]
+  }
+}
+
+/* 67 */
+{
+  "_id" : "308",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GD",
+  "alfanumeric3Code" : "GRD",
+  "numericCode" : 308,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Granada"
+      }, {
+        "_id" : null,
+        "string" : "Granada"
+      }]
+  }
+}
+
+/* 68 */
+{
+  "_id" : "31",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AZ",
+  "alfanumeric3Code" : "AZE",
+  "numericCode" : 31,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Azerbaiyán"
+      }, {
+        "_id" : null,
+        "string" : "Azerbaiyán"
+      }]
+  }
+}
+
+/* 69 */
+{
+  "_id" : "312",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GP",
+  "alfanumeric3Code" : "GLP",
+  "numericCode" : 312,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Guadalupe"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guadalupe"
+      }]
+  }
+}
+
+/* 70 */
+{
+  "_id" : "316",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GU",
+  "alfanumeric3Code" : "GUM",
+  "numericCode" : 316,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Guam"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guam"
+      }]
+  }
+}
+
+/* 71 */
+{
+  "_id" : "32",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AR",
+  "alfanumeric3Code" : "ARG",
+  "numericCode" : 32,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Argentina"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Argentina"
+      }]
+  }
+}
+
+/* 72 */
+{
+  "_id" : "320",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GT",
+  "alfanumeric3Code" : "GTM",
+  "numericCode" : 320,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Guatemala"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guatemala"
+      }]
+  }
+}
+
+/* 73 */
+{
+  "_id" : "324",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GN",
+  "alfanumeric3Code" : "GIN",
+  "numericCode" : 324,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Guinea"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guinea"
+      }]
+  }
+}
+
+/* 74 */
+{
+  "_id" : "328",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GY",
+  "alfanumeric3Code" : "GUY",
+  "numericCode" : 328,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Guayana"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guayana"
+      }]
+  }
+}
+
+/* 75 */
+{
+  "_id" : "332",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "HT",
+  "alfanumeric3Code" : "HTI",
+  "numericCode" : 332,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Haití"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Haití"
+      }]
+  }
+}
+
+/* 76 */
+{
+  "_id" : "334",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "HM",
+  "alfanumeric3Code" : "HMD",
+  "numericCode" : 334,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Heard y McDonald"
+      }, {
+        "_id" : null,
+        "string" : "Islas Heard y McDonald"
+      }]
+  }
+}
+
+/* 77 */
+{
+  "_id" : "336",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VA",
+  "alfanumeric3Code" : "VAT",
+  "numericCode" : 336,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Ciudad del Vaticano"
+      }, {
+        "_id" : null,
+        "string" : "Ciudad del Vaticano"
+      }]
+  }
+}
+
+/* 78 */
+{
+  "_id" : "340",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "HN",
+  "alfanumeric3Code" : "HND",
+  "numericCode" : 340,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Honduras"
+      }, {
+        "_id" : null,
+        "string" : "Honduras"
+      }]
+  }
+}
+
+/* 79 */
+{
+  "_id" : "344",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "HK",
+  "alfanumeric3Code" : "HKG",
+  "numericCode" : 344,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Hong Kong"
+      }, {
+        "_id" : null,
+        "string" : "Hong Kong"
+      }]
+  }
+}
+
+/* 80 */
+{
+  "_id" : "348",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "HU",
+  "alfanumeric3Code" : "HUN",
+  "numericCode" : 348,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Hungría"
+      }, {
+        "_id" : null,
+        "string" : "Hungría"
+      }]
+  }
+}
+
+/* 81 */
+{
+  "_id" : "352",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IS",
+  "alfanumeric3Code" : "ISL",
+  "numericCode" : 352,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islandia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islandia"
+      }]
+  }
+}
+
+/* 82 */
+{
+  "_id" : "356",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IN",
+  "alfanumeric3Code" : "IND",
+  "numericCode" : 356,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "India"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "India"
+      }]
+  }
+}
+
+/* 83 */
+{
+  "_id" : "36",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AU",
+  "alfanumeric3Code" : "AUS",
+  "numericCode" : 36,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Australia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Australia"
+      }]
+  }
+}
+
+/* 84 */
+{
+  "_id" : "360",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ID",
+  "alfanumeric3Code" : "IDN",
+  "numericCode" : 360,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Indonesia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Indonesia"
+      }]
+  }
+}
+
+/* 85 */
+{
+  "_id" : "364",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IR",
+  "alfanumeric3Code" : "IRN",
+  "numericCode" : 364,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Irán"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Irán"
+      }]
+  }
+}
+
+/* 86 */
+{
+  "_id" : "368",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IQ",
+  "alfanumeric3Code" : "IRQ",
+  "numericCode" : 368,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Irak"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Irak"
+      }]
+  }
+}
+
+/* 87 */
+{
+  "_id" : "372",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IE",
+  "alfanumeric3Code" : "IRL",
+  "numericCode" : 372,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Irlanda"
+      }, {
+        "_id" : null,
+        "string" : "Irlanda"
+      }]
+  }
+}
+
+/* 88 */
+{
+  "_id" : "376",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IL",
+  "alfanumeric3Code" : "ISR",
+  "numericCode" : 376,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Israel"
+      }, {
+        "_id" : null,
+        "string" : "Israel"
+      }]
+  }
+}
+
+/* 89 */
+{
+  "_id" : "380",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IT",
+  "alfanumeric3Code" : "ITA",
+  "numericCode" : 380,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Italia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Italia"
+      }]
+  }
+}
+
+/* 90 */
+{
+  "_id" : "384",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CI",
+  "alfanumeric3Code" : "CIV",
+  "numericCode" : 384,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Costa de Marfil"
+      }, {
+        "_id" : null,
+        "string" : "Costa de Marfil"
+      }]
+  }
+}
+
+/* 91 */
+{
+  "_id" : "388",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "JM",
+  "alfanumeric3Code" : "JAM",
+  "numericCode" : 388,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Jamaica"
+      }, {
+        "_id" : null,
+        "string" : "Jamaica"
+      }]
+  }
+}
+
+/* 92 */
+{
+  "_id" : "392",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "JP",
+  "alfanumeric3Code" : "JPN",
+  "numericCode" : 392,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Japón"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Japón"
+      }]
+  }
+}
+
+/* 93 */
+{
+  "_id" : "398",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KZ",
+  "alfanumeric3Code" : "KAZ",
+  "numericCode" : 398,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Kazajstán"
+      }, {
+        "_id" : null,
+        "string" : "Kazajstán"
+      }]
+  }
+}
+
+/* 94 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AF",
+  "alfanumeric3Code" : "AFG",
+  "numericCode" : 4,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Afganistán"
+      }, {
+        "_id" : null,
+        "string" : "Afganistán"
+      }]
+  }
+}
+
+/* 95 */
+{
+  "_id" : "40",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AT",
+  "alfanumeric3Code" : "AUT",
+  "numericCode" : 40,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Austria"
+      }, {
+        "_id" : null,
+        "string" : "Austria"
+      }]
+  }
+}
+
+/* 96 */
+{
+  "_id" : "400",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "JO",
+  "alfanumeric3Code" : "JOR",
+  "numericCode" : 400,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Jordania"
+      }, {
+        "_id" : null,
+        "string" : "Jordania"
+      }]
+  }
+}
+
+/* 97 */
+{
+  "_id" : "4000",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "asia",
+  "alfanumeric3Code" : "asia",
+  "numericCode" : 4,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Asia"
+      }]
+  }
+}
+
+/* 98 */
+{
+  "_id" : "404",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KE",
+  "alfanumeric3Code" : "KEN",
+  "numericCode" : 404,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Kenia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Kenia"
+      }]
+  }
+}
+
+/* 99 */
+{
+  "_id" : "408",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KP",
+  "alfanumeric3Code" : "PRK",
+  "numericCode" : 408,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Corea del Norte"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Corea del Norte"
+      }]
+  }
+}
+
+/* 100 */
+{
+  "_id" : "410",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KR",
+  "alfanumeric3Code" : "KOR",
+  "numericCode" : 410,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Corea del Sur"
+      }, {
+        "_id" : null,
+        "string" : "Corea del Sur"
+      }]
+  }
+}
+
+/* 101 */
+{
+  "_id" : "414",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KW",
+  "alfanumeric3Code" : "KWT",
+  "numericCode" : 414,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Kuwait"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Kuwait"
+      }]
+  }
+}
+
+/* 102 */
+{
+  "_id" : "417",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KG",
+  "alfanumeric3Code" : "KGZ",
+  "numericCode" : 417,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Kirguistán"
+      }, {
+        "_id" : null,
+        "string" : "Kirguistán"
+      }]
+  }
+}
+
+/* 103 */
+{
+  "_id" : "418",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LA",
+  "alfanumeric3Code" : "LAO",
+  "numericCode" : 418,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Laos"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Laos"
+      }]
+  }
+}
+
+/* 104 */
+{
+  "_id" : "422",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LB",
+  "alfanumeric3Code" : "LBN",
+  "numericCode" : 422,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Líbano"
+      }, {
+        "_id" : null,
+        "string" : "Líbano"
+      }]
+  }
+}
+
+/* 105 */
+{
+  "_id" : "426",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LS",
+  "alfanumeric3Code" : "LSO",
+  "numericCode" : 426,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Lesotho"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Lesotho"
+      }]
+  }
+}
+
+/* 106 */
+{
+  "_id" : "428",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LV",
+  "alfanumeric3Code" : "LVA",
+  "numericCode" : 428,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Letonia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Letonia"
+      }]
+  }
+}
+
+/* 107 */
+{
+  "_id" : "430",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LR",
+  "alfanumeric3Code" : "LBR",
+  "numericCode" : 430,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Liberia"
+      }, {
+        "_id" : null,
+        "string" : "Liberia"
+      }]
+  }
+}
+
+/* 108 */
+{
+  "_id" : "434",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LY",
+  "alfanumeric3Code" : "LBY",
+  "numericCode" : 434,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Libia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Libia"
+      }]
+  }
+}
+
+/* 109 */
+{
+  "_id" : "438",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LI",
+  "alfanumeric3Code" : "LIE",
+  "numericCode" : 438,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Liechtenstein"
+      }, {
+        "_id" : null,
+        "string" : "Liechtenstein"
+      }]
+  }
+}
+
+/* 110 */
+{
+  "_id" : "44",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BS",
+  "alfanumeric3Code" : "BHS",
+  "numericCode" : 44,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bahamas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bahamas"
+      }]
+  }
+}
+
+/* 111 */
+{
+  "_id" : "440",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LT",
+  "alfanumeric3Code" : "LTU",
+  "numericCode" : 440,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Lituania"
+      }, {
+        "_id" : null,
+        "string" : "Lituania"
+      }]
+  }
+}
+
+/* 112 */
+{
+  "_id" : "442",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LU",
+  "alfanumeric3Code" : "LUX",
+  "numericCode" : 442,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Luxemburgo"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Luxemburgo"
+      }]
+  }
+}
+
+/* 113 */
+{
+  "_id" : "446",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MO",
+  "alfanumeric3Code" : "MAC",
+  "numericCode" : 446,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Macao"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Macao"
+      }]
+  }
+}
+
+/* 114 */
+{
+  "_id" : "450",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MG",
+  "alfanumeric3Code" : "MDG",
+  "numericCode" : 450,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Madagascar"
+      }, {
+        "_id" : null,
+        "string" : "Madagascar"
+      }]
+  }
+}
+
+/* 115 */
+{
+  "_id" : "454",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MW",
+  "alfanumeric3Code" : "MWI",
+  "numericCode" : 454,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Malawi"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Malawi"
+      }]
+  }
+}
+
+/* 116 */
+{
+  "_id" : "458",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MY",
+  "alfanumeric3Code" : "MYS",
+  "numericCode" : 458,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Malasia"
+      }, {
+        "_id" : null,
+        "string" : "Malasia"
+      }]
+  }
+}
+
+/* 117 */
+{
+  "_id" : "462",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MV",
+  "alfanumeric3Code" : "MDV",
+  "numericCode" : 462,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Maldivas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Maldivas"
+      }]
+  }
+}
+
+/* 118 */
+{
+  "_id" : "466",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ML",
+  "alfanumeric3Code" : "MLI",
+  "numericCode" : 466,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mali"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mali"
+      }]
+  }
+}
+
+/* 119 */
+{
+  "_id" : "470",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MT",
+  "alfanumeric3Code" : "MLT",
+  "numericCode" : 470,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Malta"
+      }, {
+        "_id" : null,
+        "string" : "Malta"
+      }]
+  }
+}
+
+/* 120 */
+{
+  "_id" : "474",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MQ",
+  "alfanumeric3Code" : "MTQ",
+  "numericCode" : 474,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Martinica"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Martinica"
+      }]
+  }
+}
+
+/* 121 */
+{
+  "_id" : "478",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MR",
+  "alfanumeric3Code" : "MRT",
+  "numericCode" : 478,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mauritania"
+      }, {
+        "_id" : null,
+        "string" : "Mauritania"
+      }]
+  }
+}
+
+/* 122 */
+{
+  "_id" : "48",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BH",
+  "alfanumeric3Code" : "BHR",
+  "numericCode" : 48,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bahréin"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bahréin"
+      }]
+  }
+}
+
+/* 123 */
+{
+  "_id" : "480",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MU",
+  "alfanumeric3Code" : "MUS",
+  "numericCode" : 480,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mauricio"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mauricio"
+      }]
+  }
+}
+
+/* 124 */
+{
+  "_id" : "484",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MX",
+  "alfanumeric3Code" : "MEX",
+  "numericCode" : 484,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "México"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "México"
+      }]
+  }
+}
+
+/* 125 */
+{
+  "_id" : "492",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MC",
+  "alfanumeric3Code" : "MCO",
+  "numericCode" : 492,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mónaco"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mónaco"
+      }]
+  }
+}
+
+/* 126 */
+{
+  "_id" : "496",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MN",
+  "alfanumeric3Code" : "MNG",
+  "numericCode" : 496,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Mongolia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mongolia"
+      }]
+  }
+}
+
+/* 127 */
+{
+  "_id" : "498",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MD",
+  "alfanumeric3Code" : "MDA",
+  "numericCode" : 498,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Moldova"
+      }, {
+        "_id" : null,
+        "string" : "Moldova"
+      }]
+  }
+}
+
+/* 128 */
+{
+  "_id" : "499",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ME",
+  "alfanumeric3Code" : "MNE",
+  "numericCode" : 499,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Montenegro"
+      }, {
+        "_id" : null,
+        "string" : "Montenegro"
+      }]
+  }
+}
+
+/* 129 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "africa",
+  "alfanumeric3Code" : "africa",
+  "numericCode" : 5,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "África"
+      }]
+  }
+}
+
+/* 130 */
+{
+  "_id" : "50",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BD",
+  "alfanumeric3Code" : "BGD",
+  "numericCode" : 50,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bangladesh"
+      }, {
+        "_id" : null,
+        "string" : "Bangladesh"
+      }]
+  }
+}
+
+/* 131 */
+{
+  "_id" : "500",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MS",
+  "alfanumeric3Code" : "MSR",
+  "numericCode" : 500,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Montserrat"
+      }, {
+        "_id" : null,
+        "string" : "Montserrat"
+      }]
+  }
+}
+
+/* 132 */
+{
+  "_id" : "504",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MA",
+  "alfanumeric3Code" : "MAR",
+  "numericCode" : 504,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Marruecos"
+      }, {
+        "_id" : null,
+        "string" : "Marruecos"
+      }]
+  }
+}
+
+/* 133 */
+{
+  "_id" : "508",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MZ",
+  "alfanumeric3Code" : "MOZ",
+  "numericCode" : 508,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Mozambique"
+      }, {
+        "_id" : null,
+        "string" : "Mozambique"
+      }]
+  }
+}
+
+/* 134 */
+{
+  "_id" : "51",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AM",
+  "alfanumeric3Code" : "ARM",
+  "numericCode" : 51,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Armenia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Armenia"
+      }]
+  }
+}
+
+/* 135 */
+{
+  "_id" : "512",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "OM",
+  "alfanumeric3Code" : "OMN",
+  "numericCode" : 512,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Omán"
+      }, {
+        "_id" : null,
+        "string" : "Omán"
+      }]
+  }
+}
+
+/* 136 */
+{
+  "_id" : "516",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NA",
+  "alfanumeric3Code" : "NAM",
+  "numericCode" : 516,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Namibia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Namibia"
+      }]
+  }
+}
+
+/* 137 */
+{
+  "_id" : "52",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BB",
+  "alfanumeric3Code" : "BRB",
+  "numericCode" : 52,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Barbados"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Barbados"
+      }]
+  }
+}
+
+/* 138 */
+{
+  "_id" : "520",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NR",
+  "alfanumeric3Code" : "NRU",
+  "numericCode" : 520,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Nauru"
+      }, {
+        "_id" : null,
+        "string" : "Nauru"
+      }]
+  }
+}
+
+/* 139 */
+{
+  "_id" : "524",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NP",
+  "alfanumeric3Code" : "NPL",
+  "numericCode" : 524,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Nepal"
+      }, {
+        "_id" : null,
+        "string" : "Nepal"
+      }]
+  }
+}
+
+/* 140 */
+{
+  "_id" : "528",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NL",
+  "alfanumeric3Code" : "NLD",
+  "numericCode" : 528,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Países Bajos"
+      }, {
+        "_id" : null,
+        "string" : "Países Bajos"
+      }]
+  }
+}
+
+/* 141 */
+{
+  "_id" : "530",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AN",
+  "alfanumeric3Code" : "ANT",
+  "numericCode" : 530,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Antillas Neerlandesas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Antillas Neerlandesas"
+      }]
+  }
+}
+
+/* 142 */
+{
+  "_id" : "533",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AW",
+  "alfanumeric3Code" : "ABW",
+  "numericCode" : 533,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Aruba"
+      }, {
+        "_id" : null,
+        "string" : "Aruba"
+      }]
+  }
+}
+
+/* 143 */
+{
+  "_id" : "540",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NC",
+  "alfanumeric3Code" : "NCL",
+  "numericCode" : 540,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nueva Caledonia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Nueva Caledonia"
+      }]
+  }
+}
+
+/* 144 */
+{
+  "_id" : "548",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VU",
+  "alfanumeric3Code" : "VUT",
+  "numericCode" : 548,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Vanuatu"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Vanuatu"
+      }]
+  }
+}
+
+/* 145 */
+{
+  "_id" : "554",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NZ",
+  "alfanumeric3Code" : "NZL",
+  "numericCode" : 554,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nueva Zelanda"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Nueva Zelanda"
+      }]
+  }
+}
+
+/* 146 */
+{
+  "_id" : "558",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NI",
+  "alfanumeric3Code" : "NIC",
+  "numericCode" : 558,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nicaragua"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Nicaragua"
+      }]
+  }
+}
+
+/* 147 */
+{
+  "_id" : "56",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BE",
+  "alfanumeric3Code" : "BEL",
+  "numericCode" : 56,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bélgica"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bélgica"
+      }]
+  }
+}
+
+/* 148 */
+{
+  "_id" : "562",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NE",
+  "alfanumeric3Code" : "NER",
+  "numericCode" : 562,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Níger"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Níger"
+      }]
+  }
+}
+
+/* 149 */
+{
+  "_id" : "566",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NG",
+  "alfanumeric3Code" : "NGA",
+  "numericCode" : 566,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nigeria"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Nigeria"
+      }]
+  }
+}
+
+/* 150 */
+{
+  "_id" : "570",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NU",
+  "alfanumeric3Code" : "NIU",
+  "numericCode" : 570,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Niue"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Niue"
+      }]
+  }
+}
+
+/* 151 */
+{
+  "_id" : "574",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NF",
+  "alfanumeric3Code" : "NFK",
+  "numericCode" : 574,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Norkfolk"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Norkfolk"
+      }]
+  }
+}
+
+/* 152 */
+{
+  "_id" : "578",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "NO",
+  "alfanumeric3Code" : "NOR",
+  "numericCode" : 578,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Noruega"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Noruega"
+      }]
+  }
+}
+
+/* 153 */
+{
+  "_id" : "583",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "FM",
+  "alfanumeric3Code" : "FSM",
+  "numericCode" : 583,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Micronesia"
+      }, {
+        "_id" : null,
+        "string" : "Micronesia"
+      }]
+  }
+}
+
+/* 154 */
+{
+  "_id" : "584",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MH",
+  "alfanumeric3Code" : "MHL",
+  "numericCode" : 584,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Marshall"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Marshall"
+      }]
+  }
+}
+
+/* 155 */
+{
+  "_id" : "585",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PW",
+  "alfanumeric3Code" : "PLW",
+  "numericCode" : 585,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Palaos"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Palaos"
+      }]
+  }
+}
+
+/* 156 */
+{
+  "_id" : "586",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PK",
+  "alfanumeric3Code" : "PAK",
+  "numericCode" : 586,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Pakistán"
+      }, {
+        "_id" : null,
+        "string" : "Pakistán"
+      }]
+  }
+}
+
+/* 157 */
+{
+  "_id" : "591",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PA",
+  "alfanumeric3Code" : "PAN",
+  "numericCode" : 591,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Panamá"
+      }, {
+        "_id" : null,
+        "string" : "Panamá"
+      }]
+  }
+}
+
+/* 158 */
+{
+  "_id" : "598",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PG",
+  "alfanumeric3Code" : "PNG",
+  "numericCode" : 598,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Papúa Nueva Guinea"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Papúa Nueva Guinea"
+      }]
+  }
+}
+
+/* 159 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "oceania",
+  "alfanumeric3Code" : "oceania",
+  "numericCode" : 6,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Oceanía"
+      }]
+  }
+}
+
+/* 160 */
+{
+  "_id" : "60",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BM",
+  "alfanumeric3Code" : "BMU",
+  "numericCode" : 60,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bermudas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bermudas"
+      }]
+  }
+}
+
+/* 161 */
+{
+  "_id" : "600",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PY",
+  "alfanumeric3Code" : "PRY",
+  "numericCode" : 600,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Paraguay"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Paraguay"
+      }]
+  }
+}
+
+/* 162 */
+{
+  "_id" : "604",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PE",
+  "alfanumeric3Code" : "PER",
+  "numericCode" : 604,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Perú"
+      }, {
+        "_id" : null,
+        "string" : "Perú"
+      }]
+  }
+}
+
+/* 163 */
+{
+  "_id" : "608",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PH",
+  "alfanumeric3Code" : "PHL",
+  "numericCode" : 608,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Filipinas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Filipinas"
+      }]
+  }
+}
+
+/* 164 */
+{
+  "_id" : "612",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PN",
+  "alfanumeric3Code" : "PCN",
+  "numericCode" : 612,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Pitcairn"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Pitcairn"
+      }]
+  }
+}
+
+/* 165 */
+{
+  "_id" : "616",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PL",
+  "alfanumeric3Code" : "POL",
+  "numericCode" : 616,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Polonia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Polonia"
+      }]
+  }
+}
+
+/* 166 */
+{
+  "_id" : "620",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PT",
+  "alfanumeric3Code" : "PRT",
+  "numericCode" : 620,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Portugal"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Portugal"
+      }]
+  }
+}
+
+/* 167 */
+{
+  "_id" : "624",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GW",
+  "alfanumeric3Code" : "GNB",
+  "numericCode" : 624,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guinea-Bissau"
+      }, {
+        "_id" : null,
+        "string" : "Guinea-Bissau"
+      }]
+  }
+}
+
+/* 168 */
+{
+  "_id" : "626",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TL",
+  "alfanumeric3Code" : "TLS",
+  "numericCode" : 626,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Timor-Leste"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Timor-Leste"
+      }]
+  }
+}
+
+/* 169 */
+{
+  "_id" : "630",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PR",
+  "alfanumeric3Code" : "PRI",
+  "numericCode" : 630,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Puerto Rico"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Puerto Rico"
+      }]
+  }
+}
+
+/* 170 */
+{
+  "_id" : "634",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "QA",
+  "alfanumeric3Code" : "QAT",
+  "numericCode" : 634,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Qatar"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Qatar"
+      }]
+  }
+}
+
+/* 171 */
+{
+  "_id" : "638",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "RE",
+  "alfanumeric3Code" : "REU",
+  "numericCode" : 638,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Reunión"
+      }, {
+        "_id" : null,
+        "string" : "Reunión"
+      }]
+  }
+}
+
+/* 172 */
+{
+  "_id" : "64",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BT",
+  "alfanumeric3Code" : "BTN",
+  "numericCode" : 64,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bhután"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bhután"
+      }]
+  }
+}
+
+/* 173 */
+{
+  "_id" : "642",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "RO",
+  "alfanumeric3Code" : "ROU",
+  "numericCode" : 642,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Rumanía"
+      }, {
+        "_id" : null,
+        "string" : "Rumanía"
+      }]
+  }
+}
+
+/* 174 */
+{
+  "_id" : "643",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "RU",
+  "alfanumeric3Code" : "RUS",
+  "numericCode" : 643,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Rusia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Rusia"
+      }]
+  }
+}
+
+/* 175 */
+{
+  "_id" : "646",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "RW",
+  "alfanumeric3Code" : "RWA",
+  "numericCode" : 646,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Ruanda"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Ruanda"
+      }]
+  }
+}
+
+/* 176 */
+{
+  "_id" : "652",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BL",
+  "alfanumeric3Code" : "BLM",
+  "numericCode" : 652,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "San Bartolomé"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "San Bartolomé"
+      }]
+  }
+}
+
+/* 177 */
+{
+  "_id" : "654",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SH",
+  "alfanumeric3Code" : "SHN",
+  "numericCode" : 654,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Santa Elena"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Santa Elena"
+      }]
+  }
+}
+
+/* 178 */
+{
+  "_id" : "659",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "KN",
+  "alfanumeric3Code" : "KNA",
+  "numericCode" : 659,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "San Cristóbal y Nieves"
+      }, {
+        "_id" : null,
+        "string" : "San Cristóbal y Nieves"
+      }]
+  }
+}
+
+/* 179 */
+{
+  "_id" : "660",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AI",
+  "alfanumeric3Code" : "AIA",
+  "numericCode" : 660,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Anguila"
+      }, {
+        "_id" : null,
+        "string" : "Anguila"
+      }]
+  }
+}
+
+/* 180 */
+{
+  "_id" : "662",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "LC",
+  "alfanumeric3Code" : "LCA",
+  "numericCode" : 662,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Santa Lucía"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Santa Lucía"
+      }]
+  }
+}
+
+/* 181 */
+{
+  "_id" : "666",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "PM",
+  "alfanumeric3Code" : "SPM",
+  "numericCode" : 666,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "San Pedro y Miquelón"
+      }, {
+        "_id" : null,
+        "string" : "San Pedro y Miquelón"
+      }]
+  }
+}
+
+/* 182 */
+{
+  "_id" : "670",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VC",
+  "alfanumeric3Code" : "VCT",
+  "numericCode" : 670,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "San Vicente y las Granadinas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "San Vicente y las Granadinas"
+      }]
+  }
+}
+
+/* 183 */
+{
+  "_id" : "674",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SM",
+  "alfanumeric3Code" : "SMR",
+  "numericCode" : 674,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "San Marino"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "San Marino"
+      }]
+  }
+}
+
+/* 184 */
+{
+  "_id" : "678",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ST",
+  "alfanumeric3Code" : "STP",
+  "numericCode" : 678,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Santo Tomás y Príncipe"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Santo Tomás y Príncipe"
+      }]
+  }
+}
+
+/* 185 */
+{
+  "_id" : "68",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BO",
+  "alfanumeric3Code" : "BOL",
+  "numericCode" : 68,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bolivia"
+      }, {
+        "_id" : null,
+        "string" : "Bolivia"
+      }]
+  }
+}
+
+/* 186 */
+{
+  "_id" : "682",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SA",
+  "alfanumeric3Code" : "SAU",
+  "numericCode" : 682,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Arabia Saudita"
+      }, {
+        "_id" : null,
+        "string" : "Arabia Saudita"
+      }]
+  }
+}
+
+/* 187 */
+{
+  "_id" : "686",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SN",
+  "alfanumeric3Code" : "SEN",
+  "numericCode" : 686,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Senegal"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Senegal"
+      }]
+  }
+}
+
+/* 188 */
+{
+  "_id" : "688",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "RS",
+  "alfanumeric3Code" : "SRB",
+  "numericCode" : 688,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Serbia y Montenegro"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Serbia y Montenegro"
+      }]
+  }
+}
+
+/* 189 */
+{
+  "_id" : "690",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SC",
+  "alfanumeric3Code" : "SYC",
+  "numericCode" : 690,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Seychelles"
+      }, {
+        "_id" : null,
+        "string" : "Seychelles"
+      }]
+  }
+}
+
+/* 190 */
+{
+  "_id" : "694",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SL",
+  "alfanumeric3Code" : "SLE",
+  "numericCode" : 694,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Sierra Leona"
+      }, {
+        "_id" : null,
+        "string" : "Sierra Leona"
+      }]
+  }
+}
+
+/* 191 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "america",
+  "alfanumeric3Code" : "america",
+  "numericCode" : 7,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Norteamérica"
+      }]
+  }
+}
+
+/* 192 */
+{
+  "_id" : "70",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BA",
+  "alfanumeric3Code" : "BIH",
+  "numericCode" : 70,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Bosnia y Herzegovina"
+      }, {
+        "_id" : null,
+        "string" : "Bosnia y Herzegovina"
+      }]
+  }
+}
+
+/* 193 */
+{
+  "_id" : "7000",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "america",
+  "alfanumeric3Code" : "america",
+  "numericCode" : 7000,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "América"
+      }]
+  }
+}
+
+/* 194 */
+{
+  "_id" : "702",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SG",
+  "alfanumeric3Code" : "SGP",
+  "numericCode" : 702,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Singapur"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Singapur"
+      }]
+  }
+}
+
+/* 195 */
+{
+  "_id" : "703",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SK",
+  "alfanumeric3Code" : "SVK",
+  "numericCode" : 703,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Eslovaquia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Eslovaquia"
+      }]
+  }
+}
+
+/* 196 */
+{
+  "_id" : "704",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VN",
+  "alfanumeric3Code" : "VNM",
+  "numericCode" : 704,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Vietnam"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Vietnam"
+      }]
+  }
+}
+
+/* 197 */
+{
+  "_id" : "705",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SI",
+  "alfanumeric3Code" : "SVN",
+  "numericCode" : 705,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Eslovenia"
+      }, {
+        "_id" : null,
+        "string" : "Eslovenia"
+      }]
+  }
+}
+
+/* 198 */
+{
+  "_id" : "706",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SO",
+  "alfanumeric3Code" : "SOM",
+  "numericCode" : 706,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Somalia"
+      }, {
+        "_id" : null,
+        "string" : "Somalia"
+      }]
+  }
+}
+
+/* 199 */
+{
+  "_id" : "710",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ZA",
+  "alfanumeric3Code" : "ZAF",
+  "numericCode" : 710,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sudáfrica"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Sudáfrica"
+      }]
+  }
+}
+
+/* 200 */
+{
+  "_id" : "72",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BW",
+  "alfanumeric3Code" : "BWA",
+  "numericCode" : 72,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Botsuana"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Botsuana"
+      }]
+  }
+}
+
+/* 201 */
+{
+  "_id" : "724",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "ES",
+  "alfanumeric3Code" : "ESP",
+  "numericCode" : 724,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "España"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "España"
+      }]
+  }
+}
+
+/* 202 */
+{
+  "_id" : "732",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "EH",
+  "alfanumeric3Code" : "ESH",
+  "numericCode" : 732,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Sahara Occidental"
+      }, {
+        "_id" : null,
+        "string" : "Sahara Occidental"
+      }]
+  }
+}
+
+/* 203 */
+{
+  "_id" : "736",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SD",
+  "alfanumeric3Code" : "SDN",
+  "numericCode" : 736,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Sudán"
+      }, {
+        "_id" : null,
+        "string" : "Sudán"
+      }]
+  }
+}
+
+/* 204 */
+{
+  "_id" : "74",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BV",
+  "alfanumeric3Code" : "BVT",
+  "numericCode" : 74,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Isla Bouvet"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Isla Bouvet"
+      }]
+  }
+}
+
+/* 205 */
+{
+  "_id" : "740",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SR",
+  "alfanumeric3Code" : "SUR",
+  "numericCode" : 740,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Surinam"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Surinam"
+      }]
+  }
+}
+
+/* 206 */
+{
+  "_id" : "744",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SJ",
+  "alfanumeric3Code" : "SJM",
+  "numericCode" : 744,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Svalbard y Jan Mayen"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Svalbard y Jan Mayen"
+      }]
+  }
+}
+
+/* 207 */
+{
+  "_id" : "748",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SZ",
+  "alfanumeric3Code" : "SWZ",
+  "numericCode" : 748,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Suazilandia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Suazilandia"
+      }]
+  }
+}
+
+/* 208 */
+{
+  "_id" : "752",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SE",
+  "alfanumeric3Code" : "SWE",
+  "numericCode" : 752,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Suecia"
+      }, {
+        "_id" : null,
+        "string" : "Suecia"
+      }]
+  }
+}
+
+/* 209 */
+{
+  "_id" : "756",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "CH",
+  "alfanumeric3Code" : "CHE",
+  "numericCode" : 756,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Suiza"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Suiza"
+      }]
+  }
+}
+
+/* 210 */
+{
+  "_id" : "76",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BR",
+  "alfanumeric3Code" : "BRA",
+  "numericCode" : 76,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Brasil"
+      }, {
+        "_id" : null,
+        "string" : "Brasil"
+      }]
+  }
+}
+
+/* 211 */
+{
+  "_id" : "760",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SY",
+  "alfanumeric3Code" : "SYR",
+  "numericCode" : 760,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Siria"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Siria"
+      }]
+  }
+}
+
+/* 212 */
+{
+  "_id" : "762",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TJ",
+  "alfanumeric3Code" : "TJK",
+  "numericCode" : 762,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Tayikistán"
+      }, {
+        "_id" : null,
+        "string" : "Tayikistán"
+      }]
+  }
+}
+
+/* 213 */
+{
+  "_id" : "764",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TH",
+  "alfanumeric3Code" : "THA",
+  "numericCode" : 764,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Tailandia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Tailandia"
+      }]
+  }
+}
+
+/* 214 */
+{
+  "_id" : "768",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TG",
+  "alfanumeric3Code" : "TGO",
+  "numericCode" : 768,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Togo"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Togo"
+      }]
+  }
+}
+
+/* 215 */
+{
+  "_id" : "772",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TK",
+  "alfanumeric3Code" : "TKL",
+  "numericCode" : 772,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Tokelau"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Tokelau"
+      }]
+  }
+}
+
+/* 216 */
+{
+  "_id" : "776",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TO",
+  "alfanumeric3Code" : "TON",
+  "numericCode" : 776,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Tonga"
+      }, {
+        "_id" : null,
+        "string" : "Tonga"
+      }]
+  }
+}
+
+/* 217 */
+{
+  "_id" : "780",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TT",
+  "alfanumeric3Code" : "TTO",
+  "numericCode" : 780,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Trinidad y Tobago"
+      }, {
+        "_id" : null,
+        "string" : "Trinidad y Tobago"
+      }]
+  }
+}
+
+/* 218 */
+{
+  "_id" : "784",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AE",
+  "alfanumeric3Code" : "ARE",
+  "numericCode" : 784,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Emiratos Árabes Unidos"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Emiratos Árabes Unidos"
+      }]
+  }
+}
+
+/* 219 */
+{
+  "_id" : "788",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TN",
+  "alfanumeric3Code" : "TUN",
+  "numericCode" : 788,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Túnez"
+      }, {
+        "_id" : null,
+        "string" : "Túnez"
+      }]
+  }
+}
+
+/* 220 */
+{
+  "_id" : "792",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TR",
+  "alfanumeric3Code" : "TUR",
+  "numericCode" : 792,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Turquía"
+      }, {
+        "_id" : null,
+        "string" : "Turquía"
+      }]
+  }
+}
+
+/* 221 */
+{
+  "_id" : "795",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TM",
+  "alfanumeric3Code" : "TKM",
+  "numericCode" : 795,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Turkmenistán"
+      }, {
+        "_id" : null,
+        "string" : "Turkmenistán"
+      }]
+  }
+}
+
+/* 222 */
+{
+  "_id" : "796",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TC",
+  "alfanumeric3Code" : "TCA",
+  "numericCode" : 796,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Turcas y Caicos"
+      }, {
+        "_id" : null,
+        "string" : "Islas Turcas y Caicos"
+      }]
+  }
+}
+
+/* 223 */
+{
+  "_id" : "798",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TV",
+  "alfanumeric3Code" : "TUV",
+  "numericCode" : 798,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Tuvalu"
+      }, {
+        "_id" : null,
+        "string" : "Tuvalu"
+      }]
+  }
+}
+
+/* 224 */
+{
+  "_id" : "8",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "AL",
+  "alfanumeric3Code" : "ALB",
+  "numericCode" : 8,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Albania"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Albania"
+      }]
+  }
+}
+
+/* 225 */
+{
+  "_id" : "800",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "UG",
+  "alfanumeric3Code" : "UGA",
+  "numericCode" : 800,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Uganda"
+      }, {
+        "_id" : null,
+        "string" : "Uganda"
+      }]
+  }
+}
+
+/* 226 */
+{
+  "_id" : "8000",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "america",
+  "alfanumeric3Code" : "america",
+  "numericCode" : 8000,
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sudamérica"
+      }]
+  }
+}
+
+/* 227 */
+{
+  "_id" : "804",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "UA",
+  "alfanumeric3Code" : "UKR",
+  "numericCode" : 804,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Ucrania"
+      }, {
+        "_id" : null,
+        "string" : "Ucrania"
+      }]
+  }
+}
+
+/* 228 */
+{
+  "_id" : "807",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "MK",
+  "alfanumeric3Code" : "MKD",
+  "numericCode" : 807,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Macedonia"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Macedonia"
+      }]
+  }
+}
+
+/* 229 */
+{
+  "_id" : "818",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "EG",
+  "alfanumeric3Code" : "EGY",
+  "numericCode" : 818,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Egipto"
+      }, {
+        "_id" : null,
+        "string" : "Egipto"
+      }]
+  }
+}
+
+/* 230 */
+{
+  "_id" : "826",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GB",
+  "alfanumeric3Code" : "GBR",
+  "numericCode" : 826,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Reino Unido"
+      }, {
+        "_id" : null,
+        "string" : "Reino Unido"
+      }]
+  }
+}
+
+/* 231 */
+{
+  "_id" : "831",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "GG",
+  "alfanumeric3Code" : "GGY",
+  "numericCode" : 831,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Guernsey"
+      }, {
+        "_id" : null,
+        "string" : "Guernsey"
+      }]
+  }
+}
+
+/* 232 */
+{
+  "_id" : "832",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "JE",
+  "alfanumeric3Code" : "JEY",
+  "numericCode" : 832,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Jersey"
+      }, {
+        "_id" : null,
+        "string" : "Jersey"
+      }]
+  }
+}
+
+/* 233 */
+{
+  "_id" : "833",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IM",
+  "alfanumeric3Code" : "IMN",
+  "numericCode" : 833,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Isla de Man"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Isla de Man"
+      }]
+  }
+}
+
+/* 234 */
+{
+  "_id" : "834",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "TH",
+  "alfanumeric3Code" : "TZA",
+  "numericCode" : 834,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Tanzania"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Tanzania"
+      }]
+  }
+}
+
+/* 235 */
+{
+  "_id" : "84",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BZ",
+  "alfanumeric3Code" : "BLZ",
+  "numericCode" : 84,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Belice"
+      }, {
+        "_id" : null,
+        "string" : "Belice"
+      }]
+  }
+}
+
+/* 236 */
+{
+  "_id" : "840",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "US",
+  "alfanumeric3Code" : "USA",
+  "numericCode" : 840,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "E.E.U.U."
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "E.E.U.U"
+      }]
+  }
+}
+
+/* 237 */
+{
+  "_id" : "850",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VI",
+  "alfanumeric3Code" : "VIR",
+  "numericCode" : 850,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Vírgenes de los Estados Unidos de América"
+      }, {
+        "_id" : null,
+        "string" : "Islas Vírgenes de los Estados Unidos de América"
+      }]
+  }
+}
+
+/* 238 */
+{
+  "_id" : "854",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BF",
+  "alfanumeric3Code" : "BFA",
+  "numericCode" : 854,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Burkina Faso"
+      }, {
+        "_id" : null,
+        "string" : "Burkina Faso"
+      }]
+  }
+}
+
+/* 239 */
+{
+  "_id" : "858",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "UY",
+  "alfanumeric3Code" : "URY",
+  "numericCode" : 858,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Uruguay"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Uruguay"
+      }]
+  }
+}
+
+/* 240 */
+{
+  "_id" : "86",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "IO",
+  "alfanumeric3Code" : "IOT",
+  "numericCode" : 86,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Territorio Británico del Océano Índico"
+      }, {
+        "_id" : null,
+        "string" : "Territorio Británico del Océano Índico"
+      }]
+  }
+}
+
+/* 241 */
+{
+  "_id" : "860",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "UZ",
+  "alfanumeric3Code" : "UZB",
+  "numericCode" : 860,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Uzbekistán"
+      }, {
+        "_id" : null,
+        "string" : "Uzbekistán"
+      }]
+  }
+}
+
+/* 242 */
+{
+  "_id" : "862",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VE",
+  "alfanumeric3Code" : "VEN",
+  "numericCode" : 862,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Venezuela"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Venezuela"
+      }]
+  }
+}
+
+/* 243 */
+{
+  "_id" : "876",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "WF",
+  "alfanumeric3Code" : "WLF",
+  "numericCode" : 876,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Wallis y Futuna"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Wallis y Futuna"
+      }]
+  }
+}
+
+/* 244 */
+{
+  "_id" : "882",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "WS",
+  "alfanumeric3Code" : "WSM",
+  "numericCode" : 882,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Samoa"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Samoa"
+      }]
+  }
+}
+
+/* 245 */
+{
+  "_id" : "887",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "YE",
+  "alfanumeric3Code" : "YEM",
+  "numericCode" : 887,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Yemen"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Yemen"
+      }]
+  }
+}
+
+/* 246 */
+{
+  "_id" : "90",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "SB",
+  "alfanumeric3Code" : "SLB",
+  "numericCode" : 90,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Solomón"
+      }, {
+        "_id" : null,
+        "string" : "Islas Solomón"
+      }]
+  }
+}
+
+/* 247 */
+{
+  "_id" : "92",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "VG",
+  "alfanumeric3Code" : "VGB",
+  "numericCode" : 92,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Islas Vírgenes Británicas"
+      }, {
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Islas Vírgenes Británicas"
+      }]
+  }
+}
+
+/* 248 */
+{
+  "_id" : "96",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "BN",
+  "alfanumeric3Code" : "BRN",
+  "numericCode" : 96,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Brunéi"
+      }, {
+        "_id" : null,
+        "string" : "Brunéi"
+      }]
+  }
+}
+
+/* 249 */
+{
+  "_id" : "97",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "england",
+  "alfanumeric3Code" : "england",
+  "numericCode" : 97,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Inglaterra"
+      }, {
+        "_id" : null,
+        "string" : "Inglaterra"
+      }]
+  }
+}
+
+/* 250 */
+{
+  "_id" : "98",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "scotland",
+  "alfanumeric3Code" : "scotland",
+  "numericCode" : 98,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Escocia"
+      }, {
+        "_id" : null,
+        "string" : "Escocia"
+      }]
+  }
+}
+
+/* 251 */
+{
+  "_id" : "99",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "wales",
+  "alfanumeric3Code" : "wales",
+  "numericCode" : 99,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Gales"
+      }, {
+        "_id" : null,
+        "string" : "Gales"
+      }]
+  }
+}
+
+/* 252 */
+{
+  "_id" : "999",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "alfanumeric2Code" : "northern_ireland",
+  "alfanumeric3Code" : "northern_ireland",
+  "numericCode" : 999,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "locale" : "es_ES",
+        "string" : "Irlanda del Norte"
+      }, {
+        "_id" : null,
+        "string" : "Irlanda del Norte"
+      }]
+  }
+}
+
+/* 253 */
+{
+  "_id" : ObjectId("52453e5b024c97ba0233e7bd"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}
+
+/* 254 */
+{
+  "_id" : ObjectId("52454d96024ceb12c6a5ef60"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}
+
+/* 255 */
+{
+  "_id" : ObjectId("5253e57b306f88eec1002f3d"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgRegion",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}

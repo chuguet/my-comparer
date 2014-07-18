@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" version="2.0">
+	<portlet>
+		<portlet-name>valuebet</portlet-name>
+		<display-name>valuebet</display-name>
+		<portlet-class>com.liferay.util.bridges.mvc.MVCPortlet</portlet-class>
+		<init-param>
+			<name>view-jsp</name>
+			<value>/view.jsp</value>
+		</init-param>
+		<expiration-cache>0</expiration-cache>
+		<supports>
+			<mime-type>text/html</mime-type>
+		</supports>
+		<portlet-info>
+			<title>valuebet</title>
+			<short-title>valuebet</short-title>
+			<keywords>valuebet</keywords>
+		</portlet-info>
+		<security-role-ref>
+			<role-name>administrator</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>guest</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>power-user</role-name>
+		</security-role-ref>
+		<security-role-ref>
+			<role-name>user</role-name>
+		</security-role-ref>
+	</portlet>
+	<filter>
+		<display-name>valuebet</display-name>
+		<filter-name>PortletSecurityFilter</filter-name>
+		<filter-class>com.comparadorad.bet.comparer.web.server.security.filter.PortletSecurityFilter</filter-class>
+		<lifecycle>ACTION_PHASE</lifecycle>
+		<lifecycle>EVENT_PHASE</lifecycle>
+		<lifecycle>RENDER_PHASE</lifecycle>
+		<lifecycle>RESOURCE_PHASE</lifecycle>
+		<init-param>
+			<name>message</name>
+			<value>Security Filter</value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>PortletSecurityFilter</filter-name>
+		<portlet-name>valuebet</portlet-name>
+	</filter-mapping>
+</portlet-app>

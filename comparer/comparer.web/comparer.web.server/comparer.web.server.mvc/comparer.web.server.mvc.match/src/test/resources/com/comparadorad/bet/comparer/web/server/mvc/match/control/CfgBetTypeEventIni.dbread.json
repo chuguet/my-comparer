@@ -1,0 +1,399 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 10
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Partido Completo"
+      }]
+  },
+  "nameId" : "PARTIDO_COMPLETO"
+}
+
+/* 1 */
+{
+  "_id" : "10",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 50
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cuarto Set"
+      }]
+  },
+  "nameId" : "CUARTO_SET"
+}
+
+/* 2 */
+{
+  "_id" : "100",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 1000
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cien Minutos"
+      }]
+  },
+  "nameId" : "CIEN_MINUTOS"
+}
+
+/* 3 */
+{
+  "_id" : "11",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 60
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Quinto Set"
+      }]
+  },
+  "nameId" : "QUINTO_SET"
+}
+
+/* 4 */
+{
+  "_id" : "13",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 90
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Primer Cuarto"
+      }]
+  },
+  "nameId" : "PRIMER_CUARTO"
+}
+
+/* 5 */
+{
+  "_id" : "14",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 110
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Segundo Cuarto"
+      }]
+  },
+  "nameId" : "SEGUNDO_CUARTO"
+}
+
+/* 6 */
+{
+  "_id" : "15",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 140
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Tercer Cuarto"
+      }]
+  },
+  "nameId" : "TERCER_CUARTO"
+}
+
+/* 7 */
+{
+  "_id" : "16",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 150
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cuarto Cuarto"
+      }]
+  },
+  "nameId" : "CUARTO_CUARTO"
+}
+
+/* 8 */
+{
+  "_id" : "17",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 190
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Partido completo y prorroga"
+      }]
+  },
+  "nameId" : "PARTIDO_COMPLETO_PRORROGA"
+}
+
+/* 9 */
+{
+  "_id" : "18",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 70
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Primera Entrada"
+      }]
+  },
+  "nameId" : "PRIMERA_ENTRADA"
+}
+
+/* 10 */
+{
+  "_id" : "19",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 80
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Cinco Primeras Entradas"
+      }]
+  },
+  "nameId" : "CINCO_PRIMERAS_ENTRADAS"
+}
+
+/* 11 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 130
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Primera Parte"
+      }]
+  },
+  "nameId" : "PRIMERA_PARTE"
+}
+
+/* 12 */
+{
+  "_id" : "20",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 180
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Tercera Parte"
+      }]
+  },
+  "nameId" : "TERCERA_PARTE"
+}
+
+/* 13 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 160
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Segunda Parte"
+      }]
+  },
+  "nameId" : "SEGUNDA_PARTE"
+}
+
+/* 14 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 100
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Quince Minutos"
+      }]
+  },
+  "nameId" : "QUINCE_MINUTOS"
+}
+
+/* 15 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 120
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Treinta Minutos"
+      }]
+  },
+  "nameId" : "TREINTA_MINUTOS"
+}
+
+/* 16 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 170
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Setenta Minutos"
+      }]
+  },
+  "nameId" : "SETENTA_MINUTOS"
+}
+
+/* 17 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 20
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Primer Set"
+      }]
+  },
+  "nameId" : "PRIMER_SET"
+}
+
+/* 18 */
+{
+  "_id" : "8",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 30
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Segundo Set"
+      }]
+  },
+  "nameId" : "SEGUNDO_SET"
+}
+
+/* 19 */
+{
+  "_id" : "9",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEvent",
+  "order" : {
+    "priority" : 40
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Tercer Set"
+      }]
+  },
+  "nameId" : "TERCER_SET"
+}

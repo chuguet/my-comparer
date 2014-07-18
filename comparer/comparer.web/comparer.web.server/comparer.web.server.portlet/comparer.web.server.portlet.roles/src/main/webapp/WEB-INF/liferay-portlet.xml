@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE liferay-portlet-app PUBLIC "-//Liferay//DTD Portlet Application 6.0.0//EN" "http://www.liferay.com/dtd/liferay-portlet-app_6_0_0.dtd">
+
+<liferay-portlet-app>
+	<portlet>
+		<portlet-name>comparer.web.server.portlet.roles</portlet-name>
+		<icon>/icon.png</icon>
+		<instanceable>false</instanceable>
+		<header-portlet-css>/css/main.css</header-portlet-css>
+		<footer-portlet-javascript>/js/main.js</footer-portlet-javascript>
+		
+	</portlet>
+	
+</liferay-portlet-app>

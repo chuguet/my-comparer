@@ -1,0 +1,2080 @@
+/* 0 */
+{
+  "_id" : "17",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 10
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betboo.com/xml/openMatches.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://record.betboopartners.com/"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "_H7U40lBzn13Kto_EPcZApGNd7ZgqdRLk/1",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 4,
+    "timeZone" : "America/Denver"
+  },
+  "coreActiveElement" : {
+    "active" : false
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetBoo"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BetBoo"
+}
+
+/* 1 */
+{
+  "_id" : "19",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 10
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.betclick.com/odds_en.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "a_13214b_935",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 9,
+    "timeZone" : "UTC"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetClick.com"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BetClick.com"
+}
+
+/* 2 */
+{
+  "_id" : "108",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : false,
+      "creationPriority" : 90
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://aws2.betredkings.com/feed/fileList.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://http://www.betredkings.com/"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 12,
+    "timeZone" : "UTC"
+  },
+  "coreActiveElement" : {
+    "active" : false
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetRedKings"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BetRedKings"
+}
+
+/* 3 */
+{
+  "_id" : "77",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 20
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.nordicbet.com/eng/full.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://record.affiliatelounge.com/"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "_D0wPHM9Sk6PHlmrc8_zc-2Nd7ZgqdRLk/1",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 5,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "NordicBet"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "NordicBet"
+}
+
+/* 4 */
+{
+  "_id" : "26",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.betfred.com/@Templates@.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://partners.betfredaffiliates.com/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "a_17984b_2928",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 8,
+    "timeZone" : "UTC"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetFred"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BetFred"
+}
+
+/* 5 */
+{
+  "_id" : "40",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://cubs.bluesq.com/cubs/cubs.php?action=dictionary",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.bluesq.com"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 1,
+    "timeZone" : "UTC"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BlueSquare"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BlueSquare"
+}
+
+/* 6 */
+{
+  "_id" : "85",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 40
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.pinnaclesports.com/pinnacleFeed.aspx",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.pinnaclesports.com/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "a_9505b_2",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 2,
+    "timeZone" : "Atlantic/Cape_Verde"
+  },
+  "coreActiveElement" : {
+    "active" : false
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "PinnacleSports"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "PinnacleSports"
+}
+
+/* 7 */
+{
+  "_id" : "103",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 60
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.triobet.com/eng/full.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://record.affiliatelounge.com/"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "_D0wPHM9Sk6OJ2ZcYN2da7mNd7ZgqdRLk/1",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 5,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "TrioBet"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "TrioBet"
+}
+
+/* 8 */
+{
+  "_id" : "106",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 70
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://feed.youwincdn.com/web/xml/en/youwin_all_sports.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://media.youwin.com/redirect.aspx"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "13233&bid=2411",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 12,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "YouWin"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "YouWin"
+}
+
+/* 9 */
+{
+  "_id" : "109",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://ad.interwetten.com/XMLFeeder/feeder.asmx/getfeed?FEEDPARAMS=ValidKindofsports|LANGUAGE=EN",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "https://www.interwetten.com"
+      }],
+    "filterMakeUrl" : [{
+        "string" : "Cycling"
+      }, {
+        "string" : "Football"
+      }, {
+        "string" : "Ice Hockey"
+      }, {
+        "string" : "Baseball"
+      }, {
+        "string" : "Basketball"
+      }, {
+        "string" : "American Football"
+      }, {
+        "string" : "Handball"
+      }, {
+        "string" : "Tennis"
+      }],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(45000),
+    "priorityModa" : 12,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Interwetten"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Interwetten"
+}
+
+/* 10 */
+{
+  "_id" : "56",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.cdn.expekt.com/odds_en.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.beaffiliates.com/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "a_13214b_6156",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 9,
+    "timeZone" : "Europe/Isle_of_Man"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Expekt"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Expekt"
+}
+
+/* 11 */
+{
+  "_id" : "69",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 90
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xmlfeed.intertops.com/XMLOddsFeed/IntertopsOdds.aspx",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliate.intertops.com/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "a_7527b_1098",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 2,
+    "timeZone" : "EST"
+  },
+  "coreActiveElement" : {
+    "active" : false
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Intertops"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Intertops"
+}
+
+/* 12 */
+{
+  "_id" : "33",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=AutoRacing",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Baseball",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Hockey",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Rugby",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Soccer",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Tennis",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Basketball",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.ag/sys/LineXML/LiveLineObjXml.asp?sport=Football",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betonline.ag"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 4,
+    "timeZone" : "EST"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Betonline"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Betonline"
+}
+
+/* 13 */
+{
+  "_id" : "43",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/soccer.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/boxing.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/basketball.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/Cycling.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/Darts.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/novelty.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/baseball.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/rugby.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/cricket.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/Golf.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/tennis.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/speedway.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/nfl.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/snooker.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/motorsport.xml",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://xml.boylesports.com/xml/handball.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://ads.boylesports.com/redirect.aspx"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "32412&bid=1876",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 8,
+    "timeZone" : "UTC"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BoyleSports"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BoyleSports"
+}
+
+/* 14 */
+{
+  "_id" : "27",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://odds.betgun.com/",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betgun.com/en/index.php"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "42722",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 6,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Betgun"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Betgun"
+}
+
+/* 15 */
+{
+  "_id" : "110",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 70
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://feed.youwincdn.com/web/xml/en/youwin_all_sports.xml",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://media.uwin.com/redirect.aspx"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "13233&bid=2549",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 12,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Uwin"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Uwin"
+}
+
+/* 16 */
+{
+  "_id" : "16",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 70
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://www.bet-at-home.com/oddxml.aspx?lang=en&subscriber=a_74774b_5",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://affiliates.bet-at-home.com/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "a_74774b_5",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 10,
+    "timeZone" : "Africa/Algiers"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "BetAtHome"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "BetAtHome"
+}
+
+/* 17 */
+{
+  "_id" : "105",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=335&marketSort=CS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=CS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=OE&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=336&marketSort=OE&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=32&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=MG&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=401&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HL&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=SF&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=36&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=AG&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=DN&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=LW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HF&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=420&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=336&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=303&marketSort=WH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=401&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=310&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=SF&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=401&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HT&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=424&marketSort=HH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=MH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=WH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=MG&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=348&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=MR&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=OE&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=HH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=LW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=G3&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=413&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=348&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=9&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=DC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=CS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=424&marketSort=WH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=WH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=303&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=424&marketSort=CS&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=336&marketSort=WH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=GT&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=DN&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=AW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=MR&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=HL&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=CS&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=WH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=DN&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HF&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=DN&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=18&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=301&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=HS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=FS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=348&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=GT&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=DC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=DC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=283&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=HF&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=LS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=OE&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=SC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=DN&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=335&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=LS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=C3&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=HL&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=OE&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=437&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=FW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=CS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=LS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=SF&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=WH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=385&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=DC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=AW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=303&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=45&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=337&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=C3&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=DN&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=335&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=436&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=G3&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=436&marketSort=DC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=CS&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=349&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=32&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=HS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=GT&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=AG&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=OE&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=36&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=MG&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=C3&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=LC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=7&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=436&marketSort=AH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=412&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=FW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=8&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=DC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=LW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=40&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=325&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=419&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=401&marketSort=WH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=5&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=FW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=G3&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=B3&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=MR&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=436&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=277&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=19&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=HL&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=LC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=WM&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=AG&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=OE&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=OE&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=FS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=436&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=40&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=424&marketSort=OE&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=SC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=320&marketSort=MR&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=336&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=335&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=HH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=DN&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=OE&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=275&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=AW&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=SC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=FS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=1&marketSort=HF&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=335&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=MH&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=274&marketSort=LC&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=WH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=303&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=436&marketSort=CS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=402&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=HH&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=336&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=46&marketSort=CS&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=424&marketSort=--&filterBIR=Y",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=336&marketSort=HL&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=334&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=42&marketSort=--&filterBIR=N",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=273&marketSort=MR&filterBIR=N",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.williamhill.com"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 8,
+    "timeZone" : "UTC"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "WilliamHill"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "WilliamHill"
+}
+
+/* 18 */
+{
+  "_id" : "94",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Basketball",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Baseball",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Hockey",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Football",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Rugby",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=AutoRacing",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Tennis",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Soccer",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.Sportsbetting.com"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 4,
+    "timeZone" : "EST"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sportsbetting.com"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Sportsbetting.com"
+}
+
+/* 19 */
+{
+  "_id" : "111",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 0
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=AutoRacing",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Rugby",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Soccer",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Basketball",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Tennis",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Baseball",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Hockey",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://livelines.betonline.com/sys/LineXML/LiveLineObjXml.asp?sport=Football",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://partners.commission.bz/processing/clickthrgh.asp"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "a_36451b_1098",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 4,
+    "timeZone" : "EST"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Sportsbetting.ag"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Sportsbetting.ag"
+}
+
+/* 20 */
+{
+  "_id" : "42",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 70
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://plasma.betcris.com/XlinesSvc/XmlLines.asmx/newGetLeagues",
+        "urlDataType" : "DATA"
+      }, {
+        "_id" : null,
+        "url" : "http://lines.bookmaker.eu/",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.bookmaker.eu/"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 6,
+    "timeZone" : "PST"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bookmaker.eu"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Bookmaker.eu"
+}
+
+/* 21 */
+{
+  "_id" : "23",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 70
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://lines.betcris.com/",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betcris.com/"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 6,
+    "timeZone" : "PST"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Betcris"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Betcris"
+}
+
+/* 22 */
+{
+  "_id" : "112",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBookmaker",
+  "bookmakerConfiguration" : {
+    "_id" : null,
+    "bookmakerMasterWordConfig" : {
+      "couldCreateMasterWord" : true,
+      "creationPriority" : 70
+    },
+    "cfgBookmakerDataUrl" : [{
+        "_id" : null,
+        "url" : "http://lines.betdsi.com/",
+        "urlDataType" : "DATA"
+      }],
+    "cfgBookmakerWebUrl" : [{
+        "_id" : null,
+        "url" : "http://www.betdsi.eu/"
+      }],
+    "filterMakeUrl" : [],
+    "idAfiliado" : "18911",
+    "minimumTimeUpdate" : NumberLong(0),
+    "priorityModa" : 6,
+    "timeZone" : "PST"
+  },
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Betdsi"
+      }]
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-30T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "nameId" : "Betdsi"
+}

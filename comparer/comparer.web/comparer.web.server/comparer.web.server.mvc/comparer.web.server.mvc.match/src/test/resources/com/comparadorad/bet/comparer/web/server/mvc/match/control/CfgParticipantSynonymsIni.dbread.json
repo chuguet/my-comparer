@@ -1,0 +1,2464 @@
+/* 0 */
+{
+  "_id" : "829",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["china"],
+      "word" : "China",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-05T10:13:58.676Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "829"
+  }
+}
+
+/* 1 */
+{
+  "_id" : "620412917",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["atl.", "madrid"],
+      "word" : "Atl. Madrid",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-27T07:52:25.602Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1016"
+  }
+}
+
+/* 2 */
+{
+  "_id" : "798543281",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["athl.", "bilbao"],
+      "word" : "Athl. Bilbao",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-27T07:52:25.591Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "876143503"
+  }
+}
+
+/* 3 */
+{
+  "_id" : "593886791",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["cleveland", "cavaliers"],
+      "word" : "Cleveland Cavaliers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T11:53:41.028Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "593886791"
+  }
+}
+
+/* 4 */
+{
+  "_id" : "824027119",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["washington", "wizards"],
+      "word" : "Washington Wizards",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T11:59:04.879Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "824027119"
+  }
+}
+
+/* 5 */
+{
+  "_id" : "839725429",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["miami", "heat"],
+      "word" : "Miami Heat",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:05:34.822Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "839725429"
+  }
+}
+
+/* 6 */
+{
+  "_id" : "976996703",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["boston", "celtics"],
+      "word" : "Boston Celtics",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:06:43.607Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "976996703"
+  }
+}
+
+/* 7 */
+{
+  "_id" : "592277507",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["la", "lakers"],
+      "word" : "LA Lakers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:09:44.886Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "592277507"
+  }
+}
+
+/* 8 */
+{
+  "_id" : "642740243",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["dallas", "mavericks"],
+      "word" : "Dallas Mavericks",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:11:13.052Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "642740243"
+  }
+}
+
+/* 9 */
+{
+  "_id" : "542712377",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["atlanta", "hawks"],
+      "word" : "Atlanta Hawks",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:14:52.266Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "542712377"
+  }
+}
+
+/* 10 */
+{
+  "_id" : "879297593",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["charlotte", "bobcats"],
+      "word" : "Charlotte Bobcats",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:16:08.916Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "879297593"
+  }
+}
+
+/* 11 */
+{
+  "_id" : "945558223",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["chicago", "bulls"],
+      "word" : "Chicago Bulls",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:17:12.773Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "945558223"
+  }
+}
+
+/* 12 */
+{
+  "_id" : "944342327",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["denver", "nuggets"],
+      "word" : "Denver Nuggets",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:18:10.729Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "944342327"
+  }
+}
+
+/* 13 */
+{
+  "_id" : "581436161",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["detroit", "pistons"],
+      "word" : "Detroit Pistons",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:19:11.064Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "581436161"
+  }
+}
+
+/* 14 */
+{
+  "_id" : "709599257",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["golden", "state", "warriors"],
+      "word" : "Golden State Warriors",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:22:01.75Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "709599257"
+  }
+}
+
+/* 15 */
+{
+  "_id" : "1036389391",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["houston", "rockets"],
+      "word" : "Houston Rockets",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:23:49.719Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1036389391"
+  }
+}
+
+/* 16 */
+{
+  "_id" : "729929309",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["indiana", "pacers"],
+      "word" : "Indiana Pacers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:24:49.433Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "729929309"
+  }
+}
+
+/* 17 */
+{
+  "_id" : "573634673",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["memphis", "grizzlies"],
+      "word" : "Memphis Grizzlies",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:31:41.893Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "573634673"
+  }
+}
+
+/* 18 */
+{
+  "_id" : "1025278591",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["milwaukee", "bucks"],
+      "word" : "Milwaukee Bucks",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:33:23.641Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1025278591"
+  }
+}
+
+/* 19 */
+{
+  "_id" : "949095971",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["minnesota", "timberwolves"],
+      "word" : "Minnesota Timberwolves",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:34:46.312Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "949095971"
+  }
+}
+
+/* 20 */
+{
+  "_id" : "700372583",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["new", "orleans", "hornets"],
+      "word" : "New Orleans Hornets",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:35:57.662Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "700372583"
+  }
+}
+
+/* 21 */
+{
+  "_id" : "743480113",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["ny", "knicks"],
+      "word" : "NY Knicks",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:36:52.712Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "743480113"
+  }
+}
+
+/* 22 */
+{
+  "_id" : "635273657",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["orlando", "magic"],
+      "word" : "Orlando Magic",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:39:11.191Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "635273657"
+  }
+}
+
+/* 23 */
+{
+  "_id" : "568793231",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["philadelphia", "76ers"],
+      "word" : "Philadelphia 76ers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:40:08.73Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "568793231"
+  }
+}
+
+/* 24 */
+{
+  "_id" : "927934219",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["phoenix", "suns"],
+      "word" : "Phoenix Suns",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:41:15.079Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "927934219"
+  }
+}
+
+/* 25 */
+{
+  "_id" : "934423289",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["portland", "trailblazers"],
+      "word" : "Portland Trailblazers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:42:19.748Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "934423289"
+  }
+}
+
+/* 26 */
+{
+  "_id" : "758162011",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["sacramento", "kings"],
+      "word" : "Sacramento Kings",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:43:32.299Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "758162011"
+  }
+}
+
+/* 27 */
+{
+  "_id" : "769393517",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["san", "antonio", "spurs"],
+      "word" : "San Antonio Spurs",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:44:41.46Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "769393517"
+  }
+}
+
+/* 28 */
+{
+  "_id" : "1047260531",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["toronto", "raptors"],
+      "word" : "Toronto Raptors",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:45:39.527Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1047260531"
+  }
+}
+
+/* 29 */
+{
+  "_id" : "911149627",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["utah", "jazz"],
+      "word" : "Utah Jazz",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:49:20.002Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "911149627"
+  }
+}
+
+/* 30 */
+{
+  "_id" : "770050871",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["oklahoma", "city", "thunder"],
+      "word" : "Oklahoma City Thunder",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T13:32:12.783Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "770050871"
+  }
+}
+
+/* 31 */
+{
+  "_id" : "733173043",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["brooklyn", "nets"],
+      "word" : "Brooklyn Nets",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T13:34:18.423Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "733173043"
+  }
+}
+
+/* 32 */
+{
+  "_id" : "961649666",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["la", "clippers"],
+      "word" : "LA Clippers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:49:20.002Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "961649666"
+  }
+}
+
+/* 33 */
+{
+  "_id" : "575642533",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["granada"],
+      "word" : "Granada",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:38:43.257Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "575642533"
+  }
+}
+
+/* 34 */
+{
+  "_id" : "781312853",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["draw"],
+      "word" : "Draw",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-27T07:56:51.151Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "781312853"
+  }
+}
+
+/* 35 */
+{
+  "_id" : "912641941",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["odd"],
+      "word" : "Odd",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-27T07:58:11.363Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "912641941"
+  }
+}
+
+/* 36 */
+{
+  "_id" : "573442091",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["real", "betis"],
+      "word" : "Real Betis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-26T10:14:08.204Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "573442091"
+  }
+}
+
+/* 37 */
+{
+  "_id" : "961749667",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["los", "angeles", "clippers"],
+      "word" : "Los Angeles Clippers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:49:20.002Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "961649666"
+  }
+}
+
+/* 38 */
+{
+  "_id" : "592277777",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["los", "angeles", "lakers"],
+      "word" : "Los Angeles Lakers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:09:44.886Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "592277507"
+  }
+}
+
+/* 39 */
+{
+  "_id" : "934423999",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["portland", "trail", "blazers"],
+      "word" : "Portland Trail Blazers",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:42:19.748Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "934423289"
+  }
+}
+
+/* 40 */
+{
+  "_id" : "743480333",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["new", "york", "knicks"],
+      "word" : "New York Knicks",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T12:36:52.712Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "743480113"
+  }
+}
+
+/* 41 */
+{
+  "_id" : "733173333",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["new", "jersey", "nets"],
+      "word" : "New Jersey Nets",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-10-29T13:34:18.423Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "733173043"
+  }
+}
+
+/* 42 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["f.c.", "barcelona"],
+      "word" : "F.C. Barcelona",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["fc", "barcelona"],
+      "word" : "FC Barcelona",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["baraa"],
+      "word" : "Barça",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["barcelona"],
+      "word" : "Barcelona",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "12"
+  }
+}
+
+/* 43 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["c.laboral"],
+      "word" : "C.Laboral",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["caja", "laboral"],
+      "word" : "CAJA LABORAL",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["c", "laboral"],
+      "word" : "C Laboral",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["caja", "laboral"],
+      "word" : "Caja Laboral",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "13"
+  }
+}
+
+/* 44 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["hawthorn", "hawks"],
+      "word" : "Hawthorn Hawks",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "14"
+  }
+}
+
+/* 45 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["geelong", "cats"],
+      "word" : "Geelong Cats",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "15"
+  }
+}
+
+/* 46 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["portugal"],
+      "word" : "Portugal",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "16"
+  }
+}
+
+/* 47 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["espaaa"],
+      "word" : "España",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["spain"],
+      "word" : "Spain",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "17"
+  }
+}
+
+/* 48 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["sportivo", "luqueno"],
+      "word" : "Sportivo Luqueno",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "18"
+  }
+}
+
+/* 49 */
+{
+  "_id" : "8",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["sol", "de", "america"],
+      "word" : "Sol De America",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "19"
+  }
+}
+
+/* 50 */
+{
+  "_id" : "9",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["r.", "madrid"],
+      "word" : "R. Madrid",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["real", "madrid"],
+      "word" : "Real Madrid",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["real", "madrid", "cf"],
+      "word" : "Real Madrid CF",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["r.", "madrid", "cf"],
+      "word" : "R. Madrid CF",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "20"
+  }
+}
+
+/* 51 */
+{
+  "_id" : "10",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["estados", "unidos"],
+      "word" : "Estados Unidos",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["united", "states"],
+      "word" : "United States",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["usa"],
+      "word" : "USA",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["us"],
+      "word" : "US",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "21"
+  }
+}
+
+/* 52 */
+{
+  "_id" : "11",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["francia"],
+      "word" : "Francia",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["france"],
+      "word" : "France",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["gabacholandia"],
+      "word" : "Gabacholandia",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "22"
+  }
+}
+
+/* 53 */
+{
+  "_id" : "666",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["world", "championship", "time", "trial", "men", "2012"],
+      "word" : "World Championship Time Trial Men 2012",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["world", "championship", "time", "trial"],
+      "word" : "World Championship Time Trial",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "666"
+  }
+}
+
+/* 54 */
+{
+  "_id" : "667",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["the", "race", "to", "dubai"],
+      "word" : "The race to dubai",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }, {
+      "_keywords" : ["race", "dubai"],
+      "word" : "Race dubai",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "667"
+  }
+}
+
+/* 55 */
+{
+  "_id" : "1062535141",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["race", "to", "dubai", "2012"],
+      "word" : "Race to Dubai 2012",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T10:33:18.295Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1062535141"
+  }
+}
+
+/* 56 */
+{
+  "_id" : "915291281",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["italian", "serie", "a", "2012", "2013"],
+      "word" : "Italian Serie A 2012-2013",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.449Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "915291281"
+  }
+}
+
+/* 57 */
+{
+  "_id" : "753558889",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["lazio"],
+      "word" : "Lazio",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.451Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "753558889"
+  }
+}
+
+/* 58 */
+{
+  "_id" : "666336",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["cristiano", "ronaldo"],
+      "word" : "Cristiano Ronaldo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "666336"
+  }
+}
+
+/* 59 */
+{
+  "_id" : "543633059",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["inter", "milan"],
+      "word" : "Inter Milan",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.452Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "543633059"
+  }
+}
+
+/* 60 */
+{
+  "_id" : "1045170187",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["catania"],
+      "word" : "Catania",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.453Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1045170187"
+  }
+}
+
+/* 61 */
+{
+  "_id" : "820946657",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["cagliari"],
+      "word" : "Cagliari",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.454Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "820946657"
+  }
+}
+
+/* 62 */
+{
+  "_id" : "1069063169",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["bologna"],
+      "word" : "Bologna",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.456Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1069063169"
+  }
+}
+
+/* 63 */
+{
+  "_id" : "988826341",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["atalanta"],
+      "word" : "Atalanta",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.457Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "988826341"
+  }
+}
+
+/* 64 */
+{
+  "_id" : "604459091",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["udinese"],
+      "word" : "Udinese",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.458Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "604459091"
+  }
+}
+
+/* 65 */
+{
+  "_id" : "702706889",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["sampdoria"],
+      "word" : "Sampdoria",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.459Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "702706889"
+  }
+}
+
+/* 66 */
+{
+  "_id" : "739655681",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["juventus"],
+      "word" : "Juventus",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.46Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "739655681"
+  }
+}
+
+/* 67 */
+{
+  "_id" : "1022440607",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["parma"],
+      "word" : "Parma",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.461Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1022440607"
+  }
+}
+
+/* 68 */
+{
+  "_id" : "742716313",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["german", "bundesliga", "2012", "2013"],
+      "word" : "German Bundesliga 2012-2013",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.462Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "742716313"
+  }
+}
+
+/* 69 */
+{
+  "_id" : "667496377",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["hoffenheim"],
+      "word" : "Hoffenheim",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.463Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "667496377"
+  }
+}
+
+/* 70 */
+{
+  "_id" : "935850401",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["werder", "bremen"],
+      "word" : "Werder Bremen",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.464Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "935850401"
+  }
+}
+
+/* 71 */
+{
+  "_id" : "805364657",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["bayer", "leverkusen"],
+      "word" : "Bayer Leverkusen",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.465Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "805364657"
+  }
+}
+
+/* 72 */
+{
+  "_id" : "542557679",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["mainz"],
+      "word" : "Mainz",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.466Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "542557679"
+  }
+}
+
+/* 73 */
+{
+  "_id" : "669148819",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["dusseldorf"],
+      "word" : "Dusseldorf",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.467Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "669148819"
+  }
+}
+
+/* 74 */
+{
+  "_id" : "1039228709",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["hamburg"],
+      "word" : "Hamburg",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.468Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1039228709"
+  }
+}
+
+/* 75 */
+{
+  "_id" : "693494267",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["wolfsburg"],
+      "word" : "Wolfsburg",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.469Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "693494267"
+  }
+}
+
+/* 76 */
+{
+  "_id" : "696775643",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["schalke", "04"],
+      "word" : "Schalke 04",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.47Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "696775643"
+  }
+}
+
+/* 77 */
+{
+  "_id" : "799248631",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["nuremburg"],
+      "word" : "Nuremburg",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.471Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "799248631"
+  }
+}
+
+/* 78 */
+{
+  "_id" : "1028097823",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["french", "ligue", "1", "2012", "2013"],
+      "word" : "French Ligue 1 2012-2013",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.472Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1028097823"
+  }
+}
+
+/* 79 */
+{
+  "_id" : "844381829",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["lille"],
+      "word" : "Lille",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.473Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "844381829"
+  }
+}
+
+/* 80 */
+{
+  "_id" : "901735349",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["marseille"],
+      "word" : "Marseille",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.474Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "901735349"
+  }
+}
+
+/* 81 */
+{
+  "_id" : "624291659",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["bordeaux"],
+      "word" : "Bordeaux",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.475Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "624291659"
+  }
+}
+
+/* 82 */
+{
+  "_id" : "595153609",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["sochaux"],
+      "word" : "Sochaux",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.476Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "595153609"
+  }
+}
+
+/* 83 */
+{
+  "_id" : "848760113",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["lorient"],
+      "word" : "Lorient",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.478Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "848760113"
+  }
+}
+
+/* 84 */
+{
+  "_id" : "645218699",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["toulouse"],
+      "word" : "Toulouse",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.479Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "645218699"
+  }
+}
+
+/* 85 */
+{
+  "_id" : "1012597687",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["reims"],
+      "word" : "Reims",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.48Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "1012597687"
+  }
+}
+
+/* 86 */
+{
+  "_id" : "924310237",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["brest"],
+      "word" : "Brest",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.481Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "924310237"
+  }
+}
+
+/* 87 */
+{
+  "_id" : "940285139",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["bastia"],
+      "word" : "Bastia",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.482Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "940285139"
+  }
+}
+
+/* 88 */
+{
+  "_id" : "842740621",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["montpellier"],
+      "word" : "Montpellier",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.483Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "842740621"
+  }
+}
+
+/* 89 */
+{
+  "_id" : "621915859",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["eng.", "premier", "league", "2012", "2013"],
+      "word" : "Eng. Premier League 2012-2013",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.484Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "621915859"
+  }
+}
+
+/* 90 */
+{
+  "_id" : "681031693",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["tottenham"],
+      "word" : "Tottenham",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.485Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "681031693"
+  }
+}
+
+/* 91 */
+{
+  "_id" : "619865413",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["manchester", "city"],
+      "word" : "Manchester City",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2012-09-21T11:36:15.486Z"),
+            "user" : "DATA_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.486Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "619865413"
+  }
+}
+
+/* 92 */
+{
+  "_id" : "963309577",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["newcastle"],
+      "word" : "Newcastle",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.487Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "963309577"
+  }
+}
+
+/* 93 */
+{
+  "_id" : "749397811",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["liverpool"],
+      "word" : "Liverpool",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.488Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "749397811"
+  }
+}
+
+/* 94 */
+{
+  "_id" : "918130943",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["wigan"],
+      "word" : "Wigan",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.489Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "918130943"
+  }
+}
+
+/* 95 */
+{
+  "_id" : "695379673",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["west", "ham"],
+      "word" : "West Ham",
+      "historic" : {
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+        "historicList" : [{
+            "creationAction" : true,
+            "date" : ISODate("2012-09-21T11:36:15.486Z"),
+            "user" : "DATA_APP",
+            "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+          }]
+      },
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.49Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "695379673"
+  }
+}
+
+/* 96 */
+{
+  "_id" : "772177541",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["west", "bromwich", "albion"],
+      "word" : "West Bromwich Albion",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.491Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "772177541"
+  }
+}
+
+/* 97 */
+{
+  "_id" : "944508281",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["southampton"],
+      "word" : "Southampton",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.492Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "944508281"
+  }
+}
+
+/* 98 */
+{
+  "_id" : "784181647",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["chelsea"],
+      "word" : "Chelsea",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.493Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "784181647"
+  }
+}
+
+/* 99 */
+{
+  "_id" : "700366297",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["swansea"],
+      "word" : "Swansea",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgParticipantSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2012-09-21T11:36:15.494Z"),
+        "user" : "DATA_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "participant" : {
+    "$ref" : "cfgParticipant",
+    "$id" : "700366297"
+  }
+}

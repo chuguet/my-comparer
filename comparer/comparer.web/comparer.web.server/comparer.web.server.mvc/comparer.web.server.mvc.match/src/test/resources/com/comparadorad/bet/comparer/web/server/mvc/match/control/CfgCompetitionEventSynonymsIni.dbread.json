@@ -1,0 +1,38 @@
+/* 0 */
+{
+  "_id" : ObjectId("5134948c5caa056ecc96d1f1"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["real", "madrid", "-", "barcelona", ":", "cuartos", "de", "final"],
+      "word" : "Real Madrid - Barcelona : Cuartos de final",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord"
+    }]
+}
+
+/* 1 */
+{
+  "_id" : ObjectId("5134948c5caa056ecc96d1f2"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["valencia", "-", "osasuna", ":", "semifinal"],
+      "word" : "Valencia - Osasuna : Semifinal",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord"
+    }]
+}
+
+/* 2 */
+{
+  "_id" : ObjectId("5134948c5caa056ecc96d1f3"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["at.", "madrid", "-", "sevilla", ":", "final"],
+      "word" : "At. Madrid - Sevilla : Final",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonymWord"
+    }]
+}
+
+/* 3 */
+{
+  "_id" : ObjectId("5245469d024ceb12c6a5ef5a"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEventSynonyms"
+}

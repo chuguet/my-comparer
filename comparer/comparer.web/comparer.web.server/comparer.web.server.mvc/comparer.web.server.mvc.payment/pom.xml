@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server.mvc</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.mvc.payment</artifactId>
+	<packaging>jar</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+
+	</properties>
+	<modules>
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.autosender.service</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.model.autosender.bean</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.core</artifactId>
+			<version>${project.version}</version>
+			<scope>compile</scope>
+		</dependency>
+		<!-- -->
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.mvc.core</artifactId>
+			<version>${project.version}</version>
+			<classifier>tests</classifier>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- Spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<!-- TEST -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test-mvc</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.paypal.sdk</groupId>
+			<artifactId>merchantsdk</artifactId>
+			<version>2.5.106</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.redirection.core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+
+	</dependencies>
+</project>

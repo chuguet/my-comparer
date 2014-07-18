@@ -1,0 +1,95 @@
+.vb_page{
+	margin:10px auto;
+	width: 960px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.vb_text{
+	width:65%;
+	margin:auto;
+}
+.vb_text img{
+	border:0px;
+	margin:13px auto;
+	display:block;
+	float:right;
+}
+.vb_text h3 {
+    font-size: 36px;
+    font-weight:bold;
+	color:#F00;
+	float:left;
+    text-align: center;
+}
+.vb_title h1{
+	font-size:48px;
+	text-align:center;
+	font-weight:bold;	
+}
+.vb_image img{
+	border:0px;
+	margin:10px auto 30px;
+	display:block;
+}
+.vb_clear{
+	clear:both;
+}
+.vb_register{
+	width:80%;
+	margin:10px auto;
+}
+.vb_register_title{
+	float:left;
+	width:60%;
+	font-size:20px;
+	text-align:center;
+	margin-bottom:30px;
+}
+.vb_image_reg{
+	float:right;
+	margin-right:33px;
+}
+.vb_image_reg2{
+	clear:both;
+	margin-right:90px;
+	float:right;
+}
+.vb_register_button{
+	float:right;
+}
+.vb_text_reg{
+	width:80%;
+	font-size:20px;
+	margin:auto;
+}
+.vb_list_reg{
+	border:3px dashed ;
+	border-color:#000;
+	width:485px;
+	float:left;
+}
+.vb_list_num{
+	float:left;
+	width:100%;
+	font-size: 42px;
+	margin: 10px auto;
+}
+
+.vb_list_left{
+	color:#ff0457;
+	float:left;
+	margin:auto 20px;
+}
+.vb_list_right{
+	color:#4c8edc;
+	font-size:20px;
+	float:left;
+	width:82%;
+	margin:auto 5px;
+}
+.vb_list_right_3{
+	color:#4c8edc;
+	font-size:20px;
+	float:left;
+	width:80%;
+	margin:10px 5px;
+}

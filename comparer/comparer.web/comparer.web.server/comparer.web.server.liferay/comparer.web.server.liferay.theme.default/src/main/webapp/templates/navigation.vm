@@ -1,0 +1,49 @@
+<nav class="navigation-menu" id="navigation">
+	
+
+	<ul id="menucss" class="topmenu">
+		#foreach ($nav_item in $nav_items)
+			#if ($nav_item.isSelected())
+				<li class="selected">
+			#else
+				<li class="topmenu">
+			#end
+
+				<a href="$nav_item.getURL()" $nav_item.getTarget()><span>$nav_item.icon() $htmlUtil.escape($nav_item.getName())</span></a>
+
+				#if ($nav_item.hasChildren())
+					<ul>
+						#foreach ($nav_child in $nav_item.getChildren())
+							#if ($nav_child.isSelected())
+								<li class="selected">
+							#else
+								<li>
+							#end
+
+								<a href="$nav_child.getURL()" $nav_child.getTarget()>$nav_child.getName()</a>
+							</li>
+						#end
+					</ul>
+				#end
+			</li>
+		#end
+		<li class="searchbox">
+			<form class="searchform">
+				<div id="search">
+					<input type="hidden" value="3" name="p_p_id">
+					<input type="hidden" value="0" name="p_p_lifecycle">
+					<input type="hidden" value="maximized" name="p_p_state">
+					<input type="hidden" value="view" name="p_p_mode">
+					<input type="hidden" value="/search/search" name="_3_struts_action">
+					<input type="hidden" value="/inicio" name="_3_redirect">
+					<input type="text" value="" size="30" name="_3_keywords">
+
+	
+					<input type="image" border="0" align="absmiddle" title="Buscar" src="/com.comparadorad.bet.comparer.web.server.liferay.theme.default/images/common/search.png">
+				</div>
+
+			</form>
+		</li>
+	
+	</ul>
+</nav>

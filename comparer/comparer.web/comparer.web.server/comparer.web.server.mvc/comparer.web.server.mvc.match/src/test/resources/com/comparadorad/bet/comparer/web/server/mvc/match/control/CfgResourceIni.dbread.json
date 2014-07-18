@@ -1,0 +1,15 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgResource",
+  "height" : 120,
+  "location" : "/image/flag.jpg",
+  "width" : 250,
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Bandera de España"
+      }]
+  }
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	id="WebApp_ID" version="2.5">
+	<context-param>
+		<param-name>contextClass</param-name>
+		<param-value>
+			org.springframework.web.context.support.AnnotationConfigWebApplicationContext
+		</param-value>
+	</context-param>
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>com.comparadorad.bet.comparer.web.server.portlet.valuebet.config</param-value>
+	</context-param>
+	<context-param>
+		<param-name>webAppRootKey</param-name>
+		<param-value>rest</param-value>
+	</context-param>
+	<context-param>
+		<param-name>contextInitializerClasses</param-name>
+		<param-value>com.comparadorad.bet.comparer.web.server.portlet.valuebet.config.ValueBetSpringAppCtxtInit</param-value>
+	</context-param>
+	<listener>
+		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+	</listener>
+	<!-- Spring Security -->
+	<filter>
+		<filter-name>springSecurityFilterChain</filter-name>
+		<filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>springSecurityFilterChain</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	<!-- Servlets -->
+	<servlet>
+		<servlet-name>mvc-dispatcher</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<init-param>
+			<param-name>contextConfigLocation</param-name>
+			<param-value>classpath:/mvc-dispatcher-servlet.xml</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>mvc-dispatcher</servlet-name>
+		<url-pattern>/ValueBetModule/rest/*</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>mvc-dispatcher</servlet-name>
+		<url-pattern>/ValueBetModuleDev/rest/*</url-pattern>
+	</servlet-mapping>
+	<jsp-config>
+		<taglib>
+			<taglib-uri>http://java.sun.com/portlet_2_0</taglib-uri>
+			<taglib-location>/WEB-INF/tld/liferay-portlet.tld</taglib-location>
+		</taglib>
+		<!-- 
+		<taglib>
+			<taglib-uri>http://liferay.com/tld/aui</taglib-uri>
+			<taglib-location>/WEB-INF/tld/aui.tld</taglib-location>
+		</taglib> -->
+	</jsp-config>
+</web-app>

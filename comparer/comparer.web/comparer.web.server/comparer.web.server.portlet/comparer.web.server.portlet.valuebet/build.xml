@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+
+<project basedir=".">
+
+	<echo message="pulling in property files" />
+	<property file="build.properties" />
+	<property name="maven.commoncmd" value="" />
+	<condition property="maven.line" value="--offline ${maven.commoncmd}">
+		<istrue value="${offline}" />
+	</condition>
+	<condition property="maven.executable" value="mvn.bat">
+		<os family="windows" />
+	</condition>
+	<property name="maven.executable" value="maven" />
+	<property name="maven.line" value="${maven.commoncmd}" />
+
+	<presetdef name="maven">
+		<exec failonerror="true" executable="${maven.executable}">
+			<arg line="${maven.line}" />
+		</exec>
+	</presetdef>
+	<!-- ################################## -->
+	<target name="install" description="">
+		<maven>
+			<arg value="install" />
+		</maven>
+	</target>
+
+
+	<target name="gwt:run" description="">
+		<maven>
+			<arg value="gwt:run" />
+		</maven>
+	</target>
+	<target name="jetty:run" description="">
+		<maven>
+			<arg value="jetty:run" />
+		</maven>
+	</target>
+	<target name="jetty:run-war" description="">
+		<maven>
+			<arg value="jetty:run-war" />
+		</maven>
+	</target>
+	<target name="cobertura:cobertura" description="">
+		<maven>
+			<arg value="cobertura:cobertura" />
+		</maven>
+	</target>
+	<target name="sonar:sonar" description="">
+		<maven>
+			<arg value="sonar:sonar" />
+		</maven>
+	</target>
+	<target name="eclipse:eclipse" description="">
+		<maven>
+			<arg value="eclipse:eclipse" />
+			<arg value="-P" />
+			<arg value="liferay,jetty" />
+		</maven>
+	</target>
+	<target name="dependency:tree" description="">
+		<maven>
+			<arg value="dependency:tree" />
+		</maven>
+	</target>
+	<target name="liferay:deploy" description="clean everything">
+		<ant antfile="./../../../comparer.web.client.gwt/build.xml" target="install" inheritAll="false">
+		</ant>
+		<maven>
+			<arg value="clean" />
+		</maven>
+		<maven>
+			<arg value="package" />
+		</maven>
+		<maven>
+			<arg value="liferay:deploy" />
+		</maven>
+	</target>
+	<target name="liferay:deploy-noclean-nogwt" description="clean everything">
+		<maven>
+			<arg value="package" />
+		</maven>
+		<maven>
+			<arg value="liferay:deploy" />
+		</maven>
+	</target>
+	<target name="liferay:deploy-PREPROD" description="">
+		<ant antfile="./../../../comparer.web.client.gwt/build.xml" target="install" inheritAll="false">
+		</ant>
+		<echo>${liferay.preprod.webapps.path}/com.comparadorad.bet.comparer.web.server.portlet.valuebet</echo>
+		<delete dir="${liferay.preprod.webapps.path}/com.comparadorad.bet.comparer.web.server.portlet.valuebet" failonerror="false">
+		</delete>
+		<antcall target="clean" />
+		<antcall target="package" />
+		<maven>
+			<arg value="liferay:deploy" />
+			<arg value="-Dliferay.auto.deploy.dir=${liferay.preprod.deploy.path}" />
+		</maven>
+	</target>
+	<target name="liferay:deploy-nopackage" description="clean everything">
+		<maven>
+			<arg value="liferay:deploy" />
+		</maven>
+	</target>
+	<target name="clean" description="">
+		<maven>
+			<arg value="clean" />
+		</maven>
+	</target>
+	<target name="compile" description="">
+		<maven>
+			<arg value="compile" />
+		</maven>
+	</target>
+	<target name="package" description="">
+		<maven>
+			<arg value="package" />
+		</maven>
+	</target>
+	<target name="gwt-compile-local" description="">
+		<maven>
+			<arg value="clean" />
+		</maven>
+<!--		<ant antfile="./../../../comparer.web.client.gwt/build.xml" target="clean" inheritAll="false">
+		</ant>
+		<ant antfile="./../../../comparer.web.client.gwt/build.xml" target="install" inheritAll="false">
+		</ant>-->
+		<maven>
+			<arg value="install" />
+		</maven>
+		<copy todir="./src/main/webapp/ValueBetModule">
+			<fileset dir="./target/com.comparadorad.bet.comparer.web.server.portlet.valuebet/ValueBetModule" />
+		</copy>
+		<copy todir="./src/main/webapp/ValueBetModuleDev">
+			<fileset dir="./target/com.comparadorad.bet.comparer.web.server.portlet.valuebet/ValueBetModuleDev" />
+		</copy>
+		<echo>Recuerda refrescar el proyecto eclipse com.comparadorad.bet.comparer.web.server.portlet.valuebet</echo>
+		<echo>Recuerda refrescar el proyecto eclipse comparer.web.client.gwt</echo>
+	</target>
+	
+
+
+</project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server</artifactId>
+	<packaging>pom</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+		<liferay.version>6.1.1</liferay.version>
+		<liferay.auto.deploy.dir>${liferay.6.1.1.dir}\deploy</liferay.auto.deploy.dir>
+		<liferay.app.server.deploy.dir>${liferay.6.1.1.dir}\tomcat-7.0.27\webapps</liferay.app.server.deploy.dir>
+		<liferay.app.server.deploy.dir>${liferay.6.1.1.dir}tomcat-7.0.27\lib</liferay.app.server.deploy.dir>
+		<liferay.app.server.portal.dir>>${liferay.6.1.1.dir}tomcat-7.0.27</liferay.app.server.portal.dir>
+	</properties>
+	<modules>
+		<module>comparer.web.server.mvc</module>
+		<module>comparer.web.server.portlet</module>
+		<module>comparer.web.server.liferay</module>
+		<module>comparer.web.server.hook</module>
+		<module>comparer.web.server.redirection</module>
+		<module>comparer.web.server.security</module>
+		<module>comparer.web.server.util</module>
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>com.liferay.maven.plugins</groupId>
+					<artifactId>liferay-maven-plugin</artifactId>
+					<version>${liferay.version}</version>
+					<configuration>
+						<autoDeployDir>${liferay.auto.deploy.dir}</autoDeployDir>
+						<skip>true</skip>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-webmvc</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-webmvc-portlet</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-web</artifactId>
+				<version>${spring.version}</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+</project>

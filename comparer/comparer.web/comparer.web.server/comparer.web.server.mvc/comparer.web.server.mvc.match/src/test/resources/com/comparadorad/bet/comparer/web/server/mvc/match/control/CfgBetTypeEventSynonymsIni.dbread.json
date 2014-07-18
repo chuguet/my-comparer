@@ -1,0 +1,21 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["handicap"],
+      "word" : "Handicap",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonymWord"
+    }, {
+      "_keywords" : ["handicap", "result"],
+      "word" : "Handicap Result",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgBetTypeEventSynonymWord"
+    }],
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "betTypeEvent" : {
+    "$ref" : "cfgBetTypeEvent",
+    "$id" : "1"
+  }
+}

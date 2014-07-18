@@ -1,0 +1,96 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "longTerm" : {
+    "longTerm" : false
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Competicion Corto Plazo"
+      }]
+  }
+}
+
+/* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "longTerm" : {
+    "longTerm" : true
+  },
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Competicion Largo Plazo"
+      }]
+  }
+}
+
+/* 2 */
+{
+  "_id" : ObjectId("51d5708b024c1528b1346e8b"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}
+
+/* 3 */
+{
+  "_id" : ObjectId("51d66a07dd6f1240a918e582"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}
+
+/* 4 */
+{
+  "_id" : ObjectId("5245392d024c97ba0233e7b6"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}
+
+/* 5 */
+{
+  "_id" : ObjectId("5245469d024ceb12c6a5ef59"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}
+
+/* 6 */
+{
+  "_id" : ObjectId("5253e39e306f88eec1002f37"),
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgCompetitionEvent",
+  "i18n" : {
+    "_id" : null,
+    "i18nFields" : [{
+        "_id" : null,
+        "string" : "Nombre a mostrar"
+      }]
+  }
+}

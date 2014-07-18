@@ -1,0 +1,1243 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["fitbol"],
+      "word" : "F�tbol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["football"],
+      "word" : "Football",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["futbol"],
+      "word" : "Futbol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["football"],
+      "word" : "Football",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["fotboll"],
+      "word" : "fotboll",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["soccer"],
+      "word" : "Soccer",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "1"
+  }
+}
+
+/* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["baloncesto"],
+      "word" : "Baloncesto",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["basketball"],
+      "word" : "Basketball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["bisquet"],
+      "word" : "B�squet",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["basket", "ball"],
+      "word" : "Basket-ball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["basket"],
+      "word" : "Basket",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "2"
+  }
+}
+
+/* 2 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["tenis"],
+      "word" : "Tenis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["tennis"],
+      "word" : "Tennis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["tennis"],
+      "word" : "Tennis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["tenis"],
+      "word" : "Tenis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["tennis"],
+      "word" : "Tennis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "3"
+  }
+}
+
+/* 3 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["pidel"],
+      "word" : "P�del",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["paddle"],
+      "word" : "Paddle",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["pidel"],
+      "word" : "P�del",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["paddle"],
+      "word" : "Paddle",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["paddle"],
+      "word" : "Paddle",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "4"
+  }
+}
+
+/* 4 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["tenis", "de", "mesa"],
+      "word" : "Tenis de mesa",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["table", "tennis"],
+      "word" : "Table tennis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["tenis", "taula"],
+      "word" : "Tenis taula",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["table", "tennis"],
+      "word" : "Table tennis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["table", "tennis"],
+      "word" : "Table tennis",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "5"
+  }
+}
+
+/* 5 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["f1"],
+      "word" : "F1",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["f1"],
+      "word" : "F1",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["f1"],
+      "word" : "F1",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["f1"],
+      "word" : "F1",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["f1"],
+      "word" : "F1",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "6"
+  }
+}
+
+/* 6 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["motociclismo"],
+      "word" : "Motociclismo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["motorcycling"],
+      "word" : "Motorcycling",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["motociclisme"],
+      "word" : "Motociclisme",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["motorcycling"],
+      "word" : "Motorcycling",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["motorcycling"],
+      "word" : "Motorcycling",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "7"
+  }
+}
+
+/* 7 */
+{
+  "_id" : "8",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["rally"],
+      "word" : "Rally",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rally"],
+      "word" : "Rally",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ralili"],
+      "word" : "Ral�li",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rally"],
+      "word" : "Rally",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rally"],
+      "word" : "Rally",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "8"
+  }
+}
+
+/* 8 */
+{
+  "_id" : "9",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["niscar"],
+      "word" : "N�scar",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["nascar"],
+      "word" : "Nascar",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["niscar"],
+      "word" : "N�scar",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["nascar"],
+      "word" : "Nascar",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["nascar"],
+      "word" : "Nascar",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "9"
+  }
+}
+
+/* 9 */
+{
+  "_id" : "10",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["dardos"],
+      "word" : "Dardos",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["darts"],
+      "word" : "Darts",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["dards"],
+      "word" : "Dards",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["darts"],
+      "word" : "Darts",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["darts"],
+      "word" : "Darts",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "10"
+  }
+}
+
+/* 10 */
+{
+  "_id" : "11",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["snooker"],
+      "word" : "Snooker",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["snooker"],
+      "word" : "Snooker",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["snooker"],
+      "word" : "Snooker",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["snooker"],
+      "word" : "Snooker",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["snooker"],
+      "word" : "Snooker",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "11"
+  }
+}
+
+/* 11 */
+{
+  "_id" : "12",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["golf"],
+      "word" : "Golf",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["golf"],
+      "word" : "Golf",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["golf"],
+      "word" : "Golf",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["golf"],
+      "word" : "Golf",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["golf"],
+      "word" : "Golf",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "12"
+  }
+}
+
+/* 12 */
+{
+  "_id" : "13",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["atletismo"],
+      "word" : "Atletismo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["athletics"],
+      "word" : "Athletics",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["atletisme"],
+      "word" : "Atletisme",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["athletics"],
+      "word" : "Athletics",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["athletics"],
+      "word" : "Athletics",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "13"
+  }
+}
+
+/* 13 */
+{
+  "_id" : "14",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["ciclismo"],
+      "word" : "Ciclismo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cycling"],
+      "word" : "Cycling",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ciclisme"],
+      "word" : "Ciclisme",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cycling"],
+      "word" : "Cycling",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cycling"],
+      "word" : "Cycling",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "14"
+  }
+}
+
+/* 14 */
+{
+  "_id" : "15",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["triatlin"],
+      "word" : "Triatl�n",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["triathlon"],
+      "word" : "Triathlon",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["triatli"],
+      "word" : "Triatl�",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["triathlon"],
+      "word" : "Triathlon",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["triathlon"],
+      "word" : "Triathlon",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "15"
+  }
+}
+
+/* 15 */
+{
+  "_id" : "16",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["carreras", "de", "galgos"],
+      "word" : "Carreras de galgos",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["greyhounds"],
+      "word" : "Greyhounds",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["curses", "de", "galgos"],
+      "word" : "Curses de galgos",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["greyhounds"],
+      "word" : "Greyhounds",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["greyhounds"],
+      "word" : "Greyhounds",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "16"
+  }
+}
+
+/* 16 */
+{
+  "_id" : "17",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["carreras", "de", "caballos"],
+      "word" : "Carreras de caballos",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["horse", "racing"],
+      "word" : "Horse Racing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["curses", "de", "cavalls"],
+      "word" : "Curses de cavalls",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["horse", "racing"],
+      "word" : "Horse Racing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["horse", "racing"],
+      "word" : "Horse Racing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "17"
+  }
+}
+
+/* 17 */
+{
+  "_id" : "18",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["balonmano"],
+      "word" : "Balonmano",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["handball"],
+      "word" : "Handball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["handbol"],
+      "word" : "Handbol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["handball"],
+      "word" : "Handball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["handball"],
+      "word" : "Handball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "18"
+  }
+}
+
+/* 18 */
+{
+  "_id" : "19",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["voleibol"],
+      "word" : "Voleibol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["volleyball"],
+      "word" : "Volleyball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["voleibol"],
+      "word" : "Voleibol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["voleibol"],
+      "word" : "Voleibol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["voleibol"],
+      "word" : "Voleibol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "19"
+  }
+}
+
+/* 19 */
+{
+  "_id" : "20",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["boxeo"],
+      "word" : "Boxeo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["boxing"],
+      "word" : "Boxing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["boxa"],
+      "word" : "Boxa",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["boxing"],
+      "word" : "Boxing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["boxing"],
+      "word" : "Boxing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "20"
+  }
+}
+
+/* 20 */
+{
+  "_id" : "21",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["deportes", "de", "combate"],
+      "word" : "Deportes de combate",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["combat", "sports"],
+      "word" : "Combat sports",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["esports", "de", "lluita"],
+      "word" : "Esports de lluita",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["combat", "sports"],
+      "word" : "Combat sports",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["combat", "sports"],
+      "word" : "Combat sports",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "21"
+  }
+}
+
+/* 21 */
+{
+  "_id" : "22",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["esqui", "de", "fondo"],
+      "word" : "Esqu� de fondo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cross", "country", "skiing"],
+      "word" : "Cross-country skiing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["esqui", "de", "fons"],
+      "word" : "Esqu� de fons",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cross", "country", "skiing"],
+      "word" : "Cross-country skiing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cross", "country", "skiing"],
+      "word" : "Cross-country skiing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "22"
+  }
+}
+
+/* 22 */
+{
+  "_id" : "23",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["esqui"],
+      "word" : "Esqu�",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ski"],
+      "word" : "Ski",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["esqui"],
+      "word" : "Esqu�",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ski"],
+      "word" : "Ski",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ski"],
+      "word" : "Ski",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "23"
+  }
+}
+
+/* 23 */
+{
+  "_id" : "24",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["hockey", "sobre", "hielo"],
+      "word" : "Hockey sobre hielo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ice", "hockey"],
+      "word" : "Ice hockey",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["hoquei", "sobre", "gel"],
+      "word" : "Hoquei sobre gel",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ice", "hockey"],
+      "word" : "Ice hockey",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["ice", "hockey"],
+      "word" : "Ice hockey",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "24"
+  }
+}
+
+/* 24 */
+{
+  "_id" : "25",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["cricket"],
+      "word" : "Cricket",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cricket"],
+      "word" : "Cricket",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cricket"],
+      "word" : "Cricket",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cricket"],
+      "word" : "Cricket",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["cricket"],
+      "word" : "Cricket",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "25"
+  }
+}
+
+/* 25 */
+{
+  "_id" : "26",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["fitbol", "americano"],
+      "word" : "F�tbol americano",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["american", "football"],
+      "word" : "American football",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["futbol", "americi"],
+      "word" : "Futbol americ�",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["american", "football"],
+      "word" : "American football",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["american", "football"],
+      "word" : "American football",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "26"
+  }
+}
+
+/* 26 */
+{
+  "_id" : "27",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["biisbol"],
+      "word" : "B�isbol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["baseball"],
+      "word" : "Baseball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["beisbol"],
+      "word" : "Beisbol",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["baseball"],
+      "word" : "Baseball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["baseball"],
+      "word" : "Baseball",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "27"
+  }
+}
+
+/* 27 */
+{
+  "_id" : "28",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["remo"],
+      "word" : "Remo",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rowing"],
+      "word" : "Rowing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rem"],
+      "word" : "Rem",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rowing"],
+      "word" : "Rowing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rowing"],
+      "word" : "Rowing",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "28"
+  }
+}
+
+/* 28 */
+{
+  "_id" : "29",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["lacrosse"],
+      "word" : "Lacrosse",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["lacrosse"],
+      "word" : "Lacrosse",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["lacrosse"],
+      "word" : "Lacrosse",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["lacrosse"],
+      "word" : "Lacrosse",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["lacrosse"],
+      "word" : "Lacrosse",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "29"
+  }
+}
+
+/* 29 */
+{
+  "_id" : "30",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["aussie", "rules"],
+      "word" : "Aussie Rules",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["aussie", "rules"],
+      "word" : "Aussie Rules",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["aussie", "rules"],
+      "word" : "Aussie Rules",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["aussie", "rules"],
+      "word" : "Aussie Rules",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["aussie", "rules"],
+      "word" : "Aussie Rules",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "30"
+  }
+}
+
+/* 30 */
+{
+  "_id" : "32",
+  "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonyms",
+  "synonimWords" : [{
+      "_keywords" : ["rugby", "league"],
+      "word" : "Rugby League",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rugby", "league"],
+      "word" : "Rugby League",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rugby", "league"],
+      "word" : "Rugby League",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rugby", "league"],
+      "word" : "Rugby League",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }, {
+      "_keywords" : ["rugby", "league"],
+      "word" : "Rugby League",
+      "_class" : "com.comparadorad.bet.comparer.model.config.bean.CfgSportSynonymWord"
+    }],
+  "historic" : {
+    "_class" : "com.comparadorad.bet.comparer.model.core.bean.Historic",
+    "historicList" : [{
+        "creationAction" : true,
+        "date" : ISODate("2011-09-25T22:00:00Z"),
+        "user" : "WRITER_APP",
+        "_class" : "com.comparadorad.bet.comparer.model.core.bean.HistoricChange"
+      }]
+  },
+  "sport" : {
+    "$ref" : "cfgSport",
+    "$id" : "32"
+  }
+}

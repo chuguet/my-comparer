@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE hook PUBLIC "-//Liferay//DTD Hook 6.1.0//EN" "http://www.liferay.com/dtd/liferay-hook_6_1_0.dtd">
+
+<hook>
+	<portal-properties>portal.properties</portal-properties>
+	<language-properties>content/Language.properties</language-properties>
+	<language-properties>content/Language_es.properties</language-properties>
+	<custom-jsp-dir>/WEB-INF/custom_jsps</custom-jsp-dir>
+    <struts-action>
+        <struts-action-path>/portal/update_reminder_query</struts-action-path>
+        <struts-action-impl>comparer.web.server.hook.userprofile.struts.UpdateReminderQueryAction</struts-action-impl>
+    </struts-action>
+</hook>

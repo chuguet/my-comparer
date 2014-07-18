@@ -1,0 +1,110 @@
+/* 0 */
+{
+  "_id" : "1",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgSport",
+    "$id" : "1"
+  }
+}
+
+/* 1 */
+{
+  "_id" : "2",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgSport",
+    "$id" : "2"
+  }
+}
+
+/* 2 */
+{
+  "_id" : "3",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "parentElement" : {
+    "$ref" : "rtToolbarElement",
+    "$id" : "2"
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgRegion",
+    "$id" : "724"
+  }
+}
+
+/* 3 */
+{
+  "_id" : "4",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "parentElement" : {
+    "$ref" : "rtToolbarElement",
+    "$id" : "1"
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgRegion",
+    "$id" : "724"
+  }
+}
+
+/* 4 */
+{
+  "_id" : "5",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "parentElement" : {
+    "$ref" : "rtToolbarElement",
+    "$id" : "4"
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "656935033"
+  }
+}
+
+/* 5 */
+{
+  "_id" : "6",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "parentElement" : {
+    "$ref" : "rtToolbarElement",
+    "$id" : "4"
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "41"
+  }
+}
+
+/* 6 */
+{
+  "_id" : "7",
+  "_class" : "com.comparadorad.bet.comparer.model.bet.bean.RtToolbarElement",
+  "coreActiveElement" : {
+    "active" : true
+  },
+  "parentElement" : {
+    "$ref" : "rtToolbarElement",
+    "$id" : "3"
+  },
+  "toolbarConfigurable" : {
+    "$ref" : "cfgCompetition",
+    "$id" : "6"
+  }
+}

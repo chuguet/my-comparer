@@ -1,0 +1,123 @@
+img{
+	border:0px;
+}
+.pagina{
+	margin: 10px auto;
+	width: 700px;
+}
+.pagina p{
+	font-family:"Franklin Gothic Heavy";
+}
+.header {
+    clear: both;
+}
+.content {
+    clear: both;
+	margin-left: 25px;
+}
+.footer{
+	clear:both;
+	padding: 0 0 0 240px;
+}
+a:link  {   
+ text-decoration:none;   
+} 
+/* p a{ */
+/* 	color:#000; */
+/* } */
+.texto{
+	float:left;
+	width:400px;
+	font-size:20px;
+	margin: 16px;
+}
+.imagen{
+	float:left;
+	 margin: 3px 3px 10px 0;
+}
+.imagen2 {
+    clear: both;
+    margin: 19px 0 1px -30px;
+    width: 560px;
+}
+.imagen2 img{
+}
+.content.texto{
+	width:60px;
+	float:left;
+}
+.red,.blue{
+text-align:center;
+}
+.red, .black{
+	margin:10px;
+}
+/* .red a{ */
+/* 	color:red; */
+/* 	font-size: 23px; */
+/* } */
+.red a{
+	color: #FF0000;
+    font-size: 23px;
+}
+.red a:hover{
+	color: #D32222;
+}
+.red a:visited{
+	color: #FF0000;
+}
+/* .blue a{ */
+/* 	color:#3478C3; */
+/* } */
+.blue a{
+	color: #3478C3;
+}
+.blue a:hover{
+	color: #4E92DD;
+}
+.blue a:visited{
+	color: #3478C3;
+}
+#flechasinferiores{
+ margin: -28px 0;
+}
+#flechassuperiores{
+	margin:10px 0px 0px 34px;
+}
+#botonregistro{
+	margin-top: 14px;
+}
+#boton_imagen{
+	width: 250px;
+	margin: 0 auto;
+}
+
+/* .links_surebet a{ */
+/* 	color: #FF0000; */
+/*     font-size: 23px; */
+/* } */
+/* .links_surebet a:hover{ */
+/* 	color: #D32222; */
+/* } */
+/* .links_surebet a:visited{ */
+/* 	color: #FF0000; */
+/* } */
+/* .pagina .blue .links_surebet a{ */
+/* 	color: #3478C3; */
+/* } */
+/* .pagina .blue .links_surebet a:hover{ */
+/* 	color: #4E92DD; */
+/* } */
+/* .pagina .blue .links_surebet a:visited{ */
+/* 	color: #3478C3; */
+/* } */
+.black a{
+	color: #000000;
+    font-size: 23px;
+}
+.black a:hover{
+	color: #6F6F6F;
+}
+.black a:visited{
+	color: #000000;
+}
