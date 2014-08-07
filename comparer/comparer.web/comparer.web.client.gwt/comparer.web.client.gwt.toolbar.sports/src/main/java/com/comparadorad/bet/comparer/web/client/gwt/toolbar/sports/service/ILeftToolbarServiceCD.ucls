@@ -1,0 +1,92 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.service.ILeftToolbarService" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/service/ILeftToolbarService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="527" y="178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.service.LeftToolbarService" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/service/LeftToolbarService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="873" y="397"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.data.dummy2.LeftToolbarDummyService" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/data/dummy2/LeftToolbarDummyService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="284" y="319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.data.dummy2.LeftToolbarDummyService.ToolbarAsyncExec" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/data/dummy2/LeftToolbarDummyService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="283" y="502"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" corner="BOTTOM_RIGHT" language="java" name="org.fusesource.restygwt.client.RestService" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="G:/java/maven/.m3/repository/org/fusesource/restygwt/restygwt/1.2/restygwt-1.2.jar" binary="true">    
+    <position height="-1" width="-1" x="966" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.core.service.IService" project="comparer.web.client.gwt.core" 
+    file="/comparer.web.client.gwt.core/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/core/service/IService.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="514" y="67"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <nesting id="8">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="11">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

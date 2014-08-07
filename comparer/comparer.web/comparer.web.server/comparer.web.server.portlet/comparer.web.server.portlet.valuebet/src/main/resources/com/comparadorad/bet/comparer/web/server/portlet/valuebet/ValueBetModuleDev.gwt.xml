@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='ValueBetModuleDev'>
+	<!-- Other module inherits -->
+	<inherits name="com.comparadorad.bet.comparer.web.client.gwt.valuebet.ui" />
+	<!-- Specify the app entry point class. -->
+	<entry-point
+		class='com.comparadorad.bet.comparer.web.server.portlet.valuebet.client.ValueBetModuleDev' />
+
+	<!-- Specify the paths for translatable code -->
+	<source path='client' />
+</module>

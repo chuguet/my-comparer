@@ -1,0 +1,27 @@
+#fecha{
+	z-index: 2;
+	height: 10px;
+	width: 115px;
+	text-align: center;
+}
+#timezones{;
+	z-index: 1;
+	width: 138px;
+	height: 22px;
+	font-size: 11px;
+}
+#portletSystemHour{
+	position: relative;
+	height: 19px;
+	margin-bottom: 4px;
+	margin-top: -3px;
+	left: 880px;
+}
+#focusFecha{
+	z-index: 3;
+	height: 19px;
+	width: 119px;
+}
+.contentPortletSystemHour{
+	position: absolute;
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.mvc</artifactId>
+	<packaging>pom</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+
+	<modules>
+		<module>comparer.web.server.mvc.core</module>
+		<module>comparer.web.server.mvc.toolbar</module>
+		<module>comparer.web.server.mvc.match</module>
+		<module>comparer.web.server.mvc.livebet</module>
+		<module>comparer.web.server.mvc.securebet</module>
+		<module>comparer.web.server.mvc.valuebet</module>
+		<module>comparer.web.server.mvc.imageslider</module>
+		<module>comparer.web.server.mvc.roles</module>
+		<module>comparer.web.server.mvc.systemhour</module>
+		<module>comparer.web.server.mvc.payment</module>
+	</modules>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+	</build>
+
+</project>

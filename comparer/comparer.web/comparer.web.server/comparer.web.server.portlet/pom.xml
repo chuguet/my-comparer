@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<parent>
+		<groupId>com.comparadorad.bet</groupId>
+		<artifactId>comparer.web.server</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>comparer.web.server.portlet</artifactId>
+	<packaging>pom</packaging>
+	<name>${project.groupId}.${project.artifactId}</name>
+	<properties>
+	</properties>
+	<modules>
+		<module>comparer.web.server.portlet.core</module>
+		<module>comparer.web.server.portlet.toolbar</module>
+		<module>comparer.web.server.portlet.footer</module>
+		<module>comparer.web.server.portlet.sitemap</module>
+		<module>comparer.web.server.portlet.search</module>
+		<module>comparer.web.server.portlet.results</module>
+		<module>comparer.web.server.portlet.links</module>
+		<module>comparer.web.server.portlet.nextev</module>
+		<module>comparer.web.server.portlet.securebet</module>
+		<module>comparer.web.server.portlet.valuebet</module>
+		<module>comparer.web.server.portlet.islider</module>
+		<module>comparer.web.server.portlet.roles</module>
+		<module>comparer.web.server.portlet.systemHour</module>
+		<module>comparer.web.server.portlet.payment</module>
+	</modules>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.util.logger</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.comparadorad.bet</groupId>
+			<artifactId>comparer.web.server.security</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- logging -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib-nodep</artifactId>
+			<!-- <scope>runtime</scope> -->
+		</dependency>
+		<!-- javax.validation (JSR-303) -->
+		<dependency>
+			<groupId>javax.validation</groupId>
+			<artifactId>validation-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-validator</artifactId>
+			<version>4.2.0.Final</version>
+		</dependency>
+		<!-- spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc-portlet</artifactId>
+		</dependency>
+
+		<!-- Servlet -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.0.1</version>
+			<scope>provided</scope>
+		</dependency>
+		<!-- gwt -->
+		<dependency>
+			<groupId>com.google.gwt</groupId>
+			<artifactId>gwt-user</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.smartgwt</groupId>
+			<artifactId>smartgwt</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+		</dependency>
+		<dependency>
+			<!-- My rest client library -->
+			<groupId>org.fusesource.restygwt</groupId>
+			<artifactId>restygwt</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>javax.ws.rs</groupId>
+			<artifactId>jsr311-api</artifactId>
+		</dependency>
+
+		<!-- <dependency> <groupId>com.liferay.portal</groupId> <artifactId>portal-service</artifactId> 
+			<version>${liferay.version}</version> <scope>provided</scope> </dependency> 
+			<dependency> <groupId>com.liferay.portal</groupId> <artifactId>util-bridges</artifactId> 
+			<version>${liferay.version}</version> </dependency> <dependency> <groupId>com.liferay.portal</groupId> 
+			<artifactId>util-java</artifactId> <version>${liferay.version}</version> 
+			</dependency> -->
+		<dependency>
+			<groupId>com.liferay.portal</groupId>
+			<artifactId>util-taglib</artifactId>
+			<version>${liferay.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.portlet</groupId>
+			<artifactId>portlet-api</artifactId>
+			<version>2.0</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.4</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet.jsp</groupId>
+			<artifactId>jsp-api</artifactId>
+			<version>2.0</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<finalName>${project.groupId}.${project.artifactId}</finalName>
+		<!-- Generate compiled stuff in the folder used for developing mode -->
+		<outputDirectory>src/main/webapp/WEB-INF/classes</outputDirectory>
+		<plugins>
+			<plugin>
+				<groupId>com.liferay.maven.plugins</groupId>
+				<artifactId>liferay-maven-plugin</artifactId>
+				<version>${liferay.version}</version>
+				<configuration>
+					<autoDeployDir>${liferay.auto.deploy.dir}</autoDeployDir>
+				</configuration>
+			</plugin>
+			<!-- GWT Maven Plugin -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>gwt-maven-plugin</artifactId>
+				<executions>
+					<execution>
+						<goals>
+							<goal>compile</goal>
+							<goal>test</goal>
+							<goal>i18n</goal>
+							<goal>generateAsync</goal>
+						</goals>
+					</execution>
+				</executions>
+				<!-- Plugin configuration. There are many available options, see gwt-maven-plugin 
+					documentation at codehaus.org -->
+				<configuration>
+					<skip>${gwt-maven-plugin-skip}</skip>
+					<runTarget>view.jsp</runTarget>
+					<hostedWebapp>${webappDirectory}</hostedWebapp>
+					<i18nMessagesBundle>${project.groupId}.${project.artifactId}.Messages</i18nMessagesBundle>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<executions>
+					<execution>
+						<phase>process-resources</phase>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<configuration>
+							<tasks>
+								<delete dir="./src/main/webapp/WEB-INF/lib" />
+								<delete dir="src/main/webapp/${gwtModuleName}"
+									failonerror="false" />
+								<delete dir="src/main/webapp/${gwtModuleName}Dev"
+									failonerror="false" />
+								<delete
+									dir="./target/${project.groupId}.${project.artifactId}/${gwtModuleName}"
+									failonerror="false" />
+								<delete
+									dir="./target/com.comparadorad.bet.comparer.web.server.portlet.results/${gwtModuleName}Dev"
+									failonerror="false" />
+								<delete dir="./src/main/webapp/${gwtModuleName}"
+									failonerror="false" />
+								<delete dir="./src/main/webapp/${gwtModuleName}Dev"
+									failonerror="false" />
+							</tasks>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<!-- <executions> <execution> <phase>compile</phase> <goals> <goal>exploded</goal> 
+					</goals> </execution> </executions> -->
+				<configuration>
+					<webappDirectory>${webappDirectory}</webappDirectory>
+					<warSourceDirectory>${basedir}/src/main/webapp</warSourceDirectory>
+					<webXml>src/main/webapp/WEB-INF/web.xml</webXml>
+					<packagingExcludes>src/completeJs/*.*</packagingExcludes>
+				</configuration>
+			</plugin>			<!-- Copy static web files before executing gwt:run -->
+			<plugin>
+				<artifactId>maven-eclipse-plugin</artifactId>
+				<configuration>
+					<wtpversion>2.0</wtpversion>
+					<additionalBuildcommands>
+						<buildcommand>com.google.gdt.eclipse.core.webAppProjectValidator</buildcommand>
+						<buildcommand>com.google.gwt.eclipse.core.gwtProjectValidator</buildcommand>
+					</additionalBuildcommands>
+					<additionalProjectnatures>
+						<projectnature>com.google.gwt.eclipse.core.gwtNature</projectnature>
+						<projectnature>org.sonar.ide.eclipse.core.sonarNature</projectnature>
+					</additionalProjectnatures>
+					<classpathContainers>
+						<classpathContainer>org.eclipse.jdt.launching.JRE_CONTAINER</classpathContainer>
+						<classpathContainer>com.google.gwt.eclipse.core.GWT_CONTAINER</classpathContainer>
+					</classpathContainers>
+					<additionalConfig>
+						<file>
+							<name>.settings/net.sf.jautodoc.prefs</name>
+							<content><![CDATA[#Wed Jul 09 08:41:59 CEST 2008
+add_header=true
+add_todo=false
+eclipse.preferences.version=1
+header_text=/**\r\n *\r\n * Copyright (C) FACTORIA ETSIA S.L.\r\n * All Rights Reserved.\r\n * www.factoriaetsia.com\r\n *\r\n */
+project_specific_settings=true
+replacements=<?xml version\="1.0" standalone\="yes"?>\n\n<replacements>\n<replacement key\="get" scope\="1" mode\="0">Gets the</replacement>\n<replacement key\="set" scope\="1" mode\="0">Sets the</replacement>\n<replacement key\="add" scope\="1" mode\="0">Adds the</replacement>\n<replacement key\="edit" scope\="1" mode\="0">Edits the</replacement>\n<replacement key\="remove" scope\="1" mode\="0">Removes the</replacement>\n<replacement key\="init" scope\="1" mode\="0">Inits the</replacement>\n<replacement key\="parse" scope\="1" mode\="0">Parses the</replacement>\n<replacement key\="create" scope\="1" mode\="0">Creates the</replacement>\n<replacement key\="build" scope\="1" mode\="0">Builds the</replacement>\n<replacement key\="is" scope\="1" mode\="0">Checks if is</replacement>\n<replacement key\="print" scope\="1" mode\="0">Prints the</replacement>\n<replacement key\="has" scope\="1" mode\="0">Checks for</replacement>\n</replacements>\n\n]]></content>
+
+						</file>
+						<file>
+							<name>.settings/org.sonar.ide.eclipse.core.prefs</name>
+							<content><![CDATA[analyseLocally=true
+eclipse.preferences.version=1
+projectArtifactId=${project.artifactId}
+projectBranch=
+projectGroupId=${project.groupId}
+serverUrl=http\://gestioninterna\:9000/sonar
+version=1]]></content>
+						</file>
+						<file>
+							<name>.settings/org.eclipse.m2e.core.prefs</name>
+							<content>.</content>
+						</file>
+						<file>
+							<name>.settings/com.google.gdt.eclipse.core.prefs</name>
+							<content><![CDATA[#Thu Sep 02 10:55:28 CEST 2010
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=true]]></content>
+						</file>
+						<file>
+							<name>.settings/com.google.gwt.eclipse.core.prefs</name>
+							<content><![CDATA[#Thu Jun 16 11:14:17 CEST 2011
+eclipse.preferences.version=1
+entryPointModules=
+filesCopiedToWebInfLib=
+gwtCompileSettings=PGd3dC1jb21waWxlLXNldHRpbmdzPjxsb2ctbGV2ZWw+SU5GTzwvbG9nLWxldmVsPjxvdXRwdXQtc3R5bGU+T0JGVVNDQVRFRDwvb3V0cHV0LXN0eWxlPjxleHRyYS1hcmdzPjwhW0NEQVRBWy13YXIgc3JjL21haW4vd2ViYXBwXV0+PC9leHRyYS1hcmdzPjx2bS1hcmdzPjwhW0NEQVRBWy1YbXg1MTJtXV0+PC92bS1hcmdzPjxlbnRyeS1wb2ludC1tb2R1bGU+Y29tLmNvbXBhbnkuU29tZU1vZHVsZTwvZW50cnktcG9pbnQtbW9kdWxlPjwvZ3d0LWNvbXBpbGUtc2V0dGluZ3M+
+							]]></content>
+						</file>
+					</additionalConfig>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.mortbay.jetty</groupId>
+				<artifactId>maven-jetty-plugin</artifactId>
+			</plugin>
+		</plugins>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-dependency-plugin</artifactId>
+					<executions>
+						<execution>
+							<id>unpack</id>
+							<phase>generate-resources</phase>
+							<goals>
+								<goal>unpack</goal>
+							</goals>
+							<configuration>
+								<artifactItems>
+									<artifactItem>
+										<groupId>com.comparadorad.bet</groupId>
+										<artifactId>comparer.web.images</artifactId>
+										<version>${project.version}</version>
+										<type>jar</type>
+										<overWrite>true</overWrite>
+										<outputDirectory>src/main/webapp/</outputDirectory>
+										<includes>**/*.*</includes>
+										<excludes>**/completeJs/*.*</excludes>
+									</artifactItem>
+								</artifactItems>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+				<!--This plugin's configuration is used to store Eclipse m2e settings 
+					only. It has no influence on the Maven build itself. -->
+				<plugin>
+					<groupId>org.eclipse.m2e</groupId>
+					<artifactId>lifecycle-mapping</artifactId>
+					<version>1.0.0</version>
+					<configuration>
+						<lifecycleMappingMetadata>
+							<pluginExecutions>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>
+											org.codehaus.mojo
+										</groupId>
+										<artifactId>
+											gwt-maven-plugin
+										</artifactId>
+										<versionRange>
+											[2.4.0,)
+										</versionRange>
+										<goals>
+											<goal>generateAsync</goal>
+											<goal>i18n</goal>
+											<goal>resources</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+							</pluginExecutions>
+						</lifecycleMappingMetadata>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+	<profiles>
+		<profile>
+			<id>jetty</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-dependency-plugin</artifactId>
+						<configuration>
+							<outputDirectory>src/main/webapp/WEB-INF/lib</outputDirectory>
+						</configuration>
+						<executions>
+							<execution>
+								<id>copy</id>
+								<phase>generate-resources</phase>
+								<goals>
+									<goal>copy</goal>
+								</goals>
+								<!-- Copy to web-inf for jetty execution for GWT -->
+								<configuration>
+									<artifactItems>
+										<artifactItem>
+											<groupId>org.slf4j</groupId>
+											<artifactId>slf4j-api</artifactId>
+										</artifactItem>
+										<artifactItem>
+											<groupId>org.slf4j</groupId>
+											<artifactId>slf4j-log4j12</artifactId>
+										</artifactItem>
+										<artifactItem>
+											<groupId>org.hibernate</groupId>
+											<artifactId>hibernate-validator</artifactId>
+										</artifactItem>
+									</artifactItems>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+</project>

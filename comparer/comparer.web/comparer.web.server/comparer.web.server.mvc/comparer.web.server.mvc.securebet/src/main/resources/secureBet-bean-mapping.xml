@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+          
+	<mapping map-id="secureBetToTableResponseTo">
+		<class-a>com.comparadorad.bet.comparer.web.server.mvc.securebet.bean.SecureBeanEncapsulated
+		</class-a>
+		<class-b>com.comparadorad.bet.comparer.web.client.gwt.common.bean.table.TableResponseRowTo
+		</class-b>
+		<field custom-converter-id="secureBeanToRowTable"
+			custom-converter-param="es">
+			<a>secureBeanData</a>
+			<b>cellList</b>
+		</field>
+	</mapping>
+	
+</mappings>

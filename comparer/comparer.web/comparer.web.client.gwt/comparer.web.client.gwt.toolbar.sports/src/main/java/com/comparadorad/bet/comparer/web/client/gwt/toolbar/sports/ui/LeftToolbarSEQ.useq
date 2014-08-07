@@ -1,0 +1,83 @@
+<sequence-diagram version="1.0.9" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.ui.LeftToolbar" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/ui/LeftToolbar.java" 
+    binary="false" label="leftToolbar" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="268" y="0"/>    
+    <execution id="2">      
+      <position height="486" width="361" x="5" y="114"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="414" width="361" x="5" y="162"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="330" width="0" x="0" y="222"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="24" width="0" x="0" y="282"/>    
+    </execution>  
+  </object>  
+  <object id="17" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.bean.ToolbarElementTo" 
+    project="comparer.web.client.gwt.toolbar.sports.bean" 
+    file="/comparer.web.client.gwt.toolbar.sports.bean/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/bean/ToolbarElementTo.java" 
+    binary="false" label="toolbarElementTo" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="10">      
+      <position height="24" width="0" x="0" y="342"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="24" width="0" x="0" y="387"/>    
+    </execution>  
+  </object>  
+  <object id="18" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.service.ILeftToolbarService" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/service/ILeftToolbarService.java" 
+    binary="false" label="service" type="interface" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="14">      
+      <position height="24" width="0" x="0" y="450"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="com.comparadorad.bet.comparer.web.client.gwt.core.data.ServiceMethodCallback" 
+    project="comparer.web.client.gwt.core" 
+    file="/comparer.web.client.gwt.core/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/core/data/ServiceMethodCallback.java" 
+    binary="false" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="16">      
+      <position height="24" width="0" x="0" y="504"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="resolveInitialData():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="setSubMenu(com.smartgwt.client.widgets.layout.SectionStackSection):void">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" 
+    operation="getService():com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.service.ILeftToolbarService">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="ToolbarElementTo()">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="setToolbarId(java.math.BigInteger):void">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" 
+    operation="getToolbarElementList(com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.bean.ToolbarElementTo,org.fusesource.restygwt.client.MethodCallback&lt;ToolbarElementListTo&gt;):void" 
+    x="204" y="431">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="15" operation="ServiceMethodCallback()">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>
+</sequence-diagram>

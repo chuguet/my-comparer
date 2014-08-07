@@ -1,0 +1,85 @@
+<class-diagram version="1.0.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.ui.LeftToolbar.LeftToolbarUiBinder" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/ui/LeftToolbar.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="936" y="252"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.ui.LeftToolbar.ToolbarElementsSectionHeaderClickHandler" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/ui/LeftToolbar.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="932" y="413"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.toolbar.sports.ui.LeftToolbar" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="/comparer.web.client.gwt.toolbar.sports/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/toolbar/sports/ui/LeftToolbar.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="384" y="362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" corner="BOTTOM_RIGHT" language="java" 
+    name="com.comparadorad.bet.comparer.web.client.gwt.core.ui.IBetComposite" project="comparer.web.client.gwt.core" 
+    file="/comparer.web.client.gwt.core/src/main/java/com/comparadorad/bet/comparer/web/client/gwt/core/ui/IBetComposite.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="258" y="97"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="com.google.gwt.user.client.ui.Composite" 
+    project="comparer.web.client.gwt.toolbar.sports" 
+    file="G:/des/proy/com.comparadorad.bet/soft/gwt/gwt-2.4.0/gwt-user.jar" binary="true">    
+    <position height="-1" width="-1" x="626" y="100"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false"/>      
+      <operations public="false" package="false" protected="false" private="false"/>    
+    </display>  
+  </class>  
+  <generalization id="6">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <realization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <nesting id="8">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="9">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="10" name="uiBinder"/>      
+      <multiplicity id="11" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="12">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
